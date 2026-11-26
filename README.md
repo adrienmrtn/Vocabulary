@@ -57,7 +57,7 @@ review. The table definitions for moving the catalogue to Supabase later are in
 
 ## Not done yet
 
-- Topics and stats are sample data in `Models.swift`. Words are real but not
+- Topics and stats are sample data in `Models.swift`. The 250 words are real but not
   yet linked to topics, and their etymologies have not been checked against a
   source.
 - The paywall shows `[PRICE]`; there is no StoreKit purchase.

@@ -43,7 +43,7 @@ ONSETS = {
 
 PRONUNCIATIONS = cmudict.dict()
 
-# Hand-entered, for words the CMU dictionary does not have.
+# Hand-entered, for words the CMU dictionary lacks or gets wrong. These win.
 IPA_OVERRIDES = {
     "diffident": "ˈdɪfɪdənt",
     "sagacious": "səˈɡeɪʃəs",
@@ -61,6 +61,9 @@ IPA_OVERRIDES = {
     "vituperate": "vaɪˈtupəreɪt",
     "circumlocution": "sɝkəmloʊˈkjuʃən",
     "limpid": "ˈlɪmpɪd",
+    "abjure": "æbˈdʒʊr",
+    "schadenfreude": "ˈʃɑdənfrɔɪdə",
+    "inveigle": "ɪnˈveɪɡəl",
 }
 APP_KEYS = ["lemma", "level", "part_of_speech", "ipa", "definition", "example", "synonyms", "origin"]
 
@@ -160,7 +163,7 @@ def main():
         issues = check(entry)
         lemma = entry.get("lemma", "")
         phones = PRONUNCIATIONS.get(lemma)
-        entry["ipa"] = to_ipa(phones[0]) if phones else IPA_OVERRIDES.get(lemma, "")
+        entry["ipa"] = IPA_OVERRIDES.get(lemma) or (to_ipa(phones[0]) if phones else "")
         if not entry["ipa"]:
             issues.append("no pronunciation")
         entry["zipf"] = zipf_frequency(lemma, "en")

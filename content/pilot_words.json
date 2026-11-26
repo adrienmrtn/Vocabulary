@@ -3218,5 +3218,757 @@
     "ipa": "ˈlɪmpɪd",
     "zipf": 2.04,
     "issues": []
+  },
+  {
+    "lemma": "boast",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To talk with too much pride about yourself",
+    "example": "He loves to boast about how much money he made last year.",
+    "synonyms": [
+      "brag",
+      "crow"
+    ],
+    "origin": "Of uncertain origin.",
+    "ipa": "boʊst",
+    "zipf": 3.51,
+    "issues": []
+  },
+  {
+    "lemma": "dwell",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To live in a particular place",
+    "example": "Few people dwell in the remote valleys north of the river.",
+    "synonyms": [
+      "live",
+      "reside",
+      "inhabit"
+    ],
+    "origin": "From Old English dwellan “to lead astray, delay”, a sense that later shifted to “to linger, remain”.",
+    "ipa": "dwɛl",
+    "zipf": 3.57,
+    "issues": []
+  },
+  {
+    "lemma": "flourish",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To grow or develop in a healthy, vigorous way",
+    "example": "Small bookshops can flourish when they host events and know their customers.",
+    "synonyms": [
+      "thrive",
+      "prosper",
+      "bloom"
+    ],
+    "origin": "From Old French florir, from Latin florere “to bloom”, from flos “flower”.",
+    "ipa": "ˈflɝɪʃ",
+    "zipf": 3.53,
+    "issues": []
+  },
+  {
+    "lemma": "hesitate",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To pause before acting because of doubt",
+    "example": "Don't hesitate to call me if you need help moving this weekend.",
+    "synonyms": [
+      "pause",
+      "waver",
+      "falter"
+    ],
+    "origin": "From Latin haesitare “to stick fast, stammer”, from haerere “to stick”.",
+    "ipa": "ˈhɛzəteɪt",
+    "zipf": 3.79,
+    "issues": []
+  },
+  {
+    "lemma": "mock",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To laugh at someone in an unkind way",
+    "example": "The older kids mocked his accent until a teacher stepped in.",
+    "synonyms": [
+      "ridicule",
+      "taunt",
+      "tease"
+    ],
+    "origin": "From Old French mocquer “to jeer, deride”, a word whose own source is unknown.",
+    "ipa": "mɑk",
+    "zipf": 3.85,
+    "issues": []
+  },
+  {
+    "lemma": "persist",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To keep going despite difficulty or opposition",
+    "example": "She persisted with the violin even when progress felt painfully slow.",
+    "synonyms": [
+      "persevere",
+      "continue",
+      "endure"
+    ],
+    "origin": "From Latin persistere “to continue steadfastly”, from per- “through” and sistere “to stand”.",
+    "ipa": "pɚˈsɪst",
+    "zipf": 3.53,
+    "issues": []
+  },
+  {
+    "lemma": "quarrel",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To argue angrily, often over something small",
+    "example": "The brothers quarrel constantly about whose turn it is to do the dishes.",
+    "synonyms": [
+      "argue",
+      "bicker",
+      "squabble"
+    ],
+    "origin": "From Old French querele, from Latin querella “complaint”, from queri “to complain”.",
+    "ipa": "ˈkwɔrəl",
+    "zipf": 3.31,
+    "issues": []
+  },
+  {
+    "lemma": "resent",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel bitter about something you consider unfair",
+    "example": "She resented having to work late while her manager left at four.",
+    "synonyms": [
+      "begrudge"
+    ],
+    "origin": "From obsolete French resentir “to feel strongly”, from re- (intensive) and sentir “to feel”, from Latin sentire.",
+    "ipa": "rɪˈzɛnt",
+    "zipf": 3.38,
+    "issues": []
+  },
+  {
+    "lemma": "soothe",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To gently calm someone or ease their pain",
+    "example": "A warm bath helped soothe her aching muscles after the long hike.",
+    "synonyms": [
+      "calm",
+      "comfort",
+      "ease"
+    ],
+    "origin": "From Old English sōthian “to show to be true”, from sōth “true”; the sense moved from humoring someone by agreeing to calming them.",
+    "ipa": "suð",
+    "zipf": 3.18,
+    "issues": []
+  },
+  {
+    "lemma": "tempt",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To make someone want something unwise or wrong",
+    "example": "The smell of fresh bread tempted him to abandon his diet.",
+    "synonyms": [
+      "entice",
+      "lure",
+      "seduce"
+    ],
+    "origin": "From Old French tempter, from Latin temptare “to feel, try, test”.",
+    "ipa": "tɛmpt",
+    "zipf": 3.22,
+    "issues": []
+  },
+  {
+    "lemma": "alleviate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To make pain or a problem less severe",
+    "example": "The new bus lanes should alleviate traffic congestion in the city center.",
+    "synonyms": [
+      "ease",
+      "relieve",
+      "lessen"
+    ],
+    "origin": "From Late Latin alleviare “to lighten”, from ad- “to” and levis “light in weight”.",
+    "ipa": "əˈlivieɪt",
+    "zipf": 3.52,
+    "issues": []
+  },
+  {
+    "lemma": "bolster",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To support something and make it stronger",
+    "example": "The strong jobs report bolstered confidence in the national economy.",
+    "synonyms": [
+      "strengthen",
+      "support",
+      "reinforce"
+    ],
+    "origin": "From Old English bolster “cushion, pillow”, from a Germanic root meaning “to swell”; the verb sense of propping up came later.",
+    "ipa": "ˈboʊlstɚ",
+    "zipf": 3.31,
+    "issues": []
+  },
+  {
+    "lemma": "coerce",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To force someone to act by using threats",
+    "example": "The suspect claimed police had coerced him into signing the confession.",
+    "synonyms": [
+      "force",
+      "compel",
+      "pressure"
+    ],
+    "origin": "From Latin coercere “to restrain, confine”, from co- “together” and arcere “to enclose”.",
+    "ipa": "koʊˈɝs",
+    "zipf": 2.86,
+    "issues": []
+  },
+  {
+    "lemma": "condone",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To accept or overlook behavior that is wrong",
+    "example": "The school does not condone bullying in any form, online or off.",
+    "synonyms": [
+      "excuse",
+      "overlook",
+      "tolerate"
+    ],
+    "origin": "From Latin condonare “to give up, forgive”, from con- (intensive) and donare “to give”.",
+    "ipa": "kənˈdoʊn",
+    "zipf": 3.17,
+    "issues": []
+  },
+  {
+    "lemma": "deride",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To mock someone or something with open contempt",
+    "example": "Critics derided the film as a lazy copy of the original.",
+    "synonyms": [
+      "ridicule",
+      "mock",
+      "scorn"
+    ],
+    "origin": "From Latin deridere “to laugh at, scoff”, from de- “down” and ridere “to laugh”.",
+    "ipa": "dɪˈraɪd",
+    "zipf": 2.4,
+    "issues": []
+  },
+  {
+    "lemma": "elicit",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To draw out a response or reaction",
+    "example": "Her question elicited an awkward silence from everyone at the table.",
+    "synonyms": [
+      "evoke",
+      "provoke",
+      "prompt"
+    ],
+    "origin": "From Latin elicere “to draw out”, from e- “out” and lacere “to entice”.",
+    "ipa": "ɪˈlɪsɪt",
+    "zipf": 3.1,
+    "issues": []
+  },
+  {
+    "lemma": "galvanize",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To shock or excite someone into taking action",
+    "example": "The documentary galvanized thousands of viewers to volunteer at local shelters.",
+    "synonyms": [
+      "spur",
+      "rouse",
+      "stir"
+    ],
+    "origin": "From French galvaniser, after Luigi Galvani, the 18th-century Italian scientist who studied electricity in animal tissue.",
+    "ipa": "ˈɡælvənaɪz",
+    "zipf": 2.31,
+    "issues": []
+  },
+  {
+    "lemma": "placate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To make someone less angry by pleasing them",
+    "example": "The airline tried to placate furious passengers with free meal vouchers.",
+    "synonyms": [
+      "appease",
+      "pacify",
+      "soothe"
+    ],
+    "origin": "From Latin placare “to calm, appease”, related to placere “to please”.",
+    "ipa": "ˈpleɪkeɪt",
+    "zipf": 2.77,
+    "issues": []
+  },
+  {
+    "lemma": "relinquish",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To give up something, often unwillingly",
+    "example": "The founder finally relinquished control of the company to her daughter.",
+    "synonyms": [
+      "surrender",
+      "yield",
+      "abandon"
+    ],
+    "origin": "Via Old French from Latin relinquere “to leave behind”, from re- “back” and linquere “to leave”.",
+    "ipa": "rɪˈlɪŋkwɪʃ",
+    "zipf": 3.12,
+    "issues": []
+  },
+  {
+    "lemma": "thwart",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To stop someone from achieving what they planned",
+    "example": "Heavy rain thwarted our plans for a picnic by the lake.",
+    "synonyms": [
+      "foil",
+      "frustrate",
+      "block"
+    ],
+    "origin": "From Old Norse thvert “across, transverse”; the verb first meant to lie across or cross someone's path.",
+    "ipa": "θwɔrt",
+    "zipf": 3.06,
+    "issues": []
+  },
+  {
+    "lemma": "abjure",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To solemnly give up a belief or cause",
+    "example": "The former extremist publicly abjured violence and now works with troubled teenagers.",
+    "synonyms": [
+      "renounce",
+      "recant"
+    ],
+    "origin": "From Latin abjurare “to deny on oath”, from ab- “away” and jurare “to swear”.",
+    "ipa": "æbˈdʒʊr",
+    "zipf": 1.82,
+    "issues": []
+  },
+  {
+    "lemma": "castigate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To criticize or scold someone very harshly",
+    "example": "The coach castigated his players for their careless mistakes in the final minutes.",
+    "synonyms": [
+      "scold",
+      "rebuke",
+      "berate"
+    ],
+    "origin": "From Latin castigare “to correct, chastise”, from castus “pure”.",
+    "ipa": "ˈkæstəɡeɪt",
+    "zipf": 1.92,
+    "issues": []
+  },
+  {
+    "lemma": "expiate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To make up for a wrong you committed",
+    "example": "He volunteered for years, hoping to expiate the harm his fraud had caused.",
+    "synonyms": [
+      "atone"
+    ],
+    "origin": "From Latin expiare “to atone for fully”, from ex- “thoroughly” and piare “to appease”, from pius “dutiful, devout”.",
+    "ipa": "ˈɛkspieɪt",
+    "zipf": 1.7,
+    "issues": []
+  },
+  {
+    "lemma": "inveigle",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To persuade someone through flattery or deception",
+    "example": "He inveigled an elderly neighbor into lending him several thousand dollars.",
+    "synonyms": [
+      "coax",
+      "cajole",
+      "entice"
+    ],
+    "origin": "From Anglo-French enveogler, from Old French aveugler “to blind”, from aveugle “blind”.",
+    "ipa": "ɪnˈveɪɡəl",
+    "zipf": 1.51,
+    "issues": []
+  },
+  {
+    "lemma": "obviate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To remove a need or difficulty in advance",
+    "example": "Online banking has obviated the need to visit a branch in person.",
+    "synonyms": [
+      "prevent",
+      "preclude",
+      "avert"
+    ],
+    "origin": "From Late Latin obviare “to meet in the way, prevent”, from ob “against” and via “way”.",
+    "ipa": "ˈɑbvieɪt",
+    "zipf": 2.11,
+    "issues": []
+  },
+  {
+    "lemma": "prevaricate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To avoid the truth by speaking evasively",
+    "example": "Asked directly about the missing funds, the treasurer began to prevaricate.",
+    "synonyms": [
+      "hedge",
+      "equivocate"
+    ],
+    "origin": "From Latin praevaricari “to walk crookedly”, from prae “before” and varicare “to straddle”, from varus “bent, knock-kneed”.",
+    "ipa": "prəˈvɛrəkeɪt",
+    "zipf": 1.58,
+    "issues": []
+  },
+  {
+    "lemma": "burden",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A heavy load or a difficult responsibility",
+    "example": "Rising rent has become a serious burden for young families in the city.",
+    "synonyms": [
+      "load",
+      "weight",
+      "strain"
+    ],
+    "origin": "From Old English byrthen “a load”, from a Germanic root related to beran “to bear, carry”.",
+    "ipa": "ˈbɝdən",
+    "zipf": 4.23,
+    "issues": []
+  },
+  {
+    "lemma": "glimpse",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A brief or partial look at something",
+    "example": "Fans waited for hours hoping to catch a glimpse of the singer.",
+    "synonyms": [
+      "glance",
+      "peek",
+      "look"
+    ],
+    "origin": "From Middle English glimsen “to shine faintly”, of Germanic origin and related to glimmer.",
+    "ipa": "ɡlɪmps",
+    "zipf": 3.81,
+    "issues": []
+  },
+  {
+    "lemma": "remedy",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Something that cures an illness or fixes a problem",
+    "example": "Honey and lemon in hot water is an old remedy for a sore throat.",
+    "synonyms": [
+      "cure",
+      "treatment",
+      "solution"
+    ],
+    "origin": "From Anglo-French remedie, from Latin remedium “a cure”, from re- (intensive) and mederi “to heal”.",
+    "ipa": "ˈrɛmədi",
+    "zipf": 3.82,
+    "issues": []
+  },
+  {
+    "lemma": "rumor",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "An unverified story that spreads from person to person",
+    "example": "A rumor spread through the office that the company was about to be sold.",
+    "synonyms": [
+      "gossip",
+      "hearsay"
+    ],
+    "origin": "From Old French rumur, from Latin rumor “noise, common talk, hearsay”.",
+    "ipa": "ˈrumɚ",
+    "zipf": 3.73,
+    "issues": []
+  },
+  {
+    "lemma": "triumph",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A great victory or achievement",
+    "example": "Finishing the marathon after her injury was a personal triumph.",
+    "synonyms": [
+      "victory",
+      "success",
+      "win"
+    ],
+    "origin": "From Old French triumphe, from Latin triumphus “procession honoring a victorious general”, probably from Greek thriambos “hymn to Dionysus”.",
+    "ipa": "ˈtraɪəmf",
+    "zipf": 3.96,
+    "issues": []
+  },
+  {
+    "lemma": "virtue",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A good moral quality in a person",
+    "example": "Patience is a virtue that few drivers show during rush hour.",
+    "synonyms": [
+      "goodness",
+      "merit",
+      "integrity"
+    ],
+    "origin": "From Old French vertu, from Latin virtus “manliness, courage, excellence”, from vir “man”.",
+    "ipa": "ˈvɝtʃu",
+    "zipf": 3.94,
+    "issues": []
+  },
+  {
+    "lemma": "apathy",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A lack of interest, feeling, or concern",
+    "example": "Voter apathy was blamed for the lowest turnout in decades.",
+    "synonyms": [
+      "indifference"
+    ],
+    "origin": "From Greek apatheia “freedom from feeling”, from a- “without” and pathos “feeling, suffering”.",
+    "ipa": "ˈæpəθi",
+    "zipf": 3.26,
+    "issues": []
+  },
+  {
+    "lemma": "catalyst",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Something that causes an important change to happen",
+    "example": "The protest became a catalyst for sweeping changes to the housing law.",
+    "synonyms": [
+      "spark",
+      "trigger",
+      "stimulus"
+    ],
+    "origin": "From Greek katalysis “dissolution”, from kata- “down” and lyein “to loosen”, formed in English on the pattern of analyst.",
+    "ipa": "ˈkætələst",
+    "zipf": 3.76,
+    "issues": []
+  },
+  {
+    "lemma": "dearth",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A scarcity or serious lack of something",
+    "example": "The town suffers from a dearth of affordable housing for young workers.",
+    "synonyms": [
+      "shortage",
+      "lack",
+      "scarcity"
+    ],
+    "origin": "From Middle English derthe “costliness, scarcity”, formed from dere “dear, costly” plus the noun suffix -th.",
+    "ipa": "dɝθ",
+    "zipf": 2.92,
+    "issues": []
+  },
+  {
+    "lemma": "epiphany",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A sudden moment of deep understanding",
+    "example": "Halfway through the lecture she had an epiphany about her own research.",
+    "synonyms": [
+      "revelation",
+      "realization",
+      "insight"
+    ],
+    "origin": "From Greek epiphaneia “appearance, manifestation”, from epi- “upon” and phainein “to show”.",
+    "ipa": "ɪˈpɪfəni",
+    "zipf": 3.16,
+    "issues": []
+  },
+  {
+    "lemma": "facade",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A false appearance that hides the truth",
+    "example": "Behind his cheerful facade, he was struggling with crippling debt.",
+    "synonyms": [
+      "front",
+      "mask",
+      "veneer"
+    ],
+    "origin": "From French façade, from Italian facciata, from faccia “face”, from Latin facies “face, form”.",
+    "ipa": "fəˈsɑd",
+    "zipf": 3.42,
+    "issues": []
+  },
+  {
+    "lemma": "hubris",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Excessive pride or confidence that leads to downfall",
+    "example": "The CEO's hubris blinded him to the warning signs of collapse.",
+    "synonyms": [
+      "arrogance",
+      "conceit",
+      "pride"
+    ],
+    "origin": "From Greek hybris “insolence, outrage”, used especially of pride that defied the gods.",
+    "ipa": "ˈhjubrəs",
+    "zipf": 2.94,
+    "issues": []
+  },
+  {
+    "lemma": "panacea",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A supposed cure for every problem or illness",
+    "example": "Technology is useful in classrooms, but it is no panacea for poor teaching.",
+    "synonyms": [
+      "cure",
+      "elixir"
+    ],
+    "origin": "From Greek panakeia “cure for everything”, from pan- “all” and akos “remedy”.",
+    "ipa": "pænəˈsiə",
+    "zipf": 2.78,
+    "issues": []
+  },
+  {
+    "lemma": "respite",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A short rest from something difficult or unpleasant",
+    "example": "The weekend rain offered a brief respite from the summer heat.",
+    "synonyms": [
+      "break",
+      "relief",
+      "pause"
+    ],
+    "origin": "From Old French respit “delay”, from Latin respectus “a looking back, consideration”, from respicere “to look back”.",
+    "ipa": "ˈrɛspɪt",
+    "zipf": 3.18,
+    "issues": []
+  },
+  {
+    "lemma": "stigma",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Shame or disgrace that society attaches to something",
+    "example": "There is still a stigma around asking for help with mental health.",
+    "synonyms": [
+      "shame",
+      "disgrace",
+      "taint"
+    ],
+    "origin": "From Greek stigma “mark made by a pointed tool, brand”, from stizein “to prick, tattoo”.",
+    "ipa": "ˈstɪɡmə",
+    "zipf": 3.69,
+    "issues": []
+  },
+  {
+    "lemma": "zenith",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The highest or most successful point",
+    "example": "The band reached its zenith in the late nineties before slowly fading.",
+    "synonyms": [
+      "peak",
+      "summit",
+      "pinnacle"
+    ],
+    "origin": "Via Old French and Medieval Latin cenit, from a misreading of Arabic samt ar-ra's “path over the head”.",
+    "ipa": "ˈzinəθ",
+    "zipf": 3.15,
+    "issues": []
+  },
+  {
+    "lemma": "chicanery",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Clever trickery used to deceive or cheat",
+    "example": "The investigation exposed years of financial chicanery at the firm.",
+    "synonyms": [
+      "trickery",
+      "deception"
+    ],
+    "origin": "From French chicanerie, from chicaner “to quibble”, a word whose own source is unknown.",
+    "ipa": "ʃɪˈkeɪnəri",
+    "zipf": 2.24,
+    "issues": []
+  },
+  {
+    "lemma": "ennui",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Weary boredom from having nothing meaningful to do",
+    "example": "After months of unemployment, a heavy ennui settled over his days.",
+    "synonyms": [
+      "boredom",
+      "tedium",
+      "listlessness"
+    ],
+    "origin": "From French ennui, from Old French enui “annoyance”, ultimately from the Latin phrase in odio “in hatred”, the same source as annoy.",
+    "ipa": "ɛˈnui",
+    "zipf": 2.41,
+    "issues": []
+  },
+  {
+    "lemma": "hegemony",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Dominance of one group or country over others",
+    "example": "The empire's hegemony over the region lasted nearly three centuries.",
+    "synonyms": [
+      "dominance",
+      "supremacy"
+    ],
+    "origin": "From Greek hegemonia “leadership”, from hegemon “leader”, from hegeisthai “to lead”.",
+    "ipa": "hiˈdʒɛməni",
+    "zipf": 3.13,
+    "issues": []
+  },
+  {
+    "lemma": "largesse",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Generous giving of money or gifts",
+    "example": "The museum's new wing was built thanks to the largesse of a single donor.",
+    "synonyms": [
+      "generosity",
+      "bounty"
+    ],
+    "origin": "From Old French largesse, from large “generous, abundant”, from Latin largus “abundant, bountiful”.",
+    "ipa": "lɑrˈɡɛs",
+    "zipf": 2.31,
+    "issues": []
+  },
+  {
+    "lemma": "penchant",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A strong liking or habitual tendency for something",
+    "example": "My uncle has a penchant for telling long stories at family dinners.",
+    "synonyms": [
+      "fondness",
+      "liking",
+      "taste"
+    ],
+    "origin": "From French penchant, the present participle of pencher “to lean, incline”, from Latin pendere “to hang”.",
+    "ipa": "ˈpɛntʃənt",
+    "zipf": 3.07,
+    "issues": []
+  },
+  {
+    "lemma": "schadenfreude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Pleasure felt at someone else's misfortune",
+    "example": "I admit to some schadenfreude when my smug rival missed his flight.",
+    "synonyms": [
+      "gloating"
+    ],
+    "origin": "From German Schadenfreude, from Schaden “harm, damage” and Freude “joy”.",
+    "ipa": "ˈʃɑdənfrɔɪdə",
+    "zipf": 2.43,
+    "issues": []
   }
 ]
