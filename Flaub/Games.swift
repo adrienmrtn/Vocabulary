@@ -154,13 +154,23 @@ final class ReviewStore {
     func record(_ lemma: String, correct: Bool) {
         boxes[lemma] = correct ? min((boxes[lemma] ?? 0) + 1, 5) : 0
         UserDefaults.standard.set(boxes, forKey: ReviewStore.key)
+        UserStore.shared.reviewChanged()
+    }
+
+    var allBoxes: [String: Int] { boxes }
+
+    /// Take the boxes restored from the server on a fresh install.
+    func replace(with restored: [String: Int]) {
+        boxes = restored
+        UserDefaults.standard.set(boxes, forKey: ReviewStore.key)
     }
 
     /// Words to ask next: missed ones first, then today's words, then the rest.
-    func pick(count: Int) -> [Word] {
-        let missed = Catalog.all.filter { boxes[$0.text] == 0 }.shuffled()
-        let today = Catalog.feed.shuffled()
-        let rest = Catalog.all.shuffled().sorted { (boxes[$0.text] ?? 1) < (boxes[$1.text] ?? 1) }
+    func pick(count: Int, from pool: [Word]? = nil) -> [Word] {
+        let source = pool ?? Catalog.all
+        let missed = source.filter { boxes[$0.text] == 0 }.shuffled()
+        let today = pool == nil ? Catalog.feed.shuffled() : []
+        let rest = source.shuffled().sorted { (boxes[$0.text] ?? 1) < (boxes[$1.text] ?? 1) }
         var picked: [Word] = []
         for word in missed + today + rest where !picked.contains(word) {
             picked.append(word)
@@ -185,6 +195,8 @@ final class ReviewStore {
 struct GameView: View {
     let mode: GameMode
     var title: String? = nil
+    /// Restrict the game to these words, for a topic. Nil means the whole catalogue.
+    var pool: [Word]? = nil
 
     @Environment(\.dismiss) private var dismiss
     @State private var question: Question?
@@ -381,7 +393,7 @@ struct GameView: View {
         picked = nil
         finished = false
         best = ReviewStore.shared.best(for: mode)
-        queue = ReviewStore.shared.pick(count: 40)
+        queue = ReviewStore.shared.pick(count: 40, from: pool)
         next()
     }
 
@@ -391,7 +403,7 @@ struct GameView: View {
             return
         }
         if queue.isEmpty {
-            queue = ReviewStore.shared.pick(count: 40)
+            queue = ReviewStore.shared.pick(count: 40, from: pool)
         }
         guard !queue.isEmpty else {
             finish()

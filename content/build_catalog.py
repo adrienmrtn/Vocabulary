@@ -67,7 +67,8 @@ IPA_OVERRIDES = {
     "inveigle": "ɪnˈveɪɡəl",
 }
 APP_KEYS = ["lemma", "level", "part_of_speech", "ipa", "definition", "example", "synonyms", "origin",
-            "quote", "quote_source"]
+            "quote", "quote_source", "topics"]
+TOPICS_PATH = os.path.join(os.path.dirname(__file__), "topics.json")
 QUOTES_PATH = os.path.join(os.path.dirname(__file__), "quotes.json")
 
 
@@ -167,8 +168,15 @@ def main():
         with open(QUOTES_PATH, encoding="utf-8") as handle:
             quotes = json.load(handle)
 
+    # Topic slugs per lemma. See TOPICS in push_catalog.py for the list of topics.
+    topics = {}
+    if os.path.exists(TOPICS_PATH):
+        with open(TOPICS_PATH, encoding="utf-8") as handle:
+            topics = json.load(handle)
+
     flagged = 0
     for entry in entries:
+        entry["topics"] = topics.get(entry.get("lemma"), [])
         chosen = quotes.get(entry.get("lemma"), {})
         entry["quote"] = chosen.get("quote", "")
         entry["quote_source"] = chosen.get("source", "")
@@ -179,6 +187,8 @@ def main():
         if not entry["ipa"]:
             issues.append("no pronunciation")
         entry["zipf"] = zipf_frequency(lemma, "en")
+        if not entry["topics"]:
+            issues.append("no topic")
         entry["issues"] = issues
         if issues:
             flagged += 1

@@ -2,13 +2,16 @@ import SwiftUI
 
 struct StatsView: View {
     @State private var showPaywall = false
+    @ObservedObject private var store = UserStore.shared
 
-    private let days = ["Tu", "We", "Th", "Fr", "Sa", "Su", "Mo"]
-    private let counters: [(value: String, label: String, symbol: String)] = [
-        ("8", "Read", "text.justify.left"),
-        ("1", "Favorited", "heart.fill"),
-        ("1", "Saved", "bookmark.fill")
-    ]
+    private var counters: [(value: String, label: String, symbol: String)] {
+        let saved = Set(store.state.collections.flatMap(\.words)).count
+        return [
+            ("\(store.state.history.count)", "Read", "text.justify.left"),
+            ("\(store.state.favorites.count)", "Favorited", "heart.fill"),
+            ("\(saved)", "Saved", "bookmark.fill")
+        ]
+    }
 
     var body: some View {
         NavigationStack {
@@ -39,11 +42,11 @@ struct StatsView: View {
                     }
 
                     HStack(spacing: 16) {
-                        FlameView(day: 1)
+                        FlameView(day: store.streak)
                             .frame(width: 72, height: 72)
                         VStack(alignment: .leading, spacing: 10) {
                             Text("Your streak").font(.system(size: 16, weight: .semibold))
-                            WeekRow(days: days, done: 1)
+                            WeekRow(items: store.week)
                         }
                     }
                     .padding(16)
@@ -97,19 +100,23 @@ struct StatsView: View {
 }
 
 struct WeekRow: View {
-    let days: [String]
-    let done: Int
+    /// Seven days, oldest first, each with a two-letter label and whether it was active.
+    let items: [(label: String, done: Bool)]
+
+    /// The row shown in onboarding: a first day done, the week ahead.
+    static let firstDay: [(label: String, done: Bool)] =
+        ["Tu", "We", "Th", "Fr", "Sa", "Su", "Mo"].enumerated().map { (label: $0.element, done: $0.offset == 0) }
 
     var body: some View {
         HStack(spacing: 4) {
-            ForEach(Array(days.enumerated()), id: \.offset) { item in
+            ForEach(Array(items.enumerated()), id: \.offset) { item in
                 VStack(spacing: 6) {
-                    Text(item.element)
-                        .font(.system(size: 11, weight: item.offset < done ? .bold : .medium))
-                        .foregroundStyle(item.offset < done ? Color.ink : Color.muted)
+                    Text(item.element.label)
+                        .font(.system(size: 11, weight: item.element.done ? .bold : .medium))
+                        .foregroundStyle(item.element.done ? Color.ink : Color.muted)
                     ZStack {
-                        Circle().fill(item.offset < done ? Color.flaubBlue : Color.line)
-                        if item.offset < done {
+                        Circle().fill(item.element.done ? Color.flaubBlue : Color.line)
+                        if item.element.done {
                             Image(systemName: "checkmark")
                                 .font(.system(size: 11, weight: .bold))
                                 .foregroundStyle(.white)

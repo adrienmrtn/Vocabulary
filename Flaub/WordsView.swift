@@ -4,17 +4,20 @@ import SwiftUI
 /// previous word, but the change itself is a soft cross-fade, not a slide.
 struct WordsView: View {
     @State private var index = 0
-    @State private var liked: Set<String> = []
-    @State private var saved: Set<String> = []
     @State private var showDetail = false
+    @ObservedObject private var store = UserStore.shared
+    @AppStorage("theme") private var themeIndex = 0
 
     private let words = Word.samples
 
     var body: some View {
         let word = words[index]
+        let theme = AppTheme.at(themeIndex)
+        let liked = store.isFavorite(word.text)
+        let saved = store.isSaved(word.text)
 
         ZStack {
-            Color.cream.ignoresSafeArea()
+            theme.ground.ignoresSafeArea()
 
             VStack(spacing: 14) {
                 Text(word.text)
@@ -29,13 +32,13 @@ struct WordsView: View {
                     HStack(spacing: 10) {
                         Text(word.pronunciation.isEmpty ? "Listen" : word.pronunciation)
                         Image(systemName: "speaker.wave.2.fill")
-                            .foregroundStyle(Color.flaubBlue)
                     }
                     .font(.system(size: 16, weight: .medium))
+                    .foregroundStyle(theme.text)
                     .padding(.horizontal, 16)
                     .frame(height: 44)
-                    .background(Capsule().fill(Color.white))
-                    .overlay(Capsule().stroke(Color.line, lineWidth: 1.5))
+                    .background(Capsule().fill(theme.text.opacity(0.08)))
+                    .overlay(Capsule().stroke(theme.text.opacity(0.25), lineWidth: 1.5))
                 }
                 .accessibilityLabel("Listen to \(word.text)")
 
@@ -44,26 +47,25 @@ struct WordsView: View {
                     .multilineTextAlignment(.center)
 
                 HStack(spacing: 30) {
-                    iconButton("info.circle", label: "More about this word") {
+                    iconButton("info.circle", label: "More about this word", tint: theme.text) {
                         showDetail = true
                     }
                     ShareLink(item: "\(word.text): \(word.definition)") {
                         Image(systemName: "square.and.arrow.up")
                             .font(.system(size: 28))
+                            .foregroundStyle(theme.text)
                             .frame(width: 48, height: 48)
                     }
-                    iconButton(liked.contains(word.text) ? "heart.fill" : "heart", label: "Like",
-                               tint: liked.contains(word.text) ? Color.flaubBlue : Color.ink) {
-                        toggle(&liked, word.text)
+                    iconButton(liked ? "heart.fill" : "heart", label: "Like", tint: theme.text) {
+                        store.toggleFavorite(word.text)
                     }
-                    iconButton(saved.contains(word.text) ? "bookmark.fill" : "bookmark", label: "Save to collection",
-                               tint: saved.contains(word.text) ? Color.flaubBlue : Color.ink) {
-                        toggle(&saved, word.text)
+                    iconButton(saved ? "bookmark.fill" : "bookmark", label: "Save to collection", tint: theme.text) {
+                        store.toggleSaved(word.text)
                     }
                 }
                 .padding(.top, 16)
             }
-            .foregroundStyle(Color.ink)
+            .foregroundStyle(theme.text)
             .padding(.horizontal, 28)
             .id(index)
             .transition(.opacity.combined(with: .scale(scale: 0.97)))
@@ -82,6 +84,9 @@ struct WordsView: View {
             WordDetailView(word: word)
                 .presentationDetents([.medium, .large])
         }
+        .onAppear {
+            store.markSeen(word.text)
+        }
     }
 
     private func go(_ delta: Int) {
@@ -91,14 +96,7 @@ struct WordsView: View {
         withAnimation(.easeInOut(duration: 0.35)) {
             index = next
         }
-    }
-
-    private func toggle(_ set: inout Set<String>, _ value: String) {
-        if set.contains(value) {
-            set.remove(value)
-        } else {
-            set.insert(value)
-        }
+        store.markSeen(words[next].text)
     }
 
     private func iconButton(_ symbol: String, label: String, tint: Color = Color.ink,

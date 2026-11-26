@@ -46,7 +46,7 @@ struct PracticeView: View {
 
                     SectionLabel(text: "For you")
                     NavigationLink {
-                        PlaceholderScreen(title: "Your history")
+                        HistoryScreen()
                     } label: {
                         ImageRow(title: "Your history", image: "history")
                     }
@@ -98,7 +98,7 @@ struct PracticeView: View {
                     SectionLabel(text: "Categories")
                     ForEach(categories) { topic in
                         NavigationLink {
-                            GameView(mode: .shuffle, title: topic.name)
+                            GameView(mode: .shuffle, title: topic.name, pool: topic.words)
                         } label: {
                             ImageRow(title: topic.name, image: topic.image)
                         }

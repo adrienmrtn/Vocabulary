@@ -100,10 +100,31 @@ struct OnboardingView: View {
 
     private func next() {
         Haptics.page()
+        save(steps[index])
         if index + 1 < steps.count {
             index += 1
         } else {
             onFinish()
+        }
+    }
+
+    /// Keep what the member answered on the page they are leaving.
+    private func save(_ step: OnboardingStep) {
+        switch step {
+        case let .choice(title, _, options, _, _):
+            let chosen = (answers[index] ?? []).sorted().map { options[$0] }
+            if !chosen.isEmpty {
+                UserStore.shared.setOnboarding(title, answers: chosen)
+            }
+        case .name:
+            if !name.trimmingCharacters(in: .whitespaces).isEmpty {
+                UserStore.shared.setName(name)
+            }
+        case .icon:
+            AppIcon.apply(character: UserDefaults.standard.integer(forKey: "iconCharacter"),
+                          background: UserDefaults.standard.integer(forKey: "iconBackground"))
+        default:
+            break
         }
     }
 
@@ -147,7 +168,7 @@ struct OnboardingView: View {
                         .font(.serif(28))
                         .multilineTextAlignment(.center)
                     VStack(spacing: 12) {
-                        WeekRow(days: ["Tu", "We", "Th", "Fr", "Sa", "Su", "Mo"], done: 1)
+                        WeekRow(items: WeekRow.firstDay)
                         Text("Build a streak, one day at a time").font(.system(size: 14))
                     }
                     .padding(14)
@@ -400,49 +421,6 @@ private struct ChoicePage: View {
             .frame(height: 56)
             .background(Capsule().fill(on ? Color.blueTint : Color.white))
             .overlay(Capsule().stroke(on ? Color.flaubBlue : Color.line, lineWidth: 1.5))
-        }
-    }
-}
-
-private struct ThemeGrid: View {
-    @AppStorage("theme") private var theme = 0
-
-    private let themes: [(name: String, ground: Color, text: Color)] = [
-        ("Cream", Color(hex: 0xFFF8F4), Color(hex: 0x1B1A2E)),
-        ("Night", Color(hex: 0x1B1A2E), Color(hex: 0xFFF8F4)),
-        ("Blue", Color(hex: 0x0A5CFF), .white),
-        ("Coral", Color(hex: 0xF54B40), .white),
-        ("Teal", Color(hex: 0x145E61), Color(hex: 0xE4F06A)),
-        ("Purple", Color(hex: 0x762C89), Color(hex: 0xFFD84A))
-    ]
-    private let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 3)
-
-    var body: some View {
-        LazyVGrid(columns: columns, spacing: 10) {
-            ForEach(themes.indices, id: \.self) { index in
-                Button {
-                    Haptics.select()
-                    theme = index
-                } label: {
-                    RoundedRectangle(cornerRadius: 16, style: .continuous)
-                        .fill(themes[index].ground)
-                        .frame(height: 162)
-                        .overlay(Text("Aa").font(.serif(22)).foregroundStyle(themes[index].text))
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                .stroke(index == theme ? Color.flaubBlue : Color.line,
-                                        lineWidth: index == theme ? 3 : 1.5)
-                        )
-                        .overlay(alignment: .topTrailing) {
-                            if index == theme {
-                                Image(systemName: "checkmark.circle.fill")
-                                    .foregroundStyle(Color.flaubBlue, .white)
-                                    .padding(8)
-                            }
-                        }
-                }
-                .accessibilityLabel("\(themes[index].name) theme")
-            }
         }
     }
 }

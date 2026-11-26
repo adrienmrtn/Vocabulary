@@ -35,7 +35,7 @@ struct ProfileView: View {
                         NavigationLink { PlaceholderScreen(title: "Home Screen widgets") } label: {
                             ProfileTile(title: "Home Screen widgets", image: "tile_widgets")
                         }
-                        NavigationLink { PlaceholderScreen(title: "Themes") } label: {
+                        NavigationLink { ThemesScreen() } label: {
                             ProfileTile(title: "Themes", image: "tile_themes")
                         }
                         NavigationLink { IconScreen() } label: {
@@ -51,7 +51,7 @@ struct ProfileView: View {
                     LazyVGrid(columns: columns, spacing: 10) {
                         ForEach(shortcuts, id: \.title) { shortcut in
                             NavigationLink {
-                                PlaceholderScreen(title: shortcut.title)
+                                destination(for: shortcut.title)
                             } label: {
                                 HStack(spacing: 12) {
                                     FillImage(name: shortcut.image)
@@ -78,13 +78,25 @@ struct ProfileView: View {
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     NavigationLink {
-                        PlaceholderScreen(title: "Settings")
+                        SettingsScreen()
                     } label: {
                         Image(systemName: "gearshape")
                     }
                     .accessibilityLabel("Settings")
                 }
             }
+        }
+    }
+}
+
+extension ProfileView {
+    @ViewBuilder
+    func destination(for title: String) -> some View {
+        switch title {
+        case "Favorites": FavoritesScreen()
+        case "Your words": OwnWordsScreen()
+        case "Collections": CollectionsScreen()
+        default: HistoryScreen()
         }
     }
 }
@@ -132,6 +144,7 @@ struct IconPicker: View {
                         Button {
                             Haptics.select()
                             character = index
+                            Backend.shared.scheduleSync()
                         } label: {
                             IconTile(character: index, background: safeBackground)
                                 .overlay(
@@ -153,6 +166,7 @@ struct IconPicker: View {
                         Button {
                             Haptics.select()
                             background = index
+                            Backend.shared.scheduleSync()
                         } label: {
                             RoundedRectangle(cornerRadius: 12, style: .continuous)
                                 .fill(IconOptions.backgrounds[index].color)
@@ -192,10 +206,18 @@ struct IconTile: View {
 }
 
 struct IconScreen: View {
+    @AppStorage("iconCharacter") private var character = 0
+    @AppStorage("iconBackground") private var background = 0
+
     var body: some View {
         ScrollView {
-            IconPicker()
-                .padding(20)
+            VStack(spacing: 24) {
+                IconPicker()
+                PrimaryButton(title: "Use this icon") {
+                    AppIcon.apply(character: character, background: background)
+                }
+            }
+            .padding(20)
         }
         .background(Color.cream)
         .navigationTitle("App icon")

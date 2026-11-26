@@ -14,6 +14,8 @@ struct Word: Identifiable, Hashable, Decodable {
     /// A sentence from a public-domain book that uses the word, when one was found.
     let quote: String?
     let quoteSource: String?
+    /// Topic slugs, best fit first.
+    let topics: [String]?
 
     var id: String { text }
 
@@ -31,15 +33,23 @@ struct Word: Identifiable, Hashable, Decodable {
         case origin
         case quote
         case quoteSource = "quote_source"
+        case topics
     }
 
     /// The words shown today in the feed and used by the quizzes.
     static var samples: [Word] { Catalog.feed }
 }
 
-/// The word catalogue, built by `content/build_catalog.py` and bundled with the app.
+/// The word catalogue. The copy last downloaded from Supabase is used when there
+/// is one; otherwise the file bundled with the app (built by `content/build_catalog.py`).
 enum Catalog {
     static let all: [Word] = load()
+
+    private static let byLemma: [String: Word] = Dictionary(all.map { ($0.text, $0) }, uniquingKeysWith: { first, _ in first })
+
+    static func word(for lemma: String) -> Word? {
+        byLemma[lemma]
+    }
 
     /// Twenty words for today. The selection changes each day, stays the same all
     /// day, and steps through the catalogue so that levels are mixed.
@@ -64,6 +74,11 @@ enum Catalog {
     }
 
     private static func load() -> [Word] {
+        if let data = try? Data(contentsOf: Backend.catalogCacheURL),
+           let words = try? JSONDecoder().decode([Word].self, from: data),
+           !words.isEmpty {
+            return words
+        }
         guard let url = Bundle.main.url(forResource: "words", withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let words = try? JSONDecoder().decode([Word].self, from: data),
@@ -80,25 +95,35 @@ enum Catalog {
         example: "The beauty of cherry blossoms is ephemeral, gone within a week.",
         synonyms: ["fleeting", "transient", "brief"],
         origin: "From Greek ephēmeros, meaning “lasting only a day.”",
-        quote: nil, quoteSource: nil
+        quote: nil, quoteSource: nil, topics: ["nature"]
     )
 }
 
 struct Topic: Identifiable, Hashable {
-    let id = UUID()
+    let slug: String
     let name: String
     let image: String
     let locked: Bool
 
+    var id: String { slug }
+
+    /// The catalogue words tagged with this topic.
+    var words: [Word] {
+        Catalog.all.filter { $0.topics?.contains(slug) == true }
+    }
+
+    /// Keep in step with TOPICS in `content/push_catalog.py`.
     static let all: [Topic] = [
-        Topic(name: "Emotions", image: "topic_emotions", locked: false),
-        Topic(name: "Persuasion", image: "topic_persuasion", locked: true),
-        Topic(name: "Business", image: "topic_business", locked: true),
-        Topic(name: "Literature", image: "topic_literature", locked: true),
-        Topic(name: "Science", image: "topic_science", locked: true),
-        Topic(name: "Travel", image: "topic_travel", locked: true),
-        Topic(name: "Nature", image: "topic_nature", locked: true),
-        Topic(name: "Debate", image: "topic_debate", locked: true)
+        Topic(slug: "emotions", name: "Emotions", image: "topic_emotions", locked: false),
+        Topic(slug: "character", name: "Character", image: "hero", locked: true),
+        Topic(slug: "persuasion", name: "Persuasion", image: "topic_persuasion", locked: true),
+        Topic(slug: "debate", name: "Debate", image: "topic_debate", locked: true),
+        Topic(slug: "business", name: "Business", image: "topic_business", locked: true),
+        Topic(slug: "literature", name: "Literature", image: "topic_literature", locked: true),
+        Topic(slug: "science", name: "Science", image: "topic_science", locked: true),
+        Topic(slug: "nature", name: "Nature", image: "topic_nature", locked: true),
+        Topic(slug: "travel", name: "Travel", image: "topic_travel", locked: true),
+        Topic(slug: "society", name: "Society", image: "tile_topics", locked: true)
     ]
 }
 

@@ -27,7 +27,7 @@ struct TopicsView: View {
                     LazyVGrid(columns: columns, spacing: 10) {
                         ForEach(shortcuts, id: \.title) { shortcut in
                             NavigationLink {
-                                PlaceholderScreen(title: shortcut.title)
+                                destination(for: shortcut.title)
                             } label: {
                                 HStack(spacing: 12) {
                                     Image(systemName: shortcut.symbol)
@@ -54,7 +54,7 @@ struct TopicsView: View {
                     LazyVGrid(columns: columns, spacing: 10) {
                         ForEach(topics) { topic in
                             NavigationLink {
-                                PlaceholderScreen(title: topic.name)
+                                TopicScreen(topic: topic)
                             } label: {
                                 TopicTile(topic: topic)
                             }
@@ -68,6 +68,18 @@ struct TopicsView: View {
             .background(Color.cream)
             .navigationTitle("Explore topics")
             .searchable(text: $query, prompt: "Search")
+        }
+    }
+}
+
+extension TopicsView {
+    @ViewBuilder
+    func destination(for title: String) -> some View {
+        switch title {
+        case "Favorites": FavoritesScreen()
+        case "Collections": CollectionsScreen()
+        case "Your own words": OwnWordsScreen()
+        default: HistoryScreen()
         }
     }
 }

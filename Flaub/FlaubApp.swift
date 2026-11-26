@@ -6,6 +6,7 @@ struct FlaubApp: App {
     init() {
         Fonts.register()
         Self.configureBars()
+        Backend.shared.start()
     }
 
     var body: some Scene {
