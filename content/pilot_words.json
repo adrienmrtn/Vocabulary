@@ -1,0 +1,3274 @@
+[
+  {
+    "lemma": "genuine",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Truly what it appears to be; real",
+    "example": "Her genuine interest in the project made everyone want to help her.",
+    "synonyms": [
+      "real",
+      "authentic",
+      "honest"
+    ],
+    "origin": "From Latin genuinus, meaning native or natural, from the root of gignere, to beget.",
+    "ipa": "ˈdʒɛnjəwən",
+    "zipf": 4.37,
+    "issues": []
+  },
+  {
+    "lemma": "reluctant",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Unwilling and hesitant to do something",
+    "example": "He was reluctant to lend his car to a friend he barely knew.",
+    "synonyms": [
+      "unwilling",
+      "hesitant",
+      "wary"
+    ],
+    "origin": "From Latin reluctari, to struggle against, from re- (against) and luctari (to struggle).",
+    "ipa": "rɪˈlʌktənt",
+    "zipf": 3.81,
+    "issues": []
+  },
+  {
+    "lemma": "vivid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Producing strong, clear images in the mind",
+    "example": "I still have a vivid memory of my first day at school.",
+    "synonyms": [
+      "bright",
+      "colorful",
+      "striking"
+    ],
+    "origin": "From Latin vividus, meaning lively or full of life, from vivere, to live.",
+    "ipa": "ˈvɪvəd",
+    "zipf": 3.75,
+    "issues": []
+  },
+  {
+    "lemma": "subtle",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "So slight or delicate it is hard to notice",
+    "example": "There was a subtle hint of lemon in the sauce that I loved.",
+    "synonyms": [
+      "faint",
+      "slight",
+      "delicate"
+    ],
+    "origin": "From Old French sotil, from Latin subtilis, meaning fine, thin or finely woven.",
+    "ipa": "ˈsʌtəl",
+    "zipf": 4.08,
+    "issues": []
+  },
+  {
+    "lemma": "candid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Honest and direct, even when it is uncomfortable",
+    "example": "In a candid interview, the actor admitted he had nearly quit the film.",
+    "synonyms": [
+      "frank",
+      "honest",
+      "open"
+    ],
+    "origin": "From Latin candidus, meaning white or pure, from candere, to shine.",
+    "ipa": "ˈkændəd",
+    "zipf": 3.45,
+    "issues": []
+  },
+  {
+    "lemma": "thrive",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To grow or develop well and successfully",
+    "example": "Some plants thrive in shade and barely need any direct sunlight.",
+    "synonyms": [
+      "flourish",
+      "prosper",
+      "bloom"
+    ],
+    "origin": "From Old Norse thrifask, meaning to grasp for oneself or to prosper.",
+    "ipa": "θraɪv",
+    "zipf": 3.73,
+    "issues": []
+  },
+  {
+    "lemma": "hinder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To make progress slow or difficult",
+    "example": "Heavy snow hindered the rescue team as they climbed toward the cabin.",
+    "synonyms": [
+      "obstruct",
+      "delay",
+      "block"
+    ],
+    "origin": "From Old English hindrian, meaning to harm or hold back, related to the word behind.",
+    "ipa": "ˈhɪndɚ",
+    "zipf": 3.39,
+    "issues": []
+  },
+  {
+    "lemma": "obscure",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not well known or hard to understand",
+    "example": "She loves quoting obscure poets that nobody else in the class has read.",
+    "synonyms": [
+      "unknown",
+      "unclear",
+      "hidden"
+    ],
+    "origin": "From Latin obscurus, meaning dark or dim.",
+    "ipa": "əbˈskjʊr",
+    "zipf": 3.85,
+    "issues": []
+  },
+  {
+    "lemma": "plausible",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Seeming reasonable and likely to be true",
+    "example": "His excuse sounded plausible, so the teacher let him hand it in late.",
+    "synonyms": [
+      "believable",
+      "credible",
+      "likely"
+    ],
+    "origin": "From Latin plausibilis, meaning deserving applause, from plaudere, to applaud.",
+    "ipa": "ˈplɔzəbəl",
+    "zipf": 3.64,
+    "issues": []
+  },
+  {
+    "lemma": "tedious",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Long, slow and boring to do",
+    "example": "Entering all the receipts by hand was a tedious job that took hours.",
+    "synonyms": [
+      "boring",
+      "dull",
+      "tiresome"
+    ],
+    "origin": "From Late Latin taediosus, from Latin taedium, meaning weariness or disgust.",
+    "ipa": "ˈtidiəs",
+    "zipf": 3.5,
+    "issues": []
+  },
+  {
+    "lemma": "abrupt",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Sudden and unexpected, often unpleasantly so",
+    "example": "The meeting came to an abrupt end when the fire alarm went off.",
+    "synonyms": [
+      "sudden",
+      "sharp",
+      "curt"
+    ],
+    "origin": "From Latin abruptus, meaning broken off, from ab- (off) and rumpere (to break).",
+    "ipa": "əˈbrʌpt",
+    "zipf": 3.38,
+    "issues": []
+  },
+  {
+    "lemma": "coherent",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clear, logical and easy to follow",
+    "example": "After a strong coffee she finally managed to give a coherent answer.",
+    "synonyms": [
+      "logical",
+      "clear",
+      "consistent"
+    ],
+    "origin": "From Latin cohaerere, to stick together, from co- (together) and haerere (to stick).",
+    "ipa": "koʊˈhɪrənt",
+    "zipf": 3.63,
+    "issues": []
+  },
+  {
+    "lemma": "diligent",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Working carefully and with steady effort",
+    "example": "A diligent student, he reviewed his notes every evening before dinner.",
+    "synonyms": [
+      "hardworking",
+      "careful",
+      "thorough"
+    ],
+    "origin": "From Latin diligens, meaning attentive, from diligere, to value highly or love.",
+    "ipa": "ˈdɪlɪdʒənt",
+    "zipf": 3.23,
+    "issues": []
+  },
+  {
+    "lemma": "eager",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Wanting very much to do or have something",
+    "example": "The children were eager to open their presents before breakfast.",
+    "synonyms": [
+      "keen",
+      "enthusiastic",
+      "excited"
+    ],
+    "origin": "From Old French aigre, meaning sharp or sour, from Latin acer, sharp.",
+    "ipa": "ˈiɡɚ",
+    "zipf": 4.03,
+    "issues": []
+  },
+  {
+    "lemma": "frugal",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Careful to spend very little money",
+    "example": "My frugal aunt reuses wrapping paper and never buys anything at full price.",
+    "synonyms": [
+      "thrifty",
+      "economical",
+      "sparing"
+    ],
+    "origin": "From Latin frugalis, meaning thrifty, from frux, fruit or value.",
+    "ipa": "ˈfruɡəl",
+    "zipf": 3.11,
+    "issues": []
+  },
+  {
+    "lemma": "hostile",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Unfriendly and showing strong dislike or opposition",
+    "example": "The crowd turned hostile when the referee cancelled the winning goal.",
+    "synonyms": [
+      "unfriendly",
+      "aggressive",
+      "antagonistic"
+    ],
+    "origin": "From Latin hostilis, from hostis, meaning enemy.",
+    "ipa": "ˈhɑstəl",
+    "zipf": 4.07,
+    "issues": []
+  },
+  {
+    "lemma": "humble",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not thinking you are better than others",
+    "example": "Despite winning three championships, she remained humble and thanked her teammates first.",
+    "synonyms": [
+      "modest",
+      "unassuming",
+      "meek"
+    ],
+    "origin": "From Old French, from Latin humilis, meaning low or lowly, from humus, ground.",
+    "ipa": "ˈhʌmbəl",
+    "zipf": 4.11,
+    "issues": []
+  },
+  {
+    "lemma": "lucid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clearly expressed and easy to understand",
+    "example": "Her lucid explanation made the tax rules seem almost simple.",
+    "synonyms": [
+      "clear",
+      "plain",
+      "intelligible"
+    ],
+    "origin": "From Latin lucidus, meaning bright or clear, from lux, light.",
+    "ipa": "ˈlusəd",
+    "zipf": 3.27,
+    "issues": []
+  },
+  {
+    "lemma": "mundane",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Ordinary and dull; part of everyday life",
+    "example": "He listens to podcasts to get through mundane chores like folding laundry.",
+    "synonyms": [
+      "ordinary",
+      "everyday",
+      "dull"
+    ],
+    "origin": "From Latin mundanus, meaning of the world, from mundus, world.",
+    "ipa": "mənˈdeɪn",
+    "zipf": 3.43,
+    "issues": []
+  },
+  {
+    "lemma": "novel",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "New and unlike anything seen before",
+    "example": "The engineers found a novel way to cool the battery without fans.",
+    "synonyms": [
+      "new",
+      "original",
+      "fresh"
+    ],
+    "origin": "From Old French novel, from Latin novellus, a diminutive of novus, meaning new.",
+    "ipa": "ˈnɑvəl",
+    "zipf": 4.63,
+    "issues": []
+  },
+  {
+    "lemma": "prudent",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Acting with care and thought for the future",
+    "example": "It would be prudent to save some money before quitting your job.",
+    "synonyms": [
+      "wise",
+      "sensible",
+      "cautious"
+    ],
+    "origin": "From Latin prudens, a shortened form of providens, meaning foreseeing.",
+    "ipa": "ˈprudənt",
+    "zipf": 3.41,
+    "issues": []
+  },
+  {
+    "lemma": "rigid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Stiff and unable to bend or change",
+    "example": "The school has rigid rules about phones that students find frustrating.",
+    "synonyms": [
+      "stiff",
+      "inflexible",
+      "strict"
+    ],
+    "origin": "From Latin rigidus, meaning stiff, from rigere, to be stiff.",
+    "ipa": "ˈrɪdʒəd",
+    "zipf": 3.75,
+    "issues": []
+  },
+  {
+    "lemma": "robust",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Strong, healthy and unlikely to break or fail",
+    "example": "We need a robust backup system that keeps working during power cuts.",
+    "synonyms": [
+      "strong",
+      "sturdy",
+      "tough"
+    ],
+    "origin": "From Latin robustus, meaning strong like oak, from robur, oak or strength.",
+    "ipa": "roʊˈbʌst",
+    "zipf": 3.94,
+    "issues": []
+  },
+  {
+    "lemma": "scarce",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Hard to find because there is very little",
+    "example": "Fresh water became scarce after three months without any rain.",
+    "synonyms": [
+      "rare",
+      "limited",
+      "sparse"
+    ],
+    "origin": "From Old North French escars, from a Vulgar Latin form of Latin excerpere, to pluck out.",
+    "ipa": "skɛrs",
+    "zipf": 3.61,
+    "issues": []
+  },
+  {
+    "lemma": "sincere",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Honestly meaning what you say and feel",
+    "example": "He offered a sincere apology and promised it would not happen again.",
+    "synonyms": [
+      "honest",
+      "heartfelt",
+      "earnest"
+    ],
+    "origin": "From Latin sincerus, meaning pure, clean or whole.",
+    "ipa": "sɪnˈsɪr",
+    "zipf": 3.84,
+    "issues": []
+  },
+  {
+    "lemma": "tense",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Nervous, strained and unable to relax",
+    "example": "Everyone in the waiting room was tense as the results were announced.",
+    "synonyms": [
+      "nervous",
+      "anxious",
+      "strained"
+    ],
+    "origin": "From Latin tensus, the past participle of tendere, meaning to stretch.",
+    "ipa": "tɛns",
+    "zipf": 3.95,
+    "issues": []
+  },
+  {
+    "lemma": "vague",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not clear, exact or fully explained",
+    "example": "She gave only a vague answer when I asked where she had been.",
+    "synonyms": [
+      "unclear",
+      "hazy",
+      "imprecise"
+    ],
+    "origin": "From Latin vagus, meaning wandering or uncertain.",
+    "ipa": "veɪɡ",
+    "zipf": 3.87,
+    "issues": []
+  },
+  {
+    "lemma": "weary",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very tired after long effort or strain",
+    "example": "The weary hikers dropped their packs and collapsed beside the campfire.",
+    "synonyms": [
+      "tired",
+      "exhausted",
+      "drained"
+    ],
+    "origin": "From Old English werig, meaning tired.",
+    "ipa": "ˈwɪri",
+    "zipf": 3.61,
+    "issues": []
+  },
+  {
+    "lemma": "witty",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clever and funny with words",
+    "example": "Her witty replies on the panel show had the whole audience laughing.",
+    "synonyms": [
+      "clever",
+      "funny",
+      "humorous"
+    ],
+    "origin": "From Old English wittig, meaning wise or clever, from witt, understanding or mind.",
+    "ipa": "ˈwɪti",
+    "zipf": 3.56,
+    "issues": []
+  },
+  {
+    "lemma": "bold",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Willing to take risks; brave and confident",
+    "example": "Leaving a secure job to start a bakery was a bold move.",
+    "synonyms": [
+      "brave",
+      "daring",
+      "fearless"
+    ],
+    "origin": "From Old English beald, meaning brave or confident.",
+    "ipa": "boʊld",
+    "zipf": 4.26,
+    "issues": []
+  },
+  {
+    "lemma": "bleak",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Cold, empty and offering little hope",
+    "example": "The job market looked bleak for graduates during the recession.",
+    "synonyms": [
+      "grim",
+      "dreary",
+      "gloomy"
+    ],
+    "origin": "From Old Norse bleikr, meaning pale or white.",
+    "ipa": "blik",
+    "zipf": 3.43,
+    "issues": []
+  },
+  {
+    "lemma": "brisk",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Quick, energetic and full of life",
+    "example": "We took a brisk walk around the lake to warm up before lunch.",
+    "synonyms": [
+      "quick",
+      "lively",
+      "energetic"
+    ],
+    "origin": "",
+    "ipa": "brɪsk",
+    "zipf": 3.2,
+    "issues": [
+      "no origin"
+    ]
+  },
+  {
+    "lemma": "compel",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To force someone to do something",
+    "example": "The new law compels companies to report any data breach within three days.",
+    "synonyms": [
+      "force",
+      "oblige",
+      "drive"
+    ],
+    "origin": "From Latin compellere, to drive together, from com- (together) and pellere (to drive).",
+    "ipa": "kəmˈpɛl",
+    "zipf": 3.28,
+    "issues": []
+  },
+  {
+    "lemma": "concise",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Saying a lot clearly in few words",
+    "example": "Keep your cover letter concise so the recruiter actually reads all of it.",
+    "synonyms": [
+      "brief",
+      "short",
+      "succinct"
+    ],
+    "origin": "From Latin concisus, meaning cut up or brief, from com- and caedere, to cut.",
+    "ipa": "kənˈsaɪs",
+    "zipf": 3.46,
+    "issues": []
+  },
+  {
+    "lemma": "deter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To discourage someone from doing something",
+    "example": "Bright lights around the house can deter burglars from trying the doors.",
+    "synonyms": [
+      "discourage",
+      "prevent",
+      "dissuade"
+    ],
+    "origin": "From Latin deterrere, to frighten away, from de- (away) and terrere (to frighten).",
+    "ipa": "dɪˈtɝ",
+    "zipf": 3.48,
+    "issues": []
+  },
+  {
+    "lemma": "endure",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To suffer something difficult patiently for a long time",
+    "example": "The villagers endured months of flooding before help finally arrived.",
+    "synonyms": [
+      "bear",
+      "withstand",
+      "tolerate"
+    ],
+    "origin": "From Old French endurer, from Latin indurare, to harden, from durus, hard.",
+    "ipa": "ɛndˈjʊr",
+    "zipf": 3.82,
+    "issues": []
+  },
+  {
+    "lemma": "foster",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To encourage something to grow or develop",
+    "example": "Good managers foster trust by listening to their teams and keeping promises.",
+    "synonyms": [
+      "encourage",
+      "nurture",
+      "promote"
+    ],
+    "origin": "From Old English fostrian, to nourish, from fostor, meaning food.",
+    "ipa": "ˈfɑstɚ",
+    "zipf": 4.33,
+    "issues": []
+  },
+  {
+    "lemma": "grasp",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To take firm hold of or fully understand",
+    "example": "It took me a while to grasp how the new software actually works.",
+    "synonyms": [
+      "understand",
+      "seize",
+      "grip"
+    ],
+    "origin": "From Middle English graspen, to reach for or grope, related to Old English grapian, to touch.",
+    "ipa": "ɡræsp",
+    "zipf": 3.97,
+    "issues": []
+  },
+  {
+    "lemma": "hasty",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Done too quickly and without enough thought",
+    "example": "Don't make a hasty decision about the house; sleep on it first.",
+    "synonyms": [
+      "rushed",
+      "hurried",
+      "rash"
+    ],
+    "origin": "From Old French hastif, from haste, meaning urgency, a word of Germanic origin.",
+    "ipa": "ˈheɪsti",
+    "zipf": 3.29,
+    "issues": []
+  },
+  {
+    "lemma": "lenient",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not strict when punishing or enforcing rules",
+    "example": "The judge was lenient because it was the teenager's first offense.",
+    "synonyms": [
+      "merciful",
+      "tolerant",
+      "gentle"
+    ],
+    "origin": "From Latin leniens, from lenire, to soften, from lenis, mild or gentle.",
+    "ipa": "ˈliniənt",
+    "zipf": 3.13,
+    "issues": []
+  },
+  {
+    "lemma": "meager",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very small in amount; barely enough",
+    "example": "They survived the winter on a meager supply of rice and beans.",
+    "synonyms": [
+      "scanty",
+      "small",
+      "sparse"
+    ],
+    "origin": "From Old French maigre, meaning thin, from Latin macer, lean.",
+    "ipa": "ˈmiɡɚ",
+    "zipf": 3.05,
+    "issues": []
+  },
+  {
+    "lemma": "naive",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Too trusting because of little life experience",
+    "example": "I was naive enough to believe the email promising me free money.",
+    "synonyms": [
+      "innocent",
+      "gullible",
+      "trusting"
+    ],
+    "origin": "From French naïve, from Latin nativus, meaning native or natural.",
+    "ipa": "naɪˈiv",
+    "zipf": 3.75,
+    "issues": []
+  },
+  {
+    "lemma": "notion",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "An idea, belief or impression about something",
+    "example": "She rejected the notion that success depends only on talent.",
+    "synonyms": [
+      "idea",
+      "belief",
+      "concept"
+    ],
+    "origin": "From Latin notio, meaning concept or idea, from noscere, to come to know.",
+    "ipa": "ˈnoʊʃən",
+    "zipf": 4.17,
+    "issues": []
+  },
+  {
+    "lemma": "omit",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To leave something out, by choice or mistake",
+    "example": "Please don't omit your phone number when you fill in the form.",
+    "synonyms": [
+      "exclude",
+      "skip",
+      "drop"
+    ],
+    "origin": "From Latin omittere, to let go, from ob- and mittere, to send.",
+    "ipa": "oʊˈmɪt",
+    "zipf": 3.07,
+    "issues": []
+  },
+  {
+    "lemma": "ponder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To think about something carefully and at length",
+    "example": "He sat by the window and pondered whether to accept the offer.",
+    "synonyms": [
+      "consider",
+      "contemplate",
+      "reflect"
+    ],
+    "origin": "From Latin ponderare, to weigh, from pondus, meaning weight.",
+    "ipa": "ˈpɑndɚ",
+    "zipf": 3.35,
+    "issues": []
+  },
+  {
+    "lemma": "quaint",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Charming in an unusual, old-fashioned way",
+    "example": "We stayed in a quaint fishing village with cobbled streets and tiny shops.",
+    "synonyms": [
+      "charming",
+      "picturesque",
+      "sweet"
+    ],
+    "origin": "From Old French cointe, meaning clever or pretty, from Latin cognitus, known.",
+    "ipa": "kweɪnt",
+    "zipf": 3.27,
+    "issues": []
+  },
+  {
+    "lemma": "refute",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To prove that a claim is wrong",
+    "example": "The lawyer used phone records to refute the witness's version of events.",
+    "synonyms": [
+      "disprove",
+      "rebut",
+      "counter"
+    ],
+    "origin": "From Latin refutare, meaning to drive back or rebut.",
+    "ipa": "rɪˈfjut",
+    "zipf": 3.14,
+    "issues": []
+  },
+  {
+    "lemma": "serene",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Calm, peaceful and completely untroubled",
+    "example": "The lake was serene at dawn, without a single ripple on the water.",
+    "synonyms": [
+      "calm",
+      "peaceful",
+      "tranquil"
+    ],
+    "origin": "From Latin serenus, meaning clear or calm, first said of the sky and weather.",
+    "ipa": "sɚˈin",
+    "zipf": 3.27,
+    "issues": []
+  },
+  {
+    "lemma": "skeptical",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Doubting that something is true or useful",
+    "example": "Doctors were skeptical about the diet until the trial results came in.",
+    "synonyms": [
+      "doubtful",
+      "dubious",
+      "unconvinced"
+    ],
+    "origin": "From Greek skeptikos, meaning inquiring, from skeptesthai, to look or consider.",
+    "ipa": "ˈskɛptəkəl",
+    "zipf": 3.68,
+    "issues": []
+  },
+  {
+    "lemma": "stubborn",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Refusing to change your mind or give way",
+    "example": "My stubborn grandfather still refuses to use a mobile phone.",
+    "synonyms": [
+      "obstinate",
+      "headstrong",
+      "unyielding"
+    ],
+    "origin": "",
+    "ipa": "ˈstʌbɚn",
+    "zipf": 3.76,
+    "issues": [
+      "no origin"
+    ]
+  },
+  {
+    "lemma": "sturdy",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Strongly built and not easily damaged",
+    "example": "You will need sturdy boots for a trail this rocky and steep.",
+    "synonyms": [
+      "strong",
+      "solid",
+      "durable"
+    ],
+    "origin": "From Old French estourdi, meaning dazed or reckless; the sense of strongly built came later in English.",
+    "ipa": "ˈstɝdi",
+    "zipf": 3.44,
+    "issues": []
+  },
+  {
+    "lemma": "swift",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Happening or moving very quickly",
+    "example": "The company's swift response to the outage impressed its customers.",
+    "synonyms": [
+      "fast",
+      "quick",
+      "rapid"
+    ],
+    "origin": "From Old English swift, \"moving quickly\", related to swifan, \"to move in a course, sweep\".",
+    "ipa": "swɪft",
+    "zipf": 4.15,
+    "issues": []
+  },
+  {
+    "lemma": "tangible",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Real enough to be touched or clearly seen",
+    "example": "After months of training, she finally saw tangible improvement in her running times.",
+    "synonyms": [
+      "real",
+      "concrete",
+      "solid"
+    ],
+    "origin": "From Late Latin tangibilis, from Latin tangere, \"to touch\".",
+    "ipa": "ˈtændʒəbəl",
+    "zipf": 3.66,
+    "issues": []
+  },
+  {
+    "lemma": "thorough",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Done with great care and attention to every detail",
+    "example": "The mechanic gave the car a thorough inspection before the long road trip.",
+    "synonyms": [
+      "careful",
+      "complete",
+      "detailed"
+    ],
+    "origin": "From Old English thuruh, a variant of \"through\", with the sense of going from end to end.",
+    "ipa": "ˈθɝoʊ",
+    "zipf": 3.97,
+    "issues": []
+  },
+  {
+    "lemma": "trivial",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Of very little importance or value",
+    "example": "They argued for an hour over a trivial detail in the seating plan.",
+    "synonyms": [
+      "minor",
+      "petty",
+      "unimportant"
+    ],
+    "origin": "From Latin trivialis, \"commonplace\", from trivium, \"a place where three roads meet\".",
+    "ipa": "ˈtrɪviəl",
+    "zipf": 3.66,
+    "issues": []
+  },
+  {
+    "lemma": "uphold",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To support or defend a rule, decision, or principle",
+    "example": "The appeals court voted to uphold the original ruling against the company.",
+    "synonyms": [
+      "support",
+      "defend",
+      "maintain"
+    ],
+    "origin": "Formed in Middle English from up + hold, literally \"to hold up\".",
+    "ipa": "əpˈhoʊld",
+    "zipf": 3.52,
+    "issues": []
+  },
+  {
+    "lemma": "vital",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Absolutely necessary; essential for life or success",
+    "example": "Clean water is vital to the health of every community.",
+    "synonyms": [
+      "essential",
+      "crucial",
+      "necessary"
+    ],
+    "origin": "From Latin vitalis, \"of life\", from vita, \"life\".",
+    "ipa": "ˈvaɪtəl",
+    "zipf": 4.38,
+    "issues": []
+  },
+  {
+    "lemma": "wary",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Cautious about possible dangers or problems",
+    "example": "After the scam, he became wary of emails asking for his password.",
+    "synonyms": [
+      "cautious",
+      "careful",
+      "suspicious"
+    ],
+    "origin": "From the older English word ware, \"careful, aware\", from Old English waer, \"prudent, watchful\".",
+    "ipa": "ˈwɛri",
+    "zipf": 3.57,
+    "issues": []
+  },
+  {
+    "lemma": "yearn",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To want something very much, often with sadness",
+    "example": "After years in the city, she began to yearn for quiet mountain mornings.",
+    "synonyms": [
+      "long",
+      "crave",
+      "desire"
+    ],
+    "origin": "From Old English giernan, \"to strive for, desire\", from georn, \"eager\".",
+    "ipa": "jɝn",
+    "zipf": 2.97,
+    "issues": []
+  },
+  {
+    "lemma": "zeal",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Great energy and enthusiasm for a cause or goal",
+    "example": "The new volunteers tackled the beach cleanup with remarkable zeal.",
+    "synonyms": [
+      "passion",
+      "enthusiasm",
+      "fervor"
+    ],
+    "origin": "From Greek zelos, \"ardor, eager rivalry\", by way of Late Latin zelus.",
+    "ipa": "zil",
+    "zipf": 3.28,
+    "issues": []
+  },
+  {
+    "lemma": "ephemeral",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Lasting for a very short time",
+    "example": "Online fame is often ephemeral, fading as soon as the next trend arrives.",
+    "synonyms": [
+      "fleeting",
+      "brief",
+      "temporary"
+    ],
+    "origin": "From Greek ephemeros, \"lasting only a day\", from epi, \"on\", and hemera, \"day\".",
+    "ipa": "ɪˈfɛmɚəl",
+    "zipf": 2.99,
+    "issues": []
+  },
+  {
+    "lemma": "tenacious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Not giving up easily; very determined",
+    "example": "The tenacious reporter kept calling until the mayor finally agreed to an interview.",
+    "synonyms": [
+      "persistent",
+      "determined",
+      "stubborn"
+    ],
+    "origin": "From Latin tenax, \"holding fast\", from tenere, \"to hold\".",
+    "ipa": "təˈneɪʃəs",
+    "zipf": 3.04,
+    "issues": []
+  },
+  {
+    "lemma": "eloquent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Able to express ideas clearly and persuasively",
+    "example": "Her eloquent speech moved the entire audience to tears.",
+    "synonyms": [
+      "articulate",
+      "fluent",
+      "expressive"
+    ],
+    "origin": "From Latin eloquens, from eloqui, \"to speak out\" (e-, \"out\", + loqui, \"to speak\").",
+    "ipa": "ˈɛləkwənt",
+    "zipf": 3.21,
+    "issues": []
+  },
+  {
+    "lemma": "resilient",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Able to recover quickly from difficulty or setbacks",
+    "example": "Children are often more resilient than adults expect after a big move.",
+    "synonyms": [
+      "tough",
+      "strong",
+      "hardy"
+    ],
+    "origin": "From Latin resilire, \"to leap back\", from re-, \"back\", and salire, \"to jump\".",
+    "ipa": "rɪˈzɪljənt",
+    "zipf": 3.5,
+    "issues": []
+  },
+  {
+    "lemma": "meticulous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Showing extreme care about small details",
+    "example": "He kept meticulous records of every expense during the renovation.",
+    "synonyms": [
+      "careful",
+      "precise",
+      "thorough"
+    ],
+    "origin": "From Latin meticulosus, \"fearful\", from metus, \"fear\"; the sense later shifted to \"anxiously careful\".",
+    "ipa": "məˈtɪkjələs",
+    "zipf": 3.24,
+    "issues": []
+  },
+  {
+    "lemma": "ambivalent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Having mixed or conflicting feelings about something",
+    "example": "She felt ambivalent about the promotion because it meant moving abroad.",
+    "synonyms": [
+      "unsure",
+      "torn",
+      "conflicted"
+    ],
+    "origin": "From German Ambivalenz, coined by psychiatrist Eugen Bleuler around 1910 from Latin ambi-, \"both\", and valentia, \"strength\".",
+    "ipa": "æmˈbɪvələnt",
+    "zipf": 3.01,
+    "issues": []
+  },
+  {
+    "lemma": "pragmatic",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Dealing with problems in a practical, sensible way",
+    "example": "We took a pragmatic approach and fixed the cheapest problems first.",
+    "synonyms": [
+      "practical",
+      "realistic",
+      "sensible"
+    ],
+    "origin": "From Greek pragmatikos, \"fit for business\", from pragma, \"deed, thing done\".",
+    "ipa": "præɡˈmætɪk",
+    "zipf": 3.49,
+    "issues": []
+  },
+  {
+    "lemma": "candor",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The quality of being open and honest",
+    "example": "I appreciated her candor when she told me the plan would not work.",
+    "synonyms": [
+      "honesty",
+      "frankness",
+      "openness"
+    ],
+    "origin": "From Latin candor, \"whiteness, brightness, purity\", from candere, \"to shine\".",
+    "ipa": "ˈkændɚ",
+    "zipf": 2.8,
+    "issues": []
+  },
+  {
+    "lemma": "austere",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Severely plain and simple, without comfort or decoration",
+    "example": "The monk lived in an austere room with only a bed and a desk.",
+    "synonyms": [
+      "severe",
+      "stark",
+      "plain"
+    ],
+    "origin": "From Greek austeros, \"harsh, bitter\", literally \"making the tongue dry\", by way of Latin austerus.",
+    "ipa": "ɔˈstɪr",
+    "zipf": 3.0,
+    "issues": []
+  },
+  {
+    "lemma": "benevolent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Kind and wanting to do good for others",
+    "example": "A benevolent neighbor paid for the family's groceries all winter.",
+    "synonyms": [
+      "kind",
+      "generous",
+      "charitable"
+    ],
+    "origin": "From Latin bene, \"well\", and volens, \"wishing\", from velle, \"to wish\".",
+    "ipa": "bəˈnɛvələnt",
+    "zipf": 3.34,
+    "issues": []
+  },
+  {
+    "lemma": "capricious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Changing mood or behavior suddenly and without reason",
+    "example": "The capricious weather ruined our picnic three weekends in a row.",
+    "synonyms": [
+      "fickle",
+      "unpredictable",
+      "changeable"
+    ],
+    "origin": "From French capricieux, from Italian capriccio, \"a sudden start or whim\".",
+    "ipa": "kəˈprɪʃəs",
+    "zipf": 2.79,
+    "issues": []
+  },
+  {
+    "lemma": "complacent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Too satisfied with yourself to see possible dangers",
+    "example": "After three easy wins, the team grew complacent and lost badly.",
+    "synonyms": [
+      "smug",
+      "satisfied",
+      "content"
+    ],
+    "origin": "From Latin complacere, \"to please greatly\", from com-, an intensifier, and placere, \"to please\".",
+    "ipa": "kəmˈpleɪsənt",
+    "zipf": 3.19,
+    "issues": []
+  },
+  {
+    "lemma": "conundrum",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A confusing problem that is hard to solve",
+    "example": "How to cut costs without losing staff was a real conundrum for the board.",
+    "synonyms": [
+      "puzzle",
+      "riddle",
+      "dilemma"
+    ],
+    "origin": "Of uncertain origin; it appeared in English in the late 1500s, possibly as mock-Latin university slang.",
+    "ipa": "kəˈnʌndrəm",
+    "zipf": 3.0,
+    "issues": []
+  },
+  {
+    "lemma": "cryptic",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Having a hidden meaning that is hard to understand",
+    "example": "He left a cryptic note on the fridge that nobody could figure out.",
+    "synonyms": [
+      "mysterious",
+      "puzzling",
+      "obscure"
+    ],
+    "origin": "From Greek kryptikos, from kryptos, \"hidden\".",
+    "ipa": "ˈkrɪptɪk",
+    "zipf": 3.23,
+    "issues": []
+  },
+  {
+    "lemma": "daunting",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Seeming so difficult that it makes you nervous",
+    "example": "Learning a new language at fifty felt daunting, but she enrolled anyway.",
+    "synonyms": [
+      "intimidating",
+      "scary",
+      "overwhelming"
+    ],
+    "origin": "From the verb daunt, from Old French danter, from Latin domitare, \"to tame\".",
+    "ipa": "ˈdɔntɪŋ",
+    "zipf": 3.4,
+    "issues": []
+  },
+  {
+    "lemma": "debacle",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A sudden and complete failure or disaster",
+    "example": "The product launch turned into a debacle when the website crashed.",
+    "synonyms": [
+      "disaster",
+      "fiasco",
+      "catastrophe"
+    ],
+    "origin": "From French débâcle, \"the breaking up of ice in a river\", from débâcler, \"to unbar\".",
+    "ipa": "dəˈbɑkəl",
+    "zipf": 3.21,
+    "issues": []
+  },
+  {
+    "lemma": "diffident",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Shy and lacking confidence in your own abilities",
+    "example": "The diffident new hire rarely spoke up in meetings despite his good ideas.",
+    "synonyms": [
+      "shy",
+      "timid",
+      "bashful"
+    ],
+    "origin": "From Latin diffidere, \"to mistrust\", from dis-, \"away\", and fidere, \"to trust\".",
+    "ipa": "",
+    "zipf": 2.1,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "disparate",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Very different from each other; hard to compare",
+    "example": "The festival brought together disparate styles, from jazz to heavy metal.",
+    "synonyms": [
+      "different",
+      "distinct",
+      "diverse"
+    ],
+    "origin": "From Latin disparatus, past participle of disparare, \"to separate\", from dis-, \"apart\", and parare, \"to prepare\".",
+    "ipa": "ˈdɪspɚɪt",
+    "zipf": 3.26,
+    "issues": []
+  },
+  {
+    "lemma": "dogmatic",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Insisting your beliefs are right without considering others",
+    "example": "He was so dogmatic about his diet that dinner parties became awkward.",
+    "synonyms": [
+      "rigid",
+      "opinionated",
+      "stubborn"
+    ],
+    "origin": "From Greek dogma, \"opinion, tenet\", from dokein, \"to seem, to think\".",
+    "ipa": "dɑɡˈmætɪk",
+    "zipf": 2.93,
+    "issues": []
+  },
+  {
+    "lemma": "elusive",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Hard to find, catch, or achieve",
+    "example": "A good night's sleep remained elusive during the noisy construction next door.",
+    "synonyms": [
+      "slippery",
+      "evasive",
+      "fleeting"
+    ],
+    "origin": "From Latin eludere, \"to escape from, to outplay\", from e-, \"out\", and ludere, \"to play\".",
+    "ipa": "ɪˈlusɪv",
+    "zipf": 3.47,
+    "issues": []
+  },
+  {
+    "lemma": "emulate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To try to match someone you admire",
+    "example": "Young players often emulate the stars they watch on television.",
+    "synonyms": [
+      "imitate",
+      "copy",
+      "mirror"
+    ],
+    "origin": "From Latin aemulari, \"to rival, strive to equal\", from aemulus, \"rival\".",
+    "ipa": "ˈɛmjəleɪt",
+    "zipf": 3.41,
+    "issues": []
+  },
+  {
+    "lemma": "enigma",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A person or thing that is mysterious and puzzling",
+    "example": "Even after ten years as neighbors, he remained an enigma to us.",
+    "synonyms": [
+      "mystery",
+      "puzzle",
+      "riddle"
+    ],
+    "origin": "From Greek ainigma, \"riddle\", from ainissesthai, \"to speak in riddles\", from ainos, \"fable\".",
+    "ipa": "ɪˈnɪɡmə",
+    "zipf": 3.24,
+    "issues": []
+  },
+  {
+    "lemma": "erratic",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Not regular or predictable in movement or behavior",
+    "example": "His erratic driving made the passengers grip their seats.",
+    "synonyms": [
+      "unpredictable",
+      "irregular",
+      "inconsistent"
+    ],
+    "origin": "From Latin erraticus, \"wandering\", from errare, \"to wander, stray\".",
+    "ipa": "ɪˈrætɪk",
+    "zipf": 3.34,
+    "issues": []
+  },
+  {
+    "lemma": "exacerbate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To make a bad situation even worse",
+    "example": "Skipping meals and sleep will only exacerbate your headaches.",
+    "synonyms": [
+      "worsen",
+      "aggravate",
+      "intensify"
+    ],
+    "origin": "From Latin exacerbare, \"to irritate\", from ex-, \"thoroughly\", and acerbus, \"harsh, bitter\".",
+    "ipa": "ɪɡˈzæsɚbeɪt",
+    "zipf": 2.92,
+    "issues": []
+  },
+  {
+    "lemma": "fastidious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Very fussy about details, cleanliness, or accuracy",
+    "example": "She is fastidious about her kitchen and wipes every counter twice.",
+    "synonyms": [
+      "fussy",
+      "picky",
+      "particular"
+    ],
+    "origin": "From Latin fastidiosus, \"disdainful, squeamish\", from fastidium, \"loathing\".",
+    "ipa": "fæˈstɪdiəs",
+    "zipf": 2.64,
+    "issues": []
+  },
+  {
+    "lemma": "fervent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Having or showing very strong, sincere feeling",
+    "example": "He has been a fervent supporter of the local football club since childhood.",
+    "synonyms": [
+      "passionate",
+      "ardent",
+      "intense"
+    ],
+    "origin": "From Latin fervens, from fervere, \"to boil, glow\".",
+    "ipa": "ˈfɝvənt",
+    "zipf": 3.04,
+    "issues": []
+  },
+  {
+    "lemma": "futile",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Having no chance of producing a useful result",
+    "example": "Arguing with the referee proved futile, and the goal still counted.",
+    "synonyms": [
+      "pointless",
+      "useless",
+      "hopeless"
+    ],
+    "origin": "From Latin futilis, \"leaky, worthless\", literally \"pouring out easily\".",
+    "ipa": "ˈfjutəl",
+    "zipf": 3.39,
+    "issues": []
+  },
+  {
+    "lemma": "garrulous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Talking too much, especially about unimportant things",
+    "example": "Our garrulous taxi driver told us his life story before we reached the airport.",
+    "synonyms": [
+      "talkative",
+      "chatty",
+      "wordy"
+    ],
+    "origin": "From Latin garrulus, from garrire, \"to chatter\".",
+    "ipa": "ˈɡɛrələs",
+    "zipf": 2.11,
+    "issues": []
+  },
+  {
+    "lemma": "gregarious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Enjoying the company of other people; sociable",
+    "example": "My gregarious sister makes friends within minutes at any party.",
+    "synonyms": [
+      "sociable",
+      "outgoing",
+      "friendly"
+    ],
+    "origin": "From Latin gregarius, \"belonging to a flock\", from grex, \"flock, herd\".",
+    "ipa": "ɡrəˈɡɛriəs",
+    "zipf": 2.71,
+    "issues": []
+  },
+  {
+    "lemma": "hackneyed",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Used so often that it no longer feels fresh",
+    "example": "The movie relied on hackneyed jokes that everyone had heard before.",
+    "synonyms": [
+      "stale",
+      "trite",
+      "tired"
+    ],
+    "origin": "From hackney, a horse kept for hire and so overworked, named after Hackney, now part of London.",
+    "ipa": "ˈhæknid",
+    "zipf": 2.4,
+    "issues": []
+  },
+  {
+    "lemma": "impeccable",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Perfect, with no faults or mistakes",
+    "example": "The hotel's service was impeccable from our arrival to our departure.",
+    "synonyms": [
+      "flawless",
+      "perfect",
+      "spotless"
+    ],
+    "origin": "From Latin impeccabilis, \"not liable to sin\", from in-, \"not\", and peccare, \"to sin\".",
+    "ipa": "ɪmˈpɛkəbəl",
+    "zipf": 3.25,
+    "issues": []
+  },
+  {
+    "lemma": "incessant",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Continuing without stopping, often in an annoying way",
+    "example": "The incessant barking from next door kept us awake all night.",
+    "synonyms": [
+      "constant",
+      "endless",
+      "nonstop"
+    ],
+    "origin": "From Late Latin incessans, from in-, \"not\", and cessare, \"to cease\".",
+    "ipa": "ɪnˈsɛsənt",
+    "zipf": 3.03,
+    "issues": []
+  },
+  {
+    "lemma": "indolent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Wanting to avoid effort; habitually lazy",
+    "example": "The heat made everyone indolent, and nothing got done that afternoon.",
+    "synonyms": [
+      "lazy",
+      "idle",
+      "sluggish"
+    ],
+    "origin": "From Late Latin indolens, \"feeling no pain\", from in-, \"not\", and dolere, \"to suffer pain\".",
+    "ipa": "ˈɪndələnt",
+    "zipf": 2.26,
+    "issues": []
+  },
+  {
+    "lemma": "inept",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Having or showing no skill; clumsy",
+    "example": "His inept attempt at fixing the sink flooded the whole kitchen.",
+    "synonyms": [
+      "clumsy",
+      "incompetent",
+      "unskilled"
+    ],
+    "origin": "From Latin ineptus, \"unsuitable, absurd\", from in-, \"not\", and aptus, \"fit\".",
+    "ipa": "ɪˈnɛpt",
+    "zipf": 3.13,
+    "issues": []
+  },
+  {
+    "lemma": "innate",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Present from birth rather than learned",
+    "example": "She has an innate sense of rhythm that no teacher could give her.",
+    "synonyms": [
+      "natural",
+      "inborn",
+      "instinctive"
+    ],
+    "origin": "From Latin innatus, \"inborn\", from in-, \"in\", and nasci, \"to be born\".",
+    "ipa": "ɪˈneɪt",
+    "zipf": 3.48,
+    "issues": []
+  },
+  {
+    "lemma": "insipid",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Lacking flavor, interest, or energy; dull",
+    "example": "The soup was so insipid that even extra salt could not save it.",
+    "synonyms": [
+      "bland",
+      "dull",
+      "tasteless"
+    ],
+    "origin": "From Late Latin insipidus, \"tasteless\", from in-, \"not\", and sapidus, \"tasty\", from sapere, \"to taste\".",
+    "ipa": "ɪnˈsɪpəd",
+    "zipf": 2.64,
+    "issues": []
+  },
+  {
+    "lemma": "intrepid",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Fearless and adventurous in the face of danger",
+    "example": "The intrepid hikers crossed the glacier despite the approaching storm.",
+    "synonyms": [
+      "fearless",
+      "brave",
+      "bold"
+    ],
+    "origin": "From Latin intrepidus, from in-, \"not\", and trepidus, \"alarmed\".",
+    "ipa": "ɪnˈtrɛpəd",
+    "zipf": 3.04,
+    "issues": []
+  },
+  {
+    "lemma": "jovial",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Cheerful, friendly, and full of good humor",
+    "example": "Our jovial host greeted every guest with a laugh and a hug.",
+    "synonyms": [
+      "cheerful",
+      "jolly",
+      "merry"
+    ],
+    "origin": "From Late Latin jovialis, \"of Jupiter\", since people born under that planet were thought to be cheerful.",
+    "ipa": "ˈdʒoʊviəl",
+    "zipf": 2.74,
+    "issues": []
+  },
+  {
+    "lemma": "judicious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Showing good sense in making decisions",
+    "example": "A judicious use of spices can transform a simple dish.",
+    "synonyms": [
+      "wise",
+      "sensible",
+      "prudent"
+    ],
+    "origin": "From French judicieux, from Latin judicium, \"judgment\", from judex, \"judge\".",
+    "ipa": "dʒuˈdɪʃəs",
+    "zipf": 2.68,
+    "issues": []
+  },
+  {
+    "lemma": "lament",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To express deep sadness or regret about something",
+    "example": "Fans still lament the closing of the old cinema downtown.",
+    "synonyms": [
+      "mourn",
+      "grieve",
+      "regret"
+    ],
+    "origin": "From Latin lamentari, \"to wail, moan\", from lamentum, \"a wailing\".",
+    "ipa": "ləˈmɛnt",
+    "zipf": 3.25,
+    "issues": []
+  },
+  {
+    "lemma": "lethargic",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Lacking energy and slow to move or act",
+    "example": "I always feel lethargic after eating a heavy lunch at my desk.",
+    "synonyms": [
+      "sluggish",
+      "tired",
+      "drowsy"
+    ],
+    "origin": "From Greek lethargos, \"forgetful\", from lethe, \"forgetfulness\", and argos, \"idle\".",
+    "ipa": "ləˈθɑrdʒɪk",
+    "zipf": 2.78,
+    "issues": []
+  },
+  {
+    "lemma": "loquacious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Tending to talk a great deal",
+    "example": "The usually quiet professor turned loquacious when asked about her research.",
+    "synonyms": [
+      "talkative",
+      "chatty",
+      "wordy"
+    ],
+    "origin": "From Latin loquax, \"talkative\", from loqui, \"to speak\".",
+    "ipa": "loʊˈkweɪʃəs",
+    "zipf": 2.11,
+    "issues": []
+  },
+  {
+    "lemma": "malleable",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Easily shaped or influenced without breaking",
+    "example": "Gold is so malleable that it can be hammered into sheets thinner than paper.",
+    "synonyms": [
+      "flexible",
+      "pliable",
+      "adaptable"
+    ],
+    "origin": "From medieval Latin malleabilis, \"able to be hammered,\" from Latin malleus, \"hammer.\"",
+    "ipa": "ˈmæliəbəl",
+    "zipf": 2.82,
+    "issues": []
+  },
+  {
+    "lemma": "mitigate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To make something less severe or harmful",
+    "example": "Planting trees along the river helped mitigate the damage from seasonal flooding.",
+    "synonyms": [
+      "lessen",
+      "ease",
+      "reduce"
+    ],
+    "origin": "From Latin mitigare, \"to soften,\" from mitis, \"mild, gentle.\"",
+    "ipa": "ˈmɪtəɡeɪt",
+    "zipf": 3.54,
+    "issues": []
+  },
+  {
+    "lemma": "morose",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Gloomy, sullen, and unwilling to talk",
+    "example": "He grew morose after the layoffs and barely spoke to anyone at lunch.",
+    "synonyms": [
+      "gloomy",
+      "sullen",
+      "glum"
+    ],
+    "origin": "From Latin morosus, \"peevish, hard to please,\" from mos, \"manner, habit.\"",
+    "ipa": "mɚˈoʊs",
+    "zipf": 2.44,
+    "issues": []
+  },
+  {
+    "lemma": "nonchalant",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Calm and relaxed, as if not concerned",
+    "example": "She gave a nonchalant shrug when asked about the interview she had just aced.",
+    "synonyms": [
+      "casual",
+      "calm",
+      "relaxed"
+    ],
+    "origin": "From French nonchalant, from non, \"not,\" and chaloir, \"to care,\" ultimately from Latin calere, \"to be warm.\"",
+    "ipa": "nɑnʃəˈlɑnt",
+    "zipf": 2.74,
+    "issues": []
+  },
+  {
+    "lemma": "nostalgia",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A warm, wistful longing for the past",
+    "example": "The smell of fresh bread filled him with nostalgia for his grandmother's kitchen.",
+    "synonyms": [
+      "longing",
+      "yearning",
+      "wistfulness"
+    ],
+    "origin": "Coined in 1688 by Swiss physician Johannes Hofer from Greek nostos, \"homecoming,\" and algos, \"pain.\"",
+    "ipa": "nɔˈstældʒə",
+    "zipf": 3.62,
+    "issues": []
+  },
+  {
+    "lemma": "nuance",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A small, subtle difference in meaning or tone",
+    "example": "A good translator captures every nuance of the original author's voice.",
+    "synonyms": [
+      "subtlety",
+      "shade",
+      "distinction"
+    ],
+    "origin": "From French nuance, \"shade of color,\" from nue, \"cloud,\" from Latin nubes.",
+    "ipa": "ˈnuɑns",
+    "zipf": 3.09,
+    "issues": []
+  },
+  {
+    "lemma": "obstinate",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Stubbornly refusing to change one's mind",
+    "example": "The obstinate toddler refused to wear a coat despite the freezing wind.",
+    "synonyms": [
+      "stubborn",
+      "headstrong",
+      "willful"
+    ],
+    "origin": "From Latin obstinatus, past participle of obstinare, \"to persist, stand firm.\"",
+    "ipa": "ˈɑbstənət",
+    "zipf": 2.73,
+    "issues": []
+  },
+  {
+    "lemma": "ominous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Suggesting that something bad will happen",
+    "example": "Ominous dark clouds gathered over the stadium just before the match began.",
+    "synonyms": [
+      "threatening",
+      "menacing",
+      "sinister"
+    ],
+    "origin": "From Latin ominosus, from omen, \"a sign of what is to come.\"",
+    "ipa": "ˈɑmənəs",
+    "zipf": 3.4,
+    "issues": []
+  },
+  {
+    "lemma": "opulent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Richly luxurious and showing great wealth",
+    "example": "The hotel lobby was opulent, with marble floors and crystal chandeliers overhead.",
+    "synonyms": [
+      "luxurious",
+      "lavish",
+      "rich"
+    ],
+    "origin": "From Latin opulentus, \"wealthy,\" from ops, \"wealth, resources.\"",
+    "ipa": "ˈɑpjələnt",
+    "zipf": 2.91,
+    "issues": []
+  },
+  {
+    "lemma": "ostentatious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Showy in a way meant to impress",
+    "example": "He arrived in an ostentatious gold sports car that nobody could ignore.",
+    "synonyms": [
+      "showy",
+      "flashy",
+      "pretentious"
+    ],
+    "origin": "From Latin ostentare, \"to display,\" an intensive form of ostendere, \"to show.\"",
+    "ipa": "ɑstənˈteɪʃəs",
+    "zipf": 2.68,
+    "issues": []
+  },
+  {
+    "lemma": "paradox",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A statement that seems contradictory yet may be true",
+    "example": "It is a paradox that the more choices we have, the less satisfied we feel.",
+    "synonyms": [
+      "contradiction",
+      "puzzle",
+      "riddle"
+    ],
+    "origin": "From Greek paradoxos, \"contrary to expectation,\" from para, \"beyond,\" and doxa, \"opinion.\"",
+    "ipa": "ˈpɛrədɑks",
+    "zipf": 3.63,
+    "issues": []
+  },
+  {
+    "lemma": "paucity",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A smallness of amount; not enough of something",
+    "example": "The paucity of evidence forced the detectives to close the case.",
+    "synonyms": [
+      "scarcity",
+      "shortage",
+      "lack"
+    ],
+    "origin": "From Latin paucitas, from paucus, \"few, little.\"",
+    "ipa": "ˈpɔsəti",
+    "zipf": 2.61,
+    "issues": []
+  },
+  {
+    "lemma": "pensive",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Deep in quiet, often slightly sad thought",
+    "example": "She sat by the window, pensive, watching the rain streak down the glass.",
+    "synonyms": [
+      "thoughtful",
+      "reflective",
+      "contemplative"
+    ],
+    "origin": "From Old French pensif, from penser, \"to think,\" from Latin pensare, \"to weigh, consider.\"",
+    "ipa": "ˈpɛnsɪv",
+    "zipf": 2.63,
+    "issues": []
+  },
+  {
+    "lemma": "pervasive",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Spreading widely through every part of something",
+    "example": "The pervasive smell of smoke lingered in the house for weeks after the fire.",
+    "synonyms": [
+      "widespread",
+      "prevalent",
+      "universal"
+    ],
+    "origin": "From Latin pervadere, \"to go through,\" from per, \"through,\" and vadere, \"to go.\"",
+    "ipa": "pɚˈveɪsɪv",
+    "zipf": 3.39,
+    "issues": []
+  },
+  {
+    "lemma": "placid",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Calm and peaceful, not easily upset",
+    "example": "The lake was so placid at dawn that it mirrored the mountains perfectly.",
+    "synonyms": [
+      "calm",
+      "peaceful",
+      "tranquil"
+    ],
+    "origin": "From Latin placidus, \"gentle, calm,\" from placere, \"to please.\"",
+    "ipa": "ˈplæsəd",
+    "zipf": 3.01,
+    "issues": []
+  },
+  {
+    "lemma": "poignant",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Touching the emotions deeply, often with sadness",
+    "example": "The film ends with a poignant scene of the soldier reading his daughter's letter.",
+    "synonyms": [
+      "moving",
+      "touching",
+      "emotional"
+    ],
+    "origin": "From Old French poignant, \"pricking,\" from poindre, from Latin pungere, \"to prick, sting.\"",
+    "ipa": "ˈpɔɪnjənt",
+    "zipf": 3.27,
+    "issues": []
+  },
+  {
+    "lemma": "precarious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Dangerously unstable or likely to fall or fail",
+    "example": "The ladder stood at a precarious angle against the icy roof.",
+    "synonyms": [
+      "unstable",
+      "risky",
+      "shaky"
+    ],
+    "origin": "From Latin precarius, \"obtained by begging,\" and so dependent on another's favor, from prex, \"prayer.\"",
+    "ipa": "priˈkɛriəs",
+    "zipf": 3.27,
+    "issues": []
+  },
+  {
+    "lemma": "prolific",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Producing a great deal of work or offspring",
+    "example": "The prolific novelist published three books in a single year.",
+    "synonyms": [
+      "productive",
+      "fruitful",
+      "fertile"
+    ],
+    "origin": "From medieval Latin prolificus, from Latin proles, \"offspring,\" and facere, \"to make.\"",
+    "ipa": "proʊˈlɪfɪk",
+    "zipf": 3.6,
+    "issues": []
+  },
+  {
+    "lemma": "quandary",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A state of uncertainty over a difficult choice",
+    "example": "Two great job offers left her in a quandary about where to live.",
+    "synonyms": [
+      "dilemma",
+      "predicament",
+      "puzzle"
+    ],
+    "origin": "",
+    "ipa": "ˈkwɑndɚi",
+    "zipf": 2.6,
+    "issues": [
+      "no origin"
+    ]
+  },
+  {
+    "lemma": "rancor",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Deep, long-lasting bitterness or resentment",
+    "example": "Years after the divorce, they could finally talk to each other without rancor.",
+    "synonyms": [
+      "bitterness",
+      "resentment",
+      "spite"
+    ],
+    "origin": "From Late Latin rancor, \"rancidness, bitterness,\" from Latin rancere, \"to stink, be rancid.\"",
+    "ipa": "ˈræŋkɚ",
+    "zipf": 2.51,
+    "issues": []
+  },
+  {
+    "lemma": "reticent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Unwilling to speak freely or share thoughts",
+    "example": "He was reticent about his past and changed the subject whenever it came up.",
+    "synonyms": [
+      "reserved",
+      "quiet",
+      "guarded"
+    ],
+    "origin": "From Latin reticere, \"to keep silent,\" from re-, an intensifier, and tacere, \"to be silent.\"",
+    "ipa": "ˈrɛtɪsənt",
+    "zipf": 2.62,
+    "issues": []
+  },
+  {
+    "lemma": "revere",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To feel deep respect and admiration for",
+    "example": "Students revere the old professor for her wisdom and kindness.",
+    "synonyms": [
+      "respect",
+      "admire",
+      "honor"
+    ],
+    "origin": "From Latin revereri, \"to stand in awe of,\" from re-, an intensifier, and vereri, \"to fear, respect.\"",
+    "ipa": "rɪˈvɪr",
+    "zipf": 3.09,
+    "issues": []
+  },
+  {
+    "lemma": "sagacious",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Showing keen judgment and deep wisdom",
+    "example": "Her sagacious advice saved the company from a disastrous merger.",
+    "synonyms": [
+      "wise",
+      "shrewd",
+      "astute"
+    ],
+    "origin": "From Latin sagax, \"keen-scented, quick to perceive.\"",
+    "ipa": "",
+    "zipf": 1.8,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "scrutinize",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To examine something very closely and carefully",
+    "example": "Auditors scrutinized every receipt before approving the expense report.",
+    "synonyms": [
+      "examine",
+      "inspect",
+      "study"
+    ],
+    "origin": "From Latin scrutinium, \"a search,\" from scrutari, \"to search, examine,\" originally to sort through scruta, \"rubbish.\"",
+    "ipa": "ˈskrutənaɪz",
+    "zipf": 2.76,
+    "issues": []
+  },
+  {
+    "lemma": "serendipity",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The luck of making pleasant discoveries by chance",
+    "example": "By pure serendipity, she met her future business partner on a delayed flight.",
+    "synonyms": [
+      "luck",
+      "chance",
+      "fortune"
+    ],
+    "origin": "Coined by Horace Walpole in 1754 from the Persian tale The Three Princes of Serendip, Serendip being an old name for Sri Lanka.",
+    "ipa": "sɛrənˈdɪpɪti",
+    "zipf": 2.74,
+    "issues": []
+  },
+  {
+    "lemma": "solace",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Comfort found in a time of sadness",
+    "example": "After the funeral, he found solace in long walks along the beach.",
+    "synonyms": [
+      "comfort",
+      "consolation",
+      "relief"
+    ],
+    "origin": "From Old French solas, from Latin solacium, from solari, \"to console.\"",
+    "ipa": "ˈsɑləs",
+    "zipf": 3.28,
+    "issues": []
+  },
+  {
+    "lemma": "squander",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To waste money, time, or a chance foolishly",
+    "example": "He squandered his entire inheritance on gambling within two years.",
+    "synonyms": [
+      "waste",
+      "misspend",
+      "misuse"
+    ],
+    "origin": "",
+    "ipa": "ˈskwɑndɚ",
+    "zipf": 2.74,
+    "issues": [
+      "no origin"
+    ]
+  },
+  {
+    "lemma": "stoic",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Enduring pain or hardship without complaining",
+    "example": "She stayed stoic through the long treatment, never letting her fear show.",
+    "synonyms": [
+      "patient",
+      "impassive",
+      "resigned"
+    ],
+    "origin": "From Greek stoa, \"porch,\" after the Painted Porch in Athens where the philosopher Zeno taught.",
+    "ipa": "ˈstoʊɪk",
+    "zipf": 3.15,
+    "issues": []
+  },
+  {
+    "lemma": "succinct",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Expressed clearly in very few words",
+    "example": "Keep your summary succinct; the board has only five minutes to read it.",
+    "synonyms": [
+      "concise",
+      "brief",
+      "compact"
+    ],
+    "origin": "From Latin succinctus, \"tucked up,\" from sub, \"under,\" and cingere, \"to gird.\"",
+    "ipa": "səkˈsɪŋkt",
+    "zipf": 2.9,
+    "issues": []
+  },
+  {
+    "lemma": "superfluous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "More than is needed; unnecessary",
+    "example": "The editor cut every superfluous word until the essay fit on one page.",
+    "synonyms": [
+      "unnecessary",
+      "excess",
+      "redundant"
+    ],
+    "origin": "From Latin superfluus, \"overflowing,\" from super, \"over,\" and fluere, \"to flow.\"",
+    "ipa": "ˈsupɚflwəs",
+    "zipf": 3.0,
+    "issues": []
+  },
+  {
+    "lemma": "taciturn",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Saying very little; quiet by nature",
+    "example": "Our taciturn neighbor nods hello but has never spoken a full sentence to us.",
+    "synonyms": [
+      "quiet",
+      "reserved",
+      "silent"
+    ],
+    "origin": "From Latin taciturnus, from tacitus, \"silent,\" from tacere, \"to be silent.\"",
+    "ipa": "ˈtæsɪtɚn",
+    "zipf": 2.37,
+    "issues": []
+  },
+  {
+    "lemma": "tenuous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Very weak, thin, or slight; easily broken",
+    "example": "The link between the suspect and the crime was tenuous at best.",
+    "synonyms": [
+      "weak",
+      "flimsy",
+      "slight"
+    ],
+    "origin": "From Latin tenuis, \"thin.\"",
+    "ipa": "ˈtɛnjəwəs",
+    "zipf": 3.02,
+    "issues": []
+  },
+  {
+    "lemma": "trepidation",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A feeling of fear about what may happen",
+    "example": "With some trepidation, she opened the envelope containing her exam results.",
+    "synonyms": [
+      "fear",
+      "anxiety",
+      "dread"
+    ],
+    "origin": "From Latin trepidare, \"to tremble, be agitated,\" from trepidus, \"alarmed.\"",
+    "ipa": "trɛpɪˈdeɪʃən",
+    "zipf": 2.72,
+    "issues": []
+  },
+  {
+    "lemma": "ubiquitous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Seeming to be found everywhere at once",
+    "example": "Smartphones have become so ubiquitous that public payphones have almost vanished.",
+    "synonyms": [
+      "omnipresent",
+      "widespread",
+      "universal"
+    ],
+    "origin": "From Latin ubique, \"everywhere,\" from ubi, \"where.\"",
+    "ipa": "juˈbɪkwɪtəs",
+    "zipf": 3.42,
+    "issues": []
+  },
+  {
+    "lemma": "venerate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To honor with deep, almost religious respect",
+    "example": "Many cultures venerate their elders and seek their guidance on major decisions.",
+    "synonyms": [
+      "revere",
+      "honor",
+      "worship"
+    ],
+    "origin": "From Latin venerari, \"to worship, revere,\" from venus, \"love, desire.\"",
+    "ipa": "ˈvɛnɚeɪt",
+    "zipf": 2.28,
+    "issues": []
+  },
+  {
+    "lemma": "vindicate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To prove someone right or clear of blame",
+    "example": "New DNA evidence vindicated the man after twelve years in prison.",
+    "synonyms": [
+      "clear",
+      "justify",
+      "absolve"
+    ],
+    "origin": "From Latin vindicare, \"to claim, avenge, set free,\" from vindex, \"claimant, avenger.\"",
+    "ipa": "ˈvɪndəkeɪt",
+    "zipf": 2.54,
+    "issues": []
+  },
+  {
+    "lemma": "volatile",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Likely to change suddenly and unpredictably",
+    "example": "Investors are nervous because the stock market has been volatile all month.",
+    "synonyms": [
+      "unstable",
+      "unpredictable",
+      "erratic"
+    ],
+    "origin": "From Latin volatilis, \"flying, fleeting,\" from volare, \"to fly.\"",
+    "ipa": "ˈvɑlətəl",
+    "zipf": 3.72,
+    "issues": []
+  },
+  {
+    "lemma": "whimsical",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Playfully odd or fanciful in an appealing way",
+    "example": "The café is decorated with whimsical teapots shaped like animals.",
+    "synonyms": [
+      "playful",
+      "fanciful",
+      "quirky"
+    ],
+    "origin": "From whim, a shortening of the older English whim-wham, \"fanciful object,\" itself of unknown origin.",
+    "ipa": "ˈwɪmzɪkəl",
+    "zipf": 3.1,
+    "issues": []
+  },
+  {
+    "lemma": "quixotic",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Idealistic in a wildly impractical way",
+    "example": "His quixotic plan to end traffic by giving everyone a bicycle amused the council.",
+    "synonyms": [
+      "idealistic",
+      "impractical",
+      "romantic"
+    ],
+    "origin": "From Don Quixote, the deluded, chivalry-obsessed hero of Miguel de Cervantes's novel, first published in 1605.",
+    "ipa": "kwɪkˈsɑtɪk",
+    "zipf": 2.33,
+    "issues": []
+  },
+  {
+    "lemma": "numinous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Having a mysterious, spiritual, or holy quality",
+    "example": "Standing alone in the ancient cathedral, she felt a numinous presence around her.",
+    "synonyms": [
+      "spiritual",
+      "sacred",
+      "mystical"
+    ],
+    "origin": "From Latin numen, \"divine will,\" literally \"a nod\" of a god.",
+    "ipa": "",
+    "zipf": 2.0,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "lucubration",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Long, hard study or writing, especially at night",
+    "example": "Her thesis was the product of months of late-night lucubration in the library.",
+    "synonyms": [
+      "study",
+      "research",
+      "scholarship"
+    ],
+    "origin": "From Latin lucubrare, \"to work by lamplight,\" from lux, \"light.\"",
+    "ipa": "",
+    "zipf": 0.0,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "logophile",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A person who loves words",
+    "example": "A true logophile, he reads the dictionary for fun on weekends.",
+    "synonyms": [
+      "wordsmith",
+      "bookworm",
+      "linguist"
+    ],
+    "origin": "From Greek logos, \"word,\" and philos, \"loving.\"",
+    "ipa": "",
+    "zipf": 0.0,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "petrichor",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "The pleasant earthy smell of rain on dry ground",
+    "example": "After weeks of drought, the petrichor rising from the garden felt like a gift.",
+    "synonyms": [
+      "scent",
+      "aroma",
+      "fragrance"
+    ],
+    "origin": "Coined in 1964 by Australian scientists Isabel Bear and Richard Thomas from Greek petra, \"stone,\" and ichor, the fluid in the veins of the gods.",
+    "ipa": "",
+    "zipf": 1.6,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "mellifluous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Sweet and smooth to hear, like honey",
+    "example": "The narrator's mellifluous voice made even the tax documentary a pleasure to hear.",
+    "synonyms": [
+      "smooth",
+      "sweet",
+      "melodious"
+    ],
+    "origin": "From Latin mellifluus, from mel, \"honey,\" and fluere, \"to flow.\"",
+    "ipa": "",
+    "zipf": 2.08,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "perspicacious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Quick to notice and understand things clearly",
+    "example": "A perspicacious editor spotted the plot flaw that everyone else had missed.",
+    "synonyms": [
+      "perceptive",
+      "shrewd",
+      "astute"
+    ],
+    "origin": "From Latin perspicax, \"sharp-sighted,\" from perspicere, \"to see through.\"",
+    "ipa": "pɚspəˈkeɪʃəs",
+    "zipf": 1.7,
+    "issues": []
+  },
+  {
+    "lemma": "obsequious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Too eager to please or obey someone",
+    "example": "The obsequious waiter laughed at every joke the wealthy customer made.",
+    "synonyms": [
+      "fawning",
+      "servile",
+      "submissive"
+    ],
+    "origin": "From Latin obsequiosus, \"compliant,\" from obsequi, \"to comply,\" from ob, \"toward,\" and sequi, \"to follow.\"",
+    "ipa": "əbˈsikwiəs",
+    "zipf": 2.14,
+    "issues": []
+  },
+  {
+    "lemma": "pusillanimous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Lacking courage; timid and easily frightened",
+    "example": "The pusillanimous manager refused to defend his team when the director blamed them.",
+    "synonyms": [
+      "cowardly",
+      "timid",
+      "fearful"
+    ],
+    "origin": "From Latin pusillus, \"very small,\" and animus, \"spirit, mind.\"",
+    "ipa": "pjusəˈlænəməs",
+    "zipf": 1.78,
+    "issues": []
+  },
+  {
+    "lemma": "recalcitrant",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Stubbornly resisting authority or control",
+    "example": "The recalcitrant mule refused to move no matter how hard the farmer pulled.",
+    "synonyms": [
+      "defiant",
+      "unruly",
+      "stubborn"
+    ],
+    "origin": "From Latin recalcitrare, \"to kick back,\" from calx, \"heel.\"",
+    "ipa": "rɪˈkælsɪtrənt",
+    "zipf": 2.55,
+    "issues": []
+  },
+  {
+    "lemma": "sycophant",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Someone who flatters powerful people to gain favor",
+    "example": "The CEO surrounded himself with sycophants who praised every bad idea he had.",
+    "synonyms": [
+      "flatterer",
+      "toady",
+      "lackey"
+    ],
+    "origin": "From Greek sykophantes, \"informer, slanderer,\" apparently from sykon, \"fig,\" and phainein, \"to show.\"",
+    "ipa": "",
+    "zipf": 2.2,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "truculent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Quick to argue or fight; aggressively defiant",
+    "example": "The truculent passenger shouted at the crew when asked to stow his bag.",
+    "synonyms": [
+      "hostile",
+      "aggressive",
+      "combative"
+    ],
+    "origin": "From Latin truculentus, from trux, \"fierce, savage.\"",
+    "ipa": "ˈtrʌkjələnt",
+    "zipf": 2.01,
+    "issues": []
+  },
+  {
+    "lemma": "vicissitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A change of fortune, usually an unwelcome one",
+    "example": "Their friendship survived every vicissitude of war, illness, and distance.",
+    "synonyms": [
+      "change",
+      "upheaval",
+      "fluctuation"
+    ],
+    "origin": "From Latin vicissitudo, from vicissim, \"in turn,\" from vicis, \"a turn, change.\"",
+    "ipa": "vɪˈsɪsɪtud",
+    "zipf": 1.34,
+    "issues": []
+  },
+  {
+    "lemma": "pulchritude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Great physical beauty, especially of a person",
+    "example": "The magazine praised the actor's pulchritude but said little about his talent.",
+    "synonyms": [
+      "beauty",
+      "loveliness",
+      "attractiveness"
+    ],
+    "origin": "From Latin pulchritudo, from pulcher, meaning 'beautiful'.",
+    "ipa": "",
+    "zipf": 1.36,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "obfuscate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To make something deliberately unclear or hard to understand",
+    "example": "The company used dense legal jargon to obfuscate the real cost of the loan.",
+    "synonyms": [
+      "obscure",
+      "confuse",
+      "muddle"
+    ],
+    "origin": "From Late Latin obfuscare, 'to darken', from ob- 'over' and fuscus 'dark'.",
+    "ipa": "ˈɑbfəskeɪt",
+    "zipf": 2.28,
+    "issues": []
+  },
+  {
+    "lemma": "insouciant",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Relaxed and unworried, showing a casual lack of concern",
+    "example": "She gave an insouciant shrug and walked into the exam without any notes.",
+    "synonyms": [
+      "carefree",
+      "nonchalant",
+      "breezy"
+    ],
+    "origin": "From French insouciant, from in- 'not' and soucier 'to worry', ultimately from Latin sollicitare 'to disturb'.",
+    "ipa": "ɪnˈsusjənt",
+    "zipf": 1.63,
+    "issues": []
+  },
+  {
+    "lemma": "laconic",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Using very few words to say something",
+    "example": "His laconic reply to my three-page email was a single word: fine.",
+    "synonyms": [
+      "terse",
+      "brief",
+      "concise"
+    ],
+    "origin": "From Greek Lakonikos, 'of Laconia', the region around Sparta, whose people were famous for their terse speech.",
+    "ipa": "lɑˈkɑnɪk",
+    "zipf": 2.39,
+    "issues": []
+  },
+  {
+    "lemma": "magnanimous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Generous and forgiving, especially toward a rival or enemy",
+    "example": "The champion was magnanimous in victory, praising her opponent's skill and courage.",
+    "synonyms": [
+      "generous",
+      "forgiving",
+      "noble"
+    ],
+    "origin": "From Latin magnanimus, from magnus 'great' and animus 'soul, spirit'.",
+    "ipa": "mæɡˈnænəməs",
+    "zipf": 2.61,
+    "issues": []
+  },
+  {
+    "lemma": "mendacious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Not telling the truth; habitually dishonest",
+    "example": "The mendacious salesman swore the used car had never been in an accident.",
+    "synonyms": [
+      "dishonest",
+      "lying",
+      "deceitful"
+    ],
+    "origin": "From Latin mendax (stem mendac-), meaning 'lying', related to mendum 'fault'.",
+    "ipa": "mɛnˈdeɪʃəs",
+    "zipf": 2.06,
+    "issues": []
+  },
+  {
+    "lemma": "munificent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Extremely generous, especially in giving money or gifts",
+    "example": "A munificent donation from a former student paid for the new library.",
+    "synonyms": [
+      "generous",
+      "lavish",
+      "bountiful"
+    ],
+    "origin": "From Latin munificus, from munus 'gift' and facere 'to make'.",
+    "ipa": "",
+    "zipf": 1.76,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "nefarious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Wicked or criminal in a shocking way",
+    "example": "Police uncovered a nefarious scheme to steal the savings of elderly residents.",
+    "synonyms": [
+      "wicked",
+      "evil",
+      "villainous"
+    ],
+    "origin": "From Latin nefarius, from nefas 'wrong, crime', from ne- 'not' and fas 'divine law'.",
+    "ipa": "nəˈfɛriəs",
+    "zipf": 3.0,
+    "issues": []
+  },
+  {
+    "lemma": "obdurate",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Stubbornly refusing to change one's mind or feelings",
+    "example": "Despite hours of pleading, the landlord remained obdurate and refused to lower the rent.",
+    "synonyms": [
+      "stubborn",
+      "unyielding",
+      "inflexible"
+    ],
+    "origin": "From Latin obduratus, past participle of obdurare 'to harden', from durus 'hard'.",
+    "ipa": "ˈɑbdɚət",
+    "zipf": 2.01,
+    "issues": []
+  },
+  {
+    "lemma": "parsimonious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Extremely unwilling to spend money or use resources",
+    "example": "My parsimonious uncle reuses tea bags and never turns on the heating.",
+    "synonyms": [
+      "stingy",
+      "miserly",
+      "frugal"
+    ],
+    "origin": "From Latin parsimonia 'thrift', from parcere 'to spare'.",
+    "ipa": "pɑrsəˈmoʊniəs",
+    "zipf": 2.18,
+    "issues": []
+  },
+  {
+    "lemma": "pellucid",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very clear, either to see through or to understand",
+    "example": "Her pellucid explanation made quantum physics seem almost simple to the whole class.",
+    "synonyms": [
+      "clear",
+      "transparent",
+      "lucid"
+    ],
+    "origin": "From Latin pellucidus, from perlucere 'to shine through', from per 'through' and lucere 'to shine'.",
+    "ipa": "",
+    "zipf": 1.6,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "perfunctory",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Done quickly and carelessly, without real interest or effort",
+    "example": "The guard gave my bag a perfunctory glance and waved me through.",
+    "synonyms": [
+      "cursory",
+      "hasty",
+      "mechanical"
+    ],
+    "origin": "From Late Latin perfunctorius 'careless', from Latin perfungi 'to get through with, discharge'.",
+    "ipa": "pɚˈfʌŋktɚi",
+    "zipf": 2.45,
+    "issues": []
+  },
+  {
+    "lemma": "pernicious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Causing serious harm, often slowly and without being noticed",
+    "example": "The pernicious rumor spread quietly online and eventually ruined her reputation.",
+    "synonyms": [
+      "harmful",
+      "destructive",
+      "damaging"
+    ],
+    "origin": "From Latin perniciosus, from pernicies 'ruin', from per- 'completely' and nex 'death'.",
+    "ipa": "pɚˈnɪʃəs",
+    "zipf": 2.87,
+    "issues": []
+  },
+  {
+    "lemma": "phlegmatic",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Calm and not easily excited or upset",
+    "example": "The phlegmatic pilot announced the engine trouble as if reading a weather report.",
+    "synonyms": [
+      "calm",
+      "composed",
+      "unemotional"
+    ],
+    "origin": "From Greek phlegmatikos, from phlegma 'phlegm', the bodily humor once believed to cause a calm, sluggish temperament.",
+    "ipa": "flɛɡˈmætɪk",
+    "zipf": 2.07,
+    "issues": []
+  },
+  {
+    "lemma": "querulous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Complaining in a whining, irritable way",
+    "example": "The querulous passenger grumbled about the seat, the food, and the delay.",
+    "synonyms": [
+      "whiny",
+      "petulant",
+      "peevish"
+    ],
+    "origin": "From Latin querulus, from queri 'to complain'.",
+    "ipa": "ˈkwɛrələs",
+    "zipf": 1.61,
+    "issues": []
+  },
+  {
+    "lemma": "sanguine",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Cheerfully hopeful, especially in a difficult situation",
+    "example": "Despite falling sales, the founder remains sanguine about the company's future.",
+    "synonyms": [
+      "optimistic",
+      "hopeful",
+      "confident"
+    ],
+    "origin": "From Latin sanguineus 'of blood', from sanguis 'blood'; in medieval medicine a temperament ruled by blood was thought to be cheerful.",
+    "ipa": "ˈsæŋɡwɪn",
+    "zipf": 2.74,
+    "issues": []
+  },
+  {
+    "lemma": "sesquipedalian",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Using very long words; long-winded",
+    "example": "The professor's sesquipedalian lectures sent students reaching for their dictionaries.",
+    "synonyms": [
+      "wordy",
+      "verbose",
+      "longwinded"
+    ],
+    "origin": "From Latin sesquipedalis, 'a foot and a half long', a term the poet Horace used to mock overly long words.",
+    "ipa": "",
+    "zipf": 1.22,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "soporific",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Tending to make a person feel sleepy",
+    "example": "The warm room and the speaker's soporific voice had half the audience nodding off.",
+    "synonyms": [
+      "sedative",
+      "hypnotic",
+      "drowsy"
+    ],
+    "origin": "From Latin sopor 'deep sleep' combined with -ficus 'making', from facere 'to make'.",
+    "ipa": "",
+    "zipf": 2.1,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "specious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Seeming true or right but actually false",
+    "example": "The ad relied on the specious claim that expensive vitamins prevent every illness.",
+    "synonyms": [
+      "misleading",
+      "deceptive",
+      "false"
+    ],
+    "origin": "From Latin speciosus 'beautiful, plausible', from species 'appearance'.",
+    "ipa": "ˈspiʃəs",
+    "zipf": 2.45,
+    "issues": []
+  },
+  {
+    "lemma": "supercilious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Behaving as if one is better than others",
+    "example": "The supercilious waiter raised an eyebrow when we ordered the cheapest wine.",
+    "synonyms": [
+      "arrogant",
+      "haughty",
+      "condescending"
+    ],
+    "origin": "From Latin superciliosus, from supercilium 'eyebrow', from super 'above' and cilium 'eyelid'.",
+    "ipa": "supɚˈsɪliəs",
+    "zipf": 1.94,
+    "issues": []
+  },
+  {
+    "lemma": "surreptitious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Done secretly to avoid being noticed",
+    "example": "He took a surreptitious look at his phone during the long meeting.",
+    "synonyms": [
+      "secret",
+      "stealthy",
+      "sneaky"
+    ],
+    "origin": "From Latin surrepticius, from surripere 'to seize secretly', from sub 'under' and rapere 'to seize'.",
+    "ipa": "sɚəpˈtɪʃəs",
+    "zipf": 2.28,
+    "issues": []
+  },
+  {
+    "lemma": "tendentious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Strongly favoring one side of an argument; biased",
+    "example": "The documentary was so tendentious that it ignored every fact against its case.",
+    "synonyms": [
+      "biased",
+      "partisan",
+      "slanted"
+    ],
+    "origin": "From German tendenziös, from Tendenz 'tendency', ultimately from Latin tendere 'to stretch'.",
+    "ipa": "tɛnˈdɛnʃəs",
+    "zipf": 1.98,
+    "issues": []
+  },
+  {
+    "lemma": "trenchant",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Sharp, forceful, and clear in expressing ideas",
+    "example": "Her trenchant review exposed every weakness in the film's plot.",
+    "synonyms": [
+      "incisive",
+      "sharp",
+      "cutting"
+    ],
+    "origin": "From Old French trenchant 'cutting', the present participle of trenchier 'to cut'.",
+    "ipa": "ˈtrɛntʃənt",
+    "zipf": 2.35,
+    "issues": []
+  },
+  {
+    "lemma": "unctuous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Insincerely flattering in an oily, overly smooth way",
+    "example": "The unctuous host praised every guest while clearly angling for donations.",
+    "synonyms": [
+      "oily",
+      "smarmy",
+      "fawning"
+    ],
+    "origin": "From Medieval Latin unctuosus, from Latin unctus 'anointing', from unguere 'to anoint'.",
+    "ipa": "ˈʌŋtʃwəs",
+    "zipf": 2.03,
+    "issues": []
+  },
+  {
+    "lemma": "verisimilitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "The quality of seeming true or real",
+    "example": "Real street names and local slang give the novel a strong sense of verisimilitude.",
+    "synonyms": [
+      "realism",
+      "authenticity",
+      "credibility"
+    ],
+    "origin": "From Latin verisimilitudo, from verus 'true' and similis 'like'.",
+    "ipa": "vɛrəsəˈmɪlətud",
+    "zipf": 2.18,
+    "issues": []
+  },
+  {
+    "lemma": "vituperate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To criticize someone using harsh, abusive language",
+    "example": "Callers phoned the radio show to vituperate the mayor over the tax increase.",
+    "synonyms": [
+      "berate",
+      "scold",
+      "condemn"
+    ],
+    "origin": "From Latin vituperare 'to blame', from vitium 'fault' and parare 'to prepare'.",
+    "ipa": "",
+    "zipf": 0.0,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "abstruse",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Difficult to understand because it is complicated or obscure",
+    "example": "The lecture on abstruse tax law left most of the audience baffled.",
+    "synonyms": [
+      "obscure",
+      "complex",
+      "puzzling"
+    ],
+    "origin": "From Latin abstrusus 'hidden', past participle of abstrudere 'to conceal', from ab- 'away' and trudere 'to push'.",
+    "ipa": "əbˈstrus",
+    "zipf": 2.13,
+    "issues": []
+  },
+  {
+    "lemma": "acrimonious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Full of anger, bitterness, and harsh words",
+    "example": "After an acrimonious divorce, the couple communicated only through their lawyers.",
+    "synonyms": [
+      "bitter",
+      "hostile",
+      "spiteful"
+    ],
+    "origin": "From Latin acrimonia 'sharpness', from acer 'sharp'.",
+    "ipa": "ækrəˈmoʊniəs",
+    "zipf": 2.55,
+    "issues": []
+  },
+  {
+    "lemma": "alacrity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Cheerful eagerness and speed in doing something",
+    "example": "She accepted the job offer with alacrity and started the following Monday.",
+    "synonyms": [
+      "eagerness",
+      "readiness",
+      "enthusiasm"
+    ],
+    "origin": "From Latin alacritas, from alacer 'lively, eager'.",
+    "ipa": "əˈlækrəti",
+    "zipf": 2.36,
+    "issues": []
+  },
+  {
+    "lemma": "anathema",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Something or someone that is intensely disliked",
+    "example": "Wasting food was anathema to my grandmother, who grew up during the war.",
+    "synonyms": [
+      "abomination",
+      "taboo",
+      "curse"
+    ],
+    "origin": "From Greek anathema, 'a thing devoted', later 'a thing devoted to evil', from anatithenai 'to set up'.",
+    "ipa": "əˈnæθəmə",
+    "zipf": 2.79,
+    "issues": []
+  },
+  {
+    "lemma": "apocryphal",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Widely told but probably not true",
+    "example": "The story that he invented the dish by accident is almost certainly apocryphal.",
+    "synonyms": [
+      "doubtful",
+      "fictitious",
+      "mythical"
+    ],
+    "origin": "From Greek apokryphos 'hidden', from apokryptein 'to hide away'.",
+    "ipa": "əˈpɑkrəfəl",
+    "zipf": 2.66,
+    "issues": []
+  },
+  {
+    "lemma": "assiduous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Working with great care, effort, and persistence",
+    "example": "An assiduous researcher, she checked every source twice before publishing.",
+    "synonyms": [
+      "diligent",
+      "industrious",
+      "hardworking"
+    ],
+    "origin": "From Latin assiduus, from assidere 'to sit beside, attend to', from ad 'to' and sedere 'to sit'.",
+    "ipa": "əˈsɪdwəs",
+    "zipf": 2.15,
+    "issues": []
+  },
+  {
+    "lemma": "bellicose",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Eager to fight or start a conflict",
+    "example": "The president's bellicose speech raised fears of war in the region.",
+    "synonyms": [
+      "aggressive",
+      "hostile",
+      "warlike"
+    ],
+    "origin": "From Latin bellicosus, from bellum 'war'.",
+    "ipa": "ˈbɛləkoʊs",
+    "zipf": 2.28,
+    "issues": []
+  },
+  {
+    "lemma": "cacophony",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A harsh, unpleasant mixture of loud sounds",
+    "example": "A cacophony of car horns and jackhammers greeted us outside the hotel.",
+    "synonyms": [
+      "noise",
+      "racket",
+      "din"
+    ],
+    "origin": "From Greek kakophonia, from kakos 'bad' and phone 'sound'.",
+    "ipa": "kæˈkɑfəni",
+    "zipf": 2.61,
+    "issues": []
+  },
+  {
+    "lemma": "churlish",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Rude, unfriendly, and bad-tempered",
+    "example": "It would be churlish to refuse such a kind and generous invitation.",
+    "synonyms": [
+      "rude",
+      "surly",
+      "boorish"
+    ],
+    "origin": "From Old English ceorl, 'peasant, man of low rank'.",
+    "ipa": "ˈtʃɝlɪʃ",
+    "zipf": 2.19,
+    "issues": []
+  },
+  {
+    "lemma": "circumlocution",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Using many words where fewer would do",
+    "example": "After ten minutes of circumlocution, the minister still had not answered the question.",
+    "synonyms": [
+      "wordiness",
+      "verbosity",
+      "evasion"
+    ],
+    "origin": "From Latin circumlocutio, from circum 'around' and loqui 'to speak'.",
+    "ipa": "",
+    "zipf": 1.62,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  },
+  {
+    "lemma": "cogent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Clear, logical, and convincing",
+    "example": "She presented a cogent argument for moving the company's headquarters to Denver.",
+    "synonyms": [
+      "convincing",
+      "compelling",
+      "persuasive"
+    ],
+    "origin": "From Latin cogere 'to drive together, compel', from co- 'together' and agere 'to drive'.",
+    "ipa": "ˈkoʊdʒənt",
+    "zipf": 2.71,
+    "issues": []
+  },
+  {
+    "lemma": "contrite",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Feeling or showing deep regret for doing wrong",
+    "example": "The contrite teenager apologized and offered to pay for the broken window.",
+    "synonyms": [
+      "sorry",
+      "remorseful",
+      "regretful"
+    ],
+    "origin": "From Latin contritus 'ground to pieces', from conterere 'to grind', from terere 'to rub'.",
+    "ipa": "kənˈtraɪt",
+    "zipf": 2.48,
+    "issues": []
+  },
+  {
+    "lemma": "deleterious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Causing harm or damage, often in a subtle way",
+    "example": "Lack of sleep has a deleterious effect on both memory and mood.",
+    "synonyms": [
+      "harmful",
+      "damaging",
+      "detrimental"
+    ],
+    "origin": "From Greek deleterios 'noxious', from deleisthai 'to hurt'.",
+    "ipa": "dɛləˈtɪriəs",
+    "zipf": 2.72,
+    "issues": []
+  },
+  {
+    "lemma": "desultory",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Lacking a plan, purpose, or enthusiasm",
+    "example": "After a few desultory attempts at conversation, they both returned to their phones.",
+    "synonyms": [
+      "aimless",
+      "random",
+      "halfhearted"
+    ],
+    "origin": "From Latin desultorius, from desultor, a circus rider who leaped from horse to horse, from desilire 'to leap down'.",
+    "ipa": "ˈdɛsəltɔri",
+    "zipf": 2.1,
+    "issues": []
+  },
+  {
+    "lemma": "ebullient",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Overflowing with cheerful energy and excitement",
+    "example": "The ebullient crowd sang and danced in the streets after the final whistle.",
+    "synonyms": [
+      "exuberant",
+      "cheerful",
+      "lively"
+    ],
+    "origin": "From Latin ebullire 'to bubble out', from e- 'out' and bullire 'to boil'.",
+    "ipa": "ɪˈbʌljənt",
+    "zipf": 2.17,
+    "issues": []
+  },
+  {
+    "lemma": "effervescent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Lively, bubbly, and full of high spirits",
+    "example": "Her effervescent personality made her the natural host of the morning show.",
+    "synonyms": [
+      "bubbly",
+      "lively",
+      "sparkling"
+    ],
+    "origin": "From Latin effervescere 'to boil up', from ex- 'out' and fervescere 'to begin to boil'.",
+    "ipa": "ɛfɚˈvɛsənt",
+    "zipf": 2.51,
+    "issues": []
+  },
+  {
+    "lemma": "equanimity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Calmness and steady temper, especially under pressure",
+    "example": "He took the news of the layoffs with remarkable equanimity.",
+    "synonyms": [
+      "composure",
+      "calmness",
+      "serenity"
+    ],
+    "origin": "From Latin aequanimitas, from aequus 'even' and animus 'mind'.",
+    "ipa": "ikwəˈnɪmɪti",
+    "zipf": 2.4,
+    "issues": []
+  },
+  {
+    "lemma": "esoteric",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Understood by only a small group with special knowledge",
+    "example": "The forum is full of esoteric debates about vintage synthesizer circuits.",
+    "synonyms": [
+      "obscure",
+      "arcane",
+      "specialized"
+    ],
+    "origin": "From Greek esoterikos 'belonging to an inner circle', from esotero 'more within', the comparative of eso 'within'.",
+    "ipa": "ɛsəˈtɛrɪk",
+    "zipf": 3.17,
+    "issues": []
+  },
+  {
+    "lemma": "fatuous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Silly and pointless, often in a self-satisfied way",
+    "example": "He kept making fatuous remarks while everyone else tried to solve the problem.",
+    "synonyms": [
+      "silly",
+      "foolish",
+      "inane"
+    ],
+    "origin": "From Latin fatuus, meaning 'foolish'.",
+    "ipa": "ˈfætʃəwəs",
+    "zipf": 2.23,
+    "issues": []
+  },
+  {
+    "lemma": "halcyon",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Calm, happy, and peaceful, especially of a past time",
+    "example": "She often talks about the halcyon days of her childhood by the sea.",
+    "synonyms": [
+      "peaceful",
+      "serene",
+      "idyllic"
+    ],
+    "origin": "From Greek alkyon, 'kingfisher', a bird fabled to calm the sea while it nested around midwinter.",
+    "ipa": "ˈhælsiən",
+    "zipf": 2.65,
+    "issues": []
+  },
+  {
+    "lemma": "ineffable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Too great or intense to be put into words",
+    "example": "Standing at the summit at sunrise, she felt an ineffable sense of peace.",
+    "synonyms": [
+      "indescribable",
+      "inexpressible",
+      "unspeakable"
+    ],
+    "origin": "From Latin ineffabilis, from in- 'not' and effari 'to speak out'.",
+    "ipa": "ɪˈnɛfəbəl",
+    "zipf": 2.41,
+    "issues": []
+  },
+  {
+    "lemma": "inveterate",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Having a long-established habit that is unlikely to change",
+    "example": "An inveterate traveler, he has visited more than ninety countries.",
+    "synonyms": [
+      "habitual",
+      "chronic",
+      "hardened"
+    ],
+    "origin": "From Latin inveteratus, from inveterare 'to make old', from vetus 'old'.",
+    "ipa": "ɪnˈvɛtɚət",
+    "zipf": 2.34,
+    "issues": []
+  },
+  {
+    "lemma": "limpid",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Completely clear and transparent, like still water",
+    "example": "We could see every pebble at the bottom of the limpid mountain lake.",
+    "synonyms": [
+      "clear",
+      "transparent",
+      "crystalline"
+    ],
+    "origin": "From Latin limpidus, meaning 'clear'.",
+    "ipa": "",
+    "zipf": 2.04,
+    "issues": [
+      "no pronunciation in CMUdict"
+    ]
+  }
+]
