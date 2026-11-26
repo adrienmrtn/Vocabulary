@@ -16,6 +16,7 @@ Entries that fail a check are still written, with their problems listed in
 """
 
 import json
+import os
 import sys
 
 import cmudict
@@ -65,7 +66,9 @@ IPA_OVERRIDES = {
     "schadenfreude": "ˈʃɑdənfrɔɪdə",
     "inveigle": "ɪnˈveɪɡəl",
 }
-APP_KEYS = ["lemma", "level", "part_of_speech", "ipa", "definition", "example", "synonyms", "origin"]
+APP_KEYS = ["lemma", "level", "part_of_speech", "ipa", "definition", "example", "synonyms", "origin",
+            "quote", "quote_source"]
+QUOTES_PATH = os.path.join(os.path.dirname(__file__), "quotes.json")
 
 
 def to_ipa(phones):
@@ -158,8 +161,17 @@ def main():
                 seen.add(entry.get("lemma"))
                 entries.append(entry)
 
+    # Chosen quotations, keyed by lemma: {"quote": ..., "source": ...}. Optional.
+    quotes = {}
+    if os.path.exists(QUOTES_PATH):
+        with open(QUOTES_PATH, encoding="utf-8") as handle:
+            quotes = json.load(handle)
+
     flagged = 0
     for entry in entries:
+        chosen = quotes.get(entry.get("lemma"), {})
+        entry["quote"] = chosen.get("quote", "")
+        entry["quote_source"] = chosen.get("source", "")
         issues = check(entry)
         lemma = entry.get("lemma", "")
         phones = PRONUNCIATIONS.get(lemma)

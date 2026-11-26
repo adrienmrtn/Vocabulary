@@ -69,6 +69,10 @@ enum Haptics {
     static func success() {
         UINotificationFeedbackGenerator().notificationOccurred(.success)
     }
+
+    static func error() {
+        UINotificationFeedbackGenerator().notificationOccurred(.error)
+    }
 }
 
 /// Speaks a word with the voice chosen in onboarding or Profile.

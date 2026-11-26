@@ -15,7 +15,7 @@ struct StatsView: View {
             ScrollView {
                 VStack(spacing: 14) {
                     NavigationLink {
-                        QuizView(title: "Level test")
+                        GameView(mode: .shuffle, title: "Level test")
                     } label: {
                         HStack(spacing: 14) {
                             Image("level")

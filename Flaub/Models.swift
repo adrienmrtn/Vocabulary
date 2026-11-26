@@ -11,6 +11,9 @@ struct Word: Identifiable, Hashable, Decodable {
     let example: String
     let synonyms: [String]
     let origin: String
+    /// A sentence from a public-domain book that uses the word, when one was found.
+    let quote: String?
+    let quoteSource: String?
 
     var id: String { text }
 
@@ -26,6 +29,8 @@ struct Word: Identifiable, Hashable, Decodable {
         case example
         case synonyms
         case origin
+        case quote
+        case quoteSource = "quote_source"
     }
 
     /// The words shown today in the feed and used by the quizzes.
@@ -74,7 +79,8 @@ enum Catalog {
         meaning: "Lasting for a very short time",
         example: "The beauty of cherry blossoms is ephemeral, gone within a week.",
         synonyms: ["fleeting", "transient", "brief"],
-        origin: "From Greek ephēmeros, meaning “lasting only a day.”"
+        origin: "From Greek ephēmeros, meaning “lasting only a day.”",
+        quote: nil, quoteSource: nil
     )
 }
 

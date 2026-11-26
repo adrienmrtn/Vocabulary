@@ -126,6 +126,15 @@ struct WordDetailView: View {
                     Text(word.definition)
                         .font(.serif(22, weight: .medium))
                     detail("Example", word.example)
+                    if let quote = word.quote, !quote.isEmpty {
+                        VStack(alignment: .leading, spacing: 6) {
+                            Text("In literature").font(.system(size: 13)).foregroundStyle(Color.muted)
+                            Text(quote).font(.serif(18, weight: .medium))
+                            if let source = word.quoteSource, !source.isEmpty {
+                                Text("— \(source)").font(.system(size: 14)).foregroundStyle(Color.muted)
+                            }
+                        }
+                    }
                     if !word.synonyms.isEmpty {
                         VStack(alignment: .leading, spacing: 8) {
                             Text("Synonyms").font(.system(size: 13)).foregroundStyle(Color.muted)

@@ -34,7 +34,10 @@ set your team under Signing & Capabilities and change the bundle identifier
   bundled in `Flaub/Fonts` and registered at launch.
 - **Words**: one word full screen. A vertical drag moves to the next or previous
   word with a soft cross-fade. Tap the pronunciation to hear it.
-- **Practice**: a small quiz over the sample words.
+- **Practice**: mini-games built from the catalogue. Five kinds of question
+  (meaning, fill the gap, synonym, true or false, listening) and four modes:
+  Sprint (ten questions against the clock), Rush (60 seconds), Perfection
+  (until the first mistake) and Game shuffle. Missed words come back first.
 - **Profile**: reminders (asks for notification permission), voice, and the app
   icon picker (six characters, eight backgrounds).
 
@@ -54,6 +57,21 @@ python3 content/build_catalog.py content/pilot_words.json Flaub/words.json conte
 `content/pilot_words.json` keeps every field and the result of the checks, for
 review. The table definitions for moving the catalogue to Supabase later are in
 `supabase/migrations`; nothing has been applied to a project yet.
+
+### Quotations from literature
+
+`content/build_quotes.py` downloads public-domain classics from Project
+Gutenberg and proposes up to five sentences per word. The ones chosen go in
+`content/quotes.json` and are merged by the build above; the app shows them in
+the word detail sheet. No quotations have been chosen yet.
+
+```bash
+python3 content/build_quotes.py fetch
+```
+
+```bash
+python3 content/build_quotes.py candidates content/quote_candidates.json
+```
 
 ## Not done yet
 

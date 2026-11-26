@@ -9,8 +9,9 @@ create table public.words (
   ipa text,
   definition text not null,
   example text,
-  -- Author and work when the example is a quotation from a public-domain text.
-  example_source text,
+  -- A sentence from a public-domain book that uses the word, with its author and title.
+  quote text,
+  quote_source text,
   synonyms text[] not null default '{}',
   origin text,
   -- 1 = beginner, 2 = intermediate, 3 = advanced.

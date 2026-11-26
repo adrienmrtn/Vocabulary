@@ -1,10 +1,10 @@
 import SwiftUI
 
 struct PracticeView: View {
-    private let challenges: [(name: String, image: String)] = [
-        ("Sprint", "ch_sprint"),
-        ("Rush", "ch_rush"),
-        ("Perfection", "ch_perfection")
+    private let challenges: [(mode: GameMode, image: String)] = [
+        (.sprint, "ch_sprint"),
+        (.rush, "ch_rush"),
+        (.perfection, "ch_perfection")
     ]
     private let categories = Array(Topic.all.prefix(4))
 
@@ -23,7 +23,7 @@ struct PracticeView: View {
                                 .font(.system(size: 14))
                                 .foregroundStyle(Color.muted)
                             NavigationLink {
-                                QuizView(title: "Level test")
+                                GameView(mode: .shuffle, title: "Level test")
                             } label: {
                                 Text("Take free test")
                                     .font(.system(size: 14, weight: .semibold))
@@ -53,15 +53,15 @@ struct PracticeView: View {
 
                     SectionLabel(text: "Challenges")
                     HStack(spacing: 10) {
-                        ForEach(challenges, id: \.name) { challenge in
+                        ForEach(challenges, id: \.image) { challenge in
                             NavigationLink {
-                                QuizView(title: challenge.name)
+                                GameView(mode: challenge.mode)
                             } label: {
                                 VStack(alignment: .leading, spacing: 10) {
                                     FillImage(name: challenge.image)
                                         .frame(height: 76)
                                         .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
-                                    Text(challenge.name)
+                                    Text(challenge.mode.title)
                                         .font(.system(size: 16, weight: .semibold))
                                         .foregroundStyle(Color.ink)
                                         .lineLimit(1)
@@ -74,10 +74,31 @@ struct PracticeView: View {
                         }
                     }
 
+                    NavigationLink {
+                        GameView(mode: .shuffle)
+                    } label: {
+                        HStack(spacing: 14) {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text("Try Game shuffle")
+                                    .font(.system(size: 17, weight: .semibold))
+                                Text(GameMode.shuffle.rule)
+                                    .font(.system(size: 14))
+                                    .foregroundStyle(Color.muted)
+                            }
+                            .foregroundStyle(Color.ink)
+                            Spacer(minLength: 0)
+                            Image(systemName: "shuffle")
+                                .font(.system(size: 22, weight: .semibold))
+                                .foregroundStyle(Color.flaubBlue)
+                        }
+                        .padding(16)
+                        .card()
+                    }
+
                     SectionLabel(text: "Categories")
                     ForEach(categories) { topic in
                         NavigationLink {
-                            QuizView(title: topic.name)
+                            GameView(mode: .shuffle, title: topic.name)
                         } label: {
                             ImageRow(title: topic.name, image: topic.image)
                         }
@@ -109,112 +130,5 @@ struct ImageRow: View {
         }
         .frame(height: 78)
         .card()
-    }
-}
-
-/// A small fill-the-gap quiz over the sample words, one question per page.
-struct QuizView: View {
-    let title: String
-
-    @Environment(\.dismiss) private var dismiss
-    @State private var index = 0
-    @State private var picked: String?
-    @State private var score = 0
-
-    private let words = Array(Word.samples.prefix(8))
-
-    private var finished: Bool { index >= words.count }
-
-    var body: some View {
-        ZStack {
-            Color.cream.ignoresSafeArea()
-            if finished {
-                VStack(spacing: 16) {
-                    Text("\(score) / \(words.count)")
-                        .font(.serif(56))
-                    Text("Nice work. Come back tomorrow for new words.")
-                        .font(.system(size: 16))
-                        .multilineTextAlignment(.center)
-                    PrimaryButton(title: "Done") { dismiss() }
-                        .padding(.top, 12)
-                }
-                .foregroundStyle(Color.ink)
-                .padding(24)
-                .transition(.opacity)
-            } else {
-                question(words[index])
-                    .id(index)
-                    .transition(.opacity.combined(with: .offset(x: 0, y: 12)))
-            }
-        }
-        .animation(.easeInOut(duration: 0.35), value: index)
-        .navigationTitle(title)
-        .navigationBarTitleDisplayMode(.inline)
-        .toolbar(.hidden, for: .tabBar)
-    }
-
-    private func question(_ word: Word) -> some View {
-        let options = optionList(for: word)
-        return VStack(spacing: 14) {
-            ProgressView(value: Double(index), total: Double(words.count))
-                .tint(Color.flaubBlue)
-            Text("Which word means this?")
-                .font(.system(size: 13, weight: .semibold))
-                .kerning(1)
-                .foregroundStyle(Color.muted)
-                .padding(.top, 12)
-            Text(word.definition)
-                .font(.serif(26))
-                .multilineTextAlignment(.center)
-                .padding(.bottom, 12)
-            ForEach(options, id: \.self) { option in
-                Button {
-                    choose(option, correct: word.text)
-                } label: {
-                    HStack {
-                        Text(option).font(.system(size: 17, weight: .medium))
-                        Spacer()
-                        if picked == option {
-                            Image(systemName: option == word.text ? "checkmark.circle.fill" : "xmark.circle.fill")
-                        }
-                    }
-                    .foregroundStyle(Color.ink)
-                    .padding(.horizontal, 20)
-                    .frame(height: 56)
-                    .background(Capsule().fill(picked == option ? Color.blueTint : Color.white))
-                    .overlay(Capsule().stroke(picked == option ? Color.flaubBlue : Color.line, lineWidth: 1.5))
-                }
-                .disabled(picked != nil)
-            }
-            Spacer()
-        }
-        .foregroundStyle(Color.ink)
-        .padding(20)
-    }
-
-    private func optionList(for word: Word) -> [String] {
-        let position = words.firstIndex(of: word) ?? 0
-        // Wrong answers come from the rest of today's words.
-        let pool = Word.samples.filter { $0 != word }
-        guard pool.count >= 3 else { return [word.text] }
-        let others = [1, 2, 3].map { pool[(position * 3 + $0) % pool.count].text }
-        var list = others
-        list.insert(word.text, at: position % (others.count + 1))
-        return list
-    }
-
-    private func choose(_ option: String, correct: String) {
-        picked = option
-        if option == correct {
-            score += 1
-            Haptics.success()
-        } else {
-            Haptics.tap()
-        }
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.7) {
-            picked = nil
-            index += 1
-            Haptics.page()
-        }
     }
 }
