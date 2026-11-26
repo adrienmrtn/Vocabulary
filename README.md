@@ -5,23 +5,17 @@ and a cream-and-serif look.
 
 ## Run it
 
-The Xcode project is generated from `project.yml` with [XcodeGen](https://github.com/yonaskolb/XcodeGen).
+Open `Flaub.xcodeproj` in Xcode 16 or later, pick an iPhone simulator (iOS 17
+or later) and press Run. Xcode downloads the Supabase package on first open.
+Every file in the `Flaub` folder is part of the app automatically; there is
+nothing to add by hand when a file is created.
 
-```bash
-brew install xcodegen
-```
+To install on a device, set your team under Signing & Capabilities and change
+the bundle identifier (`com.example.flaub`).
 
-```bash
-xcodegen generate
-```
-
-```bash
-open Flaub.xcodeproj
-```
-
-Pick an iPhone simulator (iOS 17 or later) and press Run. To install on a device,
-set your team under Signing & Capabilities and change the bundle identifier
-(`com.example.flaub`) in `project.yml`.
+If the project does not open, it can be regenerated from `project.yml` with
+[XcodeGen](https://github.com/yonaskolb/XcodeGen) (`brew install xcodegen`,
+then `xcodegen generate`).
 
 ## What is in this first version
 
