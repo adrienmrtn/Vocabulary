@@ -1,17 +1,17 @@
-# Flaub
+# Bovary
 
 A vocabulary app for iOS, written in SwiftUI. One word at a time, a daily habit,
 and a cream-and-serif look.
 
 ## Run it
 
-Open `Flaub.xcodeproj` in Xcode 16 or later, pick an iPhone simulator (iOS 17
+Open `Bovary.xcodeproj` in Xcode 16 or later, pick an iPhone simulator (iOS 17
 or later) and press Run. Xcode downloads the Supabase package on first open.
-Every file in the `Flaub` folder is part of the app automatically; there is
+Every file in the `Bovary` folder is part of the app automatically; there is
 nothing to add by hand when a file is created.
 
 To install on a device, set your team under Signing & Capabilities and change
-the bundle identifier (`com.example.flaub`).
+the bundle identifier (`com.example.bovary`).
 
 If the project does not open, it can be regenerated from `project.yml` with
 [XcodeGen](https://github.com/yonaskolb/XcodeGen) (`brew install xcodegen`,
@@ -19,15 +19,17 @@ then `xcodegen generate`).
 
 ## What is in this first version
 
-- **Onboarding**: 35 pages driven by one list in `OnboardingView.swift`. Pages
-  cross-fade with a slight rise; there is no swipe. Every page change, choice
-  and button fires a haptic.
+- **Onboarding**: 35 pages driven by one list in `OnboardingView.swift`, with a
+  progress bar. Pages cross-fade with a slight rise; there is no swipe.
+  Illustrations pop in and float, titles and choices rise in one after the
+  other, and every page change, choice and button fires a haptic.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.
   Topics, Practice, Stats and Profile use native navigation bars with large
   Alegreya titles; Topics has native search. Alegreya (SIL Open Font License) is
-  bundled in `Flaub/Fonts` and registered at launch.
-- **Words**: one word full screen. A vertical drag moves to the next or previous
-  word with a soft cross-fade. Tap the pronunciation to hear it.
+  bundled in `Bovary/Fonts` and registered at launch.
+- **Words**: one word per screen in a vertical paging feed. The page follows
+  the finger, snaps into place and gives a soft tap on landing. Tap the
+  pronunciation to hear it.
 - **Practice**: mini-games built from the catalogue. Five kinds of question
   (meaning, fill the gap, synonym, true or false, listening) and four modes:
   Sprint (ten questions against the clock), Rush (60 seconds), Perfection
@@ -40,7 +42,7 @@ then `xcodegen generate`).
 
 ## The word catalogue
 
-The app reads `Flaub/words.json`, which is built from the drafts in
+The app reads `Bovary/words.json`, which is built from the drafts in
 `content/drafts` by a script that checks every entry and adds pronunciation.
 
 ```bash
@@ -48,7 +50,7 @@ pip install cmudict wordfreq
 ```
 
 ```bash
-python3 content/build_catalog.py content/pilot_words.json Flaub/words.json content/drafts/*.json
+python3 content/build_catalog.py content/pilot_words.json Bovary/words.json content/drafts/*.json
 ```
 
 `content/pilot_words.json` keeps every field and the result of the checks, for
@@ -93,8 +95,12 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 
 ## Not done yet
 
+- **The rating page shows placeholder social proof** (a 4.8 rating, a user
+  count and two reviews) in debug builds only. Replace it with real figures
+  in `SocialProof` (`Motion.swift`) before release; a release build shows none.
+
 - Sign in with Apple and Google: the account is anonymous for now.
-- The bundle identifier is still the placeholder `com.example.flaub`.
+- The bundle identifier is still the placeholder `com.example.bovary`.
 - The paywall shows `[PRICE]`; there is no StoreKit purchase.
 - Notifications ask for permission but schedule nothing.
 - No widget target. "Topics you follow" and "Home Screen widgets" in Profile are placeholders.

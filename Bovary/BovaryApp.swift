@@ -2,10 +2,9 @@ import SwiftUI
 import UIKit
 
 @main
-struct FlaubApp: App {
+struct BovaryApp: App {
     init() {
         Fonts.register()
-        Self.configureBars()
         Backend.shared.start()
     }
 
@@ -13,32 +12,6 @@ struct FlaubApp: App {
         WindowGroup {
             RootView()
         }
-    }
-
-    /// Native navigation and tab bars, tinted to the cream ground with serif titles.
-    private static func configureBars() {
-        let cream = UIColor(Color.cream)
-        let ink = UIColor(Color.ink)
-
-        func serif(_ size: CGFloat) -> UIFont {
-            Fonts.uiFont(size)
-        }
-
-        let nav = UINavigationBarAppearance()
-        nav.configureWithOpaqueBackground()
-        nav.backgroundColor = cream
-        nav.shadowColor = .clear
-        nav.largeTitleTextAttributes = [.font: serif(34), .foregroundColor: ink]
-        nav.titleTextAttributes = [.font: serif(18), .foregroundColor: ink]
-        UINavigationBar.appearance().standardAppearance = nav
-        UINavigationBar.appearance().scrollEdgeAppearance = nav
-        UINavigationBar.appearance().compactAppearance = nav
-
-        let tab = UITabBarAppearance()
-        tab.configureWithOpaqueBackground()
-        tab.backgroundColor = .white
-        UITabBar.appearance().standardAppearance = tab
-        UITabBar.appearance().scrollEdgeAppearance = tab
     }
 }
 
@@ -60,7 +33,7 @@ struct RootView: View {
                 .transition(.opacity)
             }
         }
-        .tint(Color.flaubBlue)
+        .tint(Color.brandBlue)
         .preferredColorScheme(.light)
     }
 }

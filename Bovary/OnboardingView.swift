@@ -31,7 +31,7 @@ enum OnboardingStep {
 
     static let flow: [OnboardingStep] = [
         .welcome,
-        .single("How did you hear about Flaub?",
+        .single("How did you hear about Bovary?",
                 ["Facebook", "Instagram", "Friend/family", "Web search", "TikTok", "App Store", "Other"],
                 skippable: false),
         .art(image: "level", title: "Tailor your word recommendations"),
@@ -95,9 +95,19 @@ struct OnboardingView: View {
     var body: some View {
         ZStack {
             Color.cream.ignoresSafeArea()
-            page(steps[index])
-                .id(index)
-                .transition(.opacity.combined(with: .offset(x: 0, y: 14)))
+            VStack(spacing: 0) {
+                ProgressView(value: Double(index), total: Double(max(steps.count - 1, 1)))
+                    .tint(Color.brandBlue)
+                    .padding(.horizontal, 24)
+                    .padding(.top, 6)
+                    .opacity(index == 0 || index == steps.count - 1 ? 0 : 1)
+                ZStack {
+                    page(steps[index])
+                        .id(index)
+                        .transition(.opacity.combined(with: .offset(x: 0, y: 14)))
+                }
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+            }
         }
         .animation(.easeInOut(duration: 0.38), value: index)
         .foregroundStyle(Color.ink)
@@ -139,23 +149,24 @@ struct OnboardingView: View {
         case .welcome:
             WelcomePage(next: next)
         case let .choice(title, subtitle, options, multiple, skippable):
-            ChoicePage(title: title, subtitle: subtitle, options: options, multiple: multiple,
+            ChoicePage(title: title, image: OnboardingArt.image(for: title), subtitle: subtitle,
+                       options: options, multiple: multiple,
                        skippable: skippable, selection: selection(for: index), next: next)
         case let .art(image, title):
             Scaffold(title: nil, cta: "Continue", next: next) {
                 VStack(spacing: 44) {
-                    FillImage(name: image)
-                        .frame(width: 270, height: 270)
-                        .clipShape(RoundedRectangle(cornerRadius: 32, style: .continuous))
+                    FloatingArt(name: image, size: 270)
                     Text(title)
                         .font(.serif(28))
                         .multilineTextAlignment(.center)
+                        .rise(0.15)
                 }
                 .padding(.top, 40)
             }
         case .name:
             Scaffold(title: "What do you want to be called?", skippable: true, cta: "Continue",
                      ctaEnabled: !name.trimmingCharacters(in: .whitespaces).isEmpty, next: next) {
+                FloatingArt(name: "onb_name", size: 120)
                 TextField("Your name", text: $name)
                     .textContentType(.givenName)
                     .submitLabel(.done)
@@ -190,7 +201,7 @@ struct OnboardingView: View {
                         IconTile(character: 0, background: 0).frame(width: 38, height: 38)
                         VStack(alignment: .leading, spacing: 2) {
                             HStack {
-                                Text("Flaub").font(.system(size: 13, weight: .semibold))
+                                Text("Bovary").font(.system(size: 13, weight: .semibold))
                                 Spacer()
                                 Text("Now").font(.system(size: 13)).foregroundStyle(Color.muted)
                             }
@@ -223,11 +234,17 @@ struct OnboardingView: View {
             }
         case let .text(message):
             Scaffold(title: nil, cta: "Continue", next: next) {
-                Text(message)
-                    .font(.serif(28))
-                    .multilineTextAlignment(.center)
-                    .padding(.horizontal, 16)
-                    .frame(maxHeight: .infinity)
+                VStack(spacing: 36) {
+                    if let image = OnboardingArt.image(for: message) {
+                        FloatingArt(name: image, size: 220)
+                    }
+                    Text(message)
+                        .font(.serif(28))
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 16)
+                        .rise(0.15)
+                }
+                .padding(.top, 50)
             }
         case .rating:
             RatingPage(next: next)
@@ -249,12 +266,12 @@ struct OnboardingView: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
                     .frame(height: 108)
-                    .background(RoundedRectangle(cornerRadius: 22, style: .continuous).fill(Color.flaubBlue))
+                    .background(RoundedRectangle(cornerRadius: 22, style: .continuous).fill(Color.brandBlue))
                     .padding(.horizontal, 30)
                 }
             }
         case .splash:
-            Text("Welcome to Flaub")
+            Text("Welcome to Bovary")
                 .font(.serif(32))
                 .task {
                     try? await Task.sleep(nanoseconds: 1_300_000_000)
@@ -302,6 +319,7 @@ private struct Scaffold<Content: View>: View {
                             .multilineTextAlignment(.center)
                             .padding(.horizontal, 12)
                             .padding(.bottom, 4)
+                            .rise()
                     }
                     content()
                 }
@@ -333,17 +351,17 @@ private struct WelcomePage: View {
     var body: some View {
         VStack(spacing: 0) {
             Spacer(minLength: 12)
-            FillImage(name: "hero")
-                .frame(width: 290, height: 290)
-                .clipShape(RoundedRectangle(cornerRadius: 32, style: .continuous))
+            FloatingArt(name: "hero", size: 290)
             Text("Expand your vocabulary in 1 minute a day")
                 .font(.serif(32))
                 .multilineTextAlignment(.center)
                 .padding(.top, 30)
+                .rise(0.2)
             Text("Learn new words with a daily habit that takes just 1 minute")
                 .font(.system(size: 16))
                 .multilineTextAlignment(.center)
                 .padding(.top, 12)
+                .rise(0.3)
             Spacer(minLength: 12)
             PrimaryButton(title: "Get started", action: next)
         }
@@ -358,38 +376,117 @@ private struct RatingPage: View {
     let next: () -> Void
     @Environment(\.requestReview) private var requestReview
 
+    private let proof = SocialProof.current
+    private let gold = Color(hex: 0xF2B01E)
+
     var body: some View {
         VStack(spacing: 0) {
-            Spacer(minLength: 12)
-            HStack(spacing: 6) {
-                ForEach(0..<5, id: \.self) { _ in
-                    Image(systemName: "star.fill")
-                        .font(.system(size: 24))
-                        .foregroundStyle(Color(hex: 0xF2B01E))
+            ScrollView {
+                VStack(spacing: 0) {
+                    HStack(spacing: 6) {
+                        ForEach(0..<5, id: \.self) { star in
+                            Image(systemName: "star.fill")
+                                .font(.system(size: 24))
+                                .foregroundStyle(gold)
+                                .modifier(Pop(delay: Double(star) * 0.09))
+                        }
+                    }
+                    .accessibilityLabel("Five stars")
+                    Image("mascot_rate")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: 210, height: 210)
+                        .modifier(Pop(delay: 0.45))
+                    Text("One tap. Two seconds. It means the world.")
+                        .font(.serif(30))
+                        .multilineTextAlignment(.center)
+                        .padding(.top, 6)
+                        .rise(0.55)
+                    Text("We're a small team up against big apps. Your rating helps more than you know.")
+                        .font(.system(size: 16))
+                        .multilineTextAlignment(.center)
+                        .padding(.top, 10)
+                        .rise(0.65)
+                    if let proof {
+                        HStack(spacing: 12) {
+                            Image(systemName: "laurel.leading")
+                                .font(.system(size: 46))
+                                .foregroundStyle(gold)
+                            VStack(spacing: 2) {
+                                Text(proof.rating).font(.serif(34))
+                                HStack(spacing: 2) {
+                                    ForEach(0..<5, id: \.self) { _ in
+                                        Image(systemName: "star.fill")
+                                            .font(.system(size: 11))
+                                            .foregroundStyle(gold)
+                                    }
+                                }
+                                Text("average rating")
+                                    .font(.system(size: 12))
+                                    .foregroundStyle(Color.muted)
+                            }
+                            VStack(spacing: 6) {
+                                HStack(spacing: -10) {
+                                    IconTile(character: 1, background: 2).frame(width: 36, height: 36)
+                                    IconTile(character: 2, background: 3).frame(width: 36, height: 36)
+                                    IconTile(character: 5, background: 7).frame(width: 36, height: 36)
+                                }
+                                Text("\(proof.users) users")
+                                    .font(.system(size: 14, weight: .semibold))
+                            }
+                            Image(systemName: "laurel.trailing")
+                                .font(.system(size: 46))
+                                .foregroundStyle(gold)
+                        }
+                        .padding(.top, 22)
+                        .rise(0.75)
+
+                        Text("What our users are saying")
+                            .font(.system(size: 16, weight: .semibold))
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .padding(.top, 26)
+                            .rise(0.85)
+                        ForEach(Array(proof.reviews.enumerated()), id: \.element.id) { item in
+                            VStack(alignment: .leading, spacing: 8) {
+                                Text(item.element.title)
+                                    .font(.system(size: 16, weight: .semibold))
+                                Text(item.element.text)
+                                    .font(.system(size: 15))
+                                HStack(spacing: 6) {
+                                    Text(item.element.author)
+                                        .font(.system(size: 14, weight: .medium))
+                                    HStack(spacing: 1) {
+                                        ForEach(0..<5, id: \.self) { _ in
+                                            Image(systemName: "star.fill")
+                                                .font(.system(size: 9))
+                                                .foregroundStyle(gold)
+                                        }
+                                    }
+                                    Spacer()
+                                    Text(item.element.date)
+                                        .font(.system(size: 12))
+                                        .foregroundStyle(Color.muted)
+                                }
+                            }
+                            .padding(16)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .card()
+                            .padding(.top, 10)
+                            .rise(0.95 + Double(item.offset) * 0.1)
+                        }
+                    }
                 }
+                .padding(.top, 8)
+                .padding(.bottom, 12)
             }
-            .accessibilityLabel("Five stars")
-            Image("mascot_rate")
-                .resizable()
-                .scaledToFit()
-                .frame(width: 230, height: 230)
-            Text("One tap. Two seconds. It means the world.")
-                .font(.serif(30))
-                .multilineTextAlignment(.center)
-                .padding(.top, 6)
-            Text("We're a small team up against big apps. Your rating helps more than you know.")
-                .font(.system(size: 16))
-                .multilineTextAlignment(.center)
-                .padding(.top, 10)
-            // Real figures only: add the average rating, the number of learners and
-            // App Store reviews here once the app has them.
-            Spacer(minLength: 12)
+            .scrollIndicators(.hidden)
             PrimaryButton(title: "Yes, I'll help!") {
                 requestReview()
                 next()
             }
+            .padding(.top, 8)
         }
-        .padding(.horizontal, 24)
+        .padding(.horizontal, 20)
         .padding(.bottom, 12)
     }
 }
@@ -461,6 +558,7 @@ private struct AccountPage: View {
 
 private struct ChoicePage: View {
     let title: String
+    let image: String?
     let subtitle: String?
     let options: [String]
     let multiple: Bool
@@ -481,11 +579,16 @@ private struct ChoicePage: View {
             }
             ScrollView {
                 VStack(spacing: 10) {
+                    if let image {
+                        FloatingArt(name: image, size: 110)
+                            .padding(.bottom, 8)
+                    }
                     Text(title)
                         .font(.serif(28))
                         .multilineTextAlignment(.center)
                         .padding(.horizontal, 12)
                         .padding(.bottom, 8)
+                        .rise(0.05)
                     if let subtitle {
                         Text(subtitle)
                             .font(.system(size: 15))
@@ -493,6 +596,7 @@ private struct ChoicePage: View {
                     }
                     ForEach(options.indices, id: \.self) { index in
                         row(index)
+                            .rise(0.12 + Double(index) * 0.05)
                     }
                 }
                 .padding(.top, 8)
@@ -529,14 +633,14 @@ private struct ChoicePage: View {
                 Spacer()
                 Image(systemName: on ? "largecircle.fill.circle" : "circle")
                     .font(.system(size: 22))
-                    .foregroundStyle(on ? Color.flaubBlue : Color(hex: 0x8A8390))
+                    .foregroundStyle(on ? Color.brandBlue : Color(hex: 0x8A8390))
             }
             .foregroundStyle(Color.ink)
             .padding(.leading, 20)
             .padding(.trailing, 16)
             .frame(height: 56)
             .background(Capsule().fill(on ? Color.blueTint : Color.white))
-            .overlay(Capsule().stroke(on ? Color.flaubBlue : Color.line, lineWidth: 1.5))
+            .overlay(Capsule().stroke(on ? Color.brandBlue : Color.line, lineWidth: 1.5))
         }
     }
 }
@@ -596,6 +700,8 @@ struct OfferView: View {
             Color.cream.ignoresSafeArea()
             VStack(spacing: 14) {
                 Spacer()
+                FloatingArt(name: "onb_offer", size: 170)
+                    .padding(.bottom, 12)
                 Text("Try 3 days for free, then [PRICE] per year")
                     .font(.serif(30))
                     .multilineTextAlignment(.center)

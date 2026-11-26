@@ -16,7 +16,7 @@ extension Color {
 
     static let cream = Color(hex: 0xFFF8F4)
     static let ink = Color(hex: 0x1B1A2E)
-    static let flaubBlue = Color(hex: 0x0A5CFF)
+    static let brandBlue = Color(hex: 0x0A5CFF)
     static let blueTint = Color(hex: 0xE3ECFF)
     static let line = Color(hex: 0xEADFD8)
     static let muted = Color(hex: 0x5F5868)
@@ -106,7 +106,7 @@ struct PrimaryButton: View {
                 .foregroundStyle(.white)
                 .frame(maxWidth: .infinity)
                 .frame(height: 60)
-                .background(Capsule().fill(Color.flaubBlue))
+                .background(Capsule().fill(Color.brandBlue))
         }
         .opacity(enabled ? 1 : 0.45)
         .disabled(!enabled)
@@ -163,7 +163,7 @@ struct PremiumBanner: View {
                 .clipShape(Circle())
         }
         .padding(16)
-        .background(Color.flaubBlue)
+        .background(Color.brandBlue)
         .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
     }
 }

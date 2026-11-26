@@ -1,4 +1,4 @@
-name: Flaub
+name: Bovary
 options:
   bundleIdPrefix: com.example
   deploymentTarget:
@@ -8,19 +8,19 @@ packages:
     url: https://github.com/supabase/supabase-swift
     from: "2.0.0"
 targets:
-  Flaub:
+  Bovary:
     type: application
     platform: iOS
     sources:
-      - Flaub
+      - Bovary
     dependencies:
       - package: Supabase
         product: Supabase
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.example.flaub
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.bovary
         GENERATE_INFOPLIST_FILE: YES
-        INFOPLIST_KEY_CFBundleDisplayName: Flaub
+        INFOPLIST_KEY_CFBundleDisplayName: Bovary
         INFOPLIST_KEY_UILaunchScreen_Generation: YES
         INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon

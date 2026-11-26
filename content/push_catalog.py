@@ -4,7 +4,7 @@ Usage:
     SUPABASE_URL=https://<ref>.supabase.co SUPABASE_SECRET_KEY=... \\
         python3 content/push_catalog.py
 
-Reads Flaub/words.json (run build_catalog.py first) and calls the database
+Reads Bovary/words.json (run build_catalog.py first) and calls the database
 function import_catalog, which upserts topics, words and their links and marks
 the words as published. The function accepts only the service role, so this
 needs the project's secret key: keep it out of the repository.
@@ -32,7 +32,7 @@ TOPICS = [
 
 
 def payload():
-    with open(os.path.join(ROOT, "Flaub", "words.json"), encoding="utf-8") as handle:
+    with open(os.path.join(ROOT, "Bovary", "words.json"), encoding="utf-8") as handle:
         words = json.load(handle)
     topics = [
         {"slug": slug, "name": name, "image": image, "premium": premium, "position": position}

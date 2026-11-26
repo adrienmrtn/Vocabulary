@@ -14,6 +14,19 @@ struct ProfileView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 14) {
+                    ScreenHeader(title: "Profile") {
+                        NavigationLink {
+                            SettingsScreen()
+                        } label: {
+                            Image(systemName: "gearshape")
+                                .font(.system(size: 20, weight: .medium))
+                                .foregroundStyle(Color.ink)
+                                .frame(width: 44, height: 44)
+                                .background(Circle().fill(Color.white))
+                                .overlay(Circle().stroke(Color.line, lineWidth: 1.5))
+                        }
+                        .accessibilityLabel("Settings")
+                    }
                     PremiumBanner(title: "Go Premium",
                                   subtitle: "Access all topics, words, themes, and remove ads!")
 
@@ -73,18 +86,7 @@ struct ProfileView: View {
                 .padding(.horizontal, 16)
                 .padding(.bottom, 24)
             }
-            .background(Color.cream)
-            .navigationTitle("Profile")
-            .toolbar {
-                ToolbarItem(placement: .topBarTrailing) {
-                    NavigationLink {
-                        SettingsScreen()
-                    } label: {
-                        Image(systemName: "gearshape")
-                    }
-                    .accessibilityLabel("Settings")
-                }
-            }
+            .tabRoot()
         }
     }
 }
@@ -149,7 +151,7 @@ struct IconPicker: View {
                             IconTile(character: index, background: safeBackground)
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 14, style: .continuous)
-                                        .stroke(Color.flaubBlue, lineWidth: index == safeCharacter ? 3 : 0)
+                                        .stroke(Color.brandBlue, lineWidth: index == safeCharacter ? 3 : 0)
                                 )
                         }
                         .accessibilityLabel(IconOptions.characters[index].name)
@@ -173,7 +175,7 @@ struct IconPicker: View {
                                 .frame(height: 44)
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 12, style: .continuous)
-                                        .stroke(index == safeBackground ? Color.flaubBlue : Color.line,
+                                        .stroke(index == safeBackground ? Color.brandBlue : Color.line,
                                                 lineWidth: index == safeBackground ? 3 : 1.5)
                                 )
                         }
@@ -244,13 +246,13 @@ struct VoiceList: View {
                         Text(option.name).font(.system(size: 16, weight: .semibold))
                         Spacer()
                         Image(systemName: voice == option.id ? "largecircle.fill.circle" : "circle")
-                            .foregroundStyle(voice == option.id ? Color.flaubBlue : Color.muted)
+                            .foregroundStyle(voice == option.id ? Color.brandBlue : Color.muted)
                     }
                     .foregroundStyle(Color.ink)
                     .padding(.horizontal, 18)
                     .frame(height: 58)
                     .background(Capsule().fill(voice == option.id ? Color.blueTint : Color.white))
-                    .overlay(Capsule().stroke(voice == option.id ? Color.flaubBlue : Color.line, lineWidth: 1.5))
+                    .overlay(Capsule().stroke(voice == option.id ? Color.brandBlue : Color.line, lineWidth: 1.5))
                 }
             }
         }

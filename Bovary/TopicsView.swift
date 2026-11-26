@@ -21,6 +21,17 @@ struct TopicsView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 14) {
+                    ScreenHeader(title: "Explore topics")
+                    HStack(spacing: 10) {
+                        Image(systemName: "magnifyingglass")
+                            .foregroundStyle(Color.muted)
+                        TextField("Search", text: $query)
+                            .textInputAutocapitalization(.never)
+                            .autocorrectionDisabled()
+                    }
+                    .padding(.horizontal, 14)
+                    .frame(height: 46)
+                    .background(Capsule().fill(Color(hex: 0xF3EAE4)))
                     PremiumBanner(title: "Unlock everything",
                                   subtitle: "Access all topics, words, themes, and remove ads!")
 
@@ -32,7 +43,7 @@ struct TopicsView: View {
                                 HStack(spacing: 12) {
                                     Image(systemName: shortcut.symbol)
                                         .font(.system(size: 20))
-                                        .foregroundStyle(Color.flaubBlue)
+                                        .foregroundStyle(Color.brandBlue)
                                         .frame(width: 26)
                                     Text(shortcut.title)
                                         .font(.system(size: 16, weight: .medium))
@@ -65,9 +76,7 @@ struct TopicsView: View {
                 .padding(.horizontal, 16)
                 .padding(.bottom, 24)
             }
-            .background(Color.cream)
-            .navigationTitle("Explore topics")
-            .searchable(text: $query, prompt: "Search")
+            .tabRoot()
         }
     }
 }

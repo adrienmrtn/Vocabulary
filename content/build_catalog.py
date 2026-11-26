@@ -2,7 +2,7 @@
 
 Usage:
     pip install cmudict wordfreq
-    python3 content/build_catalog.py content/pilot_words.json Flaub/words.json content/drafts/*.json
+    python3 content/build_catalog.py content/pilot_words.json Bovary/words.json content/drafts/*.json
 
 The first output keeps every field plus the checks, for review. The second
 is the slim file bundled in the app.

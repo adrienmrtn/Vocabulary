@@ -17,6 +17,7 @@ struct StatsView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 14) {
+                    ScreenHeader(title: "Word stats")
                     NavigationLink {
                         GameView(mode: .shuffle, title: "Level test")
                     } label: {
@@ -59,7 +60,7 @@ struct StatsView: View {
                                     Text(counter.value).font(.serif(24))
                                     Spacer()
                                     Image(systemName: counter.symbol)
-                                        .foregroundStyle(Color.flaubBlue)
+                                        .foregroundStyle(Color.brandBlue)
                                 }
                                 Text(counter.label)
                                     .font(.system(size: 14))
@@ -89,8 +90,7 @@ struct StatsView: View {
                 .padding(.horizontal, 16)
                 .padding(.bottom, 24)
             }
-            .background(Color.cream)
-            .navigationTitle("Word stats")
+            .tabRoot()
             .sheet(isPresented: $showPaywall) {
                 OfferView(onContinue: { showPaywall = false })
                     .presentationDetents([.large])
@@ -115,7 +115,7 @@ struct WeekRow: View {
                         .font(.system(size: 11, weight: item.element.done ? .bold : .medium))
                         .foregroundStyle(item.element.done ? Color.ink : Color.muted)
                     ZStack {
-                        Circle().fill(item.element.done ? Color.flaubBlue : Color.line)
+                        Circle().fill(item.element.done ? Color.brandBlue : Color.line)
                         if item.element.done {
                             Image(systemName: "checkmark")
                                 .font(.system(size: 11, weight: .bold))

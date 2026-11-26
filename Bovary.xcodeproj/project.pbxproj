@@ -11,13 +11,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F1A000000000000000000001 /* Flaub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flaub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1A000000000000000000001 /* Bovary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bovary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F1A000000000000000000002 /* Flaub */ = {
+		F1A000000000000000000002 /* Bovary */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Flaub;
+			path = Bovary;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -37,7 +37,7 @@
 		F1A000000000000000000004 = {
 			isa = PBXGroup;
 			children = (
-				F1A000000000000000000002 /* Flaub */,
+				F1A000000000000000000002 /* Bovary */,
 				F1A000000000000000000005 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		F1A000000000000000000005 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F1A000000000000000000001 /* Flaub.app */,
+				F1A000000000000000000001 /* Bovary.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,9 +53,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F1A000000000000000000006 /* Flaub */ = {
+		F1A000000000000000000006 /* Bovary */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F1A00000000000000000000C /* Build configuration list for PBXNativeTarget "Flaub" */;
+			buildConfigurationList = F1A00000000000000000000C /* Build configuration list for PBXNativeTarget "Bovary" */;
 			buildPhases = (
 				F1A000000000000000000007 /* Sources */,
 				F1A000000000000000000003 /* Frameworks */,
@@ -66,14 +66,14 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F1A000000000000000000002 /* Flaub */,
+				F1A000000000000000000002 /* Bovary */,
 			);
-			name = Flaub;
+			name = Bovary;
 			packageProductDependencies = (
 				F1A0000000000000000000B2 /* Supabase */,
 			);
-			productName = Flaub;
-			productReference = F1A000000000000000000001 /* Flaub.app */;
+			productName = Bovary;
+			productReference = F1A000000000000000000001 /* Bovary.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -91,7 +91,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F1A00000000000000000000D /* Build configuration list for PBXProject "Flaub" */;
+			buildConfigurationList = F1A00000000000000000000D /* Build configuration list for PBXProject "Bovary" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F1A000000000000000000006 /* Flaub */,
+				F1A000000000000000000006 /* Bovary */,
 			);
 		};
 /* End PBXProject section */
@@ -179,7 +179,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Flaub;
+				INFOPLIST_KEY_CFBundleDisplayName = Bovary;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -188,7 +188,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.flaub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.bovary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -205,7 +205,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = Flaub;
+				INFOPLIST_KEY_CFBundleDisplayName = Bovary;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -214,7 +214,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.flaub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.bovary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -225,7 +225,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F1A00000000000000000000C /* Build configuration list for PBXNativeTarget "Flaub" */ = {
+		F1A00000000000000000000C /* Build configuration list for PBXNativeTarget "Bovary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F1A000000000000000000012 /* Debug */,
@@ -234,7 +234,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F1A00000000000000000000D /* Build configuration list for PBXProject "Flaub" */ = {
+		F1A00000000000000000000D /* Build configuration list for PBXProject "Bovary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F1A000000000000000000010 /* Debug */,

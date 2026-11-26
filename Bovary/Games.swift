@@ -258,7 +258,7 @@ struct GameView: View {
                     .foregroundStyle(Color.muted)
             }
             ProgressView(value: progress)
-                .tint(Color.flaubBlue)
+                .tint(Color.brandBlue)
         }
     }
 
@@ -303,7 +303,7 @@ struct GameView: View {
                         .font(.system(size: 34))
                         .foregroundStyle(.white)
                         .frame(width: 96, height: 96)
-                        .background(Circle().fill(Color.flaubBlue))
+                        .background(Circle().fill(Color.brandBlue))
                 }
                 .accessibilityLabel("Play the word again")
                 .padding(.vertical, 12)

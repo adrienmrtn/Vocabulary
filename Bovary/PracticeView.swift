@@ -12,6 +12,7 @@ struct PracticeView: View {
         NavigationStack {
             ScrollView {
                 VStack(spacing: 14) {
+                    ScreenHeader(title: "Practice")
                     PremiumBanner(title: "Unlock everything",
                                   subtitle: "Access all games, topics, words, themes, and remove ads!")
 
@@ -89,7 +90,7 @@ struct PracticeView: View {
                             Spacer(minLength: 0)
                             Image(systemName: "shuffle")
                                 .font(.system(size: 22, weight: .semibold))
-                                .foregroundStyle(Color.flaubBlue)
+                                .foregroundStyle(Color.brandBlue)
                         }
                         .padding(16)
                         .card()
@@ -108,8 +109,7 @@ struct PracticeView: View {
                 .padding(.horizontal, 16)
                 .padding(.bottom, 24)
             }
-            .background(Color.cream)
-            .navigationTitle("Practice")
+            .tabRoot()
         }
     }
 }

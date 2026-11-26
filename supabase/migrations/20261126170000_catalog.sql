@@ -1,4 +1,4 @@
--- Flaub word catalogue.
+-- Bovary word catalogue.
 -- The app reads published rows with the public (anon) key.
 -- Only the service role, used by the content pipeline, can write.
 

@@ -41,13 +41,13 @@ struct ThemeGrid: View {
                         .overlay(Text("Aa").font(.serif(22)).foregroundStyle(AppTheme.all[index].text))
                         .overlay(
                             RoundedRectangle(cornerRadius: 16, style: .continuous)
-                                .stroke(index == theme ? Color.flaubBlue : Color.line,
+                                .stroke(index == theme ? Color.brandBlue : Color.line,
                                         lineWidth: index == theme ? 3 : 1.5)
                         )
                         .overlay(alignment: .topTrailing) {
                             if index == theme {
                                 Image(systemName: "checkmark.circle.fill")
-                                    .foregroundStyle(Color.flaubBlue, .white)
+                                    .foregroundStyle(Color.brandBlue, .white)
                                     .padding(8)
                             }
                         }
@@ -113,7 +113,7 @@ struct WordRow: View {
             } label: {
                 Image(systemName: store.isFavorite(word.text) ? "heart.fill" : "heart")
                     .font(.system(size: 20))
-                    .foregroundStyle(store.isFavorite(word.text) ? Color.flaubBlue : Color.ink)
+                    .foregroundStyle(store.isFavorite(word.text) ? Color.brandBlue : Color.ink)
                     .frame(width: 44, height: 44)
             }
             .accessibilityLabel(store.isFavorite(word.text) ? "Remove from favorites" : "Add to favorites")
@@ -217,7 +217,7 @@ struct TopicScreen: View {
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
                     .frame(height: 56)
-                    .background(Capsule().fill(Color.flaubBlue))
+                    .background(Capsule().fill(Color.brandBlue))
             }
             ForEach(words) { word in
                 WordRow(word: word)
@@ -442,7 +442,7 @@ struct SettingsScreen: View {
                     }
                 }
             } footer: {
-                Text("Flaub \(version)")
+                Text("Bovary \(version)")
             }
         }
         .navigationTitle("Settings")
