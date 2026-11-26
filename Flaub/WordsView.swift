@@ -27,7 +27,7 @@ struct WordsView: View {
                     Speaker.shared.say(word.text)
                 } label: {
                     HStack(spacing: 10) {
-                        Text(word.pronunciation)
+                        Text(word.pronunciation.isEmpty ? "Listen" : word.pronunciation)
                         Image(systemName: "speaker.wave.2.fill")
                             .foregroundStyle(Color.flaubBlue)
                     }
@@ -126,20 +126,24 @@ struct WordDetailView: View {
                     Text(word.definition)
                         .font(.serif(22, weight: .medium))
                     detail("Example", word.example)
-                    VStack(alignment: .leading, spacing: 8) {
-                        Text("Synonyms").font(.system(size: 13)).foregroundStyle(Color.muted)
-                        HStack(spacing: 6) {
-                            ForEach(word.synonyms, id: \.self) { synonym in
-                                Text(synonym)
-                                    .font(.system(size: 14, weight: .medium))
-                                    .foregroundStyle(Color(hex: 0x0A3FB3))
-                                    .padding(.horizontal, 12)
-                                    .padding(.vertical, 6)
-                                    .background(Capsule().fill(Color.blueTint))
+                    if !word.synonyms.isEmpty {
+                        VStack(alignment: .leading, spacing: 8) {
+                            Text("Synonyms").font(.system(size: 13)).foregroundStyle(Color.muted)
+                            HStack(spacing: 6) {
+                                ForEach(word.synonyms, id: \.self) { synonym in
+                                    Text(synonym)
+                                        .font(.system(size: 14, weight: .medium))
+                                        .foregroundStyle(Color(hex: 0x0A3FB3))
+                                        .padding(.horizontal, 12)
+                                        .padding(.vertical, 6)
+                                        .background(Capsule().fill(Color.blueTint))
+                                }
                             }
                         }
                     }
-                    detail("Origin", word.origin)
+                    if !word.origin.isEmpty {
+                        detail("Origin", word.origin)
+                    }
                 }
                 .foregroundStyle(Color.ink)
                 .frame(maxWidth: .infinity, alignment: .leading)

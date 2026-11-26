@@ -2,11 +2,15 @@
 
 Usage:
     pip install cmudict wordfreq
-    python3 content/build_catalog.py OUT.json DRAFT1.json [DRAFT2.json ...]
+    python3 content/build_catalog.py content/pilot_words.json Flaub/words.json content/drafts/*.json
+
+The first output keeps every field plus the checks, for review. The second
+is the slim file bundled in the app.
 
 Each draft file is a JSON array of entries with the keys in REQUIRED below.
-The pronunciation is not written by hand: it is converted from the CMU
-Pronouncing Dictionary (American English). Frequency comes from wordfreq.
+The pronunciation is converted from the CMU Pronouncing Dictionary (American
+English); words it lacks are filled from the hand-entered IPA_OVERRIDES below.
+Frequency comes from wordfreq.
 Entries that fail a check are still written, with their problems listed in
 "issues", and are reported on stdout so a person can fix them.
 """
@@ -39,9 +43,40 @@ ONSETS = {
 
 PRONUNCIATIONS = cmudict.dict()
 
+# Hand-entered, for words the CMU dictionary does not have.
+IPA_OVERRIDES = {
+    "diffident": "ˈdɪfɪdənt",
+    "sagacious": "səˈɡeɪʃəs",
+    "numinous": "ˈnumɪnəs",
+    "lucubration": "lukjəˈbreɪʃən",
+    "logophile": "ˈlɔɡəfaɪl",
+    "petrichor": "ˈpɛtrɪkɔr",
+    "mellifluous": "məˈlɪfluəs",
+    "sycophant": "ˈsɪkəfənt",
+    "pulchritude": "ˈpʌlkrɪtud",
+    "munificent": "mjuˈnɪfɪsənt",
+    "pellucid": "pəˈlusɪd",
+    "sesquipedalian": "sɛskwɪpəˈdeɪliən",
+    "soporific": "sɑpəˈrɪfɪk",
+    "vituperate": "vaɪˈtupəreɪt",
+    "circumlocution": "sɝkəmloʊˈkjuʃən",
+    "limpid": "ˈlɪmpɪd",
+}
+APP_KEYS = ["lemma", "level", "part_of_speech", "ipa", "definition", "example", "synonyms", "origin"]
+
 
 def to_ipa(phones):
     """Convert one ARPAbet pronunciation to IPA, with a primary-stress mark."""
+    # An unstressed "er" before a vowel is a schwa plus an r that opens the
+    # next syllable, as in "morose".
+    split = []
+    for position, phone in enumerate(phones):
+        following = phones[position + 1] if position + 1 < len(phones) else ""
+        if phone == "ER0" and following[-1:] in ("0", "1", "2"):
+            split += ["AH0", "R"]
+        else:
+            split.append(phone)
+    phones = split
     symbols = []
     stress_at = None
     vowel_count = 0
@@ -98,8 +133,10 @@ def check(entry):
     if not 6 <= len(entry["example"].split()) <= 22:
         issues.append("example length")
     synonyms = entry["synonyms"]
-    if len(set(synonyms)) != 3 or lemma in synonyms:
-        issues.append("needs three distinct synonyms")
+    if len(set(synonyms)) != len(synonyms) or len(synonyms) > 3 or lemma in synonyms:
+        issues.append("synonyms must be up to three distinct words")
+    if any(" " in s or "-" in s for s in synonyms):
+        issues.append("synonym is not a single word")
     if not entry["origin"]:
         issues.append("no origin")
     if entry["level"] not in (1, 2, 3):
@@ -108,7 +145,7 @@ def check(entry):
 
 
 def main():
-    out_path, draft_paths = sys.argv[1], sys.argv[2:]
+    out_path, app_path, draft_paths = sys.argv[1], sys.argv[2], sys.argv[3:]
     entries, seen = [], set()
     for path in draft_paths:
         with open(path, encoding="utf-8") as handle:
@@ -123,9 +160,9 @@ def main():
         issues = check(entry)
         lemma = entry.get("lemma", "")
         phones = PRONUNCIATIONS.get(lemma)
-        entry["ipa"] = to_ipa(phones[0]) if phones else ""
-        if not phones:
-            issues.append("no pronunciation in CMUdict")
+        entry["ipa"] = to_ipa(phones[0]) if phones else IPA_OVERRIDES.get(lemma, "")
+        if not entry["ipa"]:
+            issues.append("no pronunciation")
         entry["zipf"] = zipf_frequency(lemma, "en")
         entry["issues"] = issues
         if issues:
@@ -134,7 +171,10 @@ def main():
 
     with open(out_path, "w", encoding="utf-8") as handle:
         json.dump(entries, handle, ensure_ascii=False, indent=2)
-    print(f"{len(entries)} entries written to {out_path}, {flagged} flagged")
+    with open(app_path, "w", encoding="utf-8") as handle:
+        slim = [{key: entry[key] for key in APP_KEYS} for entry in entries if not entry["issues"]]
+        json.dump(slim, handle, ensure_ascii=False, separators=(",", ":"))
+    print(f"{len(entries)} entries written to {out_path}, {flagged} flagged, {len(slim)} bundled in {app_path}")
 
 
 if __name__ == "__main__":

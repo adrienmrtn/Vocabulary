@@ -1,37 +1,81 @@
 import SwiftUI
+import Foundation
 
-struct Word: Identifiable, Hashable {
-    let id = UUID()
+/// One entry of the catalogue, as stored in the bundled `words.json`.
+struct Word: Identifiable, Hashable, Decodable {
     let text: String
+    let level: Int
+    let partOfSpeech: String
     let pronunciation: String
-    let definition: String
+    let meaning: String
     let example: String
     let synonyms: [String]
     let origin: String
 
-    /// Sample content. Replace with the real word source.
-    static let samples: [Word] = [
-        Word(text: "ephemeral", pronunciation: "ɪˈfem.ər.əl", definition: "(adj.) Lasting for a very short time",
-             example: "The beauty of cherry blossoms is ephemeral, gone within a week.",
-             synonyms: ["fleeting", "transient", "short-lived"],
-             origin: "From Greek ephēmeros, meaning “lasting only a day.”"),
-        Word(text: "tenacious", pronunciation: "təˈneɪ.ʃəs", definition: "(adj.) Not giving up easily; very determined",
-             example: "She was tenacious in the negotiation and got the deal signed.",
-             synonyms: ["persistent", "dogged", "resolute"],
-             origin: "From Latin tenere, “to hold.”"),
-        Word(text: "serendipity", pronunciation: "ˌser.ənˈdɪp.ə.ti", definition: "(n.) Finding something good by happy accident",
-             example: "Meeting her at that conference was pure serendipity.",
-             synonyms: ["fluke", "chance", "windfall"],
-             origin: "Coined by Horace Walpole in 1754, after the tale of the three princes of Serendip."),
-        Word(text: "eloquent", pronunciation: "ˈel.ə.kwənt", definition: "(adj.) Able to express ideas clearly and well",
-             example: "He gave an eloquent speech that moved the whole room.",
-             synonyms: ["articulate", "fluent", "expressive"],
-             origin: "From Latin eloqui, “to speak out.”"),
-        Word(text: "resilient", pronunciation: "rɪˈzɪl.i.ənt", definition: "(adj.) Able to recover quickly from difficulty",
-             example: "Children are often more resilient than adults expect.",
-             synonyms: ["tough", "hardy", "adaptable"],
-             origin: "From Latin resilire, “to leap back.”")
-    ]
+    var id: String { text }
+
+    /// The meaning with its part of speech, as shown under the word.
+    var definition: String { "(\(partOfSpeech)) \(meaning)" }
+
+    enum CodingKeys: String, CodingKey {
+        case text = "lemma"
+        case level
+        case partOfSpeech = "part_of_speech"
+        case pronunciation = "ipa"
+        case meaning = "definition"
+        case example
+        case synonyms
+        case origin
+    }
+
+    /// The words shown today in the feed and used by the quizzes.
+    static var samples: [Word] { Catalog.feed }
+}
+
+/// The word catalogue, built by `content/build_catalog.py` and bundled with the app.
+enum Catalog {
+    static let all: [Word] = load()
+
+    /// Twenty words for today. The selection changes each day, stays the same all
+    /// day, and steps through the catalogue so that levels are mixed.
+    static let feed: [Word] = {
+        let count = all.count
+        let day = Calendar.current.ordinality(of: .day, in: .era, for: Date()) ?? 0
+        var step = 37
+        while greatestCommonDivisor(step, count) != 1 {
+            step += 1
+        }
+        let start = (day * 20) % count
+        return (0..<min(20, count)).map { all[(start + $0 * step) % count] }
+    }()
+
+    private static func greatestCommonDivisor(_ a: Int, _ b: Int) -> Int {
+        b == 0 ? a : greatestCommonDivisor(b, a % b)
+    }
+
+    /// The word used in the onboarding preview card.
+    static var featured: Word {
+        all.first { $0.text == "ephemeral" } ?? all[0]
+    }
+
+    private static func load() -> [Word] {
+        guard let url = Bundle.main.url(forResource: "words", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let words = try? JSONDecoder().decode([Word].self, from: data),
+              !words.isEmpty else {
+            return [fallback]
+        }
+        return words
+    }
+
+    /// Shown only if the bundled file is missing or unreadable.
+    private static let fallback = Word(
+        text: "ephemeral", level: 2, partOfSpeech: "adj.", pronunciation: "ɪˈfɛmɚəl",
+        meaning: "Lasting for a very short time",
+        example: "The beauty of cherry blossoms is ephemeral, gone within a week.",
+        synonyms: ["fleeting", "transient", "brief"],
+        origin: "From Greek ephēmeros, meaning “lasting only a day.”"
+    )
 }
 
 struct Topic: Identifiable, Hashable {

@@ -38,9 +38,28 @@ set your team under Signing & Capabilities and change the bundle identifier
 - **Profile**: reminders (asks for notification permission), voice, and the app
   icon picker (six characters, eight backgrounds).
 
+## The word catalogue
+
+The app reads `Flaub/words.json`, which is built from the drafts in
+`content/drafts` by a script that checks every entry and adds pronunciation.
+
+```bash
+pip install cmudict wordfreq
+```
+
+```bash
+python3 content/build_catalog.py content/pilot_words.json Flaub/words.json content/drafts/*.json
+```
+
+`content/pilot_words.json` keeps every field and the result of the checks, for
+review. The table definitions for moving the catalogue to Supabase later are in
+`supabase/migrations`; nothing has been applied to a project yet.
+
 ## Not done yet
 
-- Words, topics and stats are sample data in `Models.swift`.
+- Topics and stats are sample data in `Models.swift`. Words are real but not
+  yet linked to topics, and their etymologies have not been checked against a
+  source.
 - The paywall shows `[PRICE]`; there is no StoreKit purchase.
 - The icon picker saves the choice but does not change the real Home Screen
   icon. That needs each combination shipped as an alternate icon.

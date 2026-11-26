@@ -506,12 +506,10 @@
       "lively",
       "energetic"
     ],
-    "origin": "",
+    "origin": "Of uncertain origin.",
     "ipa": "brɪsk",
     "zipf": 3.2,
-    "issues": [
-      "no origin"
-    ]
+    "issues": []
   },
   {
     "lemma": "compel",
@@ -765,7 +763,7 @@
       "tranquil"
     ],
     "origin": "From Latin serenus, meaning clear or calm, first said of the sky and weather.",
-    "ipa": "sɚˈin",
+    "ipa": "səˈrin",
     "zipf": 3.27,
     "issues": []
   },
@@ -796,12 +794,10 @@
       "headstrong",
       "unyielding"
     ],
-    "origin": "",
+    "origin": "Of uncertain origin.",
     "ipa": "ˈstʌbɚn",
     "zipf": 3.76,
-    "issues": [
-      "no origin"
-    ]
+    "issues": []
   },
   {
     "lemma": "sturdy",
@@ -830,7 +826,7 @@
       "quick",
       "rapid"
     ],
-    "origin": "From Old English swift, \"moving quickly\", related to swifan, \"to move in a course, sweep\".",
+    "origin": "From Old English swift, “moving quickly”, related to swifan, “to move in a course, sweep”.",
     "ipa": "swɪft",
     "zipf": 4.15,
     "issues": []
@@ -846,7 +842,7 @@
       "concrete",
       "solid"
     ],
-    "origin": "From Late Latin tangibilis, from Latin tangere, \"to touch\".",
+    "origin": "From Late Latin tangibilis, from Latin tangere, “to touch”.",
     "ipa": "ˈtændʒəbəl",
     "zipf": 3.66,
     "issues": []
@@ -862,7 +858,7 @@
       "complete",
       "detailed"
     ],
-    "origin": "From Old English thuruh, a variant of \"through\", with the sense of going from end to end.",
+    "origin": "From Old English thuruh, a variant of “through”, with the sense of going from end to end.",
     "ipa": "ˈθɝoʊ",
     "zipf": 3.97,
     "issues": []
@@ -878,7 +874,7 @@
       "petty",
       "unimportant"
     ],
-    "origin": "From Latin trivialis, \"commonplace\", from trivium, \"a place where three roads meet\".",
+    "origin": "From Latin trivialis, “commonplace”, from trivium, “a place where three roads meet”.",
     "ipa": "ˈtrɪviəl",
     "zipf": 3.66,
     "issues": []
@@ -894,7 +890,7 @@
       "defend",
       "maintain"
     ],
-    "origin": "Formed in Middle English from up + hold, literally \"to hold up\".",
+    "origin": "Formed in Middle English from up + hold, literally “to hold up”.",
     "ipa": "əpˈhoʊld",
     "zipf": 3.52,
     "issues": []
@@ -910,7 +906,7 @@
       "crucial",
       "necessary"
     ],
-    "origin": "From Latin vitalis, \"of life\", from vita, \"life\".",
+    "origin": "From Latin vitalis, “of life”, from vita, “life”.",
     "ipa": "ˈvaɪtəl",
     "zipf": 4.38,
     "issues": []
@@ -926,7 +922,7 @@
       "careful",
       "suspicious"
     ],
-    "origin": "From the older English word ware, \"careful, aware\", from Old English waer, \"prudent, watchful\".",
+    "origin": "From the older English word ware, “careful, aware”, from Old English waer, “prudent, watchful”.",
     "ipa": "ˈwɛri",
     "zipf": 3.57,
     "issues": []
@@ -942,7 +938,7 @@
       "crave",
       "desire"
     ],
-    "origin": "From Old English giernan, \"to strive for, desire\", from georn, \"eager\".",
+    "origin": "From Old English giernan, “to strive for, desire”, from georn, “eager”.",
     "ipa": "jɝn",
     "zipf": 2.97,
     "issues": []
@@ -958,7 +954,7 @@
       "enthusiasm",
       "fervor"
     ],
-    "origin": "From Greek zelos, \"ardor, eager rivalry\", by way of Late Latin zelus.",
+    "origin": "From Greek zelos, “ardor, eager rivalry”, by way of Late Latin zelus.",
     "ipa": "zil",
     "zipf": 3.28,
     "issues": []
@@ -974,8 +970,8 @@
       "brief",
       "temporary"
     ],
-    "origin": "From Greek ephemeros, \"lasting only a day\", from epi, \"on\", and hemera, \"day\".",
-    "ipa": "ɪˈfɛmɚəl",
+    "origin": "From Greek ephemeros, “lasting only a day”, from epi, “on”, and hemera, “day”.",
+    "ipa": "ɪˈfɛmərəl",
     "zipf": 2.99,
     "issues": []
   },
@@ -990,7 +986,7 @@
       "determined",
       "stubborn"
     ],
-    "origin": "From Latin tenax, \"holding fast\", from tenere, \"to hold\".",
+    "origin": "From Latin tenax, “holding fast”, from tenere, “to hold”.",
     "ipa": "təˈneɪʃəs",
     "zipf": 3.04,
     "issues": []
@@ -1006,7 +1002,7 @@
       "fluent",
       "expressive"
     ],
-    "origin": "From Latin eloquens, from eloqui, \"to speak out\" (e-, \"out\", + loqui, \"to speak\").",
+    "origin": "From Latin eloquens, from eloqui, “to speak out” (e-, “out”, + loqui, “to speak”).",
     "ipa": "ˈɛləkwənt",
     "zipf": 3.21,
     "issues": []
@@ -1022,7 +1018,7 @@
       "strong",
       "hardy"
     ],
-    "origin": "From Latin resilire, \"to leap back\", from re-, \"back\", and salire, \"to jump\".",
+    "origin": "From Latin resilire, “to leap back”, from re-, “back”, and salire, “to jump”.",
     "ipa": "rɪˈzɪljənt",
     "zipf": 3.5,
     "issues": []
@@ -1038,7 +1034,7 @@
       "precise",
       "thorough"
     ],
-    "origin": "From Latin meticulosus, \"fearful\", from metus, \"fear\"; the sense later shifted to \"anxiously careful\".",
+    "origin": "From Latin meticulosus, “fearful”, from metus, “fear”; the sense later shifted to “anxiously careful”.",
     "ipa": "məˈtɪkjələs",
     "zipf": 3.24,
     "issues": []
@@ -1054,7 +1050,7 @@
       "torn",
       "conflicted"
     ],
-    "origin": "From German Ambivalenz, coined by psychiatrist Eugen Bleuler around 1910 from Latin ambi-, \"both\", and valentia, \"strength\".",
+    "origin": "From German Ambivalenz, coined by psychiatrist Eugen Bleuler around 1910 from Latin ambi-, “both”, and valentia, “strength”.",
     "ipa": "æmˈbɪvələnt",
     "zipf": 3.01,
     "issues": []
@@ -1070,7 +1066,7 @@
       "realistic",
       "sensible"
     ],
-    "origin": "From Greek pragmatikos, \"fit for business\", from pragma, \"deed, thing done\".",
+    "origin": "From Greek pragmatikos, “fit for business”, from pragma, “deed, thing done”.",
     "ipa": "præɡˈmætɪk",
     "zipf": 3.49,
     "issues": []
@@ -1086,7 +1082,7 @@
       "frankness",
       "openness"
     ],
-    "origin": "From Latin candor, \"whiteness, brightness, purity\", from candere, \"to shine\".",
+    "origin": "From Latin candor, “whiteness, brightness, purity”, from candere, “to shine”.",
     "ipa": "ˈkændɚ",
     "zipf": 2.8,
     "issues": []
@@ -1102,7 +1098,7 @@
       "stark",
       "plain"
     ],
-    "origin": "From Greek austeros, \"harsh, bitter\", literally \"making the tongue dry\", by way of Latin austerus.",
+    "origin": "From Greek austeros, “harsh, bitter”, literally “making the tongue dry”, by way of Latin austerus.",
     "ipa": "ɔˈstɪr",
     "zipf": 3.0,
     "issues": []
@@ -1118,7 +1114,7 @@
       "generous",
       "charitable"
     ],
-    "origin": "From Latin bene, \"well\", and volens, \"wishing\", from velle, \"to wish\".",
+    "origin": "From Latin bene, “well”, and volens, “wishing”, from velle, “to wish”.",
     "ipa": "bəˈnɛvələnt",
     "zipf": 3.34,
     "issues": []
@@ -1134,7 +1130,7 @@
       "unpredictable",
       "changeable"
     ],
-    "origin": "From French capricieux, from Italian capriccio, \"a sudden start or whim\".",
+    "origin": "From French capricieux, from Italian capriccio, “a sudden start or whim”.",
     "ipa": "kəˈprɪʃəs",
     "zipf": 2.79,
     "issues": []
@@ -1150,7 +1146,7 @@
       "satisfied",
       "content"
     ],
-    "origin": "From Latin complacere, \"to please greatly\", from com-, an intensifier, and placere, \"to please\".",
+    "origin": "From Latin complacere, “to please greatly”, from com-, an intensifier, and placere, “to please”.",
     "ipa": "kəmˈpleɪsənt",
     "zipf": 3.19,
     "issues": []
@@ -1182,7 +1178,7 @@
       "puzzling",
       "obscure"
     ],
-    "origin": "From Greek kryptikos, from kryptos, \"hidden\".",
+    "origin": "From Greek kryptikos, from kryptos, “hidden”.",
     "ipa": "ˈkrɪptɪk",
     "zipf": 3.23,
     "issues": []
@@ -1198,7 +1194,7 @@
       "scary",
       "overwhelming"
     ],
-    "origin": "From the verb daunt, from Old French danter, from Latin domitare, \"to tame\".",
+    "origin": "From the verb daunt, from Old French danter, from Latin domitare, “to tame”.",
     "ipa": "ˈdɔntɪŋ",
     "zipf": 3.4,
     "issues": []
@@ -1214,7 +1210,7 @@
       "fiasco",
       "catastrophe"
     ],
-    "origin": "From French débâcle, \"the breaking up of ice in a river\", from débâcler, \"to unbar\".",
+    "origin": "From French débâcle, “the breaking up of ice in a river”, from débâcler, “to unbar”.",
     "ipa": "dəˈbɑkəl",
     "zipf": 3.21,
     "issues": []
@@ -1230,12 +1226,10 @@
       "timid",
       "bashful"
     ],
-    "origin": "From Latin diffidere, \"to mistrust\", from dis-, \"away\", and fidere, \"to trust\".",
-    "ipa": "",
+    "origin": "From Latin diffidere, “to mistrust”, from dis-, “away”, and fidere, “to trust”.",
+    "ipa": "ˈdɪfɪdənt",
     "zipf": 2.1,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "disparate",
@@ -1248,8 +1242,8 @@
       "distinct",
       "diverse"
     ],
-    "origin": "From Latin disparatus, past participle of disparare, \"to separate\", from dis-, \"apart\", and parare, \"to prepare\".",
-    "ipa": "ˈdɪspɚɪt",
+    "origin": "From Latin disparatus, past participle of disparare, “to separate”, from dis-, “apart”, and parare, “to prepare”.",
+    "ipa": "ˈdɪspərɪt",
     "zipf": 3.26,
     "issues": []
   },
@@ -1264,7 +1258,7 @@
       "opinionated",
       "stubborn"
     ],
-    "origin": "From Greek dogma, \"opinion, tenet\", from dokein, \"to seem, to think\".",
+    "origin": "From Greek dogma, “opinion, tenet”, from dokein, “to seem, to think”.",
     "ipa": "dɑɡˈmætɪk",
     "zipf": 2.93,
     "issues": []
@@ -1280,7 +1274,7 @@
       "evasive",
       "fleeting"
     ],
-    "origin": "From Latin eludere, \"to escape from, to outplay\", from e-, \"out\", and ludere, \"to play\".",
+    "origin": "From Latin eludere, “to escape from, to outplay”, from e-, “out”, and ludere, “to play”.",
     "ipa": "ɪˈlusɪv",
     "zipf": 3.47,
     "issues": []
@@ -1296,7 +1290,7 @@
       "copy",
       "mirror"
     ],
-    "origin": "From Latin aemulari, \"to rival, strive to equal\", from aemulus, \"rival\".",
+    "origin": "From Latin aemulari, “to rival, strive to equal”, from aemulus, “rival”.",
     "ipa": "ˈɛmjəleɪt",
     "zipf": 3.41,
     "issues": []
@@ -1312,7 +1306,7 @@
       "puzzle",
       "riddle"
     ],
-    "origin": "From Greek ainigma, \"riddle\", from ainissesthai, \"to speak in riddles\", from ainos, \"fable\".",
+    "origin": "From Greek ainigma, “riddle”, from ainissesthai, “to speak in riddles”, from ainos, “fable”.",
     "ipa": "ɪˈnɪɡmə",
     "zipf": 3.24,
     "issues": []
@@ -1328,7 +1322,7 @@
       "irregular",
       "inconsistent"
     ],
-    "origin": "From Latin erraticus, \"wandering\", from errare, \"to wander, stray\".",
+    "origin": "From Latin erraticus, “wandering”, from errare, “to wander, stray”.",
     "ipa": "ɪˈrætɪk",
     "zipf": 3.34,
     "issues": []
@@ -1344,7 +1338,7 @@
       "aggravate",
       "intensify"
     ],
-    "origin": "From Latin exacerbare, \"to irritate\", from ex-, \"thoroughly\", and acerbus, \"harsh, bitter\".",
+    "origin": "From Latin exacerbare, “to irritate”, from ex-, “thoroughly”, and acerbus, “harsh, bitter”.",
     "ipa": "ɪɡˈzæsɚbeɪt",
     "zipf": 2.92,
     "issues": []
@@ -1360,7 +1354,7 @@
       "picky",
       "particular"
     ],
-    "origin": "From Latin fastidiosus, \"disdainful, squeamish\", from fastidium, \"loathing\".",
+    "origin": "From Latin fastidiosus, “disdainful, squeamish”, from fastidium, “loathing”.",
     "ipa": "fæˈstɪdiəs",
     "zipf": 2.64,
     "issues": []
@@ -1376,7 +1370,7 @@
       "ardent",
       "intense"
     ],
-    "origin": "From Latin fervens, from fervere, \"to boil, glow\".",
+    "origin": "From Latin fervens, from fervere, “to boil, glow”.",
     "ipa": "ˈfɝvənt",
     "zipf": 3.04,
     "issues": []
@@ -1392,7 +1386,7 @@
       "useless",
       "hopeless"
     ],
-    "origin": "From Latin futilis, \"leaky, worthless\", literally \"pouring out easily\".",
+    "origin": "From Latin futilis, “leaky, worthless”, literally “pouring out easily”.",
     "ipa": "ˈfjutəl",
     "zipf": 3.39,
     "issues": []
@@ -1408,7 +1402,7 @@
       "chatty",
       "wordy"
     ],
-    "origin": "From Latin garrulus, from garrire, \"to chatter\".",
+    "origin": "From Latin garrulus, from garrire, “to chatter”.",
     "ipa": "ˈɡɛrələs",
     "zipf": 2.11,
     "issues": []
@@ -1424,7 +1418,7 @@
       "outgoing",
       "friendly"
     ],
-    "origin": "From Latin gregarius, \"belonging to a flock\", from grex, \"flock, herd\".",
+    "origin": "From Latin gregarius, “belonging to a flock”, from grex, “flock, herd”.",
     "ipa": "ɡrəˈɡɛriəs",
     "zipf": 2.71,
     "issues": []
@@ -1456,7 +1450,7 @@
       "perfect",
       "spotless"
     ],
-    "origin": "From Latin impeccabilis, \"not liable to sin\", from in-, \"not\", and peccare, \"to sin\".",
+    "origin": "From Latin impeccabilis, “not liable to sin”, from in-, “not”, and peccare, “to sin”.",
     "ipa": "ɪmˈpɛkəbəl",
     "zipf": 3.25,
     "issues": []
@@ -1472,7 +1466,7 @@
       "endless",
       "nonstop"
     ],
-    "origin": "From Late Latin incessans, from in-, \"not\", and cessare, \"to cease\".",
+    "origin": "From Late Latin incessans, from in-, “not”, and cessare, “to cease”.",
     "ipa": "ɪnˈsɛsənt",
     "zipf": 3.03,
     "issues": []
@@ -1488,7 +1482,7 @@
       "idle",
       "sluggish"
     ],
-    "origin": "From Late Latin indolens, \"feeling no pain\", from in-, \"not\", and dolere, \"to suffer pain\".",
+    "origin": "From Late Latin indolens, “feeling no pain”, from in-, “not”, and dolere, “to suffer pain”.",
     "ipa": "ˈɪndələnt",
     "zipf": 2.26,
     "issues": []
@@ -1504,7 +1498,7 @@
       "incompetent",
       "unskilled"
     ],
-    "origin": "From Latin ineptus, \"unsuitable, absurd\", from in-, \"not\", and aptus, \"fit\".",
+    "origin": "From Latin ineptus, “unsuitable, absurd”, from in-, “not”, and aptus, “fit”.",
     "ipa": "ɪˈnɛpt",
     "zipf": 3.13,
     "issues": []
@@ -1520,7 +1514,7 @@
       "inborn",
       "instinctive"
     ],
-    "origin": "From Latin innatus, \"inborn\", from in-, \"in\", and nasci, \"to be born\".",
+    "origin": "From Latin innatus, “inborn”, from in-, “in”, and nasci, “to be born”.",
     "ipa": "ɪˈneɪt",
     "zipf": 3.48,
     "issues": []
@@ -1536,7 +1530,7 @@
       "dull",
       "tasteless"
     ],
-    "origin": "From Late Latin insipidus, \"tasteless\", from in-, \"not\", and sapidus, \"tasty\", from sapere, \"to taste\".",
+    "origin": "From Late Latin insipidus, “tasteless”, from in-, “not”, and sapidus, “tasty”, from sapere, “to taste”.",
     "ipa": "ɪnˈsɪpəd",
     "zipf": 2.64,
     "issues": []
@@ -1552,7 +1546,7 @@
       "brave",
       "bold"
     ],
-    "origin": "From Latin intrepidus, from in-, \"not\", and trepidus, \"alarmed\".",
+    "origin": "From Latin intrepidus, from in-, “not”, and trepidus, “alarmed”.",
     "ipa": "ɪnˈtrɛpəd",
     "zipf": 3.04,
     "issues": []
@@ -1568,7 +1562,7 @@
       "jolly",
       "merry"
     ],
-    "origin": "From Late Latin jovialis, \"of Jupiter\", since people born under that planet were thought to be cheerful.",
+    "origin": "From Late Latin jovialis, “of Jupiter”, since people born under that planet were thought to be cheerful.",
     "ipa": "ˈdʒoʊviəl",
     "zipf": 2.74,
     "issues": []
@@ -1584,7 +1578,7 @@
       "sensible",
       "prudent"
     ],
-    "origin": "From French judicieux, from Latin judicium, \"judgment\", from judex, \"judge\".",
+    "origin": "From French judicieux, from Latin judicium, “judgment”, from judex, “judge”.",
     "ipa": "dʒuˈdɪʃəs",
     "zipf": 2.68,
     "issues": []
@@ -1600,7 +1594,7 @@
       "grieve",
       "regret"
     ],
-    "origin": "From Latin lamentari, \"to wail, moan\", from lamentum, \"a wailing\".",
+    "origin": "From Latin lamentari, “to wail, moan”, from lamentum, “a wailing”.",
     "ipa": "ləˈmɛnt",
     "zipf": 3.25,
     "issues": []
@@ -1616,7 +1610,7 @@
       "tired",
       "drowsy"
     ],
-    "origin": "From Greek lethargos, \"forgetful\", from lethe, \"forgetfulness\", and argos, \"idle\".",
+    "origin": "From Greek lethargos, “forgetful”, from lethe, “forgetfulness”, and argos, “idle”.",
     "ipa": "ləˈθɑrdʒɪk",
     "zipf": 2.78,
     "issues": []
@@ -1632,7 +1626,7 @@
       "chatty",
       "wordy"
     ],
-    "origin": "From Latin loquax, \"talkative\", from loqui, \"to speak\".",
+    "origin": "From Latin loquax, “talkative”, from loqui, “to speak”.",
     "ipa": "loʊˈkweɪʃəs",
     "zipf": 2.11,
     "issues": []
@@ -1648,7 +1642,7 @@
       "pliable",
       "adaptable"
     ],
-    "origin": "From medieval Latin malleabilis, \"able to be hammered,\" from Latin malleus, \"hammer.\"",
+    "origin": "From medieval Latin malleabilis, “able to be hammered,” from Latin malleus, “hammer.”",
     "ipa": "ˈmæliəbəl",
     "zipf": 2.82,
     "issues": []
@@ -1664,7 +1658,7 @@
       "ease",
       "reduce"
     ],
-    "origin": "From Latin mitigare, \"to soften,\" from mitis, \"mild, gentle.\"",
+    "origin": "From Latin mitigare, “to soften,” from mitis, “mild, gentle.”",
     "ipa": "ˈmɪtəɡeɪt",
     "zipf": 3.54,
     "issues": []
@@ -1680,8 +1674,8 @@
       "sullen",
       "glum"
     ],
-    "origin": "From Latin morosus, \"peevish, hard to please,\" from mos, \"manner, habit.\"",
-    "ipa": "mɚˈoʊs",
+    "origin": "From Latin morosus, “peevish, hard to please,” from mos, “manner, habit.”",
+    "ipa": "məˈroʊs",
     "zipf": 2.44,
     "issues": []
   },
@@ -1696,7 +1690,7 @@
       "calm",
       "relaxed"
     ],
-    "origin": "From French nonchalant, from non, \"not,\" and chaloir, \"to care,\" ultimately from Latin calere, \"to be warm.\"",
+    "origin": "From French nonchalant, from non, “not,” and chaloir, “to care,” ultimately from Latin calere, “to be warm.”",
     "ipa": "nɑnʃəˈlɑnt",
     "zipf": 2.74,
     "issues": []
@@ -1712,7 +1706,7 @@
       "yearning",
       "wistfulness"
     ],
-    "origin": "Coined in 1688 by Swiss physician Johannes Hofer from Greek nostos, \"homecoming,\" and algos, \"pain.\"",
+    "origin": "Coined in 1688 by Swiss physician Johannes Hofer from Greek nostos, “homecoming,” and algos, “pain.”",
     "ipa": "nɔˈstældʒə",
     "zipf": 3.62,
     "issues": []
@@ -1728,7 +1722,7 @@
       "shade",
       "distinction"
     ],
-    "origin": "From French nuance, \"shade of color,\" from nue, \"cloud,\" from Latin nubes.",
+    "origin": "From French nuance, “shade of color,” from nue, “cloud,” from Latin nubes.",
     "ipa": "ˈnuɑns",
     "zipf": 3.09,
     "issues": []
@@ -1744,7 +1738,7 @@
       "headstrong",
       "willful"
     ],
-    "origin": "From Latin obstinatus, past participle of obstinare, \"to persist, stand firm.\"",
+    "origin": "From Latin obstinatus, past participle of obstinare, “to persist, stand firm.”",
     "ipa": "ˈɑbstənət",
     "zipf": 2.73,
     "issues": []
@@ -1760,7 +1754,7 @@
       "menacing",
       "sinister"
     ],
-    "origin": "From Latin ominosus, from omen, \"a sign of what is to come.\"",
+    "origin": "From Latin ominosus, from omen, “a sign of what is to come.”",
     "ipa": "ˈɑmənəs",
     "zipf": 3.4,
     "issues": []
@@ -1776,7 +1770,7 @@
       "lavish",
       "rich"
     ],
-    "origin": "From Latin opulentus, \"wealthy,\" from ops, \"wealth, resources.\"",
+    "origin": "From Latin opulentus, “wealthy,” from ops, “wealth, resources.”",
     "ipa": "ˈɑpjələnt",
     "zipf": 2.91,
     "issues": []
@@ -1792,7 +1786,7 @@
       "flashy",
       "pretentious"
     ],
-    "origin": "From Latin ostentare, \"to display,\" an intensive form of ostendere, \"to show.\"",
+    "origin": "From Latin ostentare, “to display,” an intensive form of ostendere, “to show.”",
     "ipa": "ɑstənˈteɪʃəs",
     "zipf": 2.68,
     "issues": []
@@ -1808,7 +1802,7 @@
       "puzzle",
       "riddle"
     ],
-    "origin": "From Greek paradoxos, \"contrary to expectation,\" from para, \"beyond,\" and doxa, \"opinion.\"",
+    "origin": "From Greek paradoxos, “contrary to expectation,” from para, “beyond,” and doxa, “opinion.”",
     "ipa": "ˈpɛrədɑks",
     "zipf": 3.63,
     "issues": []
@@ -1824,7 +1818,7 @@
       "shortage",
       "lack"
     ],
-    "origin": "From Latin paucitas, from paucus, \"few, little.\"",
+    "origin": "From Latin paucitas, from paucus, “few, little.”",
     "ipa": "ˈpɔsəti",
     "zipf": 2.61,
     "issues": []
@@ -1840,7 +1834,7 @@
       "reflective",
       "contemplative"
     ],
-    "origin": "From Old French pensif, from penser, \"to think,\" from Latin pensare, \"to weigh, consider.\"",
+    "origin": "From Old French pensif, from penser, “to think,” from Latin pensare, “to weigh, consider.”",
     "ipa": "ˈpɛnsɪv",
     "zipf": 2.63,
     "issues": []
@@ -1856,7 +1850,7 @@
       "prevalent",
       "universal"
     ],
-    "origin": "From Latin pervadere, \"to go through,\" from per, \"through,\" and vadere, \"to go.\"",
+    "origin": "From Latin pervadere, “to go through,” from per, “through,” and vadere, “to go.”",
     "ipa": "pɚˈveɪsɪv",
     "zipf": 3.39,
     "issues": []
@@ -1872,7 +1866,7 @@
       "peaceful",
       "tranquil"
     ],
-    "origin": "From Latin placidus, \"gentle, calm,\" from placere, \"to please.\"",
+    "origin": "From Latin placidus, “gentle, calm,” from placere, “to please.”",
     "ipa": "ˈplæsəd",
     "zipf": 3.01,
     "issues": []
@@ -1888,7 +1882,7 @@
       "touching",
       "emotional"
     ],
-    "origin": "From Old French poignant, \"pricking,\" from poindre, from Latin pungere, \"to prick, sting.\"",
+    "origin": "From Old French poignant, “pricking,” from poindre, from Latin pungere, “to prick, sting.”",
     "ipa": "ˈpɔɪnjənt",
     "zipf": 3.27,
     "issues": []
@@ -1904,7 +1898,7 @@
       "risky",
       "shaky"
     ],
-    "origin": "From Latin precarius, \"obtained by begging,\" and so dependent on another's favor, from prex, \"prayer.\"",
+    "origin": "From Latin precarius, “obtained by begging,” and so dependent on another's favor, from prex, “prayer.”",
     "ipa": "priˈkɛriəs",
     "zipf": 3.27,
     "issues": []
@@ -1920,7 +1914,7 @@
       "fruitful",
       "fertile"
     ],
-    "origin": "From medieval Latin prolificus, from Latin proles, \"offspring,\" and facere, \"to make.\"",
+    "origin": "From medieval Latin prolificus, from Latin proles, “offspring,” and facere, “to make.”",
     "ipa": "proʊˈlɪfɪk",
     "zipf": 3.6,
     "issues": []
@@ -1936,12 +1930,10 @@
       "predicament",
       "puzzle"
     ],
-    "origin": "",
-    "ipa": "ˈkwɑndɚi",
+    "origin": "Of uncertain origin.",
+    "ipa": "ˈkwɑndəri",
     "zipf": 2.6,
-    "issues": [
-      "no origin"
-    ]
+    "issues": []
   },
   {
     "lemma": "rancor",
@@ -1954,7 +1946,7 @@
       "resentment",
       "spite"
     ],
-    "origin": "From Late Latin rancor, \"rancidness, bitterness,\" from Latin rancere, \"to stink, be rancid.\"",
+    "origin": "From Late Latin rancor, “rancidness, bitterness,” from Latin rancere, “to stink, be rancid.”",
     "ipa": "ˈræŋkɚ",
     "zipf": 2.51,
     "issues": []
@@ -1970,7 +1962,7 @@
       "quiet",
       "guarded"
     ],
-    "origin": "From Latin reticere, \"to keep silent,\" from re-, an intensifier, and tacere, \"to be silent.\"",
+    "origin": "From Latin reticere, “to keep silent,” from re-, an intensifier, and tacere, “to be silent.”",
     "ipa": "ˈrɛtɪsənt",
     "zipf": 2.62,
     "issues": []
@@ -1986,7 +1978,7 @@
       "admire",
       "honor"
     ],
-    "origin": "From Latin revereri, \"to stand in awe of,\" from re-, an intensifier, and vereri, \"to fear, respect.\"",
+    "origin": "From Latin revereri, “to stand in awe of,” from re-, an intensifier, and vereri, “to fear, respect.”",
     "ipa": "rɪˈvɪr",
     "zipf": 3.09,
     "issues": []
@@ -2002,12 +1994,10 @@
       "shrewd",
       "astute"
     ],
-    "origin": "From Latin sagax, \"keen-scented, quick to perceive.\"",
-    "ipa": "",
+    "origin": "From Latin sagax, “keen-scented, quick to perceive.”",
+    "ipa": "səˈɡeɪʃəs",
     "zipf": 1.8,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "scrutinize",
@@ -2020,7 +2010,7 @@
       "inspect",
       "study"
     ],
-    "origin": "From Latin scrutinium, \"a search,\" from scrutari, \"to search, examine,\" originally to sort through scruta, \"rubbish.\"",
+    "origin": "From Latin scrutinium, “a search,” from scrutari, “to search, examine,” originally to sort through scruta, “rubbish.”",
     "ipa": "ˈskrutənaɪz",
     "zipf": 2.76,
     "issues": []
@@ -2052,7 +2042,7 @@
       "consolation",
       "relief"
     ],
-    "origin": "From Old French solas, from Latin solacium, from solari, \"to console.\"",
+    "origin": "From Old French solas, from Latin solacium, from solari, “to console.”",
     "ipa": "ˈsɑləs",
     "zipf": 3.28,
     "issues": []
@@ -2068,12 +2058,10 @@
       "misspend",
       "misuse"
     ],
-    "origin": "",
+    "origin": "Of uncertain origin.",
     "ipa": "ˈskwɑndɚ",
     "zipf": 2.74,
-    "issues": [
-      "no origin"
-    ]
+    "issues": []
   },
   {
     "lemma": "stoic",
@@ -2086,7 +2074,7 @@
       "impassive",
       "resigned"
     ],
-    "origin": "From Greek stoa, \"porch,\" after the Painted Porch in Athens where the philosopher Zeno taught.",
+    "origin": "From Greek stoa, “porch,” after the Painted Porch in Athens where the philosopher Zeno taught.",
     "ipa": "ˈstoʊɪk",
     "zipf": 3.15,
     "issues": []
@@ -2102,7 +2090,7 @@
       "brief",
       "compact"
     ],
-    "origin": "From Latin succinctus, \"tucked up,\" from sub, \"under,\" and cingere, \"to gird.\"",
+    "origin": "From Latin succinctus, “tucked up,” from sub, “under,” and cingere, “to gird.”",
     "ipa": "səkˈsɪŋkt",
     "zipf": 2.9,
     "issues": []
@@ -2118,7 +2106,7 @@
       "excess",
       "redundant"
     ],
-    "origin": "From Latin superfluus, \"overflowing,\" from super, \"over,\" and fluere, \"to flow.\"",
+    "origin": "From Latin superfluus, “overflowing,” from super, “over,” and fluere, “to flow.”",
     "ipa": "ˈsupɚflwəs",
     "zipf": 3.0,
     "issues": []
@@ -2134,7 +2122,7 @@
       "reserved",
       "silent"
     ],
-    "origin": "From Latin taciturnus, from tacitus, \"silent,\" from tacere, \"to be silent.\"",
+    "origin": "From Latin taciturnus, from tacitus, “silent,” from tacere, “to be silent.”",
     "ipa": "ˈtæsɪtɚn",
     "zipf": 2.37,
     "issues": []
@@ -2150,7 +2138,7 @@
       "flimsy",
       "slight"
     ],
-    "origin": "From Latin tenuis, \"thin.\"",
+    "origin": "From Latin tenuis, “thin.”",
     "ipa": "ˈtɛnjəwəs",
     "zipf": 3.02,
     "issues": []
@@ -2166,7 +2154,7 @@
       "anxiety",
       "dread"
     ],
-    "origin": "From Latin trepidare, \"to tremble, be agitated,\" from trepidus, \"alarmed.\"",
+    "origin": "From Latin trepidare, “to tremble, be agitated,” from trepidus, “alarmed.”",
     "ipa": "trɛpɪˈdeɪʃən",
     "zipf": 2.72,
     "issues": []
@@ -2182,7 +2170,7 @@
       "widespread",
       "universal"
     ],
-    "origin": "From Latin ubique, \"everywhere,\" from ubi, \"where.\"",
+    "origin": "From Latin ubique, “everywhere,” from ubi, “where.”",
     "ipa": "juˈbɪkwɪtəs",
     "zipf": 3.42,
     "issues": []
@@ -2198,8 +2186,8 @@
       "honor",
       "worship"
     ],
-    "origin": "From Latin venerari, \"to worship, revere,\" from venus, \"love, desire.\"",
-    "ipa": "ˈvɛnɚeɪt",
+    "origin": "From Latin venerari, “to worship, revere,” from venus, “love, desire.”",
+    "ipa": "ˈvɛnəreɪt",
     "zipf": 2.28,
     "issues": []
   },
@@ -2214,7 +2202,7 @@
       "justify",
       "absolve"
     ],
-    "origin": "From Latin vindicare, \"to claim, avenge, set free,\" from vindex, \"claimant, avenger.\"",
+    "origin": "From Latin vindicare, “to claim, avenge, set free,” from vindex, “claimant, avenger.”",
     "ipa": "ˈvɪndəkeɪt",
     "zipf": 2.54,
     "issues": []
@@ -2230,7 +2218,7 @@
       "unpredictable",
       "erratic"
     ],
-    "origin": "From Latin volatilis, \"flying, fleeting,\" from volare, \"to fly.\"",
+    "origin": "From Latin volatilis, “flying, fleeting,” from volare, “to fly.”",
     "ipa": "ˈvɑlətəl",
     "zipf": 3.72,
     "issues": []
@@ -2246,7 +2234,7 @@
       "fanciful",
       "quirky"
     ],
-    "origin": "From whim, a shortening of the older English whim-wham, \"fanciful object,\" itself of unknown origin.",
+    "origin": "From whim, a shortening of the older English whim-wham, “fanciful object,” itself of unknown origin.",
     "ipa": "ˈwɪmzɪkəl",
     "zipf": 3.1,
     "issues": []
@@ -2278,12 +2266,10 @@
       "sacred",
       "mystical"
     ],
-    "origin": "From Latin numen, \"divine will,\" literally \"a nod\" of a god.",
-    "ipa": "",
+    "origin": "From Latin numen, “divine will,” literally “a nod” of a god.",
+    "ipa": "ˈnumɪnəs",
     "zipf": 2.0,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "lucubration",
@@ -2292,16 +2278,12 @@
     "definition": "Long, hard study or writing, especially at night",
     "example": "Her thesis was the product of months of late-night lucubration in the library.",
     "synonyms": [
-      "study",
-      "research",
-      "scholarship"
+      "study"
     ],
-    "origin": "From Latin lucubrare, \"to work by lamplight,\" from lux, \"light.\"",
-    "ipa": "",
+    "origin": "From Latin lucubrare, “to work by lamplight,” from lux, “light.”",
+    "ipa": "lukjəˈbreɪʃən",
     "zipf": 0.0,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "logophile",
@@ -2309,17 +2291,11 @@
     "part_of_speech": "n.",
     "definition": "A person who loves words",
     "example": "A true logophile, he reads the dictionary for fun on weekends.",
-    "synonyms": [
-      "wordsmith",
-      "bookworm",
-      "linguist"
-    ],
-    "origin": "From Greek logos, \"word,\" and philos, \"loving.\"",
-    "ipa": "",
+    "synonyms": [],
+    "origin": "From Greek logos, “word,” and philos, “loving.”",
+    "ipa": "ˈlɔɡəfaɪl",
     "zipf": 0.0,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "petrichor",
@@ -2327,17 +2303,11 @@
     "part_of_speech": "n.",
     "definition": "The pleasant earthy smell of rain on dry ground",
     "example": "After weeks of drought, the petrichor rising from the garden felt like a gift.",
-    "synonyms": [
-      "scent",
-      "aroma",
-      "fragrance"
-    ],
-    "origin": "Coined in 1964 by Australian scientists Isabel Bear and Richard Thomas from Greek petra, \"stone,\" and ichor, the fluid in the veins of the gods.",
-    "ipa": "",
+    "synonyms": [],
+    "origin": "Coined in 1964 by Australian scientists Isabel Bear and Richard Thomas from Greek petra, “stone,” and ichor, the fluid in the veins of the gods.",
+    "ipa": "ˈpɛtrɪkɔr",
     "zipf": 1.6,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "mellifluous",
@@ -2350,12 +2320,10 @@
       "sweet",
       "melodious"
     ],
-    "origin": "From Latin mellifluus, from mel, \"honey,\" and fluere, \"to flow.\"",
-    "ipa": "",
+    "origin": "From Latin mellifluus, from mel, “honey,” and fluere, “to flow.”",
+    "ipa": "məˈlɪfluəs",
     "zipf": 2.08,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "perspicacious",
@@ -2368,7 +2336,7 @@
       "shrewd",
       "astute"
     ],
-    "origin": "From Latin perspicax, \"sharp-sighted,\" from perspicere, \"to see through.\"",
+    "origin": "From Latin perspicax, “sharp-sighted,” from perspicere, “to see through.”",
     "ipa": "pɚspəˈkeɪʃəs",
     "zipf": 1.7,
     "issues": []
@@ -2384,7 +2352,7 @@
       "servile",
       "submissive"
     ],
-    "origin": "From Latin obsequiosus, \"compliant,\" from obsequi, \"to comply,\" from ob, \"toward,\" and sequi, \"to follow.\"",
+    "origin": "From Latin obsequiosus, “compliant,” from obsequi, “to comply,” from ob, “toward,” and sequi, “to follow.”",
     "ipa": "əbˈsikwiəs",
     "zipf": 2.14,
     "issues": []
@@ -2400,7 +2368,7 @@
       "timid",
       "fearful"
     ],
-    "origin": "From Latin pusillus, \"very small,\" and animus, \"spirit, mind.\"",
+    "origin": "From Latin pusillus, “very small,” and animus, “spirit, mind.”",
     "ipa": "pjusəˈlænəməs",
     "zipf": 1.78,
     "issues": []
@@ -2416,7 +2384,7 @@
       "unruly",
       "stubborn"
     ],
-    "origin": "From Latin recalcitrare, \"to kick back,\" from calx, \"heel.\"",
+    "origin": "From Latin recalcitrare, “to kick back,” from calx, “heel.”",
     "ipa": "rɪˈkælsɪtrənt",
     "zipf": 2.55,
     "issues": []
@@ -2432,12 +2400,10 @@
       "toady",
       "lackey"
     ],
-    "origin": "From Greek sykophantes, \"informer, slanderer,\" apparently from sykon, \"fig,\" and phainein, \"to show.\"",
-    "ipa": "",
+    "origin": "From Greek sykophantes, “informer, slanderer,” apparently from sykon, “fig,” and phainein, “to show.”",
+    "ipa": "ˈsɪkəfənt",
     "zipf": 2.2,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "truculent",
@@ -2450,7 +2416,7 @@
       "aggressive",
       "combative"
     ],
-    "origin": "From Latin truculentus, from trux, \"fierce, savage.\"",
+    "origin": "From Latin truculentus, from trux, “fierce, savage.”",
     "ipa": "ˈtrʌkjələnt",
     "zipf": 2.01,
     "issues": []
@@ -2466,7 +2432,7 @@
       "upheaval",
       "fluctuation"
     ],
-    "origin": "From Latin vicissitudo, from vicissim, \"in turn,\" from vicis, \"a turn, change.\"",
+    "origin": "From Latin vicissitudo, from vicissim, “in turn,” from vicis, “a turn, change.”",
     "ipa": "vɪˈsɪsɪtud",
     "zipf": 1.34,
     "issues": []
@@ -2482,12 +2448,10 @@
       "loveliness",
       "attractiveness"
     ],
-    "origin": "From Latin pulchritudo, from pulcher, meaning 'beautiful'.",
-    "ipa": "",
+    "origin": "From Latin pulchritudo, from pulcher, meaning “beautiful”.",
+    "ipa": "ˈpʌlkrɪtud",
     "zipf": 1.36,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "obfuscate",
@@ -2500,7 +2464,7 @@
       "confuse",
       "muddle"
     ],
-    "origin": "From Late Latin obfuscare, 'to darken', from ob- 'over' and fuscus 'dark'.",
+    "origin": "From Late Latin obfuscare, “to darken”, from ob- “over” and fuscus “dark”.",
     "ipa": "ˈɑbfəskeɪt",
     "zipf": 2.28,
     "issues": []
@@ -2516,7 +2480,7 @@
       "nonchalant",
       "breezy"
     ],
-    "origin": "From French insouciant, from in- 'not' and soucier 'to worry', ultimately from Latin sollicitare 'to disturb'.",
+    "origin": "From French insouciant, from in- “not” and soucier “to worry”, ultimately from Latin sollicitare “to disturb”.",
     "ipa": "ɪnˈsusjənt",
     "zipf": 1.63,
     "issues": []
@@ -2532,7 +2496,7 @@
       "brief",
       "concise"
     ],
-    "origin": "From Greek Lakonikos, 'of Laconia', the region around Sparta, whose people were famous for their terse speech.",
+    "origin": "From Greek Lakonikos, “of Laconia”, the region around Sparta, whose people were famous for their terse speech.",
     "ipa": "lɑˈkɑnɪk",
     "zipf": 2.39,
     "issues": []
@@ -2548,7 +2512,7 @@
       "forgiving",
       "noble"
     ],
-    "origin": "From Latin magnanimus, from magnus 'great' and animus 'soul, spirit'.",
+    "origin": "From Latin magnanimus, from magnus “great” and animus “soul, spirit”.",
     "ipa": "mæɡˈnænəməs",
     "zipf": 2.61,
     "issues": []
@@ -2564,7 +2528,7 @@
       "lying",
       "deceitful"
     ],
-    "origin": "From Latin mendax (stem mendac-), meaning 'lying', related to mendum 'fault'.",
+    "origin": "From Latin mendax (stem mendac-), meaning “lying”, related to mendum “fault”.",
     "ipa": "mɛnˈdeɪʃəs",
     "zipf": 2.06,
     "issues": []
@@ -2580,12 +2544,10 @@
       "lavish",
       "bountiful"
     ],
-    "origin": "From Latin munificus, from munus 'gift' and facere 'to make'.",
-    "ipa": "",
+    "origin": "From Latin munificus, from munus “gift” and facere “to make”.",
+    "ipa": "mjuˈnɪfɪsənt",
     "zipf": 1.76,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "nefarious",
@@ -2598,7 +2560,7 @@
       "evil",
       "villainous"
     ],
-    "origin": "From Latin nefarius, from nefas 'wrong, crime', from ne- 'not' and fas 'divine law'.",
+    "origin": "From Latin nefarius, from nefas “wrong, crime”, from ne- “not” and fas “divine law”.",
     "ipa": "nəˈfɛriəs",
     "zipf": 3.0,
     "issues": []
@@ -2614,8 +2576,8 @@
       "unyielding",
       "inflexible"
     ],
-    "origin": "From Latin obduratus, past participle of obdurare 'to harden', from durus 'hard'.",
-    "ipa": "ˈɑbdɚət",
+    "origin": "From Latin obduratus, past participle of obdurare “to harden”, from durus “hard”.",
+    "ipa": "ˈɑbdərət",
     "zipf": 2.01,
     "issues": []
   },
@@ -2630,7 +2592,7 @@
       "miserly",
       "frugal"
     ],
-    "origin": "From Latin parsimonia 'thrift', from parcere 'to spare'.",
+    "origin": "From Latin parsimonia “thrift”, from parcere “to spare”.",
     "ipa": "pɑrsəˈmoʊniəs",
     "zipf": 2.18,
     "issues": []
@@ -2646,12 +2608,10 @@
       "transparent",
       "lucid"
     ],
-    "origin": "From Latin pellucidus, from perlucere 'to shine through', from per 'through' and lucere 'to shine'.",
-    "ipa": "",
+    "origin": "From Latin pellucidus, from perlucere “to shine through”, from per “through” and lucere “to shine”.",
+    "ipa": "pəˈlusɪd",
     "zipf": 1.6,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "perfunctory",
@@ -2664,8 +2624,8 @@
       "hasty",
       "mechanical"
     ],
-    "origin": "From Late Latin perfunctorius 'careless', from Latin perfungi 'to get through with, discharge'.",
-    "ipa": "pɚˈfʌŋktɚi",
+    "origin": "From Late Latin perfunctorius “careless”, from Latin perfungi “to get through with, discharge”.",
+    "ipa": "pɚˈfʌŋktəri",
     "zipf": 2.45,
     "issues": []
   },
@@ -2680,7 +2640,7 @@
       "destructive",
       "damaging"
     ],
-    "origin": "From Latin perniciosus, from pernicies 'ruin', from per- 'completely' and nex 'death'.",
+    "origin": "From Latin perniciosus, from pernicies “ruin”, from per- “completely” and nex “death”.",
     "ipa": "pɚˈnɪʃəs",
     "zipf": 2.87,
     "issues": []
@@ -2696,7 +2656,7 @@
       "composed",
       "unemotional"
     ],
-    "origin": "From Greek phlegmatikos, from phlegma 'phlegm', the bodily humor once believed to cause a calm, sluggish temperament.",
+    "origin": "From Greek phlegmatikos, from phlegma “phlegm”, the bodily humor once believed to cause a calm, sluggish temperament.",
     "ipa": "flɛɡˈmætɪk",
     "zipf": 2.07,
     "issues": []
@@ -2712,7 +2672,7 @@
       "petulant",
       "peevish"
     ],
-    "origin": "From Latin querulus, from queri 'to complain'.",
+    "origin": "From Latin querulus, from queri “to complain”.",
     "ipa": "ˈkwɛrələs",
     "zipf": 1.61,
     "issues": []
@@ -2728,7 +2688,7 @@
       "hopeful",
       "confident"
     ],
-    "origin": "From Latin sanguineus 'of blood', from sanguis 'blood'; in medieval medicine a temperament ruled by blood was thought to be cheerful.",
+    "origin": "From Latin sanguineus “of blood”, from sanguis “blood”; in medieval medicine a temperament ruled by blood was thought to be cheerful.",
     "ipa": "ˈsæŋɡwɪn",
     "zipf": 2.74,
     "issues": []
@@ -2741,15 +2701,12 @@
     "example": "The professor's sesquipedalian lectures sent students reaching for their dictionaries.",
     "synonyms": [
       "wordy",
-      "verbose",
-      "longwinded"
+      "verbose"
     ],
-    "origin": "From Latin sesquipedalis, 'a foot and a half long', a term the poet Horace used to mock overly long words.",
-    "ipa": "",
+    "origin": "From Latin sesquipedalis, “a foot and a half long”, a term the poet Horace used to mock overly long words.",
+    "ipa": "sɛskwɪpəˈdeɪliən",
     "zipf": 1.22,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "soporific",
@@ -2759,15 +2716,12 @@
     "example": "The warm room and the speaker's soporific voice had half the audience nodding off.",
     "synonyms": [
       "sedative",
-      "hypnotic",
-      "drowsy"
+      "hypnotic"
     ],
-    "origin": "From Latin sopor 'deep sleep' combined with -ficus 'making', from facere 'to make'.",
-    "ipa": "",
+    "origin": "From Latin sopor “deep sleep” combined with -ficus “making”, from facere “to make”.",
+    "ipa": "sɑpəˈrɪfɪk",
     "zipf": 2.1,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "specious",
@@ -2780,7 +2734,7 @@
       "deceptive",
       "false"
     ],
-    "origin": "From Latin speciosus 'beautiful, plausible', from species 'appearance'.",
+    "origin": "From Latin speciosus “beautiful, plausible”, from species “appearance”.",
     "ipa": "ˈspiʃəs",
     "zipf": 2.45,
     "issues": []
@@ -2796,7 +2750,7 @@
       "haughty",
       "condescending"
     ],
-    "origin": "From Latin superciliosus, from supercilium 'eyebrow', from super 'above' and cilium 'eyelid'.",
+    "origin": "From Latin superciliosus, from supercilium “eyebrow”, from super “above” and cilium “eyelid”.",
     "ipa": "supɚˈsɪliəs",
     "zipf": 1.94,
     "issues": []
@@ -2812,7 +2766,7 @@
       "stealthy",
       "sneaky"
     ],
-    "origin": "From Latin surrepticius, from surripere 'to seize secretly', from sub 'under' and rapere 'to seize'.",
+    "origin": "From Latin surrepticius, from surripere “to seize secretly”, from sub “under” and rapere “to seize”.",
     "ipa": "sɚəpˈtɪʃəs",
     "zipf": 2.28,
     "issues": []
@@ -2828,7 +2782,7 @@
       "partisan",
       "slanted"
     ],
-    "origin": "From German tendenziös, from Tendenz 'tendency', ultimately from Latin tendere 'to stretch'.",
+    "origin": "From German tendenziös, from Tendenz “tendency”, ultimately from Latin tendere “to stretch”.",
     "ipa": "tɛnˈdɛnʃəs",
     "zipf": 1.98,
     "issues": []
@@ -2844,7 +2798,7 @@
       "sharp",
       "cutting"
     ],
-    "origin": "From Old French trenchant 'cutting', the present participle of trenchier 'to cut'.",
+    "origin": "From Old French trenchant “cutting”, the present participle of trenchier “to cut”.",
     "ipa": "ˈtrɛntʃənt",
     "zipf": 2.35,
     "issues": []
@@ -2860,7 +2814,7 @@
       "smarmy",
       "fawning"
     ],
-    "origin": "From Medieval Latin unctuosus, from Latin unctus 'anointing', from unguere 'to anoint'.",
+    "origin": "From Medieval Latin unctuosus, from Latin unctus “anointing”, from unguere “to anoint”.",
     "ipa": "ˈʌŋtʃwəs",
     "zipf": 2.03,
     "issues": []
@@ -2876,7 +2830,7 @@
       "authenticity",
       "credibility"
     ],
-    "origin": "From Latin verisimilitudo, from verus 'true' and similis 'like'.",
+    "origin": "From Latin verisimilitudo, from verus “true” and similis “like”.",
     "ipa": "vɛrəsəˈmɪlətud",
     "zipf": 2.18,
     "issues": []
@@ -2892,12 +2846,10 @@
       "scold",
       "condemn"
     ],
-    "origin": "From Latin vituperare 'to blame', from vitium 'fault' and parare 'to prepare'.",
-    "ipa": "",
+    "origin": "From Latin vituperare “to blame”, from vitium “fault” and parare “to prepare”.",
+    "ipa": "vaɪˈtupəreɪt",
     "zipf": 0.0,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "abstruse",
@@ -2910,7 +2862,7 @@
       "complex",
       "puzzling"
     ],
-    "origin": "From Latin abstrusus 'hidden', past participle of abstrudere 'to conceal', from ab- 'away' and trudere 'to push'.",
+    "origin": "From Latin abstrusus “hidden”, past participle of abstrudere “to conceal”, from ab- “away” and trudere “to push”.",
     "ipa": "əbˈstrus",
     "zipf": 2.13,
     "issues": []
@@ -2926,7 +2878,7 @@
       "hostile",
       "spiteful"
     ],
-    "origin": "From Latin acrimonia 'sharpness', from acer 'sharp'.",
+    "origin": "From Latin acrimonia “sharpness”, from acer “sharp”.",
     "ipa": "ækrəˈmoʊniəs",
     "zipf": 2.55,
     "issues": []
@@ -2942,7 +2894,7 @@
       "readiness",
       "enthusiasm"
     ],
-    "origin": "From Latin alacritas, from alacer 'lively, eager'.",
+    "origin": "From Latin alacritas, from alacer “lively, eager”.",
     "ipa": "əˈlækrəti",
     "zipf": 2.36,
     "issues": []
@@ -2958,7 +2910,7 @@
       "taboo",
       "curse"
     ],
-    "origin": "From Greek anathema, 'a thing devoted', later 'a thing devoted to evil', from anatithenai 'to set up'.",
+    "origin": "From Greek anathema, “a thing devoted”, later “a thing devoted to evil”, from anatithenai “to set up”.",
     "ipa": "əˈnæθəmə",
     "zipf": 2.79,
     "issues": []
@@ -2974,7 +2926,7 @@
       "fictitious",
       "mythical"
     ],
-    "origin": "From Greek apokryphos 'hidden', from apokryptein 'to hide away'.",
+    "origin": "From Greek apokryphos “hidden”, from apokryptein “to hide away”.",
     "ipa": "əˈpɑkrəfəl",
     "zipf": 2.66,
     "issues": []
@@ -2990,7 +2942,7 @@
       "industrious",
       "hardworking"
     ],
-    "origin": "From Latin assiduus, from assidere 'to sit beside, attend to', from ad 'to' and sedere 'to sit'.",
+    "origin": "From Latin assiduus, from assidere “to sit beside, attend to”, from ad “to” and sedere “to sit”.",
     "ipa": "əˈsɪdwəs",
     "zipf": 2.15,
     "issues": []
@@ -3006,7 +2958,7 @@
       "hostile",
       "warlike"
     ],
-    "origin": "From Latin bellicosus, from bellum 'war'.",
+    "origin": "From Latin bellicosus, from bellum “war”.",
     "ipa": "ˈbɛləkoʊs",
     "zipf": 2.28,
     "issues": []
@@ -3022,7 +2974,7 @@
       "racket",
       "din"
     ],
-    "origin": "From Greek kakophonia, from kakos 'bad' and phone 'sound'.",
+    "origin": "From Greek kakophonia, from kakos “bad” and phone “sound”.",
     "ipa": "kæˈkɑfəni",
     "zipf": 2.61,
     "issues": []
@@ -3038,7 +2990,7 @@
       "surly",
       "boorish"
     ],
-    "origin": "From Old English ceorl, 'peasant, man of low rank'.",
+    "origin": "From Old English ceorl, “peasant, man of low rank”.",
     "ipa": "ˈtʃɝlɪʃ",
     "zipf": 2.19,
     "issues": []
@@ -3054,12 +3006,10 @@
       "verbosity",
       "evasion"
     ],
-    "origin": "From Latin circumlocutio, from circum 'around' and loqui 'to speak'.",
-    "ipa": "",
+    "origin": "From Latin circumlocutio, from circum “around” and loqui “to speak”.",
+    "ipa": "sɝkəmloʊˈkjuʃən",
     "zipf": 1.62,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   },
   {
     "lemma": "cogent",
@@ -3072,7 +3022,7 @@
       "compelling",
       "persuasive"
     ],
-    "origin": "From Latin cogere 'to drive together, compel', from co- 'together' and agere 'to drive'.",
+    "origin": "From Latin cogere “to drive together, compel”, from co- “together” and agere “to drive”.",
     "ipa": "ˈkoʊdʒənt",
     "zipf": 2.71,
     "issues": []
@@ -3088,7 +3038,7 @@
       "remorseful",
       "regretful"
     ],
-    "origin": "From Latin contritus 'ground to pieces', from conterere 'to grind', from terere 'to rub'.",
+    "origin": "From Latin contritus “ground to pieces”, from conterere “to grind”, from terere “to rub”.",
     "ipa": "kənˈtraɪt",
     "zipf": 2.48,
     "issues": []
@@ -3104,7 +3054,7 @@
       "damaging",
       "detrimental"
     ],
-    "origin": "From Greek deleterios 'noxious', from deleisthai 'to hurt'.",
+    "origin": "From Greek deleterios “noxious”, from deleisthai “to hurt”.",
     "ipa": "dɛləˈtɪriəs",
     "zipf": 2.72,
     "issues": []
@@ -3120,7 +3070,7 @@
       "random",
       "halfhearted"
     ],
-    "origin": "From Latin desultorius, from desultor, a circus rider who leaped from horse to horse, from desilire 'to leap down'.",
+    "origin": "From Latin desultorius, from desultor, a circus rider who leaped from horse to horse, from desilire “to leap down”.",
     "ipa": "ˈdɛsəltɔri",
     "zipf": 2.1,
     "issues": []
@@ -3136,7 +3086,7 @@
       "cheerful",
       "lively"
     ],
-    "origin": "From Latin ebullire 'to bubble out', from e- 'out' and bullire 'to boil'.",
+    "origin": "From Latin ebullire “to bubble out”, from e- “out” and bullire “to boil”.",
     "ipa": "ɪˈbʌljənt",
     "zipf": 2.17,
     "issues": []
@@ -3152,7 +3102,7 @@
       "lively",
       "sparkling"
     ],
-    "origin": "From Latin effervescere 'to boil up', from ex- 'out' and fervescere 'to begin to boil'.",
+    "origin": "From Latin effervescere “to boil up”, from ex- “out” and fervescere “to begin to boil”.",
     "ipa": "ɛfɚˈvɛsənt",
     "zipf": 2.51,
     "issues": []
@@ -3168,7 +3118,7 @@
       "calmness",
       "serenity"
     ],
-    "origin": "From Latin aequanimitas, from aequus 'even' and animus 'mind'.",
+    "origin": "From Latin aequanimitas, from aequus “even” and animus “mind”.",
     "ipa": "ikwəˈnɪmɪti",
     "zipf": 2.4,
     "issues": []
@@ -3184,7 +3134,7 @@
       "arcane",
       "specialized"
     ],
-    "origin": "From Greek esoterikos 'belonging to an inner circle', from esotero 'more within', the comparative of eso 'within'.",
+    "origin": "From Greek esoterikos “belonging to an inner circle”, from esotero “more within”, the comparative of eso “within”.",
     "ipa": "ɛsəˈtɛrɪk",
     "zipf": 3.17,
     "issues": []
@@ -3200,7 +3150,7 @@
       "foolish",
       "inane"
     ],
-    "origin": "From Latin fatuus, meaning 'foolish'.",
+    "origin": "From Latin fatuus, meaning “foolish”.",
     "ipa": "ˈfætʃəwəs",
     "zipf": 2.23,
     "issues": []
@@ -3216,7 +3166,7 @@
       "serene",
       "idyllic"
     ],
-    "origin": "From Greek alkyon, 'kingfisher', a bird fabled to calm the sea while it nested around midwinter.",
+    "origin": "From Greek alkyon, “kingfisher”, a bird fabled to calm the sea while it nested around midwinter.",
     "ipa": "ˈhælsiən",
     "zipf": 2.65,
     "issues": []
@@ -3232,7 +3182,7 @@
       "inexpressible",
       "unspeakable"
     ],
-    "origin": "From Latin ineffabilis, from in- 'not' and effari 'to speak out'.",
+    "origin": "From Latin ineffabilis, from in- “not” and effari “to speak out”.",
     "ipa": "ɪˈnɛfəbəl",
     "zipf": 2.41,
     "issues": []
@@ -3248,8 +3198,8 @@
       "chronic",
       "hardened"
     ],
-    "origin": "From Latin inveteratus, from inveterare 'to make old', from vetus 'old'.",
-    "ipa": "ɪnˈvɛtɚət",
+    "origin": "From Latin inveteratus, from inveterare “to make old”, from vetus “old”.",
+    "ipa": "ɪnˈvɛtərət",
     "zipf": 2.34,
     "issues": []
   },
@@ -3264,11 +3214,9 @@
       "transparent",
       "crystalline"
     ],
-    "origin": "From Latin limpidus, meaning 'clear'.",
-    "ipa": "",
+    "origin": "From Latin limpidus, meaning “clear”.",
+    "ipa": "ˈlɪmpɪd",
     "zipf": 2.04,
-    "issues": [
-      "no pronunciation in CMUdict"
-    ]
+    "issues": []
   }
 ]

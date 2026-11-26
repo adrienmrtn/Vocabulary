@@ -121,7 +121,7 @@ struct QuizView: View {
     @State private var picked: String?
     @State private var score = 0
 
-    private let words = Word.samples
+    private let words = Array(Word.samples.prefix(8))
 
     private var finished: Bool { index >= words.count }
 
@@ -194,7 +194,10 @@ struct QuizView: View {
 
     private func optionList(for word: Word) -> [String] {
         let position = words.firstIndex(of: word) ?? 0
-        let others = [1, 2, 3].map { words[(position + $0) % words.count].text }
+        // Wrong answers come from the rest of today's words.
+        let pool = Word.samples.filter { $0 != word }
+        guard pool.count >= 3 else { return [word.text] }
+        let others = [1, 2, 3].map { pool[(position * 3 + $0) % pool.count].text }
         var list = others
         list.insert(word.text, at: position % (others.count + 1))
         return list

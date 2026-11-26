@@ -1,0 +1,665 @@
+[
+  {
+    "lemma": "genuine",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Truly what it appears to be; real",
+    "example": "Her genuine interest in the project made everyone want to help her.",
+    "synonyms": [
+      "real",
+      "authentic",
+      "honest"
+    ],
+    "origin": "From Latin genuinus, meaning native or natural, from the root of gignere, to beget."
+  },
+  {
+    "lemma": "reluctant",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Unwilling and hesitant to do something",
+    "example": "He was reluctant to lend his car to a friend he barely knew.",
+    "synonyms": [
+      "unwilling",
+      "hesitant",
+      "wary"
+    ],
+    "origin": "From Latin reluctari, to struggle against, from re- (against) and luctari (to struggle)."
+  },
+  {
+    "lemma": "vivid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Producing strong, clear images in the mind",
+    "example": "I still have a vivid memory of my first day at school.",
+    "synonyms": [
+      "bright",
+      "colorful",
+      "striking"
+    ],
+    "origin": "From Latin vividus, meaning lively or full of life, from vivere, to live."
+  },
+  {
+    "lemma": "subtle",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "So slight or delicate it is hard to notice",
+    "example": "There was a subtle hint of lemon in the sauce that I loved.",
+    "synonyms": [
+      "faint",
+      "slight",
+      "delicate"
+    ],
+    "origin": "From Old French sotil, from Latin subtilis, meaning fine, thin or finely woven."
+  },
+  {
+    "lemma": "candid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Honest and direct, even when it is uncomfortable",
+    "example": "In a candid interview, the actor admitted he had nearly quit the film.",
+    "synonyms": [
+      "frank",
+      "honest",
+      "open"
+    ],
+    "origin": "From Latin candidus, meaning white or pure, from candere, to shine."
+  },
+  {
+    "lemma": "thrive",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To grow or develop well and successfully",
+    "example": "Some plants thrive in shade and barely need any direct sunlight.",
+    "synonyms": [
+      "flourish",
+      "prosper",
+      "bloom"
+    ],
+    "origin": "From Old Norse thrifask, meaning to grasp for oneself or to prosper."
+  },
+  {
+    "lemma": "hinder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To make progress slow or difficult",
+    "example": "Heavy snow hindered the rescue team as they climbed toward the cabin.",
+    "synonyms": [
+      "obstruct",
+      "delay",
+      "block"
+    ],
+    "origin": "From Old English hindrian, meaning to harm or hold back, related to the word behind."
+  },
+  {
+    "lemma": "obscure",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not well known or hard to understand",
+    "example": "She loves quoting obscure poets that nobody else in the class has read.",
+    "synonyms": [
+      "unknown",
+      "unclear",
+      "hidden"
+    ],
+    "origin": "From Latin obscurus, meaning dark or dim."
+  },
+  {
+    "lemma": "plausible",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Seeming reasonable and likely to be true",
+    "example": "His excuse sounded plausible, so the teacher let him hand it in late.",
+    "synonyms": [
+      "believable",
+      "credible",
+      "likely"
+    ],
+    "origin": "From Latin plausibilis, meaning deserving applause, from plaudere, to applaud."
+  },
+  {
+    "lemma": "tedious",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Long, slow and boring to do",
+    "example": "Entering all the receipts by hand was a tedious job that took hours.",
+    "synonyms": [
+      "boring",
+      "dull",
+      "tiresome"
+    ],
+    "origin": "From Late Latin taediosus, from Latin taedium, meaning weariness or disgust."
+  },
+  {
+    "lemma": "abrupt",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Sudden and unexpected, often unpleasantly so",
+    "example": "The meeting came to an abrupt end when the fire alarm went off.",
+    "synonyms": [
+      "sudden",
+      "sharp",
+      "curt"
+    ],
+    "origin": "From Latin abruptus, meaning broken off, from ab- (off) and rumpere (to break)."
+  },
+  {
+    "lemma": "coherent",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clear, logical and easy to follow",
+    "example": "After a strong coffee she finally managed to give a coherent answer.",
+    "synonyms": [
+      "logical",
+      "clear",
+      "consistent"
+    ],
+    "origin": "From Latin cohaerere, to stick together, from co- (together) and haerere (to stick)."
+  },
+  {
+    "lemma": "diligent",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Working carefully and with steady effort",
+    "example": "A diligent student, he reviewed his notes every evening before dinner.",
+    "synonyms": [
+      "hardworking",
+      "careful",
+      "thorough"
+    ],
+    "origin": "From Latin diligens, meaning attentive, from diligere, to value highly or love."
+  },
+  {
+    "lemma": "eager",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Wanting very much to do or have something",
+    "example": "The children were eager to open their presents before breakfast.",
+    "synonyms": [
+      "keen",
+      "enthusiastic",
+      "excited"
+    ],
+    "origin": "From Old French aigre, meaning sharp or sour, from Latin acer, sharp."
+  },
+  {
+    "lemma": "frugal",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Careful to spend very little money",
+    "example": "My frugal aunt reuses wrapping paper and never buys anything at full price.",
+    "synonyms": [
+      "thrifty",
+      "economical",
+      "sparing"
+    ],
+    "origin": "From Latin frugalis, meaning thrifty, from frux, fruit or value."
+  },
+  {
+    "lemma": "hostile",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Unfriendly and showing strong dislike or opposition",
+    "example": "The crowd turned hostile when the referee cancelled the winning goal.",
+    "synonyms": [
+      "unfriendly",
+      "aggressive",
+      "antagonistic"
+    ],
+    "origin": "From Latin hostilis, from hostis, meaning enemy."
+  },
+  {
+    "lemma": "humble",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not thinking you are better than others",
+    "example": "Despite winning three championships, she remained humble and thanked her teammates first.",
+    "synonyms": [
+      "modest",
+      "unassuming",
+      "meek"
+    ],
+    "origin": "From Old French, from Latin humilis, meaning low or lowly, from humus, ground."
+  },
+  {
+    "lemma": "lucid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clearly expressed and easy to understand",
+    "example": "Her lucid explanation made the tax rules seem almost simple.",
+    "synonyms": [
+      "clear",
+      "plain",
+      "intelligible"
+    ],
+    "origin": "From Latin lucidus, meaning bright or clear, from lux, light."
+  },
+  {
+    "lemma": "mundane",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Ordinary and dull; part of everyday life",
+    "example": "He listens to podcasts to get through mundane chores like folding laundry.",
+    "synonyms": [
+      "ordinary",
+      "everyday",
+      "dull"
+    ],
+    "origin": "From Latin mundanus, meaning of the world, from mundus, world."
+  },
+  {
+    "lemma": "novel",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "New and unlike anything seen before",
+    "example": "The engineers found a novel way to cool the battery without fans.",
+    "synonyms": [
+      "new",
+      "original",
+      "fresh"
+    ],
+    "origin": "From Old French novel, from Latin novellus, a diminutive of novus, meaning new."
+  },
+  {
+    "lemma": "prudent",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Acting with care and thought for the future",
+    "example": "It would be prudent to save some money before quitting your job.",
+    "synonyms": [
+      "wise",
+      "sensible",
+      "cautious"
+    ],
+    "origin": "From Latin prudens, a shortened form of providens, meaning foreseeing."
+  },
+  {
+    "lemma": "rigid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Stiff and unable to bend or change",
+    "example": "The school has rigid rules about phones that students find frustrating.",
+    "synonyms": [
+      "stiff",
+      "inflexible",
+      "strict"
+    ],
+    "origin": "From Latin rigidus, meaning stiff, from rigere, to be stiff."
+  },
+  {
+    "lemma": "robust",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Strong, healthy and unlikely to break or fail",
+    "example": "We need a robust backup system that keeps working during power cuts.",
+    "synonyms": [
+      "strong",
+      "sturdy",
+      "tough"
+    ],
+    "origin": "From Latin robustus, meaning strong like oak, from robur, oak or strength."
+  },
+  {
+    "lemma": "scarce",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Hard to find because there is very little",
+    "example": "Fresh water became scarce after three months without any rain.",
+    "synonyms": [
+      "rare",
+      "limited",
+      "sparse"
+    ],
+    "origin": "From Old North French escars, from a Vulgar Latin form of Latin excerpere, to pluck out."
+  },
+  {
+    "lemma": "sincere",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Honestly meaning what you say and feel",
+    "example": "He offered a sincere apology and promised it would not happen again.",
+    "synonyms": [
+      "honest",
+      "heartfelt",
+      "earnest"
+    ],
+    "origin": "From Latin sincerus, meaning pure, clean or whole."
+  },
+  {
+    "lemma": "tense",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Nervous, strained and unable to relax",
+    "example": "Everyone in the waiting room was tense as the results were announced.",
+    "synonyms": [
+      "nervous",
+      "anxious",
+      "strained"
+    ],
+    "origin": "From Latin tensus, the past participle of tendere, meaning to stretch."
+  },
+  {
+    "lemma": "vague",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not clear, exact or fully explained",
+    "example": "She gave only a vague answer when I asked where she had been.",
+    "synonyms": [
+      "unclear",
+      "hazy",
+      "imprecise"
+    ],
+    "origin": "From Latin vagus, meaning wandering or uncertain."
+  },
+  {
+    "lemma": "weary",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very tired after long effort or strain",
+    "example": "The weary hikers dropped their packs and collapsed beside the campfire.",
+    "synonyms": [
+      "tired",
+      "exhausted",
+      "drained"
+    ],
+    "origin": "From Old English werig, meaning tired."
+  },
+  {
+    "lemma": "witty",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clever and funny with words",
+    "example": "Her witty replies on the panel show had the whole audience laughing.",
+    "synonyms": [
+      "clever",
+      "funny",
+      "humorous"
+    ],
+    "origin": "From Old English wittig, meaning wise or clever, from witt, understanding or mind."
+  },
+  {
+    "lemma": "bold",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Willing to take risks; brave and confident",
+    "example": "Leaving a secure job to start a bakery was a bold move.",
+    "synonyms": [
+      "brave",
+      "daring",
+      "fearless"
+    ],
+    "origin": "From Old English beald, meaning brave or confident."
+  },
+  {
+    "lemma": "bleak",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Cold, empty and offering little hope",
+    "example": "The job market looked bleak for graduates during the recession.",
+    "synonyms": [
+      "grim",
+      "dreary",
+      "gloomy"
+    ],
+    "origin": "From Old Norse bleikr, meaning pale or white."
+  },
+  {
+    "lemma": "brisk",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Quick, energetic and full of life",
+    "example": "We took a brisk walk around the lake to warm up before lunch.",
+    "synonyms": [
+      "quick",
+      "lively",
+      "energetic"
+    ],
+    "origin": "Of uncertain origin."
+  },
+  {
+    "lemma": "compel",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To force someone to do something",
+    "example": "The new law compels companies to report any data breach within three days.",
+    "synonyms": [
+      "force",
+      "oblige",
+      "drive"
+    ],
+    "origin": "From Latin compellere, to drive together, from com- (together) and pellere (to drive)."
+  },
+  {
+    "lemma": "concise",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Saying a lot clearly in few words",
+    "example": "Keep your cover letter concise so the recruiter actually reads all of it.",
+    "synonyms": [
+      "brief",
+      "short",
+      "succinct"
+    ],
+    "origin": "From Latin concisus, meaning cut up or brief, from com- and caedere, to cut."
+  },
+  {
+    "lemma": "deter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To discourage someone from doing something",
+    "example": "Bright lights around the house can deter burglars from trying the doors.",
+    "synonyms": [
+      "discourage",
+      "prevent",
+      "dissuade"
+    ],
+    "origin": "From Latin deterrere, to frighten away, from de- (away) and terrere (to frighten)."
+  },
+  {
+    "lemma": "endure",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To suffer something difficult patiently for a long time",
+    "example": "The villagers endured months of flooding before help finally arrived.",
+    "synonyms": [
+      "bear",
+      "withstand",
+      "tolerate"
+    ],
+    "origin": "From Old French endurer, from Latin indurare, to harden, from durus, hard."
+  },
+  {
+    "lemma": "foster",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To encourage something to grow or develop",
+    "example": "Good managers foster trust by listening to their teams and keeping promises.",
+    "synonyms": [
+      "encourage",
+      "nurture",
+      "promote"
+    ],
+    "origin": "From Old English fostrian, to nourish, from fostor, meaning food."
+  },
+  {
+    "lemma": "grasp",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To take firm hold of or fully understand",
+    "example": "It took me a while to grasp how the new software actually works.",
+    "synonyms": [
+      "understand",
+      "seize",
+      "grip"
+    ],
+    "origin": "From Middle English graspen, to reach for or grope, related to Old English grapian, to touch."
+  },
+  {
+    "lemma": "hasty",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Done too quickly and without enough thought",
+    "example": "Don't make a hasty decision about the house; sleep on it first.",
+    "synonyms": [
+      "rushed",
+      "hurried",
+      "rash"
+    ],
+    "origin": "From Old French hastif, from haste, meaning urgency, a word of Germanic origin."
+  },
+  {
+    "lemma": "lenient",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Not strict when punishing or enforcing rules",
+    "example": "The judge was lenient because it was the teenager's first offense.",
+    "synonyms": [
+      "merciful",
+      "tolerant",
+      "gentle"
+    ],
+    "origin": "From Latin leniens, from lenire, to soften, from lenis, mild or gentle."
+  },
+  {
+    "lemma": "meager",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very small in amount; barely enough",
+    "example": "They survived the winter on a meager supply of rice and beans.",
+    "synonyms": [
+      "scanty",
+      "small",
+      "sparse"
+    ],
+    "origin": "From Old French maigre, meaning thin, from Latin macer, lean."
+  },
+  {
+    "lemma": "naive",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Too trusting because of little life experience",
+    "example": "I was naive enough to believe the email promising me free money.",
+    "synonyms": [
+      "innocent",
+      "gullible",
+      "trusting"
+    ],
+    "origin": "From French naïve, from Latin nativus, meaning native or natural."
+  },
+  {
+    "lemma": "notion",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "An idea, belief or impression about something",
+    "example": "She rejected the notion that success depends only on talent.",
+    "synonyms": [
+      "idea",
+      "belief",
+      "concept"
+    ],
+    "origin": "From Latin notio, meaning concept or idea, from noscere, to come to know."
+  },
+  {
+    "lemma": "omit",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To leave something out, by choice or mistake",
+    "example": "Please don't omit your phone number when you fill in the form.",
+    "synonyms": [
+      "exclude",
+      "skip",
+      "drop"
+    ],
+    "origin": "From Latin omittere, to let go, from ob- and mittere, to send."
+  },
+  {
+    "lemma": "ponder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To think about something carefully and at length",
+    "example": "He sat by the window and pondered whether to accept the offer.",
+    "synonyms": [
+      "consider",
+      "contemplate",
+      "reflect"
+    ],
+    "origin": "From Latin ponderare, to weigh, from pondus, meaning weight."
+  },
+  {
+    "lemma": "quaint",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Charming in an unusual, old-fashioned way",
+    "example": "We stayed in a quaint fishing village with cobbled streets and tiny shops.",
+    "synonyms": [
+      "charming",
+      "picturesque",
+      "sweet"
+    ],
+    "origin": "From Old French cointe, meaning clever or pretty, from Latin cognitus, known."
+  },
+  {
+    "lemma": "refute",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To prove that a claim is wrong",
+    "example": "The lawyer used phone records to refute the witness's version of events.",
+    "synonyms": [
+      "disprove",
+      "rebut",
+      "counter"
+    ],
+    "origin": "From Latin refutare, meaning to drive back or rebut."
+  },
+  {
+    "lemma": "serene",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Calm, peaceful and completely untroubled",
+    "example": "The lake was serene at dawn, without a single ripple on the water.",
+    "synonyms": [
+      "calm",
+      "peaceful",
+      "tranquil"
+    ],
+    "origin": "From Latin serenus, meaning clear or calm, first said of the sky and weather."
+  },
+  {
+    "lemma": "skeptical",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Doubting that something is true or useful",
+    "example": "Doctors were skeptical about the diet until the trial results came in.",
+    "synonyms": [
+      "doubtful",
+      "dubious",
+      "unconvinced"
+    ],
+    "origin": "From Greek skeptikos, meaning inquiring, from skeptesthai, to look or consider."
+  },
+  {
+    "lemma": "stubborn",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Refusing to change your mind or give way",
+    "example": "My stubborn grandfather still refuses to use a mobile phone.",
+    "synonyms": [
+      "obstinate",
+      "headstrong",
+      "unyielding"
+    ],
+    "origin": "Of uncertain origin."
+  },
+  {
+    "lemma": "sturdy",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Strongly built and not easily damaged",
+    "example": "You will need sturdy boots for a trail this rocky and steep.",
+    "synonyms": [
+      "strong",
+      "solid",
+      "durable"
+    ],
+    "origin": "From Old French estourdi, meaning dazed or reckless; the sense of strongly built came later in English."
+  }
+]

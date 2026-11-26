@@ -193,7 +193,7 @@ struct OnboardingView: View {
             }
         case .wordCard:
             Scaffold(title: "Get deeper insight into each word you learn", cta: "Continue", next: next) {
-                WordCard(word: Word.samples[0])
+                WordCard(word: Catalog.featured)
             }
         case let .text(message):
             Scaffold(title: nil, cta: "Continue", next: next) {
@@ -464,6 +464,7 @@ private struct WordCard: View {
             label("Example")
             Text(word.example).font(.system(size: 15))
             label("Synonyms")
+                .opacity(word.synonyms.isEmpty ? 0 : 1)
             HStack(spacing: 6) {
                 ForEach(word.synonyms, id: \.self) { synonym in
                     Text(synonym)
