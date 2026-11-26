@@ -25,7 +25,7 @@ set your team under Signing & Capabilities and change the bundle identifier
 
 ## What is in this first version
 
-- **Onboarding**: 34 pages driven by one list in `OnboardingView.swift`. Pages
+- **Onboarding**: 33 pages driven by one list in `OnboardingView.swift`. Pages
   cross-fade with a slight rise; there is no swipe. Every page change, choice
   and button fires a haptic.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.
