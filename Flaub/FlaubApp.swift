@@ -4,6 +4,7 @@ import UIKit
 @main
 struct FlaubApp: App {
     init() {
+        Fonts.register()
         Self.configureBars()
     }
 
@@ -19,9 +20,7 @@ struct FlaubApp: App {
         let ink = UIColor(Color.ink)
 
         func serif(_ size: CGFloat) -> UIFont {
-            let base = UIFont.systemFont(ofSize: size, weight: .bold)
-            let descriptor = base.fontDescriptor.withDesign(.serif) ?? base.fontDescriptor
-            return UIFont(descriptor: descriptor, size: size)
+            Fonts.uiFont(size)
         }
 
         let nav = UINavigationBarAppearance()

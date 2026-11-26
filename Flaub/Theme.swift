@@ -1,6 +1,7 @@
 import SwiftUI
 import UIKit
 import AVFoundation
+import CoreText
 
 extension Color {
     init(hex: UInt32) {
@@ -21,10 +22,33 @@ extension Color {
     static let muted = Color(hex: 0x5F5868)
 }
 
+/// Alegreya, bundled in `Fonts/`. Registered at launch so no Info.plist entry is needed.
+enum Fonts {
+    static let bold = "Alegreya-Bold"
+    static let medium = "Alegreya-Medium"
+
+    static func register() {
+        for file in [bold, medium] {
+            guard let url = Bundle.main.url(forResource: file, withExtension: "ttf") else { continue }
+            CTFontManagerRegisterFontsForURL(url as CFURL, .process, nil)
+        }
+    }
+
+    /// The UIKit font for navigation bars, with a system serif fallback.
+    static func uiFont(_ size: CGFloat) -> UIFont {
+        if let font = UIFont(name: bold, size: size) {
+            return font
+        }
+        let base = UIFont.systemFont(ofSize: size, weight: .bold)
+        let descriptor = base.fontDescriptor.withDesign(.serif) ?? base.fontDescriptor
+        return UIFont(descriptor: descriptor, size: size)
+    }
+}
+
 extension Font {
-    /// System serif (New York). Swap for a bundled Alegreya later if wanted.
+    /// Alegreya Bold for titles and words, Alegreya Medium for anything lighter.
     static func serif(_ size: CGFloat, weight: Font.Weight = .bold) -> Font {
-        .system(size: size, weight: weight, design: .serif)
+        .custom(weight == .bold ? Fonts.bold : Fonts.medium, size: size)
     }
 }
 

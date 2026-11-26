@@ -30,7 +30,8 @@ set your team under Signing & Capabilities and change the bundle identifier
   and button fires a haptic.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.
   Topics, Practice, Stats and Profile use native navigation bars with large
-  serif titles; Topics has native search.
+  Alegreya titles; Topics has native search. Alegreya (SIL Open Font License) is
+  bundled in `Flaub/Fonts` and registered at launch.
 - **Words**: one word full screen. A vertical drag moves to the next or previous
   word with a soft cross-fade. Tap the pronunciation to hear it.
 - **Practice**: a small quiz over the sample words.
@@ -45,4 +46,4 @@ set your team under Signing & Capabilities and change the bundle identifier
   icon. That needs each combination shipped as an alternate icon.
 - Notifications ask for permission but schedule nothing.
 - No widget target, no themes beyond the default.
-- Titles use the system serif (New York), not Alegreya.
+- Body text uses the system font (San Francisco), not Inter as in the mock-ups.
