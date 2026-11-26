@@ -1,4 +1,5 @@
 import SwiftUI
+import StoreKit
 
 /// One page of the onboarding. The list below is the whole flow, in order.
 enum OnboardingStep {
@@ -16,6 +17,8 @@ enum OnboardingStep {
     case offer
     case widget
     case splash
+    case rating
+    case account
 
     static func single(_ title: String, _ options: [String], skippable: Bool = true) -> OnboardingStep {
         .choice(title: title, subtitle: nil, options: options, multiple: false, skippable: skippable)
@@ -67,6 +70,8 @@ enum OnboardingStep {
                ["Lucubration", "Quixotic", "Numinous", "Superincumbent", "Callipygian", "Logophile"],
                subtitle: "Select all the ones you know", skippable: false),
         .art(image: "result", title: "Great! A personalized level assessment is waiting for you in the app"),
+        .rating,
+        .account,
         .text("Become more articulate in just 1 minute a day, without even opening the app"),
         .text("You get unlimited free access to everything for 3 days"),
         .text("Before your trial ends, we'll check in with you to let you know"),
@@ -224,6 +229,10 @@ struct OnboardingView: View {
                     .padding(.horizontal, 16)
                     .frame(maxHeight: .infinity)
             }
+        case .rating:
+            RatingPage(next: next)
+        case .account:
+            AccountPage(next: next)
         case .offer:
             OfferView(onContinue: next)
         case .widget:
@@ -340,6 +349,113 @@ private struct WelcomePage: View {
         }
         .padding(.horizontal, 24)
         .padding(.bottom, 12)
+    }
+}
+
+/// Asks for an App Store rating. The button opens Apple's own rating prompt,
+/// which iOS may decide not to show; either way the flow moves on.
+private struct RatingPage: View {
+    let next: () -> Void
+    @Environment(\.requestReview) private var requestReview
+
+    var body: some View {
+        VStack(spacing: 0) {
+            Spacer(minLength: 12)
+            HStack(spacing: 6) {
+                ForEach(0..<5, id: \.self) { _ in
+                    Image(systemName: "star.fill")
+                        .font(.system(size: 24))
+                        .foregroundStyle(Color(hex: 0xF2B01E))
+                }
+            }
+            .accessibilityLabel("Five stars")
+            Image("mascot_rate")
+                .resizable()
+                .scaledToFit()
+                .frame(width: 230, height: 230)
+            Text("One tap. Two seconds. It means the world.")
+                .font(.serif(30))
+                .multilineTextAlignment(.center)
+                .padding(.top, 6)
+            Text("We're a small team up against big apps. Your rating helps more than you know.")
+                .font(.system(size: 16))
+                .multilineTextAlignment(.center)
+                .padding(.top, 10)
+            // Real figures only: add the average rating, the number of learners and
+            // App Store reviews here once the app has them.
+            Spacer(minLength: 12)
+            PrimaryButton(title: "Yes, I'll help!") {
+                requestReview()
+                next()
+            }
+        }
+        .padding(.horizontal, 24)
+        .padding(.bottom, 12)
+    }
+}
+
+/// Offers to keep progress under an account, and always lets the member go on without one.
+private struct AccountPage: View {
+    let next: () -> Void
+    @State private var notReady = false
+
+    var body: some View {
+        VStack(spacing: 0) {
+            Spacer(minLength: 12)
+            HStack(spacing: -22) {
+                IconTile(character: 1, background: 2).frame(width: 96, height: 96)
+                IconTile(character: 0, background: 1).frame(width: 96, height: 96)
+                IconTile(character: 3, background: 3).frame(width: 96, height: 96)
+            }
+            Text("Save your progress")
+                .font(.serif(30))
+                .padding(.top, 34)
+            Text("Keep your words, streak and favorites safe, and find them on all your devices.")
+                .font(.system(size: 16))
+                .multilineTextAlignment(.center)
+                .padding(.top, 12)
+            Spacer(minLength: 12)
+            VStack(spacing: 10) {
+                Button {
+                    Haptics.tap()
+                    notReady = true
+                } label: {
+                    Text("Continue with Apple")
+                        .font(.system(size: 17, weight: .semibold))
+                        .foregroundStyle(.white)
+                        .frame(maxWidth: .infinity)
+                        .frame(height: 58)
+                        .background(Capsule().fill(Color.ink))
+                }
+                Button {
+                    Haptics.tap()
+                    notReady = true
+                } label: {
+                    Text("Continue with Google")
+                        .font(.system(size: 17, weight: .semibold))
+                        .foregroundStyle(Color.ink)
+                        .frame(maxWidth: .infinity)
+                        .frame(height: 58)
+                        .background(Capsule().fill(Color.white))
+                        .overlay(Capsule().stroke(Color.line, lineWidth: 1.5))
+                }
+                Button("Continue without an account") {
+                    next()
+                }
+                .font(.system(size: 16, weight: .semibold))
+                .foregroundStyle(Color.ink)
+                .frame(height: 48)
+            }
+        }
+        .padding(.horizontal, 16)
+        .padding(.bottom, 12)
+        // Sign in with Apple and Google need the app identifier and the providers
+        // set up first. Until then both buttons say so and the flow carries on.
+        .alert("Sign-in is not set up yet", isPresented: $notReady) {
+            Button("Continue without an account") { next() }
+        } message: {
+            Text("Your progress is still saved on this device.")
+        }
     }
 }
 
