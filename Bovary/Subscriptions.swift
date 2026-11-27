@@ -12,9 +12,9 @@ final class Subscriptions: ObservableObject {
     static let shared = Subscriptions()
 
     /// RevenueCat's public key for the iOS app (it starts with "appl_"). It is
-    /// meant to ship in the app. While it is empty, nothing is sold: the
-    /// paywall shows no price and its button simply moves on.
-    static let apiKey = ""
+    /// meant to ship in the app. If it were empty, nothing would be sold: the
+    /// paywall would show no price and its button would simply move on.
+    static let apiKey = "appl_aTrXHKGLzrCoRZPFpbIZNcPQpga"
 
     /// Identifier of the entitlement that every plan unlocks.
     static let entitlement = "premium"
