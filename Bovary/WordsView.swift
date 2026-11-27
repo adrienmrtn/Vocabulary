@@ -119,19 +119,21 @@ struct WordsView: View {
                 .font(.serif(22, weight: .medium))
                 .multilineTextAlignment(.center)
 
-            Button {
-                Haptics.tap()
-                detail = word
-            } label: {
-                Text("Example, synonyms and origin")
-                    .font(.system(size: 14, weight: .medium))
-                    .underline()
-                    .foregroundStyle(theme.text.opacity(0.75))
-                    .frame(height: 44)
+            HStack(spacing: 30) {
+                iconButton("info.circle", label: "More about this word", tint: theme.text) {
+                    detail = word
+                }
+                ShareLink(item: "\(word.text): \(word.definition)") {
+                    Image(systemName: "square.and.arrow.up")
+                        .font(.system(size: 28))
+                        .foregroundStyle(theme.text)
+                        .frame(width: 48, height: 48)
+                }
+                iconButton(liked ? "heart.fill" : "heart", label: "Favorite", tint: theme.text) {
+                    store.toggleFavorite(word.text)
+                }
             }
-            iconButton(liked ? "heart.fill" : "heart", label: "Favorite", tint: theme.text) {
-                store.toggleFavorite(word.text)
-            }
+            .padding(.top, 16)
         }
         .foregroundStyle(theme.text)
         .padding(.horizontal, 28)

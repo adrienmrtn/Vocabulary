@@ -76,9 +76,7 @@ enum OnboardingStep {
         .profile,
         .rating,
         .account,
-        .text("Become more articulate in just 1 minute a day, without even opening the app"),
         .gift,
-        .text("We're giving you full access to Bovary, free for 3 days"),
         .reminder,
         .offer,
         .splash
@@ -100,11 +98,14 @@ struct OnboardingView: View {
         ZStack {
             Color.cream.ignoresSafeArea()
             VStack(spacing: 0) {
-                ProgressView(value: Double(index), total: Double(max(steps.count - 1, 1)))
-                    .tint(Color.brandBlue)
-                    .padding(.horizontal, 24)
-                    .padding(.top, 6)
-                    .opacity(index == 0 || index == steps.count - 1 ? 0 : 1)
+                // The offer fills the whole screen, so it has no bar above it.
+                if !isOffer {
+                    ProgressView(value: Double(index), total: Double(max(steps.count - 1, 1)))
+                        .tint(Color.brandBlue)
+                        .padding(.horizontal, 24)
+                        .padding(.top, 6)
+                        .opacity(index == 0 || index == steps.count - 1 ? 0 : 1)
+                }
                 ZStack {
                     page(steps[index])
                         .id(index)
@@ -115,6 +116,11 @@ struct OnboardingView: View {
         }
         .animation(.easeInOut(duration: 0.38), value: index)
         .foregroundStyle(Color.ink)
+    }
+
+    private var isOffer: Bool {
+        if case .offer = steps[index] { return true }
+        return false
     }
 
     private func next() {
@@ -179,7 +185,7 @@ struct OnboardingView: View {
                     .padding(.horizontal, 20)
                     .frame(height: 56)
                     .background(Capsule().fill(Color.white))
-                    .overlay(Capsule().stroke(Color.line, lineWidth: 1.5))
+                    .overlay(Capsule().strokeBorder(Color.line, lineWidth: 1.5))
             }
         case .yearly:
             YearPage(next: next)
@@ -190,21 +196,9 @@ struct OnboardingView: View {
                      next: { Notifications.requestPermission(then: next) }) {
                 VStack(spacing: 18) {
                     Text("Allow notifications to get daily words").font(.system(size: 15))
-                    HStack(spacing: 12) {
-                        IconTile(character: 0, background: 0).frame(width: 38, height: 38)
-                        VStack(alignment: .leading, spacing: 2) {
-                            HStack {
-                                Text("Bovary").font(.system(size: 13, weight: .semibold))
-                                Spacer()
-                                Text("Now").font(.system(size: 13)).foregroundStyle(Color.muted)
-                            }
-                            Text("Salubrious (adj.) – clean, conducive to health").font(.system(size: 13))
-                        }
-                    }
-                    .padding(12)
-                    .background(RoundedRectangle(cornerRadius: 18, style: .continuous).fill(Color.white))
-                    .shadow(color: Color.ink.opacity(0.1), radius: 9, y: 6)
-                    .padding(.vertical, 8)
+                    NotificationStack()
+                        .padding(.horizontal, 4)
+                        .padding(.vertical, 8)
                     ReminderSettings()
                 }
             }
@@ -482,7 +476,7 @@ private struct AccountPage: View {
                         .frame(maxWidth: .infinity)
                         .frame(height: 58)
                         .background(Capsule().fill(Color.white))
-                        .overlay(Capsule().stroke(Color.line, lineWidth: 1.5))
+                        .overlay(Capsule().strokeBorder(Color.line, lineWidth: 1.5))
                 }
                 Button("Continue without an account") {
                     next()
@@ -578,7 +572,8 @@ private struct ChoicePage: View {
             .padding(.trailing, 16)
             .frame(height: 56)
             .background(Capsule().fill(on ? Color.blueTint : Color.white))
-            .overlay(Capsule().stroke(on ? Color.brandBlue : Color.line, lineWidth: 1.5))
+            // Drawn inside the edge: a stroke centred on it is cut off by the scroll view.
+            .overlay(Capsule().strokeBorder(on ? Color.brandBlue : Color.line, lineWidth: on ? 2 : 1.5))
         }
     }
 }

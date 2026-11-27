@@ -26,8 +26,8 @@ then `xcodegen generate`).
   animation of their own are in `OnboardingPages.swift`: word cards dealt on
   the welcome page, a year of words that fills square by square, an iPhone
   showing the widget then the Lock Screen, a pile of word cards, a timed
-  loading page, the profile built from the answers, a gift that opens slowly
-  and the trial reminder written word by word.
+  loading page, the profile built from the answers, a gift that opens
+  onto the free trial, and the trial reminder written word by word.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.
   Topics, Practice, Stats and Profile use native navigation bars with large
   Alegreya titles; Topics has native search. Alegreya (SIL Open Font License) is
@@ -100,8 +100,6 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 
 ## Not done yet
 
-- **There is no widget yet**, although the onboarding shows one on the Home
-  Screen and on the Lock Screen. It has to exist before release.
 - **Nothing is locked**: every topic, game and statistic is free for now. The
   subscription is sold in the onboarding, but the limit it lifts is still to
   be built.
@@ -117,6 +115,16 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 - Notifications ask for permission but schedule nothing.
 - No widget target. "Topics you follow" and "Home Screen widgets" in Profile are placeholders.
 - Body text uses the system font (San Francisco), not Inter as in the mock-ups.
+
+## Widget
+
+`BovaryWidget/` is a second target, embedded in the app: the word of the day
+as a small or medium Home Screen widget and as a Lock Screen widget. It has its
+own bundle identifier (`com.vikstudios.bovary.widget`) and its own copy of the
+catalogue, `BovaryWidget/words.json`, written by `content/build_catalog.py`. It
+shows the first word of the app's daily feed as long as both use the same
+catalogue; a catalogue refreshed from Supabase can make them differ until the
+next app update.
 
 ## Subscriptions
 

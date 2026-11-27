@@ -70,6 +70,7 @@ APP_KEYS = ["lemma", "level", "part_of_speech", "ipa", "definition", "example", 
             "quote", "quote_source", "topics"]
 TOPICS_PATH = os.path.join(os.path.dirname(__file__), "topics.json")
 QUOTES_PATH = os.path.join(os.path.dirname(__file__), "quotes.json")
+WIDGET_PATH = os.path.join(os.path.dirname(__file__), "..", "BovaryWidget", "words.json")
 
 
 def to_ipa(phones):
@@ -199,6 +200,11 @@ def main():
     with open(app_path, "w", encoding="utf-8") as handle:
         slim = [{key: entry[key] for key in APP_KEYS} for entry in entries if not entry["issues"]]
         json.dump(slim, handle, ensure_ascii=False, separators=(",", ":"))
+    # The widget is a separate program with its own bundle: it gets a lighter
+    # copy, in the same order, so that it shows the app's first word of the day.
+    with open(WIDGET_PATH, "w", encoding="utf-8") as handle:
+        light = [{key: entry[key] for key in ("lemma", "part_of_speech", "definition")} for entry in slim]
+        json.dump(light, handle, ensure_ascii=False, separators=(",", ":"))
     print(f"{len(entries)} entries written to {out_path}, {flagged} flagged, {len(slim)} bundled in {app_path}")
 
 

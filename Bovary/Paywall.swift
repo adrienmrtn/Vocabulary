@@ -320,6 +320,15 @@ private struct DiscountView: View {
         return Int(((1 - ratio) * 100).rounded())
     }
 
+    /// What is actually charged, next to the regular price when the offer is cheaper.
+    private func billed(_ package: Package) -> String {
+        var line = "Charged \(package.price) per \(package.periodName)"
+        if let regular, percent != nil {
+            line += " instead of \(regular.price)"
+        }
+        return line + ". Renews automatically. Cancel anytime."
+    }
+
     var body: some View {
         ZStack {
             LinearGradient(colors: [Color.brandBlue, Color(hex: 0x062E99)], startPoint: .top, endPoint: .bottom)
@@ -351,28 +360,25 @@ private struct DiscountView: View {
                     .accessibilityLabel("\(percent) percent off")
                 }
                 if let package {
-                    Text("A full \(package.periodName) for only")
-                        .font(.serif(26))
+                    Text("A full \(package.periodName) of Bovary for only")
+                        .font(.serif(24))
+                        .multilineTextAlignment(.center)
                         .padding(.top, 18)
                         .rise(0.35)
-                    Text(package.price)
-                        .font(.serif(68))
-                        .rise(0.45)
-                    if let regular, percent != nil {
-                        HStack(spacing: 6) {
-                            Text("instead of")
-                            Text(regular.price).strikethrough()
-                        }
-                        .font(.system(size: 17))
-                        .opacity(0.8)
-                        .rise(0.55)
-                    }
                     if let monthly = package.monthlyEquivalent {
-                        Text("That's just \(monthly) per month")
-                            .font(.system(size: 19, weight: .bold))
+                        Text(monthly)
+                            .font(.serif(72))
+                            .lineLimit(1)
+                            .minimumScaleFactor(0.6)
+                            .rise(0.45)
+                        Text("per month")
+                            .font(.system(size: 20, weight: .bold))
                             .foregroundStyle(gold)
-                            .padding(.top, 12)
-                            .rise(0.65)
+                            .rise(0.55)
+                    } else {
+                        Text(package.price)
+                            .font(.serif(72))
+                            .rise(0.45)
                     }
                     Text("You'll only see this price once.")
                         .font(.system(size: 14))
@@ -396,9 +402,9 @@ private struct DiscountView: View {
                     }
                     .scaleEffect(pulse ? 1.02 : 0.99)
                     .rise(0.85)
-                    Text("\(package.price) per \(package.periodName). Renews automatically. Cancel anytime.")
+                    Text(billed(package))
                         .font(.system(size: 12))
-                        .opacity(0.75)
+                        .opacity(0.8)
                         .multilineTextAlignment(.center)
                         .padding(.top, 10)
                 }

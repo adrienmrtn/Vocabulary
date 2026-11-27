@@ -119,9 +119,7 @@ enum OnboardingArt {
         "Do you often encounter words you don't know?": "onb_test",
         "How would you describe your vocabulary?": "onb_voice",
         "Where does your vocabulary feel weakest?": "topic_debate",
-        "Amazing! Let's test how many words you know...": "onb_test",
-        "Become more articulate in just 1 minute a day, without even opening the app": "onb_voice",
-        "We're giving you full access to Bovary, free for 3 days": "onb_trial"
+        "Amazing! Let's test how many words you know...": "onb_test"
     ]
 
     static func image(for text: String) -> String? {

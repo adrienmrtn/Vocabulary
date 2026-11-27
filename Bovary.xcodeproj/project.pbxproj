@@ -9,16 +9,48 @@
 /* Begin PBXBuildFile section */
 		F1A0000000000000000000A1 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = F1A0000000000000000000B2 /* Supabase */; };
 		F1A0000000000000000000A2 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = F1A0000000000000000000B4 /* RevenueCat */; };
+		F1A0000000000000000000CD /* BovaryWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F1A0000000000000000000C1 /* BovaryWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F1A0000000000000000000CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1A000000000000000000009 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F1A0000000000000000000C3;
+			remoteInfo = BovaryWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F1A0000000000000000000CC /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				F1A0000000000000000000CD /* BovaryWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		F1A000000000000000000001 /* Bovary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bovary.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1A0000000000000000000C1 /* BovaryWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = BovaryWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1A0000000000000000000CE /* BovaryWidgetInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = BovaryWidgetInfo.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F1A000000000000000000002 /* Bovary */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Bovary;
+			sourceTree = "<group>";
+		};
+		F1A0000000000000000000C2 /* BovaryWidget */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = BovaryWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +65,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F1A0000000000000000000C5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -40,6 +79,8 @@
 			isa = PBXGroup;
 			children = (
 				F1A000000000000000000002 /* Bovary */,
+				F1A0000000000000000000C2 /* BovaryWidget */,
+				F1A0000000000000000000CE /* BovaryWidgetInfo.plist */,
 				F1A000000000000000000005 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				F1A000000000000000000001 /* Bovary.app */,
+				F1A0000000000000000000C1 /* BovaryWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -62,10 +104,12 @@
 				F1A000000000000000000007 /* Sources */,
 				F1A000000000000000000003 /* Frameworks */,
 				F1A000000000000000000008 /* Resources */,
+				F1A0000000000000000000CC /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				F1A0000000000000000000CB /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				F1A000000000000000000002 /* Bovary */,
@@ -79,6 +123,28 @@
 			productReference = F1A000000000000000000001 /* Bovary.app */;
 			productType = "com.apple.product-type.application";
 		};
+		F1A0000000000000000000C3 /* BovaryWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F1A0000000000000000000C7 /* Build configuration list for PBXNativeTarget "BovaryWidgetExtension" */;
+			buildPhases = (
+				F1A0000000000000000000C4 /* Sources */,
+				F1A0000000000000000000C5 /* Frameworks */,
+				F1A0000000000000000000C6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F1A0000000000000000000C2 /* BovaryWidget */,
+			);
+			name = BovaryWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = BovaryWidgetExtension;
+			productReference = F1A0000000000000000000C1 /* BovaryWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -90,6 +156,9 @@
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
 					F1A000000000000000000006 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					F1A0000000000000000000C3 = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
@@ -113,12 +182,20 @@
 			projectRoot = "";
 			targets = (
 				F1A000000000000000000006 /* Bovary */,
+				F1A0000000000000000000C3 /* BovaryWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
 		F1A000000000000000000008 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1A0000000000000000000C6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -135,7 +212,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F1A0000000000000000000C4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F1A0000000000000000000CB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F1A0000000000000000000C3 /* BovaryWidgetExtension */;
+			targetProxy = F1A0000000000000000000CA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		F1A000000000000000000010 /* Debug */ = {
@@ -228,6 +320,52 @@
 			};
 			name = Release;
 		};
+		F1A0000000000000000000C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BovaryWidgetInfo.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Bovary;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vikstudios.bovary.widget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		F1A0000000000000000000C9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BovaryWidgetInfo.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Bovary;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vikstudios.bovary.widget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -245,6 +383,15 @@
 			buildConfigurations = (
 				F1A000000000000000000010 /* Debug */,
 				F1A000000000000000000011 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F1A0000000000000000000C7 /* Build configuration list for PBXNativeTarget "BovaryWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1A0000000000000000000C8 /* Debug */,
+				F1A0000000000000000000C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
