@@ -40,6 +40,41 @@ extension View {
     func rise(_ delay: Double = 0) -> some View {
         modifier(Rise(delay: delay))
     }
+
+    /// Shows or hides a block in place, so the layout does not jump when it
+    /// arrives. Change `shown` inside `withAnimation` to animate it.
+    func reveal(_ shown: Bool) -> some View {
+        self
+            .opacity(shown ? 1 : 0)
+            .offset(y: shown ? 0 : 18)
+            .scaleEffect(shown ? 1 : 0.96)
+            .accessibilityHidden(!shown)
+    }
+}
+
+/// The line that ends a page that plays itself. It pulses once it is shown.
+struct TapToContinue: View {
+    let shown: Bool
+    let action: () -> Void
+    @State private var pulse = false
+
+    var body: some View {
+        Button(action: action) {
+            Text("Tap to continue")
+                .font(.system(size: 16, weight: .semibold))
+                .foregroundStyle(Color.muted)
+                .frame(maxWidth: .infinity)
+                .frame(height: 58)
+        }
+        .opacity(shown ? (pulse ? 1 : 0.45) : 0)
+        .disabled(!shown)
+        .onChange(of: shown) { _, now in
+            guard now else { return }
+            withAnimation(.easeInOut(duration: 0.9).repeatForever(autoreverses: true)) {
+                pulse = true
+            }
+        }
+    }
 }
 
 /// An illustration that pops in, then floats gently for as long as it is on screen.
@@ -74,7 +109,6 @@ struct FloatingArt: View {
 /// Which illustration goes with which onboarding question or message.
 enum OnboardingArt {
     private static let byText: [String: String] = [
-        "How did you hear about Bovary?": "topic_persuasion",
         "How old are you?": "onb_age",
         "Which option represents you best?": "onb_people",
         "How many words do you want to learn per week?": "onb_goal",
@@ -154,14 +188,17 @@ struct SocialProof {
     /// The figures and reviews shown on the rating page.
     ///
     /// What is here now is PLACEHOLDER content, written only to lay the page out.
-    /// It appears in debug builds and never in a release build. Before shipping,
-    /// replace `placeholder` with the real App Store rating, user count and
-    /// reviews, then return them for every build.
+    /// It appears in debug builds and in TestFlight builds, and never in a build
+    /// downloaded from the App Store. Before shipping, replace `placeholder` with
+    /// the real App Store rating, user count and reviews, then return them for
+    /// every build.
     static var current: SocialProof? {
         #if DEBUG
         return placeholder
         #else
-        return nil
+        // TestFlight builds carry a sandbox receipt; App Store builds do not.
+        let testBuild = Bundle.main.appStoreReceiptURL?.lastPathComponent == "sandboxReceipt"
+        return testBuild ? placeholder : nil
         #endif
     }
 
@@ -174,7 +211,13 @@ struct SocialProof {
                    author: "Camille R.", date: "Jan 12, 2026"),
             Review(title: "My favorite widget",
                    text: "A new word on my Home Screen every morning. I have learned more this month than in a year of meaning to read more.",
-                   author: "Jordan P.", date: "Feb 3, 2026")
+                   author: "Jordan P.", date: "Feb 3, 2026"),
+            Review(title: "Short and smart",
+                   text: "The quizzes take two minutes and the words actually come back when I need them. The origins are my favorite part.",
+                   author: "Priya S.", date: "Mar 21, 2026"),
+            Review(title: "Beautiful to use",
+                   text: "Calm design, no clutter, and the streak keeps me honest. I open it with my coffee every morning.",
+                   author: "Marcus L.", date: "Apr 9, 2026")
         ]
     )
 }

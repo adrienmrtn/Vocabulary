@@ -4,7 +4,8 @@ import StoreKit
 /// One page of the onboarding. The list below is the whole flow, in order.
 enum OnboardingStep {
     case welcome
-    case choice(title: String, subtitle: String?, options: [String], multiple: Bool, skippable: Bool)
+    /// `noneOption` adds a last row that stands for "none of the above" and clears the others.
+    case choice(title: String, subtitle: String?, options: [String], multiple: Bool, noneOption: String?)
     case art(image: String, title: String)
     case name
     case streak
@@ -20,20 +21,17 @@ enum OnboardingStep {
     case rating
     case account
 
-    static func single(_ title: String, _ options: [String], skippable: Bool = true) -> OnboardingStep {
-        .choice(title: title, subtitle: nil, options: options, multiple: false, skippable: skippable)
+    static func single(_ title: String, _ options: [String]) -> OnboardingStep {
+        .choice(title: title, subtitle: nil, options: options, multiple: false, noneOption: nil)
     }
 
     static func multi(_ title: String, _ options: [String], subtitle: String? = nil,
-                      skippable: Bool = true) -> OnboardingStep {
-        .choice(title: title, subtitle: subtitle, options: options, multiple: true, skippable: skippable)
+                      noneOption: String? = nil) -> OnboardingStep {
+        .choice(title: title, subtitle: subtitle, options: options, multiple: true, noneOption: noneOption)
     }
 
     static let flow: [OnboardingStep] = [
         .welcome,
-        .single("How did you hear about Bovary?",
-                ["Facebook", "Instagram", "Friend/family", "Web search", "TikTok", "App Store", "Other"],
-                skippable: false),
         .art(image: "level", title: "Tailor your word recommendations"),
         .single("How old are you?", ["13 to 17", "18 to 24", "25 to 34", "35 to 44", "45 to 54", "55+"]),
         .single("Which option represents you best?", ["Female", "Male", "Other", "Prefer not to say"]),
@@ -63,12 +61,12 @@ enum OnboardingStep {
                ["At work", "In social conversations", "I always feel confident", "When reading", "When writing"]),
         .text("Amazing! Let's test how many words you know..."),
         .multi("Beginner words", ["Genuine", "Metal", "Squint", "Whisper", "Jumble", "Borrow"],
-               subtitle: "Select all the ones you know", skippable: false),
+               subtitle: "Select all the ones you know", noneOption: "None of these"),
         .multi("Intermediate words", ["Morose", "Impeccable", "Squander", "Whet", "Pervasive", "Deportment"],
-               subtitle: "Select all the ones you know", skippable: false),
+               subtitle: "Select all the ones you know", noneOption: "None of these"),
         .multi("Advanced words",
                ["Lucubration", "Quixotic", "Numinous", "Superincumbent", "Callipygian", "Logophile"],
-               subtitle: "Select all the ones you know", skippable: false),
+               subtitle: "Select all the ones you know", noneOption: "None of these"),
         .art(image: "result", title: "Great! A personalized level assessment is waiting for you in the app"),
         .rating,
         .account,
@@ -126,8 +124,10 @@ struct OnboardingView: View {
     /// Keep what the member answered on the page they are leaving.
     private func save(_ step: OnboardingStep) {
         switch step {
-        case let .choice(title, _, options, _, _):
-            let chosen = (answers[index] ?? []).sorted().map { options[$0] }
+        case let .choice(title, _, options, _, noneOption):
+            let chosen = (answers[index] ?? []).sorted().compactMap {
+                $0 < options.count ? options[$0] : noneOption
+            }
             if !chosen.isEmpty {
                 UserStore.shared.setOnboarding(title, answers: chosen)
             }
@@ -148,10 +148,10 @@ struct OnboardingView: View {
         switch step {
         case .welcome:
             WelcomePage(next: next)
-        case let .choice(title, subtitle, options, multiple, skippable):
+        case let .choice(title, subtitle, options, multiple, noneOption):
             ChoicePage(title: title, image: OnboardingArt.image(for: title), subtitle: subtitle,
-                       options: options, multiple: multiple,
-                       skippable: skippable, selection: selection(for: index), next: next)
+                       options: options + (noneOption.map { [$0] } ?? []), multiple: multiple,
+                       exclusiveLast: noneOption != nil, selection: selection(for: index), next: next)
         case let .art(image, title):
             Scaffold(title: nil, cta: "Continue", next: next) {
                 VStack(spacing: 44) {
@@ -164,7 +164,7 @@ struct OnboardingView: View {
                 .padding(.top, 40)
             }
         case .name:
-            Scaffold(title: "What do you want to be called?", skippable: true, cta: "Continue",
+            Scaffold(title: "What do you want to be called?", cta: "Continue",
                      ctaEnabled: !name.trimmingCharacters(in: .whitespaces).isEmpty, next: next) {
                 FloatingArt(name: "onb_name", size: 120)
                 TextField("Your name", text: $name)
@@ -176,22 +176,7 @@ struct OnboardingView: View {
                     .overlay(Capsule().stroke(Color.line, lineWidth: 1.5))
             }
         case .streak:
-            Scaffold(title: nil, cta: "Continue", next: next) {
-                VStack(spacing: 28) {
-                    FlameView(day: 1)
-                        .frame(width: 200, height: 200)
-                    Text("Create a consistent daily learning routine")
-                        .font(.serif(28))
-                        .multilineTextAlignment(.center)
-                    VStack(spacing: 12) {
-                        WeekRow(items: WeekRow.firstDay)
-                        Text("Build a streak, one day at a time").font(.system(size: 14))
-                    }
-                    .padding(14)
-                    .card()
-                }
-                .padding(.top, 20)
-            }
+            StreakPage(next: next)
         case .notifications:
             Scaffold(title: "Get words throughout the day", cta: "Allow and Save",
                      next: { Notifications.requestPermission(then: next) }) {
@@ -229,9 +214,7 @@ struct OnboardingView: View {
                 VoiceList()
             }
         case .wordCard:
-            Scaffold(title: "Get deeper insight into each word you learn", cta: "Continue", next: next) {
-                WordCard(word: Catalog.featured)
-            }
+            InsightPage(word: Catalog.featured, next: next)
         case let .text(message):
             Scaffold(title: nil, cta: "Continue", next: next) {
                 VStack(spacing: 36) {
@@ -293,7 +276,6 @@ struct OnboardingView: View {
 /// Title on top, content in the middle, the main button pinned at the bottom.
 private struct Scaffold<Content: View>: View {
     let title: String?
-    var skippable: Bool = false
     let cta: String
     var ctaEnabled: Bool = true
     var secondary: String? = nil
@@ -302,15 +284,6 @@ private struct Scaffold<Content: View>: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            HStack {
-                Spacer()
-                Button("Skip") { next() }
-                    .font(.system(size: 15, weight: .medium))
-                    .foregroundStyle(Color.ink)
-                    .frame(height: 44)
-                    .opacity(skippable ? 1 : 0)
-                    .disabled(!skippable)
-            }
             ScrollView {
                 VStack(spacing: 18) {
                     if let title {
@@ -324,7 +297,7 @@ private struct Scaffold<Content: View>: View {
                     content()
                 }
                 .frame(maxWidth: .infinity)
-                .padding(.top, 8)
+                .padding(.top, 28)
             }
             .scrollBounceBehavior(.basedOnSize)
             VStack(spacing: 6) {
@@ -562,21 +535,13 @@ private struct ChoicePage: View {
     let subtitle: String?
     let options: [String]
     let multiple: Bool
-    let skippable: Bool
+    /// The last option means "none of the above": choosing it clears the others.
+    let exclusiveLast: Bool
     @Binding var selection: Set<Int>
     let next: () -> Void
 
     var body: some View {
         VStack(spacing: 0) {
-            HStack {
-                Spacer()
-                Button("Skip") { next() }
-                    .font(.system(size: 15, weight: .medium))
-                    .foregroundStyle(Color.ink)
-                    .frame(height: 44)
-                    .opacity(skippable ? 1 : 0)
-                    .disabled(!skippable)
-            }
             ScrollView {
                 VStack(spacing: 10) {
                     if let image {
@@ -599,13 +564,12 @@ private struct ChoicePage: View {
                             .rise(0.12 + Double(index) * 0.05)
                     }
                 }
-                .padding(.top, 8)
+                .padding(.top, 28)
             }
             .scrollBounceBehavior(.basedOnSize)
-            if multiple {
-                PrimaryButton(title: "Continue", action: next)
-                    .padding(.top, 8)
-            }
+            // An answer is always needed, and it is always confirmed with the button.
+            PrimaryButton(title: "Continue", enabled: !selection.isEmpty, action: next)
+                .padding(.top, 8)
         }
         .padding(.horizontal, 16)
         .padding(.bottom, 12)
@@ -615,23 +579,22 @@ private struct ChoicePage: View {
         let on = selection.contains(index)
         return Button {
             Haptics.select()
-            if multiple {
+            let none = exclusiveLast ? options.count - 1 : -1
+            if !multiple || index == none {
+                selection = on && multiple ? [] : [index]
+            } else {
+                selection.remove(none)
                 if on {
                     selection.remove(index)
                 } else {
                     selection.insert(index)
-                }
-            } else {
-                selection = [index]
-                DispatchQueue.main.asyncAfter(deadline: .now() + 0.25) {
-                    next()
                 }
             }
         } label: {
             HStack {
                 Text(options[index]).font(.system(size: 16, weight: .medium))
                 Spacer()
-                Image(systemName: on ? "largecircle.fill.circle" : "circle")
+                Image(systemName: on ? (multiple ? "checkmark.circle.fill" : "largecircle.fill.circle") : "circle")
                     .font(.system(size: 22))
                     .foregroundStyle(on ? Color.brandBlue : Color(hex: 0x8A8390))
             }
@@ -645,8 +608,117 @@ private struct ChoicePage: View {
     }
 }
 
+/// The streak page plays itself: the flame, the title and the week arrive one
+/// after the other, then the first day unlocks and the flame catches. Only then
+/// does "Tap to continue" appear; there is no button.
+private struct StreakPage: View {
+    let next: () -> Void
+    @State private var phase = 0
+
+    private var finished: Bool { phase >= 5 }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            Spacer(minLength: 12)
+            VStack(spacing: 28) {
+                FlameView(day: 1, lit: phase >= 4)
+                    .frame(width: 200, height: 200)
+                    .reveal(phase >= 1)
+                Text("Create a consistent daily learning routine")
+                    .font(.serif(28))
+                    .multilineTextAlignment(.center)
+                    .reveal(phase >= 2)
+                VStack(spacing: 12) {
+                    WeekRow(items: phase >= 4 ? WeekRow.firstDay : WeekRow.notStarted)
+                    Text("Build a streak, one day at a time").font(.system(size: 14))
+                }
+                .padding(14)
+                .card()
+                .reveal(phase >= 3)
+            }
+            Spacer(minLength: 12)
+            TapToContinue(shown: finished, action: next)
+        }
+        .padding(.horizontal, 16)
+        .padding(.bottom, 12)
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .contentShape(Rectangle())
+        .onTapGesture {
+            if finished { next() }
+        }
+        .task {
+            for (step, delay) in [0.2, 0.6, 0.6, 0.9, 1.1].enumerated() {
+                do {
+                    try await Task.sleep(nanoseconds: UInt64(delay * 1_000_000_000))
+                } catch {
+                    return
+                }
+                withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {
+                    phase = step + 1
+                }
+                if step + 1 == 4 {
+                    Haptics.success()
+                } else {
+                    Haptics.tap()
+                }
+            }
+        }
+    }
+}
+
+/// Shows what a word card holds, one block at a time, then waits for a tap.
+private struct InsightPage: View {
+    let word: Word
+    let next: () -> Void
+    @State private var phase = 0
+
+    private var finished: Bool { phase >= 6 }
+
+    var body: some View {
+        VStack(spacing: 0) {
+            ScrollView {
+                VStack(spacing: 18) {
+                    Text("Get deeper insight into each word you learn")
+                        .font(.serif(28))
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 12)
+                        .padding(.bottom, 4)
+                        .reveal(phase >= 1)
+                    WordCard(word: word, phase: phase)
+                        .reveal(phase >= 2)
+                }
+                .frame(maxWidth: .infinity)
+                .padding(.top, 28)
+            }
+            .scrollBounceBehavior(.basedOnSize)
+            TapToContinue(shown: finished, action: next)
+        }
+        .padding(.horizontal, 16)
+        .padding(.bottom, 12)
+        .contentShape(Rectangle())
+        .onTapGesture {
+            if finished { next() }
+        }
+        .task {
+            for (step, delay) in [0.2, 0.6, 0.7, 0.7, 0.7, 0.9].enumerated() {
+                do {
+                    try await Task.sleep(nanoseconds: UInt64(delay * 1_000_000_000))
+                } catch {
+                    return
+                }
+                withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {
+                    phase = step + 1
+                }
+                Haptics.tap()
+            }
+        }
+    }
+}
+
+/// The word, then its example, synonyms and origin, each shown from a given phase on.
 private struct WordCard: View {
     let word: Word
+    let phase: Int
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
@@ -659,22 +731,30 @@ private struct WordCard: View {
             Text(word.definition)
                 .font(.system(size: 14))
                 .frame(maxWidth: .infinity)
-            label("Example")
-            Text(word.example).font(.system(size: 15))
-            label("Synonyms")
-                .opacity(word.synonyms.isEmpty ? 0 : 1)
-            HStack(spacing: 6) {
-                ForEach(word.synonyms, id: \.self) { synonym in
-                    Text(synonym)
-                        .font(.system(size: 13, weight: .medium))
-                        .foregroundStyle(Color(hex: 0x0A3FB3))
-                        .padding(.horizontal, 12)
-                        .padding(.vertical, 6)
-                        .background(Capsule().fill(Color.blueTint))
+            VStack(alignment: .leading, spacing: 8) {
+                label("Example")
+                Text(word.example).font(.system(size: 15))
+            }
+            .reveal(phase >= 3)
+            VStack(alignment: .leading, spacing: 8) {
+                label("Synonyms")
+                HStack(spacing: 6) {
+                    ForEach(word.synonyms, id: \.self) { synonym in
+                        Text(synonym)
+                            .font(.system(size: 13, weight: .medium))
+                            .foregroundStyle(Color(hex: 0x0A3FB3))
+                            .padding(.horizontal, 12)
+                            .padding(.vertical, 6)
+                            .background(Capsule().fill(Color.blueTint))
+                    }
                 }
             }
-            label("Origin")
-            Text(word.origin).font(.system(size: 15))
+            .reveal(phase >= 4 && !word.synonyms.isEmpty)
+            VStack(alignment: .leading, spacing: 8) {
+                label("Origin")
+                Text(word.origin).font(.system(size: 15))
+            }
+            .reveal(phase >= 5)
         }
         .padding(20)
         .frame(maxWidth: .infinity, alignment: .leading)

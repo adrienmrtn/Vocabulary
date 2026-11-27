@@ -19,8 +19,10 @@ then `xcodegen generate`).
 
 ## What is in this first version
 
-- **Onboarding**: 35 pages driven by one list in `OnboardingView.swift`, with a
-  progress bar. Pages cross-fade with a slight rise; there is no swipe.
+- **Onboarding**: 34 pages driven by one list in `OnboardingView.swift`, with a
+  progress bar. No question can be skipped: an answer is chosen, then confirmed
+  with Continue. The streak and word-card pages play block by block and end
+  on "Tap to continue". Pages cross-fade with a slight rise; there is no swipe.
   Illustrations pop in and float, titles and choices rise in one after the
   other, and every page change, choice and button fires a haptic.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.
@@ -96,8 +98,8 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 ## Not done yet
 
 - **The rating page shows placeholder social proof** (a 4.8 rating, a user
-  count and two reviews) in debug builds only. Replace it with real figures
-  in `SocialProof` (`Motion.swift`) before release; a release build shows none.
+  count and four reviews) in debug and TestFlight builds only. Replace it with real figures
+  in `SocialProof` (`Motion.swift`) before release; an App Store build shows none.
 
 - Sign in with Apple and Google: the account is anonymous for now.
 - The paywall shows `[PRICE]`; there is no StoreKit purchase.
