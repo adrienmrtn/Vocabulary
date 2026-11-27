@@ -8,6 +8,7 @@ enum OnboardingStep {
     case choice(title: String, subtitle: String?, options: [String], multiple: Bool, noneOption: String?)
     case art(image: String, title: String)
     case name
+    case yearly
     case streak
     case notifications
     case icon
@@ -16,7 +17,9 @@ enum OnboardingStep {
     case wordCard
     case text(String)
     case offer
-    case widget
+    case widgets
+    case gift
+    case reminder
     case splash
     case loading
     case profile
@@ -38,14 +41,14 @@ enum OnboardingStep {
         .single("How old are you?", ["13 to 17", "18 to 24", "25 to 34", "35 to 44", "45 to 54", "55+"]),
         .single("Which option represents you best?", ["Female", "Male", "Other", "Prefer not to say"]),
         .name,
-        .art(image: "tile_themes", title: "Customize the app to improve your experience"),
         .single("How many words do you want to learn per week?",
                 ["10 words a week", "30 words a week", "50 words a week"]),
+        .yearly,
         .streak,
         .multi("What would help make learning a daily habit?",
                ["Getting regular reminders", "Tracking my progress", "A home/lock screen widget",
                 "Personalized quizzes and games"]),
-        .art(image: "tile_widgets", title: "With widgets, you learn words without even opening the app"),
+        .widgets,
         .notifications,
         .icon,
         .theme,
@@ -74,10 +77,10 @@ enum OnboardingStep {
         .rating,
         .account,
         .text("Become more articulate in just 1 minute a day, without even opening the app"),
-        .text("You get unlimited free access to everything for 3 days"),
-        .text("Before your trial ends, we'll check in with you to let you know"),
+        .gift,
+        .text("We're giving you full access to Bovary, free for 3 days"),
+        .reminder,
         .offer,
-        .widget,
         .splash
     ]
 }
@@ -178,6 +181,8 @@ struct OnboardingView: View {
                     .background(Capsule().fill(Color.white))
                     .overlay(Capsule().stroke(Color.line, lineWidth: 1.5))
             }
+        case .yearly:
+            YearPage(next: next)
         case .streak:
             StreakPage(next: next)
         case .notifications:
@@ -217,7 +222,7 @@ struct OnboardingView: View {
                 VoiceList()
             }
         case .wordCard:
-            InsightPage(word: Catalog.featured, next: next)
+            DeckPage(next: next)
         case let .text(message):
             Scaffold(title: nil, cta: "Continue", next: next) {
                 VStack(spacing: 36) {
@@ -242,24 +247,12 @@ struct OnboardingView: View {
             AccountPage(next: next)
         case .offer:
             OfferView(onContinue: next)
-        case .widget:
-            Scaffold(title: "Add a widget to your Home Screen", cta: "Install widget",
-                     secondary: "Remind me later", next: next) {
-                VStack(spacing: 22) {
-                    Text("On your phone's Home Screen, touch and hold an empty area, then tap Edit")
-                        .font(.system(size: 15))
-                        .multilineTextAlignment(.center)
-                    VStack(spacing: 4) {
-                        Text("ameliorate").font(.serif(24))
-                        Text("(v.) To improve").font(.serif(16, weight: .medium))
-                    }
-                    .foregroundStyle(.white)
-                    .frame(maxWidth: .infinity)
-                    .frame(height: 108)
-                    .background(RoundedRectangle(cornerRadius: 22, style: .continuous).fill(Color.brandBlue))
-                    .padding(.horizontal, 30)
-                }
-            }
+        case .widgets:
+            WidgetPage(next: next)
+        case .gift:
+            GiftPage(next: next)
+        case .reminder:
+            ReminderPage(next: next)
         case .splash:
             Text("Welcome to Bovary")
                 .font(.serif(32))
@@ -324,31 +317,6 @@ private struct Scaffold<Content: View>: View {
 }
 
 // MARK: - Pages
-
-private struct WelcomePage: View {
-    let next: () -> Void
-
-    var body: some View {
-        VStack(spacing: 0) {
-            Spacer(minLength: 12)
-            FloatingArt(name: "hero", size: 290)
-            Text("Expand your vocabulary in 1 minute a day")
-                .font(.serif(32))
-                .multilineTextAlignment(.center)
-                .padding(.top, 30)
-                .rise(0.2)
-            Text("Learn new words with a daily habit that takes just 1 minute")
-                .font(.system(size: 16))
-                .multilineTextAlignment(.center)
-                .padding(.top, 12)
-                .rise(0.3)
-            Spacer(minLength: 12)
-            PrimaryButton(title: "Get started", action: next)
-        }
-        .padding(.horizontal, 24)
-        .padding(.bottom, 12)
-    }
-}
 
 /// Asks for an App Store rating. The button opens Apple's own rating prompt,
 /// which iOS may decide not to show; either way the flow moves on.
@@ -615,210 +583,6 @@ private struct ChoicePage: View {
     }
 }
 
-/// A short wait between the questions and the profile. Nothing is computed
-/// here: the bar fills on a timer, names three steps, then moves on by itself.
-private struct LoadingPage: View {
-    let next: () -> Void
-    @State private var progress = 0.0
-    @State private var done = 0
-
-    private let steps = ["Reading your answers", "Estimating your level", "Building your word plan"]
-
-    var body: some View {
-        VStack(spacing: 0) {
-            Spacer(minLength: 12)
-            FloatingArt(name: "result", size: 190)
-            Text("Creating your profile")
-                .font(.serif(30))
-                .multilineTextAlignment(.center)
-                .padding(.top, 34)
-                .rise(0.15)
-            Text("\(Int(progress * 100))%")
-                .font(.serif(44))
-                .foregroundStyle(Color.brandBlue)
-                .contentTransition(.numericText())
-                .monospacedDigit()
-                .padding(.top, 14)
-            ProgressView(value: progress)
-                .tint(Color.brandBlue)
-                .scaleEffect(y: 2.2)
-                .padding(.horizontal, 40)
-                .padding(.top, 10)
-            VStack(alignment: .leading, spacing: 14) {
-                ForEach(steps.indices, id: \.self) { index in
-                    HStack(spacing: 12) {
-                        Image(systemName: index < done ? "checkmark.circle.fill" : "circle")
-                            .font(.system(size: 22))
-                            .foregroundStyle(index < done ? Color.brandBlue : Color.line)
-                            .contentTransition(.symbolEffect(.replace))
-                        Text(steps[index])
-                            .font(.system(size: 16, weight: index < done ? .semibold : .regular))
-                            .foregroundStyle(index <= done ? Color.ink : Color.muted)
-                    }
-                }
-            }
-            .padding(.top, 34)
-            Spacer(minLength: 12)
-        }
-        .padding(.horizontal, 24)
-        .accessibilityElement(children: .combine)
-        .task {
-            // 40 small steps over about four seconds, with a tick as each line completes.
-            for tick in 1...40 {
-                do {
-                    try await Task.sleep(nanoseconds: 100_000_000)
-                } catch {
-                    return
-                }
-                withAnimation(.easeOut(duration: 0.2)) {
-                    progress = Double(tick) / 40
-                }
-                let finished = tick * steps.count / 40
-                if finished != done {
-                    withAnimation(.spring(response: 0.4, dampingFraction: 0.6)) {
-                        done = finished
-                    }
-                    Haptics.tap()
-                }
-            }
-            do {
-                try await Task.sleep(nanoseconds: 500_000_000)
-            } catch {
-                return
-            }
-            Haptics.success()
-            next()
-        }
-    }
-}
-
-/// What the answers add up to, shown block by block before the offer.
-private struct ProfilePage: View {
-    let next: () -> Void
-    @State private var phase = 0
-
-    private let answers = UserStore.shared.state.onboarding
-    private let name = UserStore.shared.state.displayName
-
-    /// Words ticked in the three tests, out of 18. Harder words weigh more.
-    private var known: (count: Int, score: Int) {
-        var count = 0
-        var score = 0
-        for (weight, title) in ["Beginner words", "Intermediate words", "Advanced words"].enumerated() {
-            let ticked = (answers[title] ?? []).filter { $0 != "None of these" }.count
-            count += ticked
-            score += ticked * (weight + 1)
-        }
-        return (count, score)
-    }
-
-    /// 0 beginner, 1 intermediate, 2 advanced. The score runs from 0 to 36.
-    private var level: Int {
-        known.score < 10 ? 0 : (known.score < 22 ? 1 : 2)
-    }
-
-    private var rows: [(symbol: String, label: String, value: String)] {
-        var rows: [(symbol: String, label: String, value: String)] = []
-        if let goal = answers["How many words do you want to learn per week?"]?.first {
-            rows.append(("target", "Weekly goal", goal))
-        }
-        if let topics = answers["Which topics are you interested in?"], !topics.isEmpty {
-            rows.append(("square.grid.2x2", "Topics", topics.joined(separator: ", ")))
-        }
-        if let weak = answers["Where does your vocabulary feel weakest?"], !weak.isEmpty {
-            rows.append(("scope", "Focus", weak.joined(separator: ", ")))
-        }
-        rows.append(("clock", "Daily time", "1 minute a day"))
-        return rows
-    }
-
-    var body: some View {
-        let levels = ["Beginner", "Intermediate", "Advanced"]
-
-        VStack(spacing: 0) {
-            ScrollView {
-                VStack(spacing: 16) {
-                    Text(name.isEmpty ? "Here's your profile" : "\(name), here's your profile")
-                        .font(.serif(30))
-                        .multilineTextAlignment(.center)
-                        .padding(.horizontal, 12)
-                        .reveal(phase >= 1)
-
-                    VStack(spacing: 14) {
-                        Text("Your vocabulary level")
-                            .font(.system(size: 13))
-                            .foregroundStyle(Color.muted)
-                        Text(levels[level])
-                            .font(.serif(34))
-                            .foregroundStyle(Color.brandBlue)
-                        HStack(spacing: 6) {
-                            ForEach(0..<3, id: \.self) { index in
-                                VStack(spacing: 6) {
-                                    Capsule()
-                                        .fill(index <= level && phase >= 3 ? Color.brandBlue : Color.line)
-                                        .frame(height: 8)
-                                    Text(levels[index])
-                                        .font(.system(size: 11, weight: index == level ? .bold : .regular))
-                                        .foregroundStyle(index == level ? Color.ink : Color.muted)
-                                }
-                            }
-                        }
-                        Text("You knew \(known.count) of the 18 test words")
-                            .font(.system(size: 14))
-                    }
-                    .padding(18)
-                    .frame(maxWidth: .infinity)
-                    .card(radius: 24)
-                    .reveal(phase >= 2)
-
-                    ForEach(Array(rows.enumerated()), id: \.offset) { item in
-                        HStack(spacing: 14) {
-                            Image(systemName: item.element.symbol)
-                                .font(.system(size: 18, weight: .semibold))
-                                .foregroundStyle(Color.brandBlue)
-                                .frame(width: 40, height: 40)
-                                .background(Circle().fill(Color.blueTint))
-                            VStack(alignment: .leading, spacing: 2) {
-                                Text(item.element.label)
-                                    .font(.system(size: 13))
-                                    .foregroundStyle(Color.muted)
-                                Text(item.element.value)
-                                    .font(.system(size: 16, weight: .semibold))
-                            }
-                            Spacer(minLength: 0)
-                        }
-                        .padding(14)
-                        .frame(maxWidth: .infinity, alignment: .leading)
-                        .card()
-                        .reveal(phase >= 4 + item.offset)
-                    }
-                }
-                .padding(.top, 28)
-                .padding(.bottom, 12)
-            }
-            .scrollBounceBehavior(.basedOnSize)
-            PrimaryButton(title: "Continue", enabled: phase >= 4 + rows.count, action: next)
-                .padding(.top, 8)
-                .reveal(phase >= 4 + rows.count)
-        }
-        .padding(.horizontal, 16)
-        .padding(.bottom, 12)
-        .task {
-            for step in 1...(4 + rows.count) {
-                do {
-                    try await Task.sleep(nanoseconds: step == 1 ? 200_000_000 : 550_000_000)
-                } catch {
-                    return
-                }
-                withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {
-                    phase = step
-                }
-                Haptics.tap()
-            }
-        }
-    }
-}
-
 /// The streak page plays itself: the flame, the title and the week arrive one
 /// after the other, then the first day unlocks and the flame catches. Only then
 /// does "Tap to continue" appear; there is no button.
@@ -874,109 +638,5 @@ private struct StreakPage: View {
                 }
             }
         }
-    }
-}
-
-/// Shows what a word card holds, one block at a time, then waits for a tap.
-private struct InsightPage: View {
-    let word: Word
-    let next: () -> Void
-    @State private var phase = 0
-
-    private var finished: Bool { phase >= 6 }
-
-    var body: some View {
-        VStack(spacing: 0) {
-            ScrollView {
-                VStack(spacing: 18) {
-                    Text("Get deeper insight into each word you learn")
-                        .font(.serif(28))
-                        .multilineTextAlignment(.center)
-                        .padding(.horizontal, 12)
-                        .padding(.bottom, 4)
-                        .reveal(phase >= 1)
-                    WordCard(word: word, phase: phase)
-                        .reveal(phase >= 2)
-                }
-                .frame(maxWidth: .infinity)
-                .padding(.top, 28)
-            }
-            .scrollBounceBehavior(.basedOnSize)
-            TapToContinue(shown: finished, action: next)
-        }
-        .padding(.horizontal, 16)
-        .padding(.bottom, 12)
-        .contentShape(Rectangle())
-        .onTapGesture {
-            if finished { next() }
-        }
-        .task {
-            for (step, delay) in [0.2, 0.6, 0.7, 0.7, 0.7, 0.9].enumerated() {
-                do {
-                    try await Task.sleep(nanoseconds: UInt64(delay * 1_000_000_000))
-                } catch {
-                    return
-                }
-                withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {
-                    phase = step + 1
-                }
-                Haptics.tap()
-            }
-        }
-    }
-}
-
-/// The word, then its example, synonyms and origin, each shown from a given phase on.
-private struct WordCard: View {
-    let word: Word
-    let phase: Int
-
-    var body: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            Text(word.text)
-                .font(.serif(32))
-                .frame(maxWidth: .infinity)
-            Text("/\(word.pronunciation)/")
-                .font(.system(size: 14))
-                .frame(maxWidth: .infinity)
-            Text(word.definition)
-                .font(.system(size: 14))
-                .frame(maxWidth: .infinity)
-            VStack(alignment: .leading, spacing: 8) {
-                label("Example")
-                Text(word.example).font(.system(size: 15))
-            }
-            .reveal(phase >= 3)
-            VStack(alignment: .leading, spacing: 8) {
-                label("Synonyms")
-                HStack(spacing: 6) {
-                    ForEach(word.synonyms, id: \.self) { synonym in
-                        Text(synonym)
-                            .font(.system(size: 13, weight: .medium))
-                            .foregroundStyle(Color(hex: 0x0A3FB3))
-                            .padding(.horizontal, 12)
-                            .padding(.vertical, 6)
-                            .background(Capsule().fill(Color.blueTint))
-                    }
-                }
-            }
-            .reveal(phase >= 4 && !word.synonyms.isEmpty)
-            VStack(alignment: .leading, spacing: 8) {
-                label("Origin")
-                Text(word.origin).font(.system(size: 15))
-            }
-            .reveal(phase >= 5)
-        }
-        .padding(20)
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .card(radius: 24)
-        .padding(.horizontal, 12)
-    }
-
-    private func label(_ text: String) -> some View {
-        Text(text)
-            .font(.system(size: 12))
-            .foregroundStyle(Color.muted)
-            .padding(.top, 10)
     }
 }

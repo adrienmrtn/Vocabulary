@@ -128,6 +128,26 @@ extension Package {
     /// The price as the App Store formats it for the member's country.
     var price: String { storeProduct.localizedPriceString }
 
+    /// The plan's price spread over its months, formatted like the price itself.
+    /// Nil for plans shorter than a month.
+    var monthlyEquivalent: String? {
+        let months: Int
+        switch packageType {
+        case .annual: months = 12
+        case .sixMonth: months = 6
+        case .threeMonth: months = 3
+        case .twoMonth: months = 2
+        default: return nil
+        }
+        let share = NSDecimalNumber(decimal: storeProduct.price / Decimal(months))
+        return storeProduct.priceFormatter?.string(from: share)
+    }
+
+    /// Zero in the plan's currency, for "nothing due today".
+    var zeroPrice: String {
+        storeProduct.priceFormatter?.string(from: 0) ?? "0.00"
+    }
+
     /// Length of the free trial in days, when the plan has one.
     var trialDays: Int? {
         guard let intro = storeProduct.introductoryDiscount,

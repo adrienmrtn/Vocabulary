@@ -27,9 +27,6 @@ struct ProfileView: View {
                         }
                         .accessibilityLabel("Settings")
                     }
-                    PremiumBanner(title: "Go Premium",
-                                  subtitle: "Access all topics, words, themes, and remove ads!")
-
                     Text("Customize the app")
                         .font(.system(size: 18, weight: .semibold))
                         .frame(maxWidth: .infinity, alignment: .leading)
@@ -324,6 +321,22 @@ struct ReminderSettings: View {
 }
 
 enum Notifications {
+    /// The reminder promised with the free trial: one notification the day
+    /// before it ends. Asks for permission first if it was never asked.
+    static func scheduleTrialReminder(trialDays: Int) {
+        guard trialDays > 1 else { return }
+        let center = UNUserNotificationCenter.current()
+        center.requestAuthorization(options: [.alert, .sound]) { granted, _ in
+            guard granted else { return }
+            let content = UNMutableNotificationContent()
+            content.title = "Your free trial ends tomorrow"
+            content.body = "Your Bovary subscription starts tomorrow. You can cancel anytime in your App Store settings."
+            content.sound = .default
+            let trigger = UNTimeIntervalNotificationTrigger(timeInterval: Double(trialDays - 1) * 86_400, repeats: false)
+            center.add(UNNotificationRequest(identifier: "trial-reminder", content: content, trigger: trigger))
+        }
+    }
+
     /// Asks iOS for permission. Scheduling the daily words comes later.
     static func requestPermission(then completion: @escaping () -> Void) {
         UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .sound, .badge]) { _, _ in

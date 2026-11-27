@@ -1,56 +1,43 @@
 import SwiftUI
 import RevenueCat
 
-/// The subscription offer. It lists the plans of RevenueCat's current
-/// offering, with the yearly one chosen first. Closing it shows the discount
-/// once, if there is one; after that, closing simply moves on.
+/// The subscription offer: a plain page that explains how the free trial goes,
+/// with a single yearly plan and a single button. Its blocks arrive one after
+/// the other. The close button only shows after a few seconds; closing shows
+/// the discount once, if there is one, and after that simply moves on.
 struct OfferView: View {
     let onContinue: () -> Void
 
     @ObservedObject private var subscriptions = Subscriptions.shared
-    @AppStorage("trialReminder") private var reminder = false
     @AppStorage("discountOffered") private var discountOffered = false
-    @State private var selected: String?
+    @State private var phase = 0
+    @State private var canClose = false
     @State private var busy = false
     @State private var message: String?
     @State private var showDiscount = false
 
-    private var packages: [Package] { subscriptions.main?.availablePackages ?? [] }
-
-    private var chosen: Package? {
-        packages.first { $0.identifier == selected } ?? subscriptions.main?.annual ?? packages.first
+    /// Always the yearly plan of the current offering.
+    private var plan: Package? {
+        subscriptions.main?.annual ?? subscriptions.main?.availablePackages.first
     }
 
-    private func trial(_ package: Package) -> Int? {
-        subscriptions.trialEligible ? package.trialDays : nil
-    }
-
-    private var title: String {
-        guard let chosen else { return "Unlock every word, topic and game" }
-        if let days = trial(chosen) {
-            return "Try \(days) days for free, then \(chosen.price) per \(chosen.periodName)"
-        }
-        return "Unlock everything for \(chosen.price) per \(chosen.periodName)"
-    }
-
-    private var cta: String {
-        guard let chosen else { return "Continue" }
-        return trial(chosen) == nil ? "Subscribe" : "Start my free trial"
+    private var trialDays: Int? {
+        guard let plan, subscriptions.trialEligible else { return nil }
+        return plan.trialDays
     }
 
     var body: some View {
         ZStack {
             Color.cream.ignoresSafeArea()
             if showDiscount, let offer = subscriptions.discount {
-                DiscountView(offer: offer, regular: subscriptions.main?.annual,
-                             buy: buy, decline: onContinue)
-                    .transition(.opacity.combined(with: .offset(x: 0, y: 14)))
+                DiscountView(offer: offer, regular: plan, buy: buy, decline: onContinue)
+                    .transition(.opacity.combined(with: .scale(scale: 1.04)))
             } else {
-                plans
+                page
             }
         }
         .foregroundStyle(Color.ink)
-        .animation(.easeInOut(duration: 0.38), value: showDiscount)
+        .animation(.easeInOut(duration: 0.45), value: showDiscount)
         .disabled(busy)
         .overlay {
             if busy {
@@ -63,10 +50,26 @@ struct OfferView: View {
             Text(message ?? "")
         }
         .task { await subscriptions.refresh() }
+        .task {
+            for (step, delay) in [0.25, 0.6, 0.55, 0.55, 0.6].enumerated() {
+                guard (try? await Task.sleep(nanoseconds: UInt64(delay * 1_000_000_000))) != nil else { return }
+                withAnimation(.spring(response: 0.55, dampingFraction: 0.82)) {
+                    phase = step + 1
+                }
+                Haptics.tap()
+            }
+        }
+        .task {
+            // The way out stays hidden for eight seconds.
+            guard (try? await Task.sleep(nanoseconds: 8_000_000_000)) != nil else { return }
+            withAnimation(.easeIn(duration: 0.4)) {
+                canClose = true
+            }
+        }
     }
 
-    private var plans: some View {
-        VStack(spacing: 14) {
+    private var page: some View {
+        VStack(spacing: 0) {
             HStack {
                 Button {
                     Haptics.tap()
@@ -78,93 +81,133 @@ struct OfferView: View {
                         .frame(width: 44, height: 44)
                 }
                 .accessibilityLabel("Close")
+                .opacity(canClose || plan == nil ? 1 : 0)
+                .disabled(!(canClose || plan == nil))
                 Spacer()
             }
-            Spacer(minLength: 0)
-            FloatingArt(name: "onb_offer", size: 150)
-                .padding(.bottom, 8)
-            Text(title)
-                .font(.serif(28))
-                .multilineTextAlignment(.center)
-                .padding(.horizontal, 12)
-            Spacer(minLength: 0)
-            if packages.isEmpty {
-                Text("Plans are not available right now.")
-                    .font(.system(size: 14))
-                    .foregroundStyle(Color.muted)
-            }
-            ForEach(packages, id: \.identifier) { package in
-                planRow(package)
-            }
-            if let chosen, trial(chosen) != nil {
-                Toggle("Reminder before trial ends", isOn: $reminder)
-                    .font(.system(size: 15, weight: .medium))
-                    .padding(.horizontal, 18)
-                    .frame(height: 54)
-                    .background(Capsule().fill(Color.white))
-                    .onChange(of: reminder) { _, _ in Haptics.select() }
-            }
-            PrimaryButton(title: cta) {
-                if let chosen {
-                    buy(chosen)
+            if let plan {
+                if let days = trialDays {
+                    trialPage(plan, days: days)
                 } else {
-                    onContinue()
+                    plainPage(plan)
                 }
-            }
-            if let chosen {
-                Text(trial(chosen) == nil
-                     ? "\(chosen.price) per \(chosen.periodName). Renews automatically. Cancel anytime."
-                     : "Free for \(trial(chosen) ?? 0) days, then \(chosen.price) per \(chosen.periodName). "
-                       + "Renews automatically. Cancel anytime.")
-                    .font(.system(size: 12))
+            } else {
+                Spacer()
+                Text("Unlock all of Bovary")
+                    .font(.serif(30))
+                Text("Plans are not available right now.")
+                    .font(.system(size: 15))
                     .foregroundStyle(Color.muted)
-                    .multilineTextAlignment(.center)
-            }
-            HStack {
-                Button("Restore") { restore() }
+                    .padding(.top, 8)
                 Spacer()
-                Button("Terms & Conditions") {}
-                Spacer()
-                Button("Privacy Policy") {}
+                PrimaryButton(title: "Continue", action: onContinue)
             }
-            .font(.system(size: 12))
-            .foregroundStyle(Color.ink)
-            .frame(height: 40)
+            footer
         }
-        .padding(.horizontal, 16)
+        .padding(.horizontal, 20)
         .padding(.bottom, 8)
     }
 
-    private func planRow(_ package: Package) -> some View {
-        let on = package.identifier == chosen?.identifier
-        return Button {
-            Haptics.select()
-            selected = package.identifier
-        } label: {
-            HStack(spacing: 12) {
-                Image(systemName: on ? "largecircle.fill.circle" : "circle")
-                    .font(.system(size: 22))
-                    .foregroundStyle(on ? Color.brandBlue : Color(hex: 0x8A8390))
-                VStack(alignment: .leading, spacing: 2) {
-                    Text(package.planName)
-                        .font(.system(size: 16, weight: .semibold))
-                    if let days = trial(package) {
-                        Text("\(days)-day free trial")
-                            .font(.system(size: 13))
-                            .foregroundStyle(Color.muted)
-                    }
-                }
-                Spacer()
-                Text("\(package.price) / \(package.periodName)")
-                    .font(.system(size: 15, weight: .medium))
-            }
-            .foregroundStyle(Color.ink)
-            .padding(.horizontal, 16)
-            .frame(height: 62)
-            .background(RoundedRectangle(cornerRadius: 18, style: .continuous).fill(on ? Color.blueTint : Color.white))
-            .overlay(RoundedRectangle(cornerRadius: 18, style: .continuous)
-                .stroke(on ? Color.brandBlue : Color.line, lineWidth: 1.5))
+    /// The member can still have the trial: say what happens today, when the
+    /// reminder comes and when the first payment is taken.
+    @ViewBuilder
+    private func trialPage(_ plan: Package, days: Int) -> some View {
+        Text("How your free trial works")
+            .font(.serif(30))
+            .multilineTextAlignment(.center)
+            .reveal(phase >= 1)
+        HStack(alignment: .firstTextBaseline, spacing: 8) {
+            Text(plan.zeroPrice)
+                .font(.serif(46))
+            Text("today")
+                .font(.system(size: 18, weight: .medium))
+                .foregroundStyle(Color.muted)
         }
+        .padding(.top, 10)
+        .reveal(phase >= 1)
+
+        VStack(alignment: .leading, spacing: 0) {
+            TimelineRow(symbol: "lock.open.fill", when: "Today",
+                        title: "You unlock everything",
+                        detail: "Every word, topic and game in Bovary.", last: false)
+                .reveal(phase >= 2)
+            TimelineRow(symbol: "bell.fill", when: days - 1 <= 1 ? "Tomorrow" : "In \(days - 1) days",
+                        title: "We send you a reminder",
+                        detail: "A notification the day before your trial ends.", last: false)
+                .reveal(phase >= 3)
+            TimelineRow(symbol: "creditcard.fill", when: "In \(days) days",
+                        title: "Your subscription starts",
+                        detail: "You're charged \(plan.price) for the year, unless you cancel before.", last: true)
+                .reveal(phase >= 4)
+        }
+        .padding(.top, 26)
+        Spacer(minLength: 12)
+        VStack(spacing: 10) {
+            PrimaryButton(title: "Start my free trial") { buy(plan) }
+            priceLines(plan, lead: "Free for \(days) days, then \(plan.price) per \(plan.periodName)")
+        }
+        .reveal(phase >= 5)
+    }
+
+    /// The trial was already used: the same plain page, without the timeline.
+    @ViewBuilder
+    private func plainPage(_ plan: Package) -> some View {
+        Text("Unlock all of Bovary")
+            .font(.serif(30))
+            .multilineTextAlignment(.center)
+            .reveal(phase >= 1)
+        VStack(alignment: .leading, spacing: 0) {
+            TimelineRow(symbol: "text.book.closed.fill", when: "Words",
+                        title: "Every word of the catalogue",
+                        detail: "With examples, synonyms and origins.", last: false)
+                .reveal(phase >= 2)
+            TimelineRow(symbol: "square.grid.2x2.fill", when: "Topics",
+                        title: "Every topic",
+                        detail: "From emotions to science and literature.", last: false)
+                .reveal(phase >= 3)
+            TimelineRow(symbol: "gamecontroller.fill", when: "Games",
+                        title: "Every quiz",
+                        detail: "Short games that make the words stick.", last: true)
+                .reveal(phase >= 4)
+        }
+        .padding(.top, 26)
+        Spacer(minLength: 12)
+        VStack(spacing: 10) {
+            PrimaryButton(title: "Subscribe") { buy(plan) }
+            priceLines(plan, lead: "\(plan.price) per \(plan.periodName)")
+        }
+        .reveal(phase >= 5)
+    }
+
+    /// Under the button: what is billed, then the same amount per month, larger.
+    private func priceLines(_ plan: Package, lead: String) -> some View {
+        VStack(spacing: 4) {
+            Text(lead)
+                .font(.system(size: 15))
+            if let monthly = plan.monthlyEquivalent {
+                Text("That's \(monthly) per month")
+                    .font(.serif(24))
+            }
+            Text("No commitment. Cancel anytime.")
+                .font(.system(size: 13))
+                .foregroundStyle(Color.muted)
+                .padding(.top, 2)
+        }
+        .multilineTextAlignment(.center)
+    }
+
+    private var footer: some View {
+        HStack {
+            Button("Restore") { restore() }
+            Spacer()
+            Button("Terms & Conditions") {}
+            Spacer()
+            Button("Privacy Policy") {}
+        }
+        .font(.system(size: 12))
+        .foregroundStyle(Color.muted)
+        .frame(height: 40)
+        .padding(.top, 4)
     }
 
     /// The discount is offered a single time, ever. That keeps "one-time offer" true.
@@ -178,12 +221,16 @@ struct OfferView: View {
     }
 
     private func buy(_ package: Package) {
+        let trial = subscriptions.trialEligible ? package.trialDays : nil
         busy = true
         Task {
             let outcome = await subscriptions.buy(package)
             busy = false
             switch outcome {
             case .purchased:
+                if let trial {
+                    Notifications.scheduleTrialReminder(trialDays: trial)
+                }
                 Haptics.success()
                 onContinue()
             case .cancelled:
@@ -210,64 +257,176 @@ struct OfferView: View {
     }
 }
 
+/// One step of the trial: a round icon on a line, with when it happens and what happens.
+private struct TimelineRow: View {
+    let symbol: String
+    let when: String
+    let title: String
+    let detail: String
+    let last: Bool
+
+    var body: some View {
+        HStack(alignment: .top, spacing: 14) {
+            VStack(spacing: 0) {
+                Image(systemName: symbol)
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundStyle(.white)
+                    .frame(width: 40, height: 40)
+                    .background(Circle().fill(Color.ink))
+                Rectangle()
+                    .fill(Color.line)
+                    .frame(width: 3)
+                    .frame(maxHeight: .infinity)
+                    .opacity(last ? 0 : 1)
+            }
+            VStack(alignment: .leading, spacing: 3) {
+                Text(when.uppercased())
+                    .font(.system(size: 11, weight: .bold))
+                    .tracking(1)
+                    .foregroundStyle(Color.muted)
+                Text(title)
+                    .font(.system(size: 17, weight: .semibold))
+                Text(detail)
+                    .font(.system(size: 14))
+                    .foregroundStyle(Color.muted)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+            .padding(.bottom, last ? 0 : 22)
+            Spacer(minLength: 0)
+        }
+        .fixedSize(horizontal: false, vertical: true)
+    }
+}
+
 /// The lower yearly price, shown once to someone who closed the main offer.
+/// "No thanks" only appears after a few seconds.
 private struct DiscountView: View {
     let offer: Offering
     let regular: Package?
     let buy: (Package) -> Void
     let decline: () -> Void
 
+    @State private var canDecline = false
+    @State private var pulse = false
+
+    private let gold = Color(hex: 0xFFD84A)
+
     private var package: Package? { offer.annual ?? offer.availablePackages.first }
 
+    /// How much cheaper the offer is than the regular yearly plan, in percent.
+    private var percent: Int? {
+        guard let package, let regular, regular.storeProduct.price > package.storeProduct.price else { return nil }
+        let ratio = NSDecimalNumber(decimal: package.storeProduct.price / regular.storeProduct.price).doubleValue
+        return Int(((1 - ratio) * 100).rounded())
+    }
+
     var body: some View {
-        VStack(spacing: 14) {
-            Spacer(minLength: 0)
-            FloatingArt(name: "onb_trial", size: 170)
-            Text("One-time offer")
-                .font(.system(size: 13, weight: .bold))
-                .foregroundStyle(.white)
-                .padding(.horizontal, 12)
-                .padding(.vertical, 6)
-                .background(Capsule().fill(Color.brandBlue))
-                .padding(.top, 10)
-                .rise(0.1)
-            if let package {
-                Text("A full \(package.periodName) for \(package.price)")
-                    .font(.serif(32))
-                    .multilineTextAlignment(.center)
-                    .rise(0.2)
-                if let regular, regular.storeProduct.price > package.storeProduct.price {
-                    HStack(spacing: 6) {
-                        Text("instead of")
-                        Text(regular.price).strikethrough()
+        ZStack {
+            LinearGradient(colors: [Color.brandBlue, Color(hex: 0x062E99)], startPoint: .top, endPoint: .bottom)
+                .ignoresSafeArea()
+            VStack(spacing: 0) {
+                Text("ONE-TIME OFFER")
+                    .font(.system(size: 13, weight: .heavy))
+                    .tracking(2)
+                    .foregroundStyle(Color.ink)
+                    .padding(.horizontal, 16)
+                    .padding(.vertical, 8)
+                    .background(Capsule().fill(gold))
+                    .padding(.top, 24)
+                    .rise(0.05)
+                Spacer(minLength: 8)
+                if let percent {
+                    ZStack {
+                        Image(systemName: "seal.fill")
+                            .font(.system(size: 190))
+                            .foregroundStyle(gold)
+                            .shadow(color: .black.opacity(0.25), radius: 18, y: 10)
+                        Text("-\(percent)%")
+                            .font(.serif(54))
+                            .foregroundStyle(Color.ink)
                     }
-                    .font(.system(size: 16))
-                    .foregroundStyle(Color.muted)
-                    .rise(0.3)
+                    .rotationEffect(.degrees(-9))
+                    .scaleEffect(pulse ? 1.05 : 0.97)
+                    .modifier(Pop(delay: 0.15))
+                    .accessibilityLabel("\(percent) percent off")
                 }
-                Text("You won't see this price again once you leave this screen.")
-                    .font(.system(size: 15))
-                    .multilineTextAlignment(.center)
-                    .padding(.horizontal, 20)
-                    .rise(0.4)
+                if let package {
+                    Text("A full \(package.periodName) for only")
+                        .font(.serif(26))
+                        .padding(.top, 18)
+                        .rise(0.35)
+                    Text(package.price)
+                        .font(.serif(68))
+                        .rise(0.45)
+                    if let regular, percent != nil {
+                        HStack(spacing: 6) {
+                            Text("instead of")
+                            Text(regular.price).strikethrough()
+                        }
+                        .font(.system(size: 17))
+                        .opacity(0.8)
+                        .rise(0.55)
+                    }
+                    if let monthly = package.monthlyEquivalent {
+                        Text("That's just \(monthly) per month")
+                            .font(.system(size: 19, weight: .bold))
+                            .foregroundStyle(gold)
+                            .padding(.top, 12)
+                            .rise(0.65)
+                    }
+                    Text("You'll only see this price once.")
+                        .font(.system(size: 14))
+                        .opacity(0.8)
+                        .padding(.top, 8)
+                        .rise(0.75)
+                }
+                Spacer(minLength: 8)
+                if let package {
+                    Button {
+                        Haptics.tap()
+                        buy(package)
+                    } label: {
+                        Text("Claim my discount")
+                            .font(.system(size: 19, weight: .bold))
+                            .foregroundStyle(Color.ink)
+                            .frame(maxWidth: .infinity)
+                            .frame(height: 62)
+                            .background(Capsule().fill(gold))
+                            .shadow(color: .black.opacity(0.25), radius: 14, y: 8)
+                    }
+                    .scaleEffect(pulse ? 1.02 : 0.99)
+                    .rise(0.85)
+                    Text("\(package.price) per \(package.periodName). Renews automatically. Cancel anytime.")
+                        .font(.system(size: 12))
+                        .opacity(0.75)
+                        .multilineTextAlignment(.center)
+                        .padding(.top, 10)
+                }
+                Button("No thanks") {
+                    Haptics.tap()
+                    decline()
+                }
+                .font(.system(size: 16, weight: .semibold))
+                .frame(height: 48)
+                .opacity(canDecline ? 0.85 : 0)
+                .disabled(!canDecline)
             }
-            Spacer(minLength: 0)
-            if let package {
-                PrimaryButton(title: "Get the offer") { buy(package) }
-                Text("\(package.price) per \(package.periodName). Renews automatically. Cancel anytime.")
-                    .font(.system(size: 12))
-                    .foregroundStyle(Color.muted)
-                    .multilineTextAlignment(.center)
-            }
-            Button("No thanks") {
-                Haptics.tap()
-                decline()
-            }
-            .font(.system(size: 16, weight: .semibold))
-            .foregroundStyle(Color.ink)
-            .frame(height: 48)
+            .foregroundStyle(.white)
+            .padding(.horizontal, 20)
+            .padding(.bottom, 8)
         }
-        .padding(.horizontal, 16)
-        .padding(.bottom, 8)
+        .onAppear {
+            Haptics.success()
+            withAnimation(.easeInOut(duration: 0.9).repeatForever(autoreverses: true)) {
+                pulse = true
+            }
+        }
+        .task {
+            // The way out stays hidden for five seconds.
+            guard (try? await Task.sleep(nanoseconds: 5_000_000_000)) != nil else { return }
+            withAnimation(.easeIn(duration: 0.4)) {
+                canDecline = true
+            }
+        }
     }
 }

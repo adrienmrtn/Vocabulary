@@ -32,9 +32,6 @@ struct TopicsView: View {
                     .padding(.horizontal, 14)
                     .frame(height: 46)
                     .background(Capsule().fill(Color(hex: 0xF3EAE4)))
-                    PremiumBanner(title: "Unlock everything",
-                                  subtitle: "Access all topics, words, themes, and remove ads!")
-
                     LazyVGrid(columns: columns, spacing: 10) {
                         ForEach(shortcuts, id: \.title) { shortcut in
                             NavigationLink {
@@ -94,7 +91,6 @@ extension TopicsView {
 }
 
 struct TopicTile: View {
-    @ObservedObject private var subscriptions = Subscriptions.shared
     let topic: Topic
 
     var body: some View {
@@ -108,17 +104,6 @@ struct TopicTile: View {
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .card()
-        .overlay(alignment: .topTrailing) {
-            if topic.locked && !subscriptions.isPremium {
-                Image(systemName: "lock.fill")
-                    .font(.system(size: 12, weight: .semibold))
-                    .foregroundStyle(Color.ink)
-                    .frame(width: 28, height: 28)
-                    .background(Circle().fill(Color.white))
-                    .padding(8)
-                    .accessibilityLabel("Premium topic")
-            }
-        }
     }
 }
 

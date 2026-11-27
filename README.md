@@ -21,11 +21,13 @@ then `xcodegen generate`).
 
 - **Onboarding**: 35 pages driven by one list in `OnboardingView.swift`, with a
   progress bar. No question can be skipped: an answer is chosen, then confirmed
-  with Continue. The streak and word-card pages play block by block and end
-  on "Tap to continue". After the word tests, a short timed
-  loading page leads to a profile built from the answers (level, goal, topics). Pages cross-fade with a slight rise; there is no swipe.
-  Illustrations pop in and float, titles and choices rise in one after the
-  other, and every page change, choice and button fires a haptic.
+  with Continue. Pages cross-fade with a slight rise; there is no swipe, and
+  every page change, choice and button fires a haptic. The pages with an
+  animation of their own are in `OnboardingPages.swift`: word cards dealt on
+  the welcome page, a year of words that fills square by square, an iPhone
+  showing the widget then the Lock Screen, a pile of word cards, a timed
+  loading page, the profile built from the answers, a gift that opens slowly
+  and the trial reminder written word by word.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.
   Topics, Practice, Stats and Profile use native navigation bars with large
   Alegreya titles; Topics has native search. Alegreya (SIL Open Font License) is
@@ -98,6 +100,12 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 
 ## Not done yet
 
+- **There is no widget yet**, although the onboarding shows one on the Home
+  Screen and on the Lock Screen. It has to exist before release.
+- **Nothing is locked**: every topic, game and statistic is free for now. The
+  subscription is sold in the onboarding, but the limit it lifts is still to
+  be built.
+
 - **The rating page shows placeholder social proof** (a 4.8 rating, a user
   count and four reviews) in debug and TestFlight builds only. Replace it with real figures
   in `SocialProof` (`Motion.swift`) before release; an App Store build shows none.
@@ -116,8 +124,10 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 What is sold is set in the RevenueCat dashboard, so prices can change without
 an app update:
 
-- the paywall lists every package of the **current offering**, yearly first;
+- the paywall sells the yearly package of the **current offering** and explains
+  the trial as a timeline; its close button appears after eight seconds;
 - closing it shows the offering named `discount`, a single time ever;
+- a trial purchase schedules a local notification for the day before it ends;
 - every plan unlocks the entitlement `premium`.
 
 RevenueCat's public iOS key is in `Subscriptions.apiKey`. The current offering

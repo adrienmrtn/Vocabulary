@@ -6,6 +6,7 @@ import SwiftUI
 struct WordsView: View {
     @State private var current: String?
     @State private var detail: Word?
+    @State private var showThemes = false
     @ObservedObject private var store = UserStore.shared
     @AppStorage("theme") private var themeIndex = 0
 
@@ -14,6 +15,54 @@ struct WordsView: View {
     var body: some View {
         let theme = AppTheme.at(themeIndex)
 
+        ZStack(alignment: .topTrailing) {
+            feed(theme)
+            Button {
+                Haptics.tap()
+                showThemes = true
+            } label: {
+                Image(systemName: "paintpalette.fill")
+                    .font(.system(size: 17, weight: .semibold))
+                    .foregroundStyle(theme.text)
+                    .frame(width: 44, height: 44)
+                    .background(Circle().fill(theme.text.opacity(0.1)))
+                    .overlay(Circle().stroke(theme.text.opacity(0.25), lineWidth: 1.5))
+            }
+            .accessibilityLabel("Change theme")
+            .padding(.trailing, 16)
+            .padding(.top, 8)
+        }
+        .onChange(of: current) { _, landed in
+            guard let landed else { return }
+            Haptics.page()
+            store.markSeen(landed)
+        }
+        .onAppear {
+            if let first = words.first {
+                store.markSeen(current ?? first.text)
+            }
+        }
+        .sheet(item: $detail) { word in
+            WordDetailView(word: word)
+                .presentationDetents([.medium, .large])
+        }
+        .sheet(isPresented: $showThemes) {
+            ScrollView {
+                VStack(spacing: 16) {
+                    Text("Choose a theme")
+                        .font(.serif(26))
+                        .foregroundStyle(Color.ink)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                    ThemeGrid()
+                }
+                .padding(20)
+            }
+            .background(Color.cream)
+            .presentationDetents([.medium, .large])
+        }
+    }
+
+    private func feed(_ theme: AppTheme) -> some View {
         GeometryReader { proxy in
             ScrollView(.vertical) {
                 LazyVStack(spacing: 0) {
@@ -38,25 +87,10 @@ struct WordsView: View {
         }
         .background(theme.ground)
         .ignoresSafeArea()
-        .onChange(of: current) { _, landed in
-            guard let landed else { return }
-            Haptics.page()
-            store.markSeen(landed)
-        }
-        .onAppear {
-            if let first = words.first {
-                store.markSeen(current ?? first.text)
-            }
-        }
-        .sheet(item: $detail) { word in
-            WordDetailView(word: word)
-                .presentationDetents([.medium, .large])
-        }
     }
 
     private func page(_ word: Word, theme: AppTheme) -> some View {
         let liked = store.isFavorite(word.text)
-        let saved = store.isSaved(word.text)
 
         return VStack(spacing: 14) {
             Text(word.text)
@@ -85,24 +119,19 @@ struct WordsView: View {
                 .font(.serif(22, weight: .medium))
                 .multilineTextAlignment(.center)
 
-            HStack(spacing: 30) {
-                iconButton("info.circle", label: "More about this word", tint: theme.text) {
-                    detail = word
-                }
-                ShareLink(item: "\(word.text): \(word.definition)") {
-                    Image(systemName: "square.and.arrow.up")
-                        .font(.system(size: 28))
-                        .foregroundStyle(theme.text)
-                        .frame(width: 48, height: 48)
-                }
-                iconButton(liked ? "heart.fill" : "heart", label: "Like", tint: theme.text) {
-                    store.toggleFavorite(word.text)
-                }
-                iconButton(saved ? "bookmark.fill" : "bookmark", label: "Save to collection", tint: theme.text) {
-                    store.toggleSaved(word.text)
-                }
+            Button {
+                Haptics.tap()
+                detail = word
+            } label: {
+                Text("Example, synonyms and origin")
+                    .font(.system(size: 14, weight: .medium))
+                    .underline()
+                    .foregroundStyle(theme.text.opacity(0.75))
+                    .frame(height: 44)
             }
-            .padding(.top, 16)
+            iconButton(liked ? "heart.fill" : "heart", label: "Favorite", tint: theme.text) {
+                store.toggleFavorite(word.text)
+            }
         }
         .foregroundStyle(theme.text)
         .padding(.horizontal, 28)

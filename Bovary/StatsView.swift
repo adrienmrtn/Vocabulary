@@ -1,7 +1,6 @@
 import SwiftUI
 
 struct StatsView: View {
-    @State private var showPaywall = false
     @ObservedObject private var store = UserStore.shared
 
     private var counters: [(value: String, label: String, symbol: String)] {
@@ -71,30 +70,12 @@ struct StatsView: View {
                             .card()
                         }
                     }
-
-                    VStack(spacing: 12) {
-                        Text("Get full access to stats")
-                            .font(.serif(26))
-                        Text("See how you're doing and compare yourself with the rest of learners")
-                            .font(.system(size: 16))
-                            .multilineTextAlignment(.center)
-                        PrimaryButton(title: "See all stats") { showPaywall = true }
-                            .padding(.top, 6)
-                    }
-                    .padding(20)
-                    .frame(maxWidth: .infinity)
-                    .card(radius: 24)
-                    .padding(.top, 10)
                 }
                 .foregroundStyle(Color.ink)
                 .padding(.horizontal, 16)
                 .padding(.bottom, 24)
             }
             .tabRoot()
-            .sheet(isPresented: $showPaywall) {
-                OfferView(onContinue: { showPaywall = false })
-                    .presentationDetents([.large])
-            }
         }
     }
 }
@@ -162,8 +143,10 @@ struct FlameView: View {
                 .opacity(lit ? 1 : 0)
                 .scaleEffect(lit ? 1 : 0.35, anchor: .bottom)
                 Text("\(day)")
-                    .font(.serif(side * 0.2))
-                    .foregroundStyle(lit ? night : Color(hex: 0x8794A8))
+                    .font(.serif(side * 0.24))
+                    .foregroundStyle(lit ? Color.white : Color(hex: 0xA9B4C6))
+                    .shadow(color: Color(hex: 0x9A2E00).opacity(lit ? 0.9 : 0), radius: 0, x: 0, y: side * 0.012)
+                    .shadow(color: night.opacity(0.35), radius: side * 0.03)
                     .offset(y: side * 0.2)
             }
             .frame(width: side, height: side)

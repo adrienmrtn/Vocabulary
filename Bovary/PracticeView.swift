@@ -13,9 +13,6 @@ struct PracticeView: View {
             ScrollView {
                 VStack(spacing: 14) {
                     ScreenHeader(title: "Practice")
-                    PremiumBanner(title: "Unlock everything",
-                                  subtitle: "Access all games, topics, words, themes, and remove ads!")
-
                     HStack(spacing: 14) {
                         VStack(alignment: .leading, spacing: 4) {
                             Text("What's your level?")
