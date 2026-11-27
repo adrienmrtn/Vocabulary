@@ -94,6 +94,7 @@ extension TopicsView {
 }
 
 struct TopicTile: View {
+    @ObservedObject private var subscriptions = Subscriptions.shared
     let topic: Topic
 
     var body: some View {
@@ -108,7 +109,7 @@ struct TopicTile: View {
         .frame(maxWidth: .infinity, alignment: .leading)
         .card()
         .overlay(alignment: .topTrailing) {
-            if topic.locked {
+            if topic.locked && !subscriptions.isPremium {
                 Image(systemName: "lock.fill")
                     .font(.system(size: 12, weight: .semibold))
                     .foregroundStyle(Color.ink)

@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "purchases-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RevenueCat/purchases-ios-spm",
+      "state" : {
+        "revision" : "351a5a8d3105398993d33a6e2794392973f63fbd",
+        "version" : "5.105.0"
+      }
+    },
+    {
       "identity" : "supabase-swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/supabase/supabase-swift",

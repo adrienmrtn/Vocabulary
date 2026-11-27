@@ -103,7 +103,23 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
   in `SocialProof` (`Motion.swift`) before release; an App Store build shows none.
 
 - Sign in with Apple and Google: the account is anonymous for now.
-- The paywall shows `[PRICE]`; there is no StoreKit purchase.
+- Subscriptions are wired to RevenueCat but not switched on: `Subscriptions.apiKey`
+  is empty, so the paywall shows no price and its button moves on.
+- The paywall's Terms and Privacy links lead nowhere yet.
 - Notifications ask for permission but schedule nothing.
 - No widget target. "Topics you follow" and "Home Screen widgets" in Profile are placeholders.
 - Body text uses the system font (San Francisco), not Inter as in the mock-ups.
+
+## Subscriptions
+
+`Subscriptions.swift` talks to RevenueCat; `Paywall.swift` is the offer screen.
+What is sold is set in the RevenueCat dashboard, so prices can change without
+an app update:
+
+- the paywall lists every package of the **current offering**, yearly first;
+- closing it shows the offering named `discount`, a single time ever;
+- every plan unlocks the entitlement `premium`.
+
+To switch it on, put RevenueCat's public iOS key (`appl_…`) in
+`Subscriptions.apiKey`. After adding or updating a package, regenerate
+`Package.resolved` with the Swift version Xcode Cloud uses.

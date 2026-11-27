@@ -6,6 +6,7 @@ struct BovaryApp: App {
     init() {
         Fonts.register()
         Backend.shared.start()
+        Subscriptions.shared.start()
     }
 
     var body: some Scene {

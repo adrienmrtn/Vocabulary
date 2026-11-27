@@ -144,11 +144,32 @@ struct FillImage: View {
     }
 }
 
+/// The invitation to subscribe. Tapping it opens the offer; it disappears
+/// for members who already subscribe.
 struct PremiumBanner: View {
     let title: String
     let subtitle: String
 
+    @ObservedObject private var subscriptions = Subscriptions.shared
+    @State private var showOffer = false
+
     var body: some View {
+        if !subscriptions.isPremium {
+            Button {
+                Haptics.tap()
+                showOffer = true
+            } label: {
+                banner
+            }
+            .buttonStyle(.plain)
+            .sheet(isPresented: $showOffer) {
+                OfferView(onContinue: { showOffer = false })
+                    .presentationDetents([.large])
+            }
+        }
+    }
+
+    private var banner: some View {
         HStack(spacing: 14) {
             VStack(alignment: .leading, spacing: 6) {
                 Text(title).font(.serif(22))
