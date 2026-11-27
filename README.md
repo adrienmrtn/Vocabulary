@@ -10,8 +10,8 @@ or later) and press Run. Xcode downloads the Supabase package on first open.
 Every file in the `Bovary` folder is part of the app automatically; there is
 nothing to add by hand when a file is created.
 
-To install on a device, set your team under Signing & Capabilities and change
-the bundle identifier (`com.example.bovary`).
+To install on a device, set your team under Signing & Capabilities. The bundle
+identifier is `com.vikstudios.bovary`.
 
 If the project does not open, it can be regenerated from `project.yml` with
 [XcodeGen](https://github.com/yonaskolb/XcodeGen) (`brew install xcodegen`,
@@ -100,7 +100,6 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
   in `SocialProof` (`Motion.swift`) before release; a release build shows none.
 
 - Sign in with Apple and Google: the account is anonymous for now.
-- The bundle identifier is still the placeholder `com.example.bovary`.
 - The paywall shows `[PRICE]`; there is no StoreKit purchase.
 - Notifications ask for permission but schedule nothing.
 - No widget target. "Topics you follow" and "Home Screen widgets" in Profile are placeholders.
