@@ -19,10 +19,11 @@ then `xcodegen generate`).
 
 ## What is in this first version
 
-- **Onboarding**: 34 pages driven by one list in `OnboardingView.swift`, with a
+- **Onboarding**: 35 pages driven by one list in `OnboardingView.swift`, with a
   progress bar. No question can be skipped: an answer is chosen, then confirmed
   with Continue. The streak and word-card pages play block by block and end
-  on "Tap to continue". Pages cross-fade with a slight rise; there is no swipe.
+  on "Tap to continue". After the word tests, a short timed
+  loading page leads to a profile built from the answers (level, goal, topics). Pages cross-fade with a slight rise; there is no swipe.
   Illustrations pop in and float, titles and choices rise in one after the
   other, and every page change, choice and button fires a haptic.
 - **Tabs**: a native tab bar with Words, Topics, Practice, Stats and Profile.

@@ -18,6 +18,8 @@ enum OnboardingStep {
     case offer
     case widget
     case splash
+    case loading
+    case profile
     case rating
     case account
 
@@ -67,7 +69,8 @@ enum OnboardingStep {
         .multi("Advanced words",
                ["Lucubration", "Quixotic", "Numinous", "Superincumbent", "Callipygian", "Logophile"],
                subtitle: "Select all the ones you know", noneOption: "None of these"),
-        .art(image: "result", title: "Great! A personalized level assessment is waiting for you in the app"),
+        .loading,
+        .profile,
         .rating,
         .account,
         .text("Become more articulate in just 1 minute a day, without even opening the app"),
@@ -229,6 +232,10 @@ struct OnboardingView: View {
                 }
                 .padding(.top, 50)
             }
+        case .loading:
+            LoadingPage(next: next)
+        case .profile:
+            ProfilePage(next: next)
         case .rating:
             RatingPage(next: next)
         case .account:
@@ -604,6 +611,210 @@ private struct ChoicePage: View {
             .frame(height: 56)
             .background(Capsule().fill(on ? Color.blueTint : Color.white))
             .overlay(Capsule().stroke(on ? Color.brandBlue : Color.line, lineWidth: 1.5))
+        }
+    }
+}
+
+/// A short wait between the questions and the profile. Nothing is computed
+/// here: the bar fills on a timer, names three steps, then moves on by itself.
+private struct LoadingPage: View {
+    let next: () -> Void
+    @State private var progress = 0.0
+    @State private var done = 0
+
+    private let steps = ["Reading your answers", "Estimating your level", "Building your word plan"]
+
+    var body: some View {
+        VStack(spacing: 0) {
+            Spacer(minLength: 12)
+            FloatingArt(name: "result", size: 190)
+            Text("Creating your profile")
+                .font(.serif(30))
+                .multilineTextAlignment(.center)
+                .padding(.top, 34)
+                .rise(0.15)
+            Text("\(Int(progress * 100))%")
+                .font(.serif(44))
+                .foregroundStyle(Color.brandBlue)
+                .contentTransition(.numericText())
+                .monospacedDigit()
+                .padding(.top, 14)
+            ProgressView(value: progress)
+                .tint(Color.brandBlue)
+                .scaleEffect(y: 2.2)
+                .padding(.horizontal, 40)
+                .padding(.top, 10)
+            VStack(alignment: .leading, spacing: 14) {
+                ForEach(steps.indices, id: \.self) { index in
+                    HStack(spacing: 12) {
+                        Image(systemName: index < done ? "checkmark.circle.fill" : "circle")
+                            .font(.system(size: 22))
+                            .foregroundStyle(index < done ? Color.brandBlue : Color.line)
+                            .contentTransition(.symbolEffect(.replace))
+                        Text(steps[index])
+                            .font(.system(size: 16, weight: index < done ? .semibold : .regular))
+                            .foregroundStyle(index <= done ? Color.ink : Color.muted)
+                    }
+                }
+            }
+            .padding(.top, 34)
+            Spacer(minLength: 12)
+        }
+        .padding(.horizontal, 24)
+        .accessibilityElement(children: .combine)
+        .task {
+            // 40 small steps over about four seconds, with a tick as each line completes.
+            for tick in 1...40 {
+                do {
+                    try await Task.sleep(nanoseconds: 100_000_000)
+                } catch {
+                    return
+                }
+                withAnimation(.easeOut(duration: 0.2)) {
+                    progress = Double(tick) / 40
+                }
+                let finished = tick * steps.count / 40
+                if finished != done {
+                    withAnimation(.spring(response: 0.4, dampingFraction: 0.6)) {
+                        done = finished
+                    }
+                    Haptics.tap()
+                }
+            }
+            do {
+                try await Task.sleep(nanoseconds: 500_000_000)
+            } catch {
+                return
+            }
+            Haptics.success()
+            next()
+        }
+    }
+}
+
+/// What the answers add up to, shown block by block before the offer.
+private struct ProfilePage: View {
+    let next: () -> Void
+    @State private var phase = 0
+
+    private let answers = UserStore.shared.state.onboarding
+    private let name = UserStore.shared.state.displayName
+
+    /// Words ticked in the three tests, out of 18. Harder words weigh more.
+    private var known: (count: Int, score: Int) {
+        var count = 0
+        var score = 0
+        for (weight, title) in ["Beginner words", "Intermediate words", "Advanced words"].enumerated() {
+            let ticked = (answers[title] ?? []).filter { $0 != "None of these" }.count
+            count += ticked
+            score += ticked * (weight + 1)
+        }
+        return (count, score)
+    }
+
+    /// 0 beginner, 1 intermediate, 2 advanced. The score runs from 0 to 36.
+    private var level: Int {
+        known.score < 10 ? 0 : (known.score < 22 ? 1 : 2)
+    }
+
+    private var rows: [(symbol: String, label: String, value: String)] {
+        var rows: [(symbol: String, label: String, value: String)] = []
+        if let goal = answers["How many words do you want to learn per week?"]?.first {
+            rows.append(("target", "Weekly goal", goal))
+        }
+        if let topics = answers["Which topics are you interested in?"], !topics.isEmpty {
+            rows.append(("square.grid.2x2", "Topics", topics.joined(separator: ", ")))
+        }
+        if let weak = answers["Where does your vocabulary feel weakest?"], !weak.isEmpty {
+            rows.append(("scope", "Focus", weak.joined(separator: ", ")))
+        }
+        rows.append(("clock", "Daily time", "1 minute a day"))
+        return rows
+    }
+
+    var body: some View {
+        let levels = ["Beginner", "Intermediate", "Advanced"]
+
+        VStack(spacing: 0) {
+            ScrollView {
+                VStack(spacing: 16) {
+                    Text(name.isEmpty ? "Here's your profile" : "\(name), here's your profile")
+                        .font(.serif(30))
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 12)
+                        .reveal(phase >= 1)
+
+                    VStack(spacing: 14) {
+                        Text("Your vocabulary level")
+                            .font(.system(size: 13))
+                            .foregroundStyle(Color.muted)
+                        Text(levels[level])
+                            .font(.serif(34))
+                            .foregroundStyle(Color.brandBlue)
+                        HStack(spacing: 6) {
+                            ForEach(0..<3, id: \.self) { index in
+                                VStack(spacing: 6) {
+                                    Capsule()
+                                        .fill(index <= level && phase >= 3 ? Color.brandBlue : Color.line)
+                                        .frame(height: 8)
+                                    Text(levels[index])
+                                        .font(.system(size: 11, weight: index == level ? .bold : .regular))
+                                        .foregroundStyle(index == level ? Color.ink : Color.muted)
+                                }
+                            }
+                        }
+                        Text("You knew \(known.count) of the 18 test words")
+                            .font(.system(size: 14))
+                    }
+                    .padding(18)
+                    .frame(maxWidth: .infinity)
+                    .card(radius: 24)
+                    .reveal(phase >= 2)
+
+                    ForEach(Array(rows.enumerated()), id: \.offset) { item in
+                        HStack(spacing: 14) {
+                            Image(systemName: item.element.symbol)
+                                .font(.system(size: 18, weight: .semibold))
+                                .foregroundStyle(Color.brandBlue)
+                                .frame(width: 40, height: 40)
+                                .background(Circle().fill(Color.blueTint))
+                            VStack(alignment: .leading, spacing: 2) {
+                                Text(item.element.label)
+                                    .font(.system(size: 13))
+                                    .foregroundStyle(Color.muted)
+                                Text(item.element.value)
+                                    .font(.system(size: 16, weight: .semibold))
+                            }
+                            Spacer(minLength: 0)
+                        }
+                        .padding(14)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .card()
+                        .reveal(phase >= 4 + item.offset)
+                    }
+                }
+                .padding(.top, 28)
+                .padding(.bottom, 12)
+            }
+            .scrollBounceBehavior(.basedOnSize)
+            PrimaryButton(title: "Continue", enabled: phase >= 4 + rows.count, action: next)
+                .padding(.top, 8)
+                .reveal(phase >= 4 + rows.count)
+        }
+        .padding(.horizontal, 16)
+        .padding(.bottom, 12)
+        .task {
+            for step in 1...(4 + rows.count) {
+                do {
+                    try await Task.sleep(nanoseconds: step == 1 ? 200_000_000 : 550_000_000)
+                } catch {
+                    return
+                }
+                withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {
+                    phase = step
+                }
+                Haptics.tap()
+            }
         }
     }
 }
