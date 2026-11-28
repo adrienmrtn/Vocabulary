@@ -1,0 +1,734 @@
+[
+  {
+    "lemma": "farouche",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "faʁuʃ",
+    "definition": "Qui fuit le contact des autres, par timidité ou méfiance",
+    "example": "L'enfant, d'abord farouche, finit par s'approcher du visiteur.",
+    "synonyms": [
+      "sauvage",
+      "craintif",
+      "timide"
+    ],
+    "origin": "De l'ancien français forasche, du bas latin forasticus « étranger, du dehors », dérivé de foras « dehors »."
+  },
+  {
+    "lemma": "frêle",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "fʁɛl",
+    "definition": "Qui manque de solidité ou de force",
+    "example": "Une frêle barque dansait sur les vagues du port.",
+    "synonyms": [
+      "fragile",
+      "délicat",
+      "fluet"
+    ],
+    "origin": "Du latin fragilis « cassant », de frangere « briser » ; fragile en est le doublet savant."
+  },
+  {
+    "lemma": "morne",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "mɔʁn",
+    "definition": "Triste, terne et sans animation",
+    "example": "Il regardait d'un air morne la pluie tomber sur la cour.",
+    "synonyms": [
+      "triste",
+      "terne",
+      "maussade"
+    ],
+    "origin": "De l'ancien verbe morner « être triste », du francique *mornôn, de même sens."
+  },
+  {
+    "lemma": "paisible",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "pɛzibl",
+    "definition": "Calme, sans trouble ni agitation",
+    "example": "Nous avons passé un été paisible dans un village de montagne.",
+    "synonyms": [
+      "calme",
+      "tranquille",
+      "serein"
+    ],
+    "origin": "Dérivé de paix, du latin pax, avec le suffixe -ible."
+  },
+  {
+    "lemma": "sournois",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "suʁnwa",
+    "definition": "Qui cache ses intentions pour mieux nuire",
+    "example": "Son sourire sournois ne m'inspirait aucune confiance.",
+    "synonyms": [
+      "hypocrite",
+      "fourbe",
+      "dissimulé"
+    ],
+    "origin": "Origine incertaine ; peut-être de l'ancien provençal sorn « sombre, obscur »."
+  },
+  {
+    "lemma": "vaillant",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "vajɑ̃",
+    "definition": "Qui fait preuve de courage devant le danger ou l'effort",
+    "example": "Malgré la fatigue, la vaillante équipe a repris la route à l'aube.",
+    "synonyms": [
+      "courageux",
+      "brave",
+      "valeureux"
+    ],
+    "origin": "Ancien participe présent du verbe valoir, du latin valere « être fort »."
+  },
+  {
+    "lemma": "hardi",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "aʁdi",
+    "definition": "Qui ose sans se laisser intimider",
+    "example": "Il fallait être hardi pour traverser le torrent à cet endroit.",
+    "synonyms": [
+      "audacieux",
+      "intrépide",
+      "courageux"
+    ],
+    "origin": "Participe passé de l'ancien verbe hardir « rendre courageux », du francique *hardjan « rendre dur »."
+  },
+  {
+    "lemma": "las",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "lɑ",
+    "definition": "Qui éprouve une grande fatigue ou un profond ennui",
+    "example": "Las d'attendre, il finit par rentrer chez lui sans un mot.",
+    "synonyms": [
+      "fatigué",
+      "épuisé",
+      "lassé"
+    ],
+    "origin": "Du latin lassus « fatigué »."
+  },
+  {
+    "lemma": "radieux",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ʁadjø",
+    "definition": "Qui rayonne de lumière ou de bonheur",
+    "example": "Elle est revenue de voyage avec un visage radieux.",
+    "synonyms": [
+      "rayonnant",
+      "éclatant",
+      "resplendissant"
+    ],
+    "origin": "Du latin radiosus « rayonnant », de radius « rayon »."
+  },
+  {
+    "lemma": "vif",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "vif",
+    "definition": "Plein de vie, rapide dans ses gestes ou son esprit",
+    "example": "Un vent vif soufflait sur la plage ce matin-là.",
+    "synonyms": [
+      "alerte",
+      "rapide",
+      "ardent"
+    ],
+    "origin": "Du latin vivus « vivant »."
+  },
+  {
+    "lemma": "espiègle",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ɛspjɛɡl",
+    "definition": "Vif et malicieux, sans méchanceté",
+    "example": "La petite fille espiègle avait caché les lunettes de son grand-père.",
+    "synonyms": [
+      "malicieux",
+      "coquin",
+      "farceur"
+    ],
+    "origin": "De Ulespiègle, nom français de Till Eulenspiegel, héros farceur d'un récit allemand."
+  },
+  {
+    "lemma": "coquet",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "kɔkɛ",
+    "definition": "Qui cherche à plaire par son apparence soignée",
+    "example": "Toujours coquette, ma grand-mère ne sortait jamais sans son chapeau.",
+    "synonyms": [
+      "élégant",
+      "soigné",
+      "pimpant"
+    ],
+    "origin": "Diminutif de coq : celui qui se pavane comme un petit coq."
+  },
+  {
+    "lemma": "taquin",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "takɛ̃",
+    "definition": "Qui aime agacer les autres par jeu",
+    "example": "Mon frère, très taquin, cachait toujours mes chaussures avant l'école.",
+    "synonyms": [
+      "malicieux",
+      "moqueur",
+      "blagueur"
+    ],
+    "origin": "D'abord « avare, querelleur » ; probablement de l'ancien français taquehan « émeute », d'origine néerlandaise."
+  },
+  {
+    "lemma": "rude",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ʁyd",
+    "definition": "Dur à supporter, ou sans douceur dans ses manières",
+    "example": "L'hiver fut rude et la neige bloqua le col pendant un mois.",
+    "synonyms": [
+      "dur",
+      "rigoureux",
+      "âpre"
+    ],
+    "origin": "Du latin rudis « brut, grossier, inculte »."
+  },
+  {
+    "lemma": "flâner",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "flɑne",
+    "definition": "Se promener sans but, en prenant son temps",
+    "example": "Le dimanche, nous aimons flâner le long des quais.",
+    "synonyms": [
+      "errer",
+      "déambuler",
+      "musarder"
+    ],
+    "origin": "Mot normand, probablement de l'ancien scandinave flana « courir çà et là »."
+  },
+  {
+    "lemma": "chuchoter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ʃyʃɔte",
+    "definition": "Parler très bas, près de l'oreille",
+    "example": "Les élèves se mirent à chuchoter dès que le professeur sortit.",
+    "synonyms": [
+      "murmurer",
+      "susurrer"
+    ],
+    "origin": "Formation onomatopéique, qui imite le bruit d'une voix basse."
+  },
+  {
+    "lemma": "éblouir",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ebluiʁ",
+    "definition": "Troubler la vue par une lumière trop forte, ou émerveiller",
+    "example": "Les phares de la voiture viennent éblouir le cycliste.",
+    "synonyms": [
+      "aveugler",
+      "émerveiller",
+      "fasciner"
+    ],
+    "origin": "Du latin populaire *exblaudire, formé sur un radical francique *blaudi « faible »."
+  },
+  {
+    "lemma": "effleurer",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "eflœʁe",
+    "definition": "Toucher à peine, très légèrement",
+    "example": "Sa main vint effleurer la joue de l'enfant endormi.",
+    "synonyms": [
+      "frôler",
+      "caresser",
+      "toucher"
+    ],
+    "origin": "Dérivé de fleur, au sens ancien de « surface », comme dans à fleur d'eau."
+  },
+  {
+    "lemma": "frémir",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "fʁemiʁ",
+    "definition": "Trembler légèrement sous l'effet d'une émotion",
+    "example": "Ce récit de naufrage me fait encore frémir.",
+    "synonyms": [
+      "trembler",
+      "frissonner",
+      "tressaillir"
+    ],
+    "origin": "Du latin populaire *fremire, du latin classique fremere « gronder, frémir »."
+  },
+  {
+    "lemma": "songer",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "sɔ̃ʒe",
+    "definition": "Penser à quelque chose, souvent en rêvant",
+    "example": "Elle aime songer à son enfance en regardant la mer.",
+    "synonyms": [
+      "penser",
+      "rêver",
+      "méditer"
+    ],
+    "origin": "Du latin somniare « rêver », de somnium « rêve »."
+  },
+  {
+    "lemma": "errer",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ɛʁe",
+    "definition": "Aller çà et là, sans but précis",
+    "example": "Un chien perdu erre dans les rues du village depuis hier.",
+    "synonyms": [
+      "vagabonder",
+      "flâner",
+      "rôder"
+    ],
+    "origin": "Du latin errare « aller çà et là, se tromper »."
+  },
+  {
+    "lemma": "guetter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ɡɛte",
+    "definition": "Surveiller avec attention pour surprendre ou attendre",
+    "example": "Le chat reste immobile pour guetter la souris.",
+    "synonyms": [
+      "épier",
+      "surveiller",
+      "attendre"
+    ],
+    "origin": "Du francique *wahtôn « surveiller, monter la garde »."
+  },
+  {
+    "lemma": "grommeler",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ɡʁɔmle",
+    "definition": "Se plaindre entre ses dents, de façon confuse",
+    "example": "Le vieil homme se mit à grommeler contre le bruit des voisins.",
+    "synonyms": [
+      "grogner",
+      "ronchonner",
+      "bougonner"
+    ],
+    "origin": "De l'ancien français grommer, emprunté au moyen néerlandais grommen « gronder »."
+  },
+  {
+    "lemma": "épier",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "epje",
+    "definition": "Observer en secret et avec attention",
+    "example": "Caché derrière le rideau, il aimait épier les passants.",
+    "synonyms": [
+      "espionner",
+      "guetter",
+      "surveiller"
+    ],
+    "origin": "Du francique *spehôn « observer avec attention » ; même origine qu'espion."
+  },
+  {
+    "lemma": "railler",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ʁɑje",
+    "definition": "Tourner en ridicule par des moqueries",
+    "example": "Ses camarades ne cessent de railler son accent.",
+    "synonyms": [
+      "moquer",
+      "ridiculiser",
+      "persifler"
+    ],
+    "origin": "De l'ancien provençal ralhar « plaisanter », du latin populaire *ragulare « braire »."
+  },
+  {
+    "lemma": "redouter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ʁədute",
+    "definition": "Craindre fortement ce qui peut arriver",
+    "example": "Les marins ont appris à redouter les tempêtes d'équinoxe.",
+    "synonyms": [
+      "craindre",
+      "appréhender"
+    ],
+    "origin": "Formé de re- (intensif) et de douter, qui signifiait « craindre » en ancien français."
+  },
+  {
+    "lemma": "chérir",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ʃeʁiʁ",
+    "definition": "Aimer tendrement, tenir pour très précieux",
+    "example": "Elle chérit le souvenir de ces vacances au bord du lac.",
+    "synonyms": [
+      "aimer",
+      "adorer",
+      "affectionner"
+    ],
+    "origin": "Dérivé de cher, du latin carus « aimé, précieux »."
+  },
+  {
+    "lemma": "bouder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "bude",
+    "definition": "Montrer son mécontentement par le silence",
+    "example": "Vexé, il est allé bouder dans sa chambre tout l'après-midi.",
+    "synonyms": [
+      "rechigner"
+    ],
+    "origin": "Formation expressive sur un radical bod-, qui évoque une chose enflée : la lèvre gonflée du boudeur."
+  },
+  {
+    "lemma": "tressaillir",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "tʁesajiʁ",
+    "definition": "Sursauter sous l'effet d'une émotion vive",
+    "example": "Un cri dans la nuit la fit tressaillir.",
+    "synonyms": [
+      "sursauter",
+      "frémir",
+      "tressauter"
+    ],
+    "origin": "Formé de tres- (du latin trans « au-delà ») et de saillir « sauter », du latin salire."
+  },
+  {
+    "lemma": "dérober",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "deʁɔbe",
+    "definition": "Prendre en cachette ce qui appartient à autrui",
+    "example": "Un inconnu a tenté de dérober un tableau au musée.",
+    "synonyms": [
+      "voler",
+      "subtiliser",
+      "soustraire"
+    ],
+    "origin": "Formé de dé- et de l'ancien français rober « piller », du germanique *raubôn ; même origine que robe."
+  },
+  {
+    "lemma": "ébranler",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ebʁɑ̃le",
+    "definition": "Faire trembler, ou rendre moins solide",
+    "example": "Cette nouvelle a fini par ébranler sa confiance.",
+    "synonyms": [
+      "secouer",
+      "bouleverser",
+      "affaiblir"
+    ],
+    "origin": "Dérivé de branler « agiter », lui-même issu de brandir."
+  },
+  {
+    "lemma": "aube",
+    "level": 1,
+    "part_of_speech": "n. f.",
+    "ipa": "ob",
+    "definition": "Première lueur du jour, avant le lever du soleil",
+    "example": "Les pêcheurs quittent le port dès l'aube.",
+    "synonyms": [
+      "aurore"
+    ],
+    "origin": "Du latin alba, féminin de albus « blanc » : la blancheur du jour naissant."
+  },
+  {
+    "lemma": "chagrin",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "ʃaɡʁɛ̃",
+    "definition": "Peine morale, tristesse profonde",
+    "example": "Il n'a jamais montré son chagrin devant ses enfants.",
+    "synonyms": [
+      "peine",
+      "tristesse",
+      "affliction"
+    ],
+    "origin": "Dérivé du verbe chagriner, d'origine incertaine."
+  },
+  {
+    "lemma": "crépuscule",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "kʁepyskyl",
+    "definition": "Lumière faible qui suit le coucher du soleil",
+    "example": "Au crépuscule, les collines prennent une teinte violette.",
+    "synonyms": [
+      "couchant",
+      "déclin"
+    ],
+    "origin": "Du latin crepusculum, de creper « obscur, douteux »."
+  },
+  {
+    "lemma": "éclat",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "ekla",
+    "definition": "Lumière vive, ou fragment d'un objet brisé",
+    "example": "L'éclat du soleil sur la neige nous obligeait à fermer les yeux.",
+    "synonyms": [
+      "lumière",
+      "brillance",
+      "fragment"
+    ],
+    "origin": "Dérivé du verbe éclater, d'origine francique."
+  },
+  {
+    "lemma": "fardeau",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "faʁdo",
+    "definition": "Chose lourde à porter, au propre ou au figuré",
+    "example": "Ce secret était devenu pour lui un fardeau trop lourd.",
+    "synonyms": [
+      "charge",
+      "poids",
+      "faix"
+    ],
+    "origin": "Dérivé de farde « charge, ballot », de l'arabe farda « demi-charge d'un chameau »."
+  },
+  {
+    "lemma": "lueur",
+    "level": 1,
+    "part_of_speech": "n. f.",
+    "ipa": "lɥœʁ",
+    "definition": "Lumière faible ou passagère",
+    "example": "Une lueur brillait encore à la fenêtre du dernier étage.",
+    "synonyms": [
+      "clarté",
+      "lumière",
+      "reflet"
+    ],
+    "origin": "Du latin populaire *lucor, dérivé de lucere « luire »."
+  },
+  {
+    "lemma": "émoi",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "emwa",
+    "definition": "Trouble causé par une émotion vive",
+    "example": "La nouvelle de son retour mit tout le village en émoi.",
+    "synonyms": [
+      "trouble",
+      "agitation",
+      "émotion"
+    ],
+    "origin": "De l'ancien français esmai, du verbe esmaier « troubler », du latin populaire *exmagare « priver de ses forces »."
+  },
+  {
+    "lemma": "ruse",
+    "level": 1,
+    "part_of_speech": "n. f.",
+    "ipa": "ʁyz",
+    "definition": "Moyen habile employé pour tromper",
+    "example": "Le renard obtint le fromage par la ruse.",
+    "synonyms": [
+      "stratagème",
+      "astuce",
+      "artifice"
+    ],
+    "origin": "De l'ancien verbe ruser « faire reculer, détourner », du latin recusare « refuser »."
+  },
+  {
+    "lemma": "audace",
+    "level": 1,
+    "part_of_speech": "n. f.",
+    "ipa": "odas",
+    "definition": "Courage qui pousse à oser des choses difficiles",
+    "example": "Il fallait de l'audace pour contredire le directeur en public.",
+    "synonyms": [
+      "hardiesse",
+      "bravoure",
+      "cran"
+    ],
+    "origin": "Du latin audacia, de audere « oser »."
+  },
+  {
+    "lemma": "orgueil",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "ɔʁɡœj",
+    "definition": "Opinion trop haute que l'on a de soi-même",
+    "example": "Son orgueil l'empêche de reconnaître la moindre erreur.",
+    "synonyms": [
+      "fierté",
+      "vanité",
+      "arrogance"
+    ],
+    "origin": "Du francique *urgôli « fierté »."
+  },
+  {
+    "lemma": "mépris",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "mepʁi",
+    "definition": "Sentiment que l'on a pour ce qu'on juge indigne",
+    "example": "Elle répondit à l'insulte par un silence plein de mépris.",
+    "synonyms": [
+      "dédain",
+      "dégoût"
+    ],
+    "origin": "Dérivé du verbe mépriser, formé de mé- et de priser « estimer »."
+  },
+  {
+    "lemma": "sanglot",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "sɑ̃ɡlo",
+    "definition": "Respiration brusque et bruyante de quelqu'un qui pleure",
+    "example": "Un sanglot lui échappa au moment des adieux.",
+    "synonyms": [
+      "pleur",
+      "hoquet"
+    ],
+    "origin": "Du latin populaire *singluttus, altération du latin singultus « hoquet »."
+  },
+  {
+    "lemma": "soupir",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "supiʁ",
+    "definition": "Souffle profond qui exprime une émotion",
+    "example": "Il referma le livre avec un long soupir de soulagement.",
+    "synonyms": [
+      "souffle",
+      "gémissement"
+    ],
+    "origin": "Dérivé du verbe soupirer, du latin suspirare « respirer profondément »."
+  },
+  {
+    "lemma": "tracas",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "tʁaka",
+    "definition": "Souci causé par des ennuis matériels",
+    "example": "Les tracas du déménagement l'ont épuisée.",
+    "synonyms": [
+      "souci",
+      "ennui",
+      "embarras"
+    ],
+    "origin": "Dérivé du verbe tracasser, formé sur traquer."
+  },
+  {
+    "lemma": "vacarme",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "vakaʁm",
+    "definition": "Bruit très fort et confus",
+    "example": "Le vacarme du chantier commence chaque matin à sept heures.",
+    "synonyms": [
+      "tapage",
+      "tumulte",
+      "tintamarre"
+    ],
+    "origin": "Du moyen néerlandais wacharme « hélas ! pauvre de moi ! », cri de détresse."
+  },
+  {
+    "lemma": "querelle",
+    "level": 1,
+    "part_of_speech": "n. f.",
+    "ipa": "kəʁɛl",
+    "definition": "Dispute vive entre des personnes",
+    "example": "Une vieille querelle de voisinage opposait les deux familles.",
+    "synonyms": [
+      "dispute",
+      "altercation",
+      "différend"
+    ],
+    "origin": "Du latin querela « plainte », de queri « se plaindre »."
+  },
+  {
+    "lemma": "périple",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "peʁipl",
+    "definition": "Long voyage comportant de nombreuses étapes",
+    "example": "Leur périple à travers l'Asie a duré près d'un an.",
+    "synonyms": [
+      "voyage",
+      "expédition",
+      "odyssée"
+    ],
+    "origin": "Du grec periplous « navigation autour », de peri « autour » et plein « naviguer »."
+  },
+  {
+    "lemma": "flair",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "flɛʁ",
+    "definition": "Aptitude à deviner, à pressentir les choses",
+    "example": "Grâce à son flair, elle a repéré la bonne affaire avant tout le monde.",
+    "synonyms": [
+      "intuition",
+      "perspicacité",
+      "instinct"
+    ],
+    "origin": "Dérivé du verbe flairer, du latin fragrare « exhaler une odeur »."
+  },
+  {
+    "lemma": "élan",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "elɑ̃",
+    "definition": "Mouvement vif vers l'avant, ou ardeur soudaine",
+    "example": "Dans un élan de générosité, il offrit sa place au vieil homme.",
+    "synonyms": [
+      "impulsion",
+      "ardeur",
+      "fougue"
+    ],
+    "origin": "Dérivé du verbe élancer, formé sur lancer."
+  },
+  {
+    "lemma": "labeur",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "labœʁ",
+    "definition": "Travail long et pénible",
+    "example": "Après des années de labeur, la ferme était enfin rentable.",
+    "synonyms": [
+      "travail",
+      "peine",
+      "besogne"
+    ],
+    "origin": "Du latin labor « effort, fatigue, travail »."
+  },
+  {
+    "lemma": "répit",
+    "level": 1,
+    "part_of_speech": "n. m.",
+    "ipa": "ʁepi",
+    "definition": "Arrêt momentané d'une chose pénible",
+    "example": "La pluie ne nous a laissé aucun répit de toute la semaine.",
+    "synonyms": [
+      "pause",
+      "trêve",
+      "relâche"
+    ],
+    "origin": "Du latin respectus « regard en arrière, considération » ; respect en est le doublet savant."
+  },
+  {
+    "lemma": "clarté",
+    "level": 1,
+    "part_of_speech": "n. f.",
+    "ipa": "klaʁte",
+    "definition": "Lumière qui rend les choses bien visibles",
+    "example": "La clarté de la lune suffisait pour suivre le sentier.",
+    "synonyms": [
+      "lumière",
+      "lueur",
+      "limpidité"
+    ],
+    "origin": "Du latin claritas, de clarus « clair »."
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "lemma": "austère",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ostɛʁ",
+    "definition": "Sévère, sans confort ni ornement",
+    "example": "La chambre du moine était austère : un lit, une table, une croix.",
+    "synonyms": [
+      "sévère",
+      "rigide",
+      "dépouillé"
+    ],
+    "origin": "Du latin austerus « âpre, sévère », du grec austêros « sec, rude »."
+  },
+  {
+    "lemma": "blême",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "blɛm",
+    "definition": "D'une pâleur extrême, presque maladive",
+    "example": "Il sortit du bureau du juge, blême et silencieux.",
+    "synonyms": [
+      "pâle",
+      "livide",
+      "blafard"
+    ],
+    "origin": "De l'ancien verbe blesmir « rendre pâle », d'origine germanique."
+  },
+  {
+    "lemma": "candide",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "kɑ̃did",
+    "definition": "Qui a la pureté et la confiance de l'innocence",
+    "example": "Avec un sourire candide, elle avoua qu'elle n'avait rien compris.",
+    "synonyms": [
+      "naïf",
+      "ingénu",
+      "innocent"
+    ],
+    "origin": "Du latin candidus « blanc éclatant », d'où « pur, sincère »."
+  },
+  {
+    "lemma": "désinvolte",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "dezɛ̃vɔlt",
+    "definition": "Qui montre une liberté un peu insolente",
+    "example": "Il répondit d'un ton désinvolte que cela ne le concernait pas.",
+    "synonyms": [
+      "décontracté",
+      "léger",
+      "cavalier"
+    ],
+    "origin": "De l'italien disinvolto, emprunté à l'espagnol desenvuelto « dégagé, à l'aise »."
+  },
+  {
+    "lemma": "éphémère",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "efemɛʁ",
+    "definition": "Qui ne dure que très peu de temps",
+    "example": "Le succès de cette chanson fut aussi vif qu'éphémère.",
+    "synonyms": [
+      "passager",
+      "fugace",
+      "momentané"
+    ],
+    "origin": "Du grec ephêmeros « qui ne dure qu'un jour », de epi « pendant » et hêmera « jour »."
+  },
+  {
+    "lemma": "fougueux",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "fuɡø",
+    "definition": "Plein d'une ardeur vive et impétueuse",
+    "example": "Le jeune avocat prononça un discours fougueux.",
+    "synonyms": [
+      "impétueux",
+      "ardent",
+      "bouillant"
+    ],
+    "origin": "Dérivé de fougue, de l'italien foga « fuite précipitée, ardeur », du latin fuga « fuite »."
+  },
+  {
+    "lemma": "frivole",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "fʁivɔl",
+    "definition": "Qui s'occupe de choses légères et sans importance",
+    "example": "On le croyait frivole, il travaillait pourtant chaque nuit.",
+    "synonyms": [
+      "futile",
+      "léger",
+      "superficiel"
+    ],
+    "origin": "Du latin frivolus « de peu de prix, futile »."
+  },
+  {
+    "lemma": "hautain",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "otɛ̃",
+    "definition": "Qui montre un orgueil méprisant envers les autres",
+    "example": "Le serveur hautain nous fit attendre une demi-heure.",
+    "synonyms": [
+      "arrogant",
+      "dédaigneux",
+      "altier"
+    ],
+    "origin": "Dérivé de haut, du latin altus."
+  },
+  {
+    "lemma": "intrépide",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ɛ̃tʁepid",
+    "definition": "Qui ne tremble pas devant le danger",
+    "example": "Une alpiniste intrépide a gravi la paroi en plein hiver.",
+    "synonyms": [
+      "courageux",
+      "hardi",
+      "audacieux"
+    ],
+    "origin": "Du latin intrepidus, de in- « non » et trepidus « tremblant, agité »."
+  },
+  {
+    "lemma": "lugubre",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "lyɡybʁ",
+    "definition": "Qui inspire une tristesse profonde, qui évoque la mort",
+    "example": "Le vent faisait dans la cheminée un bruit lugubre.",
+    "synonyms": [
+      "sinistre",
+      "funèbre",
+      "macabre"
+    ],
+    "origin": "Du latin lugubris « de deuil », de lugere « être en deuil »."
+  },
+  {
+    "lemma": "mesquin",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "mɛskɛ̃",
+    "definition": "Qui manque de générosité et de grandeur",
+    "example": "Refuser ce petit service serait vraiment mesquin.",
+    "synonyms": [
+      "petit",
+      "avare",
+      "étriqué"
+    ],
+    "origin": "De l'italien meschino ou de l'espagnol mezquino, de l'arabe miskîn « pauvre »."
+  },
+  {
+    "lemma": "narquois",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "naʁkwa",
+    "definition": "Qui se moque avec malice et ironie",
+    "example": "Elle l'écoutait se vanter avec un sourire narquois.",
+    "synonyms": [
+      "moqueur",
+      "ironique",
+      "railleur"
+    ],
+    "origin": "D'abord mot d'argot désignant un soldat maraudeur, puis un homme rusé ; origine obscure."
+  },
+  {
+    "lemma": "opiniâtre",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ɔpinjɑtʁ",
+    "definition": "Qui s'attache à ses idées avec ténacité",
+    "example": "Un travail opiniâtre lui permit de rattraper son retard.",
+    "synonyms": [
+      "obstiné",
+      "tenace",
+      "têtu"
+    ],
+    "origin": "Dérivé savant de opinion, du latin opinio, avec le suffixe -âtre."
+  },
+  {
+    "lemma": "oisif",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "wazif",
+    "definition": "Qui ne fait rien, qui n'a pas d'occupation",
+    "example": "Il resta oisif tout l'été, étendu dans un hamac.",
+    "synonyms": [
+      "inactif",
+      "désœuvré",
+      "inoccupé"
+    ],
+    "origin": "Formé sur l'ancien français oiseus, du latin otiosus « qui a du loisir », de otium « loisir »."
+  },
+  {
+    "lemma": "perfide",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "pɛʁfid",
+    "definition": "Qui trahit la confiance qu'on lui accorde",
+    "example": "Ce conseil perfide devait conduire son rival à la ruine.",
+    "synonyms": [
+      "traître",
+      "déloyal",
+      "fourbe"
+    ],
+    "origin": "Du latin perfidus « qui viole sa foi », de per « à travers, au-delà » et fides « foi »."
+  },
+  {
+    "lemma": "placide",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "plasid",
+    "definition": "Calme et doux, que rien ne trouble",
+    "example": "Le vieux pêcheur regardait la tempête d'un œil placide.",
+    "synonyms": [
+      "calme",
+      "paisible",
+      "serein"
+    ],
+    "origin": "Du latin placidus « doux, paisible », de placere « plaire »."
+  },
+  {
+    "lemma": "prodigue",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "pʁɔdiɡ",
+    "definition": "Qui dépense ou donne sans compter",
+    "example": "Prodigue de conseils, il l'était beaucoup moins de son argent.",
+    "synonyms": [
+      "dépensier",
+      "généreux",
+      "dissipateur"
+    ],
+    "origin": "Du latin prodigus « qui gaspille », de prodigere « pousser devant soi, dépenser »."
+  },
+  {
+    "lemma": "sagace",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "saɡas",
+    "definition": "Qui a l'esprit vif et pénétrant",
+    "example": "Une lectrice sagace aura deviné la fin dès le premier chapitre.",
+    "synonyms": [
+      "perspicace",
+      "subtil",
+      "fin"
+    ],
+    "origin": "Du latin sagax « qui a l'odorat subtil », d'où « pénétrant »."
+  },
+  {
+    "lemma": "taciturne",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "tasityʁn",
+    "definition": "Qui parle peu, par nature ou par humeur",
+    "example": "Son oncle, homme taciturne, pouvait dîner sans dire trois mots.",
+    "synonyms": [
+      "silencieux",
+      "renfermé",
+      "morose"
+    ],
+    "origin": "Du latin taciturnus, de tacitus « qui se tait », de tacere « se taire »."
+  },
+  {
+    "lemma": "véhément",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "veemɑ̃",
+    "definition": "Qui s'exprime avec une force passionnée",
+    "example": "Le maire fit une réponse véhémente aux critiques de l'opposition.",
+    "synonyms": [
+      "fougueux",
+      "passionné",
+      "ardent"
+    ],
+    "origin": "Du latin vehemens « emporté, violent »."
+  },
+  {
+    "lemma": "volubile",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "vɔlybil",
+    "definition": "Qui parle beaucoup et avec aisance",
+    "example": "Le guide, très volubile, ne nous laissa pas placer un mot.",
+    "synonyms": [
+      "bavard",
+      "loquace",
+      "prolixe"
+    ],
+    "origin": "Du latin volubilis « qui tourne aisément », de volvere « rouler »."
+  },
+  {
+    "lemma": "limpide",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "lɛ̃pid",
+    "definition": "Parfaitement clair et transparent",
+    "example": "L'eau du torrent était si limpide qu'on voyait chaque caillou.",
+    "synonyms": [
+      "clair",
+      "transparent",
+      "pur"
+    ],
+    "origin": "Du latin limpidus « clair, transparent »."
+  },
+  {
+    "lemma": "funeste",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "fynɛst",
+    "definition": "Qui apporte le malheur ou la mort",
+    "example": "Cette décision funeste précipita la ruine de la famille.",
+    "synonyms": [
+      "fatal",
+      "désastreux",
+      "néfaste"
+    ],
+    "origin": "Du latin funestus « funèbre, mortel », de funus « funérailles »."
+  },
+  {
+    "lemma": "inouï",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "inwi",
+    "definition": "Si extraordinaire qu'on n'a jamais rien connu de tel",
+    "example": "La tempête s'abattit sur la côte avec une violence inouïe.",
+    "synonyms": [
+      "incroyable",
+      "extraordinaire",
+      "prodigieux"
+    ],
+    "origin": "Formé de in- « non » et de ouï, participe passé du verbe ouïr « entendre »."
+  },
+  {
+    "lemma": "accabler",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "akable",
+    "definition": "Faire peser sur quelqu'un une charge trop lourde",
+    "example": "La chaleur de juillet finit par accabler les marcheurs.",
+    "synonyms": [
+      "écraser",
+      "surcharger",
+      "abattre"
+    ],
+    "origin": "De l'ancien français chabler « abattre », de chable « machine de guerre », du latin populaire *catabola."
+  },
+  {
+    "lemma": "blâmer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "blɑme",
+    "definition": "Juger défavorablement, désapprouver",
+    "example": "On ne peut blâmer un enfant d'avoir eu peur.",
+    "synonyms": [
+      "désapprouver",
+      "critiquer",
+      "réprouver"
+    ],
+    "origin": "Du latin populaire *blastemare, altération du latin blasphemare « outrager » ; blasphémer en est le doublet."
+  },
+  {
+    "lemma": "dédaigner",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "dedɛɲe",
+    "definition": "Traiter avec mépris, juger indigne d'intérêt",
+    "example": "Il dédaigne les honneurs et ne se rend à aucune cérémonie.",
+    "synonyms": [
+      "mépriser",
+      "négliger",
+      "snober"
+    ],
+    "origin": "Formé de dé- et de daigner, du latin dignari « juger digne »."
+  },
+  {
+    "lemma": "entraver",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ɑ̃tʁave",
+    "definition": "Gêner dans son mouvement ou son action",
+    "example": "Rien ne doit entraver le travail des secours.",
+    "synonyms": [
+      "gêner",
+      "empêcher",
+      "freiner"
+    ],
+    "origin": "Dérivé de l'ancien français tref « poutre », du latin trabs : attacher les pattes d'un animal à une pièce de bois."
+  },
+  {
+    "lemma": "exaucer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ɛɡzose",
+    "definition": "Accorder à quelqu'un ce qu'il demande ou espère",
+    "example": "La fée promit d'exaucer trois de ses vœux.",
+    "synonyms": [
+      "accorder",
+      "satisfaire",
+      "combler"
+    ],
+    "origin": "Variante de exhausser « élever » : écouter une prière, c'est élever celui qui la fait."
+  },
+  {
+    "lemma": "implorer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ɛ̃plɔʁe",
+    "definition": "Demander avec insistance et humilité",
+    "example": "Les habitants viennent implorer l'aide du gouverneur.",
+    "synonyms": [
+      "supplier",
+      "conjurer",
+      "prier"
+    ],
+    "origin": "Du latin implorare « invoquer avec des larmes », de plorare « pleurer »."
+  },
+  {
+    "lemma": "narguer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "naʁɡe",
+    "definition": "Braver avec insolence et moquerie",
+    "example": "Le voleur semblait narguer la police en laissant sa carte de visite.",
+    "synonyms": [
+      "braver",
+      "défier",
+      "provoquer"
+    ],
+    "origin": "Du latin populaire *naricare « froncer le nez », de naris « narine »."
+  },
+  {
+    "lemma": "ourdir",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "uʁdiʁ",
+    "definition": "Préparer en secret un plan ou un complot",
+    "example": "Les conjurés mirent des mois à ourdir leur complot.",
+    "synonyms": [
+      "tramer",
+      "comploter",
+      "machiner"
+    ],
+    "origin": "Du latin populaire *ordire, du latin classique ordiri « commencer à tisser »."
+  },
+  {
+    "lemma": "pallier",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "palje",
+    "definition": "Remédier provisoirement à un manque",
+    "example": "Des bénévoles tentent de pallier le manque de personnel.",
+    "synonyms": [
+      "compenser",
+      "atténuer",
+      "remédier"
+    ],
+    "origin": "Du bas latin palliare « couvrir d'un manteau », de pallium « manteau »."
+  },
+  {
+    "lemma": "ressasser",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ʁəsase",
+    "definition": "Répéter ou repasser sans cesse dans son esprit",
+    "example": "Il passe ses nuits à ressasser les mêmes regrets.",
+    "synonyms": [
+      "rabâcher",
+      "répéter",
+      "ruminer"
+    ],
+    "origin": "Formé de re- et de sasser « passer au sas, au tamis » : passer et repasser."
+  },
+  {
+    "lemma": "scruter",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "skʁyte",
+    "definition": "Examiner avec une grande attention",
+    "example": "Le marin se mit à scruter l'horizon avec sa longue-vue.",
+    "synonyms": [
+      "examiner",
+      "observer",
+      "inspecter"
+    ],
+    "origin": "Du latin scrutari « fouiller », de scruta « vieilles hardes » : fouiller jusque dans les chiffons."
+  },
+  {
+    "lemma": "tergiverser",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "tɛʁʒivɛʁse",
+    "definition": "Hésiter et retarder le moment de décider",
+    "example": "Le conseil ne peut plus tergiverser : il faut voter ce soir.",
+    "synonyms": [
+      "hésiter",
+      "atermoyer",
+      "temporiser"
+    ],
+    "origin": "Du latin tergiversari « tourner le dos », de tergum « dos » et versare « tourner »."
+  },
+  {
+    "lemma": "vaciller",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "vasije",
+    "definition": "Trembler, pencher d'un côté puis de l'autre",
+    "example": "La flamme de la bougie se mit à vaciller sous le courant d'air.",
+    "synonyms": [
+      "chanceler",
+      "trembler",
+      "osciller"
+    ],
+    "origin": "Du latin vacillare « chanceler »."
+  },
+  {
+    "lemma": "vénérer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "veneʁe",
+    "definition": "Éprouver un respect profond, presque religieux",
+    "example": "Les villageois continuent de vénérer la mémoire du vieux médecin.",
+    "synonyms": [
+      "révérer",
+      "adorer",
+      "honorer"
+    ],
+    "origin": "Du latin venerari « révérer, rendre un culte »."
+  },
+  {
+    "lemma": "convoiter",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "kɔ̃vwate",
+    "definition": "Désirer vivement ce qui appartient à un autre",
+    "example": "Plusieurs musées convoitent ce tableau depuis des années.",
+    "synonyms": [
+      "envier",
+      "désirer",
+      "ambitionner"
+    ],
+    "origin": "De l'ancien français coveitier, du latin populaire *cupidietare, de cupiditas « désir »."
+  },
+  {
+    "lemma": "éluder",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "elyde",
+    "definition": "Éviter avec adresse une question ou une difficulté",
+    "example": "Le ministre a su éluder toutes les questions gênantes.",
+    "synonyms": [
+      "esquiver",
+      "éviter",
+      "contourner"
+    ],
+    "origin": "Du latin eludere « se jouer de, esquiver », de ludere « jouer »."
+  },
+  {
+    "lemma": "aplomb",
+    "level": 2,
+    "part_of_speech": "n. m.",
+    "ipa": "aplɔ̃",
+    "definition": "Assurance qui ne se laisse pas troubler",
+    "example": "Elle mentit avec un tel aplomb que personne n'osa la contredire.",
+    "synonyms": [
+      "assurance",
+      "audace",
+      "culot"
+    ],
+    "origin": "De la locution à plomb « à la verticale », d'après le fil à plomb des maçons."
+  },
+  {
+    "lemma": "désarroi",
+    "level": 2,
+    "part_of_speech": "n. m.",
+    "ipa": "dezaʁwa",
+    "definition": "Trouble profond de quelqu'un qui ne sait plus que faire",
+    "example": "La fermeture de l'usine a plongé la ville dans le désarroi.",
+    "synonyms": [
+      "confusion",
+      "détresse",
+      "trouble"
+    ],
+    "origin": "De l'ancien verbe désarroyer « mettre en désordre », formé sur arroi « équipage, ordre »."
+  },
+  {
+    "lemma": "engouement",
+    "level": 2,
+    "part_of_speech": "n. m.",
+    "ipa": "ɑ̃ɡumɑ̃",
+    "definition": "Admiration vive et souvent passagère",
+    "example": "L'engouement pour ce jeu a disparu aussi vite qu'il était venu.",
+    "synonyms": [
+      "enthousiasme",
+      "emballement",
+      "passion"
+    ],
+    "origin": "Dérivé de s'engouer « s'étouffer en avalant », formé sur un radical expressif qui désigne la gorge."
+  },
+  {
+    "lemma": "félicité",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "felisite",
+    "definition": "Bonheur parfait et durable",
+    "example": "Ils vécurent quelques années d'une félicité sans nuage.",
+    "synonyms": [
+      "bonheur",
+      "béatitude",
+      "joie"
+    ],
+    "origin": "Du latin felicitas, de felix « heureux, fécond »."
+  },
+  {
+    "lemma": "ferveur",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "fɛʁvœʁ",
+    "definition": "Ardeur vive mise dans un sentiment ou une action",
+    "example": "La foule chanta l'hymne avec ferveur.",
+    "synonyms": [
+      "ardeur",
+      "zèle",
+      "passion"
+    ],
+    "origin": "Du latin fervor « bouillonnement, chaleur », de fervere « bouillir »."
+  },
+  {
+    "lemma": "flegme",
+    "level": 2,
+    "part_of_speech": "n. m.",
+    "ipa": "flɛɡm",
+    "definition": "Calme que rien ne semble pouvoir troubler",
+    "example": "Il accueillit la mauvaise nouvelle avec son flegme habituel.",
+    "synonyms": [
+      "calme",
+      "placidité",
+      "impassibilité"
+    ],
+    "origin": "Du grec phlegma « humeur », l'une des quatre humeurs de l'ancienne médecine, censée rendre lent et calme."
+  },
+  {
+    "lemma": "mélancolie",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "melɑ̃kɔli",
+    "definition": "Tristesse vague, douce et durable",
+    "example": "L'automne lui apportait chaque année une légère mélancolie.",
+    "synonyms": [
+      "tristesse",
+      "spleen",
+      "nostalgie"
+    ],
+    "origin": "Du grec melankholia « bile noire », de melas « noir » et kholê « bile »."
+  },
+  {
+    "lemma": "nonchalance",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "nɔ̃ʃalɑ̃s",
+    "definition": "Manque d'ardeur, lenteur tranquille",
+    "example": "Il traversa la place avec nonchalance, les mains dans les poches.",
+    "synonyms": [
+      "indolence",
+      "mollesse",
+      "langueur"
+    ],
+    "origin": "Dérivé de nonchalant, formé de non et de l'ancien verbe chaloir « importer », du latin calere « être chaud »."
+  },
+  {
+    "lemma": "pudeur",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "pydœʁ",
+    "definition": "Retenue qui empêche de montrer ce qui est intime",
+    "example": "Par pudeur, il ne parlait jamais de sa maladie.",
+    "synonyms": [
+      "retenue",
+      "réserve",
+      "décence"
+    ],
+    "origin": "Du latin pudor « honte, réserve »."
+  },
+  {
+    "lemma": "quiétude",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "kjetyd",
+    "definition": "Calme profond de l'esprit, sans aucun souci",
+    "example": "Rien ne troublait la quiétude de ce jardin au bord de l'eau.",
+    "synonyms": [
+      "tranquillité",
+      "sérénité",
+      "paix"
+    ],
+    "origin": "Du bas latin quietudo, de quietus « en repos »."
+  },
+  {
+    "lemma": "rancune",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "ʁɑ̃kyn",
+    "definition": "Souvenir amer d'une offense, avec désir de revanche",
+    "example": "Elle lui garda rancune de cette remarque pendant des années.",
+    "synonyms": [
+      "ressentiment",
+      "rancœur",
+      "amertume"
+    ],
+    "origin": "Altération de l'ancien français rancure, du latin populaire *rancura, de rancor « rancidité, rancœur »."
+  },
+  {
+    "lemma": "torpeur",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "tɔʁpœʁ",
+    "definition": "Engourdissement du corps ou de l'esprit",
+    "example": "La chaleur de midi plongeait le village dans la torpeur.",
+    "synonyms": [
+      "engourdissement",
+      "léthargie",
+      "somnolence"
+    ],
+    "origin": "Du latin torpor, de torpere « être engourdi »."
+  },
+  {
+    "lemma": "allégresse",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "aleɡʁɛs",
+    "definition": "Joie très vive qui se manifeste au dehors",
+    "example": "Les cloches sonnaient et la ville était en pleine allégresse.",
+    "synonyms": [
+      "joie",
+      "liesse",
+      "jubilation"
+    ],
+    "origin": "Dérivé de l'ancien adjectif alègre « vif, joyeux », du latin alacer."
+  },
+  {
+    "lemma": "amertume",
+    "level": 2,
+    "part_of_speech": "n. f.",
+    "ipa": "amɛʁtym",
+    "definition": "Tristesse mêlée de rancœur après une déception",
+    "example": "Il parlait de son ancien métier sans amertume.",
+    "synonyms": [
+      "aigreur",
+      "rancœur",
+      "dépit"
+    ],
+    "origin": "Du latin amaritudo, de amarus « amer »."
+  },
+  {
+    "lemma": "effroi",
+    "level": 2,
+    "part_of_speech": "n. m.",
+    "ipa": "efʁwa",
+    "definition": "Grande peur qui glace et paralyse",
+    "example": "Un cri d'effroi s'éleva dans la salle obscure.",
+    "synonyms": [
+      "terreur",
+      "épouvante",
+      "frayeur"
+    ],
+    "origin": "Dérivé du verbe effrayer, du latin populaire *exfridare « faire sortir de la paix », d'un mot francique signifiant « paix »."
+  }
+]

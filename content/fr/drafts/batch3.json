@@ -1,0 +1,785 @@
+[
+  {
+    "lemma": "acariâtre",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "akaʁjɑtʁ",
+    "definition": "D'une humeur difficile, aigre et querelleuse",
+    "example": "Sa voisine acariâtre se plaignait du moindre bruit.",
+    "synonyms": [
+      "grincheux",
+      "hargneux",
+      "revêche"
+    ],
+    "origin": "Probablement du nom de saint Acaire, évêque de Noyon, qu'on invoquait pour guérir la folie."
+  },
+  {
+    "lemma": "atrabilaire",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "atʁabilɛʁ",
+    "definition": "Porté à la mauvaise humeur et à la colère",
+    "example": "Ce critique atrabilaire n'a jamais écrit un seul éloge.",
+    "synonyms": [
+      "irritable",
+      "bilieux",
+      "coléreux"
+    ],
+    "origin": "Dérivé de atrabile, du latin atra bilis « bile noire », humeur que l'ancienne médecine croyait cause de la tristesse."
+  },
+  {
+    "lemma": "cauteleux",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "kotlø",
+    "definition": "Qui agit avec une prudence rusée et méfiante",
+    "example": "Le notaire, cauteleux, pesait chacun de ses mots.",
+    "synonyms": [
+      "rusé",
+      "méfiant",
+      "sournois"
+    ],
+    "origin": "Dérivé de cautèle « ruse, prudence », du latin cautela, de cavere « prendre garde »."
+  },
+  {
+    "lemma": "débonnaire",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "debɔnɛʁ",
+    "definition": "D'une bonté qui va jusqu'à la faiblesse",
+    "example": "Le directeur, trop débonnaire, laissait chacun arriver à l'heure qu'il voulait.",
+    "synonyms": [
+      "bienveillant",
+      "indulgent",
+      "bonasse"
+    ],
+    "origin": "De l'ancienne locution de bonne aire « de bonne race, de bonne nature »."
+  },
+  {
+    "lemma": "dithyrambique",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ditiʁɑ̃bik",
+    "definition": "Qui fait un éloge enthousiaste, parfois excessif",
+    "example": "La presse a publié des critiques dithyrambiques sur son premier film.",
+    "synonyms": [
+      "élogieux",
+      "louangeur",
+      "enthousiaste"
+    ],
+    "origin": "Du grec dithurambos, chant en l'honneur de Dionysos."
+  },
+  {
+    "lemma": "fallacieux",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "falasjø",
+    "definition": "Qui cherche à tromper par une apparence de vérité",
+    "example": "L'avocat démonta un à un ces arguments fallacieux.",
+    "synonyms": [
+      "trompeur",
+      "mensonger",
+      "spécieux"
+    ],
+    "origin": "Du latin fallaciosus, de fallacia « tromperie », de fallere « tromper »."
+  },
+  {
+    "lemma": "grandiloquent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ɡʁɑ̃dilɔkɑ̃",
+    "definition": "Qui emploie de grands mots, avec emphase",
+    "example": "Son discours grandiloquent fit sourire toute l'assemblée.",
+    "synonyms": [
+      "pompeux",
+      "emphatique",
+      "ampoulé"
+    ],
+    "origin": "Du latin grandiloquus, de grandis « grand » et loqui « parler »."
+  },
+  {
+    "lemma": "idoine",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "idwan",
+    "definition": "Qui convient parfaitement à la situation",
+    "example": "Il restait à trouver la personne idoine pour ce poste délicat.",
+    "synonyms": [
+      "approprié",
+      "adéquat",
+      "convenable"
+    ],
+    "origin": "Du latin idoneus « propre à, convenable »."
+  },
+  {
+    "lemma": "impavide",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ɛ̃pavid",
+    "definition": "Qui n'éprouve ou ne montre aucune peur",
+    "example": "Le capitaine resta impavide au milieu de la panique générale.",
+    "synonyms": [
+      "impassible",
+      "intrépide",
+      "imperturbable"
+    ],
+    "origin": "Du latin impavidus, de in- « non » et pavidus « saisi de peur »."
+  },
+  {
+    "lemma": "ineffable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "inefabl",
+    "definition": "Qu'on ne peut exprimer par des mots",
+    "example": "Devant ce paysage, elle ressentit une joie ineffable.",
+    "synonyms": [
+      "indicible",
+      "inexprimable",
+      "indescriptible"
+    ],
+    "origin": "Du latin ineffabilis, de in- « non » et effari « dire, exprimer »."
+  },
+  {
+    "lemma": "irascible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "iʁasibl",
+    "definition": "Qui se met facilement en colère",
+    "example": "Le vieux général, irascible, ne supportait aucune contradiction.",
+    "synonyms": [
+      "coléreux",
+      "irritable",
+      "emporté"
+    ],
+    "origin": "Du bas latin irascibilis, de irasci « se mettre en colère », de ira « colère »."
+  },
+  {
+    "lemma": "pusillanime",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "pyzilanim",
+    "definition": "Qui manque de courage et craint les responsabilités",
+    "example": "Un chef pusillanime n'aurait jamais pris une telle décision.",
+    "synonyms": [
+      "craintif",
+      "timoré",
+      "lâche"
+    ],
+    "origin": "Du bas latin pusillanimis, de pusillus « tout petit » et animus « âme, courage »."
+  },
+  {
+    "lemma": "sibyllin",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "sibilɛ̃",
+    "definition": "Dont le sens est obscur, comme celui d'un oracle",
+    "example": "Il nous quitta sur une phrase sibylline que personne ne comprit.",
+    "synonyms": [
+      "énigmatique",
+      "obscur",
+      "mystérieux"
+    ],
+    "origin": "Du latin sibyllinus, de Sibylla, nom des prophétesses de l'Antiquité."
+  },
+  {
+    "lemma": "sardonique",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "saʁdɔnik",
+    "definition": "Qui exprime une moquerie amère et méchante",
+    "example": "Un rire sardonique accueillit sa proposition.",
+    "synonyms": [
+      "sarcastique",
+      "moqueur",
+      "caustique"
+    ],
+    "origin": "Du grec sardonios, rapproché dès l'Antiquité d'une plante de Sardaigne censée provoquer un rictus."
+  },
+  {
+    "lemma": "velléitaire",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "veleitɛʁ",
+    "definition": "Qui a des intentions mais ne passe jamais à l'acte",
+    "example": "Trop velléitaire, il annonçait chaque année un roman qu'il n'écrivait pas.",
+    "synonyms": [
+      "hésitant",
+      "indécis",
+      "irrésolu"
+    ],
+    "origin": "Dérivé de velléité, du latin médiéval velleitas, de velle « vouloir »."
+  },
+  {
+    "lemma": "vétilleux",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "vetijø",
+    "definition": "Qui s'attache à des détails sans importance",
+    "example": "Un inspecteur vétilleux releva jusqu'aux fautes de ponctuation.",
+    "synonyms": [
+      "pointilleux",
+      "tatillon",
+      "minutieux"
+    ],
+    "origin": "Dérivé de vétille « chose insignifiante », de l'ancien verbe vétiller « s'occuper de riens »."
+  },
+  {
+    "lemma": "vindicatif",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "vɛ̃dikatif",
+    "definition": "Qui cherche à se venger des offenses reçues",
+    "example": "D'un naturel vindicatif, il n'oubliait jamais une humiliation.",
+    "synonyms": [
+      "rancunier",
+      "revanchard"
+    ],
+    "origin": "Dérivé savant du latin vindicare « revendiquer, venger »."
+  },
+  {
+    "lemma": "parcimonieux",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "paʁsimɔnjø",
+    "definition": "Qui donne ou dépense le moins possible",
+    "example": "Le maître, parcimonieux en compliments, se contenta d'un signe de tête.",
+    "synonyms": [
+      "économe",
+      "avare",
+      "chiche"
+    ],
+    "origin": "Dérivé de parcimonie, du latin parsimonia « épargne », de parcere « épargner »."
+  },
+  {
+    "lemma": "obséquieux",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ɔpsekjø",
+    "definition": "Qui pousse la politesse jusqu'à la servilité",
+    "example": "Un vendeur obséquieux nous suivait dans tout le magasin.",
+    "synonyms": [
+      "servile",
+      "flatteur",
+      "rampant"
+    ],
+    "origin": "Du latin obsequiosus, de obsequium « complaisance », de obsequi « se plier à »."
+  },
+  {
+    "lemma": "matois",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "matwa",
+    "definition": "Rusé sous des dehors simples et bonhommes",
+    "example": "Le paysan matois vendit sa vache deux fois son prix.",
+    "synonyms": [
+      "rusé",
+      "finaud",
+      "madré"
+    ],
+    "origin": "Dérivé de mate, mot d'argot ancien désignant un lieu de rendez-vous des voleurs."
+  },
+  {
+    "lemma": "pétulant",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "petylɑ̃",
+    "definition": "Qui déborde d'une vivacité difficile à contenir",
+    "example": "La pétulante vieille dame dansa jusqu'à minuit.",
+    "synonyms": [
+      "vif",
+      "fougueux",
+      "exubérant"
+    ],
+    "origin": "Du latin petulans « emporté, effronté », apparenté à petere « chercher à atteindre »."
+  },
+  {
+    "lemma": "amène",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "amɛn",
+    "definition": "D'une courtoisie douce et agréable",
+    "example": "Il nous reçut d'un ton amène et nous offrit du thé.",
+    "synonyms": [
+      "aimable",
+      "affable",
+      "courtois"
+    ],
+    "origin": "Du latin amoenus « agréable, charmant »."
+  },
+  {
+    "lemma": "abhorrer",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "abɔʁe",
+    "definition": "Avoir en horreur, détester au plus haut point",
+    "example": "Elle abhorre le mensonge plus que tout autre défaut.",
+    "synonyms": [
+      "détester",
+      "exécrer",
+      "haïr"
+    ],
+    "origin": "Du latin abhorrere « s'éloigner avec effroi », de ab « loin de » et horrere « frissonner »."
+  },
+  {
+    "lemma": "admonester",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "admɔnɛste",
+    "definition": "Réprimander sévèrement, sans condamner",
+    "example": "Le juge se contenta d'admonester le jeune conducteur.",
+    "synonyms": [
+      "réprimander",
+      "sermonner",
+      "gronder"
+    ],
+    "origin": "De l'ancien français amonester, d'un latin populaire *admonestare, formé sur admonere « avertir »."
+  },
+  {
+    "lemma": "galvauder",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɡalvode",
+    "definition": "Gâcher une chose de valeur par un mauvais usage",
+    "example": "À force de le galvauder, on a vidé ce mot de son sens.",
+    "synonyms": [
+      "gâcher",
+      "gaspiller",
+      "avilir"
+    ],
+    "origin": "Origine incertaine ; peut-être de galer « s'amuser » et de ravauder « raccommoder »."
+  },
+  {
+    "lemma": "honnir",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɔniʁ",
+    "definition": "Vouer à la honte et au mépris publics",
+    "example": "Le peuple finit par honnir le ministre qu'il avait acclamé.",
+    "synonyms": [
+      "mépriser",
+      "conspuer",
+      "vilipender"
+    ],
+    "origin": "Du francique *haunjan « couvrir de honte » ; même origine que honte."
+  },
+  {
+    "lemma": "morigéner",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "mɔʁiʒene",
+    "definition": "Faire des reproches sur le ton d'une leçon de morale",
+    "example": "Sa tante aimait morigéner les enfants à la fin de chaque repas.",
+    "synonyms": [
+      "sermonner",
+      "réprimander",
+      "gronder"
+    ],
+    "origin": "Du latin médiéval morigenatus « bien élevé », du latin morigerari « être complaisant », de mos « mœurs » et gerere « porter »."
+  },
+  {
+    "lemma": "stipendier",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "stipɑ̃dje",
+    "definition": "Payer quelqu'un pour une besogne peu honorable",
+    "example": "On l'accusa de stipendier des journalistes pour salir son rival.",
+    "synonyms": [
+      "soudoyer",
+      "corrompre",
+      "acheter"
+    ],
+    "origin": "Du latin stipendiari « toucher une solde », de stipendium « solde, impôt »."
+  },
+  {
+    "lemma": "vilipender",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "vilipɑ̃de",
+    "definition": "Dénoncer comme méprisable, avec violence",
+    "example": "La critique se mit à vilipender ce roman qu'elle avait d'abord ignoré.",
+    "synonyms": [
+      "dénigrer",
+      "décrier",
+      "bafouer"
+    ],
+    "origin": "Du bas latin vilipendere, de vilis « de peu de valeur » et pendere « peser, estimer »."
+  },
+  {
+    "lemma": "atermoyer",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "atɛʁmwaje",
+    "definition": "Remettre à plus tard pour gagner du temps",
+    "example": "Le gouvernement ne peut plus atermoyer devant l'urgence.",
+    "synonyms": [
+      "temporiser",
+      "différer",
+      "tergiverser"
+    ],
+    "origin": "De l'ancien français termoyer « tarder », dérivé de terme."
+  },
+  {
+    "lemma": "circonvenir",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "siʁkɔ̃vəniʁ",
+    "definition": "Agir sur quelqu'un avec ruse pour obtenir ce qu'on veut",
+    "example": "Il tenta de circonvenir les jurés par des promesses.",
+    "synonyms": [
+      "manœuvrer",
+      "séduire",
+      "embobiner"
+    ],
+    "origin": "Du latin circumvenire « venir autour, entourer », d'où « assiéger, tromper »."
+  },
+  {
+    "lemma": "fustiger",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "fystiʒe",
+    "definition": "Critiquer avec une grande sévérité",
+    "example": "L'éditorial du jour vient fustiger la lenteur des secours.",
+    "synonyms": [
+      "blâmer",
+      "condamner",
+      "stigmatiser"
+    ],
+    "origin": "Du bas latin fustigare « battre à coups de bâton », de fustis « bâton »."
+  },
+  {
+    "lemma": "houspiller",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "uspije",
+    "definition": "Faire de vifs reproches, harceler de critiques",
+    "example": "La cuisinière ne cessait de houspiller ses apprentis.",
+    "synonyms": [
+      "gronder",
+      "réprimander",
+      "quereller"
+    ],
+    "origin": "Altération de l'ancien français houcepignier, de housser « frapper avec du houx » et pignier « peigner »."
+  },
+  {
+    "lemma": "ratiociner",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ʁasjɔsine",
+    "definition": "Raisonner de façon trop subtile et interminable",
+    "example": "Au lieu d'agir, ils passent leurs soirées à ratiociner.",
+    "synonyms": [
+      "ergoter",
+      "pinailler",
+      "discutailler"
+    ],
+    "origin": "Du latin ratiocinari « calculer, raisonner », de ratio « calcul, raison »."
+  },
+  {
+    "lemma": "acrimonie",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "akʁimɔni",
+    "definition": "Mauvaise humeur qui s'exprime par des propos blessants",
+    "example": "Elle parlait de son ancien associé sans la moindre acrimonie.",
+    "synonyms": [
+      "aigreur",
+      "hargne",
+      "amertume"
+    ],
+    "origin": "Du latin acrimonia « âcreté », de acer « aigu, piquant »."
+  },
+  {
+    "lemma": "componction",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "kɔ̃pɔ̃ksjɔ̃",
+    "definition": "Gravité recueillie, parfois affectée",
+    "example": "Le maître d'hôtel annonça le dîner avec componction.",
+    "synonyms": [
+      "gravité",
+      "solennité",
+      "contrition"
+    ],
+    "origin": "Du latin chrétien compunctio « piqûre », d'où « douleur du repentir », de compungere « piquer »."
+  },
+  {
+    "lemma": "déréliction",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "deʁeliksjɔ̃",
+    "definition": "État d'abandon et de solitude morale complète",
+    "example": "Après la mort des siens, il vécut dans une profonde déréliction.",
+    "synonyms": [
+      "abandon",
+      "délaissement",
+      "solitude"
+    ],
+    "origin": "Du latin derelictio « abandon », de derelinquere « délaisser complètement »."
+  },
+  {
+    "lemma": "faconde",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "fakɔ̃d",
+    "definition": "Grande facilité de parole, souvent excessive",
+    "example": "La faconde du marchand finit par convaincre les plus méfiants.",
+    "synonyms": [
+      "éloquence",
+      "volubilité",
+      "verve"
+    ],
+    "origin": "Du latin facundia « facilité de parole », de fari « parler »."
+  },
+  {
+    "lemma": "mansuétude",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "mɑ̃sɥetyd",
+    "definition": "Douceur indulgente envers les fautes d'autrui",
+    "example": "Le vieux professeur corrigeait les copies avec mansuétude.",
+    "synonyms": [
+      "indulgence",
+      "clémence",
+      "bonté"
+    ],
+    "origin": "Du latin mansuetudo, de mansuetus « apprivoisé », littéralement « habitué à la main »."
+  },
+  {
+    "lemma": "outrecuidance",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "utʁəkɥidɑ̃s",
+    "definition": "Confiance en soi excessive et insolente",
+    "example": "Il eut l'outrecuidance de corriger le chef devant tous les invités.",
+    "synonyms": [
+      "arrogance",
+      "présomption",
+      "fatuité"
+    ],
+    "origin": "De l'ancien verbe outrecuider, formé de outre « au-delà » et cuider « penser », du latin cogitare."
+  },
+  {
+    "lemma": "panégyrique",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "paneʒiʁik",
+    "definition": "Discours ou écrit à la louange de quelqu'un",
+    "example": "Son discours d'adieu fut un véritable panégyrique du fondateur.",
+    "synonyms": [
+      "éloge",
+      "apologie",
+      "louange"
+    ],
+    "origin": "Du grec panêgurikos « discours prononcé devant le peuple assemblé », de pan « tout » et aguris « assemblée »."
+  },
+  {
+    "lemma": "truchement",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "tʁyʃmɑ̃",
+    "definition": "Personne ou moyen qui sert d'intermédiaire",
+    "example": "Ils se sont parlé par le truchement d'un interprète.",
+    "synonyms": [
+      "intermédiaire",
+      "entremise",
+      "médiation"
+    ],
+    "origin": "De l'arabe turjumân « interprète », qui a aussi donné drogman."
+  },
+  {
+    "lemma": "vicissitude",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "visisityd",
+    "definition": "Événement heureux ou malheureux qui marque une vie",
+    "example": "Malgré les vicissitudes de la guerre, la librairie resta ouverte.",
+    "synonyms": [
+      "aléa",
+      "épreuve",
+      "tribulation"
+    ],
+    "origin": "Du latin vicissitudo « alternance », de vicis « tour, succession »."
+  },
+  {
+    "lemma": "apanage",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "apanaʒ",
+    "definition": "Ce qui appartient en propre à quelqu'un",
+    "example": "La curiosité n'est pas l'apanage de la jeunesse.",
+    "synonyms": [
+      "privilège",
+      "exclusivité",
+      "prérogative"
+    ],
+    "origin": "De l'ancien verbe apaner « donner du pain », du latin panis : la part de terres donnée aux fils cadets du roi."
+  },
+  {
+    "lemma": "courroux",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "kuʁu",
+    "definition": "Colère vive, dans le style soutenu",
+    "example": "Le roi, saisi de courroux, fit chasser l'ambassadeur.",
+    "synonyms": [
+      "colère",
+      "fureur",
+      "ire"
+    ],
+    "origin": "De l'ancien verbe courroucer, du latin populaire *corruptiare, de corrumpere « altérer, gâter »."
+  },
+  {
+    "lemma": "opprobre",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "ɔpʁɔbʁ",
+    "definition": "Honte publique qui frappe quelqu'un",
+    "example": "Ce scandale a jeté l'opprobre sur toute la profession.",
+    "synonyms": [
+      "déshonneur",
+      "infamie",
+      "ignominie"
+    ],
+    "origin": "Du latin opprobrium, de ob « devant » et probrum « action honteuse »."
+  },
+  {
+    "lemma": "turpitude",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "tyʁpityd",
+    "definition": "Conduite honteuse, bassesse morale",
+    "example": "Le journal promettait de révéler les turpitudes du financier.",
+    "synonyms": [
+      "bassesse",
+      "infamie",
+      "vilenie"
+    ],
+    "origin": "Du latin turpitudo « laideur, honte », de turpis « laid, honteux »."
+  },
+  {
+    "lemma": "impéritie",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "ɛ̃peʁisi",
+    "definition": "Manque de compétence dans sa profession",
+    "example": "L'impéritie du capitaine causa la perte du navire.",
+    "synonyms": [
+      "incompétence",
+      "incapacité",
+      "ignorance"
+    ],
+    "origin": "Du latin imperitia, de in- « non » et peritus « expérimenté »."
+  },
+  {
+    "lemma": "forfanterie",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "fɔʁfɑ̃tʁi",
+    "definition": "Vantardise de celui qui se prête un courage qu'il n'a pas",
+    "example": "Ses récits de chasse relevaient surtout de la forfanterie.",
+    "synonyms": [
+      "vantardise",
+      "fanfaronnade",
+      "hâblerie"
+    ],
+    "origin": "Dérivé de l'ancien français forfant « coquin », de l'italien furfante."
+  },
+  {
+    "lemma": "fatuité",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "fatɥite",
+    "definition": "Satisfaction de soi-même étalée d'une manière ridicule",
+    "example": "Il parlait de ses succès avec une fatuité insupportable.",
+    "synonyms": [
+      "suffisance",
+      "vanité",
+      "prétention"
+    ],
+    "origin": "Du latin fatuitas « sottise », de fatuus « insensé »."
+  },
+  {
+    "lemma": "magnanimité",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "maɲanimite",
+    "definition": "Grandeur d'âme qui porte à pardonner",
+    "example": "Le vainqueur traita les prisonniers avec magnanimité.",
+    "synonyms": [
+      "générosité",
+      "clémence",
+      "noblesse"
+    ],
+    "origin": "Du latin magnanimitas, de magnus « grand » et animus « âme »."
+  },
+  {
+    "lemma": "parangon",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "paʁɑ̃ɡɔ̃",
+    "definition": "Modèle parfait d'une qualité",
+    "example": "On le présentait comme un parangon de vertu.",
+    "synonyms": [
+      "modèle",
+      "exemple",
+      "archétype"
+    ],
+    "origin": "De l'espagnol parangón « comparaison », de l'italien paragone « pierre de touche »."
+  },
+  {
+    "lemma": "palinodie",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "palinɔdi",
+    "definition": "Changement complet d'opinion, désaveu de ce qu'on a dit",
+    "example": "Les palinodies du candidat ont fini par lasser ses électeurs.",
+    "synonyms": [
+      "rétractation",
+      "revirement",
+      "reniement"
+    ],
+    "origin": "Du grec palinôidia « chant sur un autre ton », de palin « de nouveau » et ôidê « chant »."
+  },
+  {
+    "lemma": "thuriféraire",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "tyʁifeʁɛʁ",
+    "definition": "Personne qui flatte et encense quelqu'un sans mesure",
+    "example": "Le ministre ne se déplaçait jamais sans sa cour de thuriféraires.",
+    "synonyms": [
+      "flatteur",
+      "encenseur",
+      "laudateur"
+    ],
+    "origin": "Du latin médiéval thuriferarius « porteur d'encensoir », de thus « encens » et ferre « porter »."
+  },
+  {
+    "lemma": "zizanie",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "zizani",
+    "definition": "Discorde semée entre des personnes",
+    "example": "Cette lettre anonyme a semé la zizanie dans le village.",
+    "synonyms": [
+      "discorde",
+      "mésentente",
+      "brouille"
+    ],
+    "origin": "Du grec zizanion « ivraie », mauvaise herbe qui pousse au milieu du blé."
+  },
+  {
+    "lemma": "dilection",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "dilɛksjɔ̃",
+    "definition": "Amour tendre et attentif, préférence marquée",
+    "example": "Elle avait pour son plus jeune élève une dilection particulière.",
+    "synonyms": [
+      "tendresse",
+      "affection",
+      "prédilection"
+    ],
+    "origin": "Du latin dilectio « amour », de diligere « chérir »."
+  }
+]

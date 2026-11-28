@@ -4,8 +4,12 @@ Usage:
     pip install cmudict wordfreq
     python3 content/build_catalog.py content/pilot_words.json Bovary/words.json content/drafts/*.json
 
+    python3 content/build_catalog.py --lang fr content/fr/pilot_words.json content/fr/words.json content/fr/drafts/*.json
+
 The first output keeps every field plus the checks, for review. The second
-is the slim file bundled in the app.
+is the slim file bundled in the app. With "--lang fr" the topics and quotations
+are read from content/fr, the drafts give the pronunciation themselves (key
+"ipa") and the widget file is left alone.
 
 Each draft file is a JSON array of entries with the keys in REQUIRED below.
 The pronunciation is converted from the CMU Pronouncing Dictionary (American
@@ -24,6 +28,9 @@ from wordfreq import zipf_frequency
 
 REQUIRED = ["lemma", "level", "part_of_speech", "definition", "example", "synonyms", "origin"]
 PARTS = {"adj.", "n.", "v.", "adv."}
+PARTS_FR = {"adj.", "n. m.", "n. f.", "v.", "adv."}
+# English is the default; "--lang fr" builds the French catalogue from content/fr.
+LANG = "en"
 
 VOWELS = {
     "AA": "ɑ", "AE": "æ", "AO": "ɔ", "AW": "aʊ", "AY": "aɪ", "EH": "ɛ", "EY": "eɪ",
@@ -142,7 +149,7 @@ def check(entry):
         return issues
     lemma = entry["lemma"]
     stem = lemma[: max(4, len(lemma) - 3)]
-    if entry["part_of_speech"] not in PARTS:
+    if entry["part_of_speech"] not in (PARTS_FR if LANG == "fr" else PARTS):
         issues.append("unknown part of speech")
     words = entry["definition"].split()
     if not 3 <= len(words) <= 14:
@@ -168,6 +175,14 @@ def check(entry):
 
 
 def main():
+    global LANG, TOPICS_PATH, QUOTES_PATH
+    if "--lang" in sys.argv:
+        position = sys.argv.index("--lang")
+        LANG = sys.argv[position + 1]
+        del sys.argv[position:position + 2]
+        folder = os.path.join(os.path.dirname(__file__), LANG)
+        TOPICS_PATH = os.path.join(folder, "topics.json")
+        QUOTES_PATH = os.path.join(folder, "quotes.json")
     out_path, app_path, draft_paths = sys.argv[1], sys.argv[2], sys.argv[3:]
     entries, seen = [], set()
     for path in draft_paths:
@@ -198,11 +213,15 @@ def main():
         entry["quote_source"] = chosen.get("source", "")
         issues = check(entry)
         lemma = entry.get("lemma", "")
-        phones = PRONUNCIATIONS.get(lemma)
-        entry["ipa"] = IPA_OVERRIDES.get(lemma) or (to_ipa(phones[0]) if phones else "")
+        if LANG == "en":
+            phones = PRONUNCIATIONS.get(lemma)
+            entry["ipa"] = IPA_OVERRIDES.get(lemma) or (to_ipa(phones[0]) if phones else "")
+        else:
+            # No pronouncing dictionary for the other languages: the draft carries the IPA.
+            entry["ipa"] = entry.get("ipa", "")
         if not entry["ipa"]:
             issues.append("no pronunciation")
-        entry["zipf"] = zipf_frequency(lemma, "en")
+        entry["zipf"] = zipf_frequency(lemma, LANG)
         if not entry["topics"]:
             issues.append("no topic")
         entry["issues"] = issues
@@ -217,9 +236,10 @@ def main():
         json.dump(slim, handle, ensure_ascii=False, separators=(",", ":"))
     # The widget is a separate program with its own bundle: it gets a lighter
     # copy, in the same order, so that it shows the app's first word of the day.
-    with open(WIDGET_PATH, "w", encoding="utf-8") as handle:
-        light = [{key: entry[key] for key in ("lemma", "part_of_speech", "definition")} for entry in slim]
-        json.dump(light, handle, ensure_ascii=False, separators=(",", ":"))
+    if LANG == "en":
+        with open(WIDGET_PATH, "w", encoding="utf-8") as handle:
+            light = [{key: entry[key] for key in ("lemma", "part_of_speech", "definition")} for entry in slim]
+            json.dump(light, handle, ensure_ascii=False, separators=(",", ":"))
     print(f"{len(entries)} entries written to {out_path}, {flagged} flagged, {len(slim)} bundled in {app_path}")
 
 

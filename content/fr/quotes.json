@@ -1,0 +1,514 @@
+{
+  "farouche": {
+    "quote": "Ses yeux brillaient étrangement, et toute sa personne avait repris son aspect farouche des mauvais jours.",
+    "source": "Jules Verne, L’Île mystérieuse"
+  },
+  "frêle": {
+    "quote": "Son corps exquis et frêle était comme mêlé et fondu dans le plissement de sa robe.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "morne": {
+    "quote": "L’homme avait cessé de lui faire des questions et gardait maintenant un silence morne.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "paisible": {
+    "quote": "Depuis une heure le gamin faisait dans cet arrondissement paisible le vacarme d’un moucheron dans une bouteille.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "sournois": {
+    "quote": "Je l’ai aperçu, l’autre jour, en voiture; il était tout jaune, il avait l’air joliment sournois.",
+    "source": "Émile Zola, Le Ventre de Paris"
+  },
+  "vaillant": {
+    "quote": "Une autre cohue s’épaississait autour de notre ancien ami, le vaillant roi de Thunes, armé jusqu’aux dents.",
+    "source": "Victor Hugo, Notre-Dame de Paris"
+  },
+  "hardi": {
+    "quote": "C’est une chose inouïe qu’on puisse être froid comme la glace et hardi comme le feu.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "las": {
+    "quote": "Cette journée fut comme un songe, tous les deux revinrent de l’église, étonnés et las.",
+    "source": "Émile Zola, Le Rêve"
+  },
+  "radieux": {
+    "quote": "Le soir venait, un soir calme, radieux, plein de clarté, de paix heureuse.",
+    "source": "Guy de Maupassant, Une vie"
+  },
+  "vif": {
+    "quote": "Quant à mon caractère, un peu vif peut-être, j’ai toujours essayé de l’adoucir envers mes subordonnés.",
+    "source": "Alexandre Dumas, Le Comte de Monte-Cristo"
+  },
+  "espiègle": {
+    "quote": "La petite, animée par cette verve, lui répondit avec toute la malice, avec toute la finesse espiègle qui germaient en elle.",
+    "source": "Guy de Maupassant, Fort comme la mort"
+  },
+  "coquet": {
+    "quote": "Elle avait fait des frais de toilette pour moi et me reçut d’une façon très coquette.",
+    "source": "Guy de Maupassant, Boule de Suif"
+  },
+  "taquin": {
+    "quote": "Ce n’est pas vous qui étiez ridicule, c’est moi qui étais taquine, comme je le suis encore un peu, mais moins cependant.",
+    "source": "Alexandre Dumas fils, La Dame aux camélias"
+  },
+  "rude": {
+    "quote": "Je sentais l’odeur du varech, l’odeur de la vague, la rude et bonne odeur des côtes.",
+    "source": "Guy de Maupassant, Boule de Suif"
+  },
+  "flâner": {
+    "quote": "Cette chose moderne, flâner, était ignorée; on ne connaissait que cette chose antique, rôder.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "chuchoter": {
+    "quote": "Les hommes chuchotèrent dans un coin, sans doute se consultant sur la dépense.",
+    "source": "Gustave Flaubert, Madame Bovary"
+  },
+  "éblouir": {
+    "quote": "La prodigieuse nature a un double sens qui éblouit les grands esprits et aveugle les âmes fauves.",
+    "source": "Victor Hugo, Quatrevingt-treize"
+  },
+  "effleurer": {
+    "quote": "Une brise légère et continue, venant du large, effleurait et ridait la surface de l’eau.",
+    "source": "Guy de Maupassant, Une vie"
+  },
+  "frémir": {
+    "quote": "C’est l’immense désert où l’homme n’est jamais seul, car il sent frémir la vie à ses côtés.",
+    "source": "Jules Verne, Vingt mille lieues sous les mers"
+  },
+  "songer": {
+    "quote": "Alors, là, seul, debout dans cette obscurité, tremblant de froid et d’autre chose peut-être, il songea.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "errer": {
+    "quote": "Sous les arbres des boulevards, dans une obscurité mystérieuse, les passants plus rares erraient, à peine reconnaissables.",
+    "source": "Marcel Proust, Du côté de chez Swann"
+  },
+  "guetter": {
+    "quote": "Les jours de brume, il s’enfonçait dans un marais pour guetter les oies, les loutres et les halbrans.",
+    "source": "Gustave Flaubert, Trois contes"
+  },
+  "grommeler": {
+    "quote": "J’entendis mon oncle grommeler, se fâcher; finalement le valet de chambre me fit entrer.",
+    "source": "Marcel Proust, Du côté de chez Swann"
+  },
+  "épier": {
+    "quote": "Emma l’épiait d’un regard plein d’angoisse, croyant apercevoir dans les rides de son visage des accusations.",
+    "source": "Gustave Flaubert, Madame Bovary"
+  },
+  "railler": {
+    "quote": "Danglars lança un coup d’œil oblique au comte, pour voir s’il raillait ou s’il parlait sérieusement.",
+    "source": "Alexandre Dumas, Le Comte de Monte-Cristo"
+  },
+  "redouter": {
+    "quote": "Sa mort, prévue, était redoutée du peuple comme une perte et du gouvernement comme une occasion.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "chérir": {
+    "quote": "Tu es un homme, toi! tu as tout ce qu’il faut pour te faire chérir.",
+    "source": "Gustave Flaubert, Madame Bovary"
+  },
+  "bouder": {
+    "quote": "Et elle accepta gaiement, ne boudant plus, se serrant contre lui, heureuse d’être à son bras.",
+    "source": "Émile Zola, Le Docteur Pascal"
+  },
+  "tressaillir": {
+    "quote": "Tout d’un coup, il tressaillit, le souffle de la peur lui avait passé sur la face.",
+    "source": "Émile Zola, Germinal"
+  },
+  "dérober": {
+    "quote": "Je mettais une joie maligne à dérober ainsi ce trésor à la rapacité des hommes.",
+    "source": "Théophile Gautier, Mademoiselle de Maupin"
+  },
+  "ébranler": {
+    "quote": "Une explosion, qu’on eût entendue à cent milles de distance, ébranla les couches de l’air.",
+    "source": "Jules Verne, L’Île mystérieuse"
+  },
+  "aube": {
+    "quote": "À l’aube, le disque à demi éteint du soleil se leva sur un horizon embrumé.",
+    "source": "Jules Verne, Le Tour du monde en quatre-vingts jours"
+  },
+  "chagrin": {
+    "quote": "Je vous ai causé des chagrins, que vous n’avez pu me pardonner sans une bonté extrême.",
+    "source": "Abbé Prévost, Manon Lescaut"
+  },
+  "crépuscule": {
+    "quote": "La chambre avait pour éclairage le feu de la cheminée et le crépuscule de la fenêtre.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "éclat": {
+    "quote": "En ce moment, le fanal s’alluma soudain, et son vif éclat fit évanouir cette vague lumière.",
+    "source": "Jules Verne, Vingt mille lieues sous les mers"
+  },
+  "fardeau": {
+    "quote": "Vous faites bien de laisser le choix du pont à celui qui porte le fardeau le plus lourd.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "lueur": {
+    "quote": "La ruelle était toujours déserte, et la même lueur calme et douce s’épanchait de la fenêtre.",
+    "source": "Alexandre Dumas, Les Trois Mousquetaires"
+  },
+  "émoi": {
+    "quote": "M. de Rênal arriva dans la nuit et trouva toute la ville en émoi.",
+    "source": "Stendhal, Le Rouge et le Noir"
+  },
+  "ruse": {
+    "quote": "Tous les pactes qu’il passe lui sont arrachés par la violence ou la ruse.",
+    "source": "Émile Zola, Le Rêve"
+  },
+  "audace": {
+    "quote": "Mathilde n’écoutait pas ses paroles, leur son l’irritait, elle ne concevait pas qu’il eût l’audace de l’interrompre.",
+    "source": "Stendhal, Le Rouge et le Noir"
+  },
+  "orgueil": {
+    "quote": "Son orgueil sur-le-champ répondait oui, mais sa vieille tête qu’il hochait en silence répondait tristement non.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "mépris": {
+    "quote": "Je me souviens cependant que la vue de cette surveillance scandaleuse m’inspirait le mépris et le dégoût.",
+    "source": "Alexandre Dumas fils, La Dame aux camélias"
+  },
+  "sanglot": {
+    "quote": "Et, tout d’un coup, elle éclata en sanglots, la tête appuyée sur l’épaule de son amie.",
+    "source": "Émile Zola, Au Bonheur des Dames"
+  },
+  "soupir": {
+    "quote": "Aussitôt un grand soupir de soulagement sortit de toutes les poitrines, une allégresse parut sur les visages.",
+    "source": "Guy de Maupassant, Boule de Suif"
+  },
+  "tracas": {
+    "quote": "Cette affaire ennuyait Bouthemont, dont la gaieté s’accommodait mal d’un tel tracas intérieur.",
+    "source": "Émile Zola, Au Bonheur des Dames"
+  },
+  "vacarme": {
+    "quote": "Un calme sombre avait succédé au vacarme farouche qui remplissait le galetas quelques instants auparavant.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "querelle": {
+    "quote": "Puis, il y eut des rires, une querelle, une chanson commencée et tout d’un coup interrompue.",
+    "source": "Émile Zola, Nana"
+  },
+  "flair": {
+    "quote": "La foule a le flair des choses dénoncées, et les prend en bonne part.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "élan": {
+    "quote": "Puis, il eut un élan de joie, il serra énergiquement les mains de la jeune fille.",
+    "source": "Émile Zola, Germinal"
+  },
+  "labeur": {
+    "quote": "La pensée est le labeur de l’intelligence, la rêverie en est la volupté.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "répit": {
+    "quote": "Voyant qu’il n’y avait ni répit, ni sursis, ni faux-fuyant possible, il prit bravement son parti.",
+    "source": "Victor Hugo, Notre-Dame de Paris"
+  },
+  "clarté": {
+    "quote": "Toute haine s’en va de son cœur à mesure que toute clarté entre dans son esprit.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "austère": {
+    "quote": "L’historien des mœurs et des idées n’a pas une mission moins austère que l’historien des événements.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "blême": {
+    "quote": "Cosette, si jolie et si fraîche à son arrivée dans cette maison, était maintenant maigre et blême.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "candide": {
+    "quote": "À leur débarquement, quelques centaines de pingouins les regardèrent d’un œil candide.",
+    "source": "Jules Verne, L’Île mystérieuse"
+  },
+  "éphémère": {
+    "quote": "Une mouche éphémère naît à neuf heures du matin dans les grands jours d’été, pour mourir à cinq heures du soir, comment comprendrait-elle le mot nuit?",
+    "source": "Stendhal, Le Rouge et le Noir"
+  },
+  "fougueux": {
+    "quote": "Le fougueux archidiacre ne le laissa pas achever.",
+    "source": "Victor Hugo, Notre-Dame de Paris"
+  },
+  "frivole": {
+    "quote": "Il tenait du dix-huitième siècle: frivole et grand.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "hautain": {
+    "quote": "Depuis un mois elle était malheureuse, mais cette âme hautaine était loin de s’avouer ses sentiments.",
+    "source": "Stendhal, Le Rouge et le Noir"
+  },
+  "intrépide": {
+    "quote": "Le regard le plus intrépide n’eût pas considéré sans épouvante cette obscure immensité.",
+    "source": "Jules Verne, Le Tour du monde en quatre-vingts jours"
+  },
+  "lugubre": {
+    "quote": "Une bise glaciale soufflait, et donnait aux choses autour de lui une sorte de vie lugubre.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "mesquin": {
+    "quote": "Comme tout est pauvre, mesquin, misérable! avarement donné, sèchement inventé, lourdement fait!",
+    "source": "Guy de Maupassant, Le Horla"
+  },
+  "narquois": {
+    "quote": "Il faisait parader ses mousquetaires devant le cardinal Armand Duplessis avec un air narquois qui hérissait de colère la moustache grise de Son Éminence.",
+    "source": "Alexandre Dumas, Les Trois Mousquetaires"
+  },
+  "opiniâtre": {
+    "quote": "Qui n’a pas été accusateur opiniâtre pendant la prospérité doit se taire devant l’écroulement.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "oisif": {
+    "quote": "Causerie pendant que l’on travaillait, lecture quand les mains restaient oisives, et le temps s’écoulait avec profit pour tout le monde.",
+    "source": "Jules Verne, L’Île mystérieuse"
+  },
+  "perfide": {
+    "quote": "D’Artagnan avait souvent médité contre l’hôte perfide une de ces bonnes vengeances qui consolent, rien qu’en espérance.",
+    "source": "Alexandre Dumas, Les Trois Mousquetaires"
+  },
+  "placide": {
+    "quote": "Jamais ils ne se querellaient, étant tous deux calmes et placides.",
+    "source": "Guy de Maupassant, Le Horla"
+  },
+  "prodigue": {
+    "quote": "Le prodigue est un aveugle; il voit le commencement et ne voit pas la fin.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "sagace": {
+    "quote": "Joly avait l’habitude de se toucher le nez avec le bout de sa canne, ce qui est l’indice d’un esprit sagace.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "taciturne": {
+    "quote": "Je devins sombre, taciturne, inégal dans mon humeur, amer dans mes discours.",
+    "source": "Benjamin Constant, Adolphe"
+  },
+  "véhément": {
+    "quote": "Dans son escalier j’étais ému à trembler, mon cœur battait, un désir véhément m’envahissait des pieds aux cheveux.",
+    "source": "Guy de Maupassant, Boule de Suif"
+  },
+  "limpide": {
+    "quote": "Dans le ciel limpide, les étoiles vacillaient, tandis qu’une clarté d’aurore empourprait l’orient.",
+    "source": "Émile Zola, Germinal"
+  },
+  "funeste": {
+    "quote": "Je crains de manquer de force pour achever le récit du plus funeste événement qui fût jamais.",
+    "source": "Abbé Prévost, Manon Lescaut"
+  },
+  "inouï": {
+    "quote": "Et, faisant un effort inouï pour ne pas pleurer, il se sauva de chez moi plutôt qu’il n’en sortit.",
+    "source": "Alexandre Dumas fils, La Dame aux camélias"
+  },
+  "accabler": {
+    "quote": "Les jours suivants elle n’eut pas le temps de s’attendrir tant elle se trouva accablée de besogne.",
+    "source": "Guy de Maupassant, Une vie"
+  },
+  "blâmer": {
+    "quote": "Êtes-vous dans le camp de ceux qui approuvent ou dans le camp de ceux qui blâment?",
+    "source": "Marcel Proust, Du côté de chez Swann"
+  },
+  "dédaigner": {
+    "quote": "Vous-même, mon cher, il me semble pourtant que vous ne dédaignez pas ce monde que vous raillez si bien.",
+    "source": "Guy de Maupassant, Fort comme la mort"
+  },
+  "entraver": {
+    "quote": "Le progrès entravé est maladif, et il a de ces tragiques épilepsies.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "exaucer": {
+    "quote": "Dieu l’exauce, une colombe blanche sort de sa bouche et monte au ciel.",
+    "source": "Émile Zola, Le Rêve"
+  },
+  "implorer": {
+    "quote": "Contre un succès qui nous gêne, on ameute la foule, puis on implore le magistrat.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "narguer": {
+    "quote": "Grâce au régime de sa vie monastique, elle narguait la vieillesse par un teint coloré, par une santé de fer.",
+    "source": "Honoré de Balzac, Eugénie Grandet"
+  },
+  "ourdir": {
+    "quote": "Oh! la trame est bien ourdie, allez! le complot est habile et mon honneur n’y survivra pas.",
+    "source": "Alexandre Dumas, Les Trois Mousquetaires"
+  },
+  "scruter": {
+    "quote": "Sa puissante lunette aux yeux, il scruta tous les points de l’horizon avec une attention extrême.",
+    "source": "Jules Verne, Vingt mille lieues sous les mers"
+  },
+  "tergiverser": {
+    "quote": "Il ne s’agissait pas de tergiverser; il fallait conclure.",
+    "source": "Victor Hugo, Quatrevingt-treize"
+  },
+  "vaciller": {
+    "quote": "Quelque chose en elle vacilla, et il lui fallut s’appuyer au dossier d’une chaise.",
+    "source": "Émile Zola, Le Rêve"
+  },
+  "vénérer": {
+    "quote": "En Angleterre on vénère tant les lois qu’on ne les abroge jamais.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "convoiter": {
+    "quote": "Dès le lendemain, Laurent loua, vers le bas de la rue Mazarine, un petit atelier qu’il convoitait depuis un mois.",
+    "source": "Émile Zola, Thérèse Raquin"
+  },
+  "éluder": {
+    "quote": "Accusé par elle, le croira-t-on? je ne m’occupai qu’à tout éluder.",
+    "source": "Benjamin Constant, Adolphe"
+  },
+  "aplomb": {
+    "quote": "Le collégien, rassuré par la camaraderie de la jeune femme, avait repris tout l’aplomb de sa nature effrontée.",
+    "source": "Émile Zola, La Curée"
+  },
+  "désarroi": {
+    "quote": "Le désarroi dans la salle basse fut indescriptible.",
+    "source": "Victor Hugo, Quatrevingt-treize"
+  },
+  "engouement": {
+    "quote": "Mais un grand succès s’indiquait surtout pour le Paris-Bonheur, autour duquel grandissait une de ces poussées d’engouement, dont la brusque fièvre décide d’une mode en un jour.",
+    "source": "Émile Zola, Au Bonheur des Dames"
+  },
+  "félicité": {
+    "quote": "En cette pleine félicité, il leur venait à chaque instant des larmes aux yeux.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "ferveur": {
+    "quote": "Aussitôt Clélia tomba à genoux, fondant en larmes, et pria la Madone avec ferveur.",
+    "source": "Stendhal, La Chartreuse de Parme"
+  },
+  "flegme": {
+    "quote": "Francis lui-même, malgré le flegme anglais qu’il affectait, se mit à rire, tout en rangeant les peignes.",
+    "source": "Émile Zola, Nana"
+  },
+  "mélancolie": {
+    "quote": "C’est la mélancolie des gens de ma profession d’aller la nuit par les rues.",
+    "source": "Victor Hugo, Notre-Dame de Paris"
+  },
+  "nonchalance": {
+    "quote": "Les choux avaient une large figure de prospérité, les carottes étaient gaies, les salades s’en allaient à la file avec des nonchalances de fainéantes.",
+    "source": "Émile Zola, Le Ventre de Paris"
+  },
+  "pudeur": {
+    "quote": "L’amour, à cette hauteur où il est absolu, se complique d’on ne sait quel céleste aveuglement de la pudeur.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "quiétude": {
+    "quote": "Une quiétude infinie planait sur la terre tranquille où germaient les sèves.",
+    "source": "Guy de Maupassant, Une vie"
+  },
+  "rancune": {
+    "quote": "Un homme de cinquante ans ne tient pas longtemps rancune à une femme de vingt-trois.",
+    "source": "Alexandre Dumas, Les Trois Mousquetaires"
+  },
+  "torpeur": {
+    "quote": "Moi aussi je dois sortir de l’état de torpeur où je languis dans ce triste et froid château.",
+    "source": "Stendhal, La Chartreuse de Parme"
+  },
+  "allégresse": {
+    "quote": "Les délices de ces deux cœurs débordaient sur la foule et donnaient de l’allégresse aux passants.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "amertume": {
+    "quote": "Avec quelle amertume il voyait s’écrouler pièce à pièce tout son échafaudage de gloire et de poésie!",
+    "source": "Victor Hugo, Notre-Dame de Paris"
+  },
+  "effroi": {
+    "quote": "Un glas parle à chacun dans le sens de son chagrin ou de son effroi.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "acariâtre": {
+    "quote": "Vous savez, monsieur, combien il est dangereux pour une femme acariâtre d’être l’épouse d’un médecin.",
+    "source": "Voltaire, Candide"
+  },
+  "cauteleux": {
+    "quote": "La chose nommée plaisanterie ou caricature n’était pas connue en ce pays de despotisme cauteleux.",
+    "source": "Stendhal, La Chartreuse de Parme"
+  },
+  "débonnaire": {
+    "quote": "Mais un gros homme de trente-huit ans, rasé, la figure ronde, parut avec un sourire débonnaire.",
+    "source": "Émile Zola, Germinal"
+  },
+  "dithyrambique": {
+    "quote": "Quand il arrivait à la distribution des récompenses, il dépeignait la joie des lauréats en traits dithyrambiques.",
+    "source": "Gustave Flaubert, Madame Bovary"
+  },
+  "ineffable": {
+    "quote": "Le vieux homme parlait peu, et, par instants, il attachait sur elle des yeux remplis d’une ineffable paternité.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "irascible": {
+    "quote": "On dirait parfois que les évènements sont irascibles.",
+    "source": "Victor Hugo, Quatrevingt-treize"
+  },
+  "pusillanime": {
+    "quote": "Vous ne me trouverez ni pusillanime ni lâche.",
+    "source": "Stendhal, Le Rouge et le Noir"
+  },
+  "vindicatif": {
+    "quote": "Cet amant jaloux et vindicatif avait pris la fuite dès le commencement de la promenade.",
+    "source": "Stendhal, La Chartreuse de Parme"
+  },
+  "parcimonieux": {
+    "quote": "Elle accumule soigneusement ses revenus, et peut-être eût-elle semblé parcimonieuse si elle ne démentait la médisance par un noble emploi de sa fortune.",
+    "source": "Honoré de Balzac, Eugénie Grandet"
+  },
+  "obséquieux": {
+    "quote": "Le besoin de s’occuper d’autrui ne poussait pas seul le pharmacien à tant de cordialité obséquieuse, et il y avait là-dessous un plan.",
+    "source": "Gustave Flaubert, Madame Bovary"
+  },
+  "pétulant": {
+    "quote": "Elle y voit l’ardeur d’un amour pétulant que rien ne peut contenir, et qui est le même malgré la diversité des temps et des lieux.",
+    "source": "Théophile Gautier, Mademoiselle de Maupin"
+  },
+  "abhorrer": {
+    "quote": "J’abhorre les psallants, je hais les prieurs, j’exècre les hérétiques, mais je détesterais plus encore quiconque me soutiendrait le contraire.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "honnir": {
+    "quote": "Sur ce lit est écrit en lettres d’or: Honni soit qui mal y pense.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "ratiociner": {
+    "quote": "Quant à moi, je ratiocine et je médicamente.",
+    "source": "Victor Hugo, L’Homme qui rit"
+  },
+  "componction": {
+    "quote": "La bonne sœur avec un air de componction dit qu’«elle venait de passer».",
+    "source": "Gustave Flaubert, Trois contes"
+  },
+  "faconde": {
+    "quote": "Né Gascon, mais devenu Normand, il doublait sa faconde méridionale de cautèle cauchoise.",
+    "source": "Gustave Flaubert, Madame Bovary"
+  },
+  "mansuétude": {
+    "quote": "Cet homme, bien que plein de préoccupations violentes, s’abîmait dans l’inexprimable mansuétude de l’infini.",
+    "source": "Victor Hugo, Quatrevingt-treize"
+  },
+  "panégyrique": {
+    "quote": "Écoutez le panégyrique que le voisin fait du voisin.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "vicissitude": {
+    "quote": "Dans ce pays, comme en Touraine, les vicissitudes de l’atmosphère dominent la vie commerciale.",
+    "source": "Honoré de Balzac, Eugénie Grandet"
+  },
+  "courroux": {
+    "quote": "Le courroux qui brillait dans les yeux du mousquetaire, malgré la contrainte qu’il s’imposait, épouvanta la sensible amante.",
+    "source": "Alexandre Dumas, Les Trois Mousquetaires"
+  },
+  "opprobre": {
+    "quote": "L’affaire, telle qu’elle va être présentée, nous couvre d’opprobre; car dans une société comme la nôtre, certains ridicules sont des plaies vives, saignantes, incurables.",
+    "source": "Alexandre Dumas, Le Comte de Monte-Cristo"
+  },
+  "turpitude": {
+    "quote": "Il y a des bravoures opiniâtres et ignorées qui se défendent pied à pied dans l’ombre contre l’envahissement fatal des nécessités et des turpitudes.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "forfanterie": {
+    "quote": "Pure forfanterie sans doute, à moins que ce ne fût l’indice d’une prise de possession!",
+    "source": "Jules Verne, L’Île mystérieuse"
+  },
+  "fatuité": {
+    "quote": "Blachevelle sourit avec la fatuité voluptueuse d’un homme chatouillé à l’amour-propre.",
+    "source": "Victor Hugo, Les Misérables"
+  },
+  "magnanimité": {
+    "quote": "Une des magnanimités de la femme, c’est de céder.",
+    "source": "Victor Hugo, Les Misérables"
+  }
+}
