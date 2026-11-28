@@ -150,8 +150,8 @@ view `catalog_localized` filtered on its language, and the older view
 
 - **The French interface has not been built or run.** It was written without
   Xcode at hand: build it and walk through the onboarding in French before
-  release. Until the migration above is applied and the French catalogue is
-  published, French comes from the bundled file only.
+  release. The migration above is applied and the French catalogue (160
+  words) is published.
 
 - **Nothing is locked**: every topic, game and statistic is free for now. The
   subscription is sold in the onboarding, but the limit it lifts is still to
