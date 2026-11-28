@@ -1,0 +1,691 @@
+[
+  {
+    "lemma": "abhor",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To regard with disgust and hatred",
+    "example": "Most people abhor cruelty to animals in any form.",
+    "synonyms": [
+      "detest",
+      "loathe",
+      "despise"
+    ],
+    "origin": "From Latin abhorrere “to shrink back from in horror”, from ab- “away from” and horrere “to bristle, to shudder”."
+  },
+  {
+    "lemma": "admonish",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To warn or criticize someone firmly but gently",
+    "example": "The coach had to admonish two players for arriving late.",
+    "synonyms": [
+      "warn",
+      "reprimand",
+      "caution"
+    ],
+    "origin": "From Old French amonester, from Latin admonere “to remind, to warn”, from ad- “to” and monere “to warn”."
+  },
+  {
+    "lemma": "allude",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To mention something in an indirect way",
+    "example": "She likes to allude to her years in Paris without giving details.",
+    "synonyms": [
+      "refer",
+      "hint",
+      "suggest"
+    ],
+    "origin": "From Latin alludere “to play with, to jest”, from ad- “to” and ludere “to play”."
+  },
+  {
+    "lemma": "appease",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To calm someone by giving what they demand",
+    "example": "The manager offered a refund to appease the angry customer.",
+    "synonyms": [
+      "pacify",
+      "placate",
+      "soothe"
+    ],
+    "origin": "From Old French apaisier “to bring to peace”, from a- “to” and pais “peace”, from Latin pax."
+  },
+  {
+    "lemma": "beguile",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To charm someone, sometimes in order to deceive",
+    "example": "The salesman tried to beguile us with stories of easy profits.",
+    "synonyms": [
+      "charm",
+      "enchant",
+      "deceive"
+    ],
+    "origin": "From be- “thoroughly” and guile “deceit”, from Old French guile, of Germanic origin."
+  },
+  {
+    "lemma": "beseech",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To ask for something in an anxious, urgent way",
+    "example": "I beseech you to think again before you sign that contract.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "entreat"
+    ],
+    "origin": "From Middle English besechen, from be- (intensive) and sechen “to seek”, from Old English secan."
+  },
+  {
+    "lemma": "contemplate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To think about something deeply and at length",
+    "example": "He sat by the lake to contemplate his future.",
+    "synonyms": [
+      "consider",
+      "ponder",
+      "reflect"
+    ],
+    "origin": "From Latin contemplari “to gaze at, to observe”, from con- (intensive) and templum, a space marked out for watching omens."
+  },
+  {
+    "lemma": "disdain",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The feeling that something deserves no respect",
+    "example": "She looked at the cheap souvenirs with obvious disdain.",
+    "synonyms": [
+      "contempt",
+      "scorn",
+      "derision"
+    ],
+    "origin": "From Old French desdeign, from desdeignier “to scorn”, from Latin dedignari “to reject as unworthy”, from de- “away” and dignari “to deem worthy”."
+  },
+  {
+    "lemma": "entreat",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To ask someone earnestly or anxiously",
+    "example": "Let me entreat you once more to stay until morning.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "plead"
+    ],
+    "origin": "From Old French entraiter “to treat, to deal with”, from en- and traiter “to treat”, from Latin tractare “to handle”."
+  },
+  {
+    "lemma": "exalt",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To praise highly or raise in rank",
+    "example": "The poem seems to exalt the simple life of the countryside.",
+    "synonyms": [
+      "praise",
+      "glorify",
+      "elevate"
+    ],
+    "origin": "From Latin exaltare “to raise high”, from ex- “out, upward” and altus “high”."
+  },
+  {
+    "lemma": "implore",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To beg someone desperately to do something",
+    "example": "Doctors implore the public to stay home during the storm.",
+    "synonyms": [
+      "beg",
+      "beseech",
+      "plead"
+    ],
+    "origin": "From Latin implorare “to call upon with tears”, from in- “upon” and plorare “to weep, to cry out”."
+  },
+  {
+    "lemma": "languish",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To grow weak or remain neglected for a long time",
+    "example": "Thousands of applications languish in a queue for months.",
+    "synonyms": [
+      "weaken",
+      "wither",
+      "decline"
+    ],
+    "origin": "From Old French languiss-, stem of languir, from Latin languere “to be faint, to be weak”."
+  },
+  {
+    "lemma": "perplex",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To confuse and worry someone",
+    "example": "The strange results perplex the scientists who ran the experiment.",
+    "synonyms": [
+      "puzzle",
+      "baffle",
+      "confuse"
+    ],
+    "origin": "From the older adjective perplex “confused”, from Latin perplexus “entangled”, from per- “thoroughly” and plectere “to weave, to braid”."
+  },
+  {
+    "lemma": "rebuke",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To criticize someone sharply for what they did",
+    "example": "The judge did not hesitate to rebuke the lawyer for his rudeness.",
+    "synonyms": [
+      "scold",
+      "reprimand",
+      "reproach"
+    ],
+    "origin": "From Anglo-French rebuker “to beat back”, from re- “back” and Old French buschier “to strike, to chop wood”, from busche “log”."
+  },
+  {
+    "lemma": "reproach",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Blame or criticism for a fault or failure",
+    "example": "His mother's eyes were full of silent reproach.",
+    "synonyms": [
+      "blame",
+      "criticism",
+      "censure"
+    ],
+    "origin": "From Old French reproche, from reprochier “to blame”, probably from Latin re- “back” and prope “near”: to bring something back close to someone."
+  },
+  {
+    "lemma": "repudiate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To refuse to accept or be connected with",
+    "example": "The senator was quick to repudiate the remarks of his own adviser.",
+    "synonyms": [
+      "reject",
+      "disown",
+      "renounce"
+    ],
+    "origin": "From Latin repudiare “to divorce, to reject”, from repudium “divorce, rejection”."
+  },
+  {
+    "lemma": "surmise",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To suppose something is true without firm proof",
+    "example": "From the empty driveway I surmise that they have already left.",
+    "synonyms": [
+      "guess",
+      "suppose",
+      "infer"
+    ],
+    "origin": "From Old French surmis, past participle of surmettre “to accuse”, from sur- “upon” and mettre “to put”."
+  },
+  {
+    "lemma": "vex",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To annoy, worry or frustrate someone",
+    "example": "Small delays vex him far more than real disasters ever do.",
+    "synonyms": [
+      "annoy",
+      "irritate",
+      "bother"
+    ],
+    "origin": "From Old French vexer, from Latin vexare “to shake, to harass, to trouble”."
+  },
+  {
+    "lemma": "waver",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To be unsteady or unable to decide",
+    "example": "Her support for the plan began to waver after the first setback.",
+    "synonyms": [
+      "hesitate",
+      "falter",
+      "vacillate"
+    ],
+    "origin": "From Middle English waveren, probably from Old Norse vafra “to flicker, to move unsteadily”."
+  },
+  {
+    "lemma": "ardor",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Great enthusiasm or passion",
+    "example": "They defended their small theater with surprising ardor.",
+    "synonyms": [
+      "passion",
+      "fervor",
+      "zeal"
+    ],
+    "origin": "From Old French ardour, from Latin ardor “heat, flame”, from ardere “to burn”."
+  },
+  {
+    "lemma": "avarice",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Extreme greed for money or possessions",
+    "example": "His avarice cost him every friend he ever had.",
+    "synonyms": [
+      "greed",
+      "cupidity",
+      "covetousness"
+    ],
+    "origin": "From Old French avarice, from Latin avaritia, from avarus “greedy”, from avere “to crave”."
+  },
+  {
+    "lemma": "caprice",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A sudden, unpredictable change of mood or behavior",
+    "example": "The schedule seemed to change at the caprice of the director.",
+    "synonyms": [
+      "whim",
+      "impulse",
+      "fancy"
+    ],
+    "origin": "From French caprice, from Italian capriccio “a sudden start, a shiver”, perhaps from capo “head” and riccio “hedgehog”: a head with the hair standing on end."
+  },
+  {
+    "lemma": "composure",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The state of being calm and in control",
+    "example": "She kept her composure even when the audience began to shout.",
+    "synonyms": [
+      "calm",
+      "poise",
+      "serenity"
+    ],
+    "origin": "From compose and the suffix -ure; compose comes from Old French composer “to put together”, from com- “together” and poser “to place”."
+  },
+  {
+    "lemma": "fortitude",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Courage shown through pain or long difficulty",
+    "example": "She bore the long illness with remarkable fortitude.",
+    "synonyms": [
+      "courage",
+      "endurance",
+      "strength"
+    ],
+    "origin": "From Latin fortitudo “strength”, from fortis “strong”."
+  },
+  {
+    "lemma": "indignation",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Anger at something that seems unfair or wrong",
+    "example": "The decision to close the school caused widespread indignation.",
+    "synonyms": [
+      "anger",
+      "outrage",
+      "resentment"
+    ],
+    "origin": "From Latin indignatio, from indignari “to regard as unworthy”, from in- “not” and dignus “worthy”."
+  },
+  {
+    "lemma": "melancholy",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A deep, lasting and thoughtful sadness",
+    "example": "A gentle melancholy settled over him as the summer ended.",
+    "synonyms": [
+      "sadness",
+      "gloom",
+      "sorrow"
+    ],
+    "origin": "From Greek melankholia, from melas “black” and khole “bile”; an excess of black bile was once thought to cause sadness."
+  },
+  {
+    "lemma": "reverie",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A state of pleasant, dreamy thought",
+    "example": "The ringing phone pulled her out of her reverie.",
+    "synonyms": [
+      "daydream",
+      "trance",
+      "musing"
+    ],
+    "origin": "From French rêverie, from rêver “to dream”, in Old French “to wander, to be delirious”, of uncertain origin."
+  },
+  {
+    "lemma": "scruple",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A moral doubt that makes you hesitate",
+    "example": "He had no scruple about reading other people's letters.",
+    "synonyms": [
+      "qualm",
+      "doubt",
+      "misgiving"
+    ],
+    "origin": "From Latin scrupulus “a small sharp stone”, hence a source of unease, from scrupus “rough stone”."
+  },
+  {
+    "lemma": "tumult",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A loud, confused noise or state of disorder",
+    "example": "The speaker could not be heard above the tumult of the crowd.",
+    "synonyms": [
+      "uproar",
+      "commotion",
+      "turmoil"
+    ],
+    "origin": "From Latin tumultus “commotion, uproar”, related to tumere “to swell”."
+  },
+  {
+    "lemma": "vanity",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Too much pride in your looks or achievements",
+    "example": "Out of vanity, he refused to wear his glasses in public.",
+    "synonyms": [
+      "pride",
+      "conceit",
+      "narcissism"
+    ],
+    "origin": "From Old French vanité, from Latin vanitas “emptiness, worthlessness”, from vanus “empty”."
+  },
+  {
+    "lemma": "vigor",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Physical or mental strength and energy",
+    "example": "At eighty she still argues with the vigor of a young lawyer.",
+    "synonyms": [
+      "energy",
+      "vitality",
+      "strength"
+    ],
+    "origin": "From Old French vigor, from Latin vigor “liveliness”, from vigere “to be lively, to thrive”."
+  },
+  {
+    "lemma": "anguish",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Severe mental or physical pain",
+    "example": "The families waited in anguish for news of the rescue.",
+    "synonyms": [
+      "agony",
+      "torment",
+      "suffering"
+    ],
+    "origin": "From Old French anguisse “a choking sensation”, from Latin angustia “narrowness, distress”, from angustus “narrow”."
+  },
+  {
+    "lemma": "malice",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The wish to harm or upset other people",
+    "example": "There was no malice in his joke, only clumsiness.",
+    "synonyms": [
+      "spite",
+      "malevolence",
+      "cruelty"
+    ],
+    "origin": "From Old French malice, from Latin malitia “badness, ill will”, from malus “bad”."
+  },
+  {
+    "lemma": "pretext",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A false reason given to hide the real one",
+    "example": "He left the meeting early on the pretext of a headache.",
+    "synonyms": [
+      "excuse",
+      "pretense",
+      "guise"
+    ],
+    "origin": "From Latin praetextus “outward show”, from praetexere “to weave in front, to disguise”, from prae- “before” and texere “to weave”."
+  },
+  {
+    "lemma": "solicitude",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Care and concern for someone's comfort or wellbeing",
+    "example": "The nurse treated every patient with the same quiet solicitude.",
+    "synonyms": [
+      "concern",
+      "care",
+      "attentiveness"
+    ],
+    "origin": "From Latin sollicitudo “anxiety”, from sollicitus “agitated, troubled”, from sollus “whole” and citus “set in motion”."
+  },
+  {
+    "lemma": "countenance",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A person's face or its expression",
+    "example": "His cheerful countenance put the nervous visitors at ease.",
+    "synonyms": [
+      "face",
+      "expression",
+      "visage"
+    ],
+    "origin": "From Old French contenance “bearing, behavior”, from Latin continentia “restraint”, from continere “to hold together”."
+  },
+  {
+    "lemma": "amiable",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Friendly and pleasant to be with",
+    "example": "Our amiable neighbor always stops to chat over the fence.",
+    "synonyms": [
+      "friendly",
+      "pleasant",
+      "genial"
+    ],
+    "origin": "From Old French amiable, from late Latin amicabilis “friendly”, from Latin amicus “friend”."
+  },
+  {
+    "lemma": "arduous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Needing great effort; difficult and tiring",
+    "example": "The arduous climb to the summit took nearly twelve hours.",
+    "synonyms": [
+      "difficult",
+      "strenuous",
+      "grueling"
+    ],
+    "origin": "From Latin arduus “high, steep, difficult”."
+  },
+  {
+    "lemma": "astute",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Quick to understand a situation and gain from it",
+    "example": "An astute observer would have noticed the tension in the room.",
+    "synonyms": [
+      "shrewd",
+      "sharp",
+      "perceptive"
+    ],
+    "origin": "From Latin astutus “crafty, clever”, from astus “craft, cunning”."
+  },
+  {
+    "lemma": "aloof",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Distant and not friendly or involved",
+    "example": "He remained aloof from the office gossip and ate lunch alone.",
+    "synonyms": [
+      "distant",
+      "detached",
+      "reserved"
+    ],
+    "origin": "From a- “on” and loof, an old form of luff “the windward side of a ship”; a ship kept aloof stayed clear of the shore."
+  },
+  {
+    "lemma": "despondent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Very sad and without hope",
+    "example": "She grew despondent after her third job application was rejected.",
+    "synonyms": [
+      "hopeless",
+      "dejected",
+      "discouraged"
+    ],
+    "origin": "From Latin despondere “to give up, to lose heart”, from de- “away” and spondere “to promise”."
+  },
+  {
+    "lemma": "formidable",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Causing fear or respect by being large or powerful",
+    "example": "The champion faces a formidable opponent in tonight's final.",
+    "synonyms": [
+      "daunting",
+      "impressive",
+      "fearsome"
+    ],
+    "origin": "From Latin formidabilis, from formidare “to fear”, from formido “fear, terror”."
+  },
+  {
+    "lemma": "haughty",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Proud and looking down on other people",
+    "example": "The haughty waiter ignored us for nearly half an hour.",
+    "synonyms": [
+      "arrogant",
+      "proud",
+      "disdainful"
+    ],
+    "origin": "From Middle English haut “high, proud”, from Old French haut “high”, from Latin altus."
+  },
+  {
+    "lemma": "impetuous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Acting quickly without thinking about the results",
+    "example": "His impetuous decision to quit left the family without income.",
+    "synonyms": [
+      "rash",
+      "impulsive",
+      "hasty"
+    ],
+    "origin": "From Latin impetuosus, from impetus “attack, rush”, from impetere “to attack”."
+  },
+  {
+    "lemma": "ludicrous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "So foolish or unreasonable as to be laughable",
+    "example": "It is ludicrous to expect the work to be done by Friday.",
+    "synonyms": [
+      "absurd",
+      "ridiculous",
+      "laughable"
+    ],
+    "origin": "From Latin ludicrus “sportive, done in play”, from ludere “to play”."
+  },
+  {
+    "lemma": "sullen",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Silently bad-tempered and gloomy",
+    "example": "The sullen teenager answered every question with a shrug.",
+    "synonyms": [
+      "sulky",
+      "morose",
+      "surly"
+    ],
+    "origin": "From Anglo-French solein “alone, solitary”, from Old French sol “alone”, from Latin solus."
+  },
+  {
+    "lemma": "vehement",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Showing strong and forceful feeling",
+    "example": "The plan met with vehement opposition from local residents.",
+    "synonyms": [
+      "passionate",
+      "forceful",
+      "fierce"
+    ],
+    "origin": "From Latin vehemens “violent, eager, impetuous”, of uncertain formation."
+  },
+  {
+    "lemma": "wistful",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Full of gentle, sad longing",
+    "example": "She gave a wistful smile as the train pulled away.",
+    "synonyms": [
+      "longing",
+      "nostalgic",
+      "yearning"
+    ],
+    "origin": "Probably from the obsolete wistly “intently”, with its sense of longing influenced by wishful."
+  },
+  {
+    "lemma": "impertinent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Rude and not showing proper respect",
+    "example": "The reporter was told that his question was impertinent.",
+    "synonyms": [
+      "rude",
+      "insolent",
+      "cheeky"
+    ],
+    "origin": "From late Latin impertinens “not belonging, not to the point”, from in- “not” and pertinere “to pertain”."
+  },
+  {
+    "lemma": "sublime",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "So beautiful or grand as to inspire awe",
+    "example": "The view from the top of the pass was simply sublime.",
+    "synonyms": [
+      "magnificent",
+      "glorious",
+      "majestic"
+    ],
+    "origin": "From Latin sublimis “uplifted, lofty”, probably from sub “up to” and limen “lintel”."
+  },
+  {
+    "lemma": "dismal",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Gloomy and depressing, or very bad",
+    "example": "Ticket sales were dismal during the long, wet summer.",
+    "synonyms": [
+      "gloomy",
+      "dreary",
+      "miserable"
+    ],
+    "origin": "From Anglo-French dis mal, from medieval Latin dies mali “evil days”, the unlucky days of the medieval calendar."
+  },
+  {
+    "lemma": "credulous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Too ready to believe what you are told",
+    "example": "Credulous investors lost millions in the scheme.",
+    "synonyms": [
+      "gullible",
+      "naive",
+      "trusting"
+    ],
+    "origin": "From Latin credulus “easily believing”, from credere “to believe”."
+  },
+  {
+    "lemma": "docile",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Quiet and easy to control or teach",
+    "example": "The horse was docile enough for a child to ride.",
+    "synonyms": [
+      "obedient",
+      "gentle",
+      "submissive"
+    ],
+    "origin": "From Latin docilis “easily taught”, from docere “to teach”."
+  }
+]

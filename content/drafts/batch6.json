@@ -1,0 +1,649 @@
+[
+  {
+    "lemma": "adore",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To love and respect someone very deeply",
+    "example": "The children adore their grandmother and visit her every Sunday.",
+    "synonyms": [
+      "love",
+      "cherish",
+      "worship"
+    ],
+    "origin": "From Old French adorer, from Latin adorare “to speak to, to worship”, from ad- “to” and orare “to speak, to pray”."
+  },
+  {
+    "lemma": "bewilder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To confuse someone completely",
+    "example": "The new tax forms bewilder even experienced accountants.",
+    "synonyms": [
+      "confuse",
+      "baffle",
+      "puzzle"
+    ],
+    "origin": "From be- “thoroughly” and the old verb wilder “to lead astray”, probably taken from wilderness."
+  },
+  {
+    "lemma": "cherish",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To love, protect and care for something deeply",
+    "example": "I cherish the letters my father wrote to me during the war.",
+    "synonyms": [
+      "treasure",
+      "value",
+      "prize"
+    ],
+    "origin": "From Old French cherir “to hold dear”, from cher “dear”, from Latin carus “dear”."
+  },
+  {
+    "lemma": "coax",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To gently persuade someone to do something",
+    "example": "She managed to coax the frightened kitten out from under the bed.",
+    "synonyms": [
+      "persuade",
+      "cajole",
+      "wheedle"
+    ],
+    "origin": "From the obsolete noun cokes “a fool, a simpleton”; to coax first meant to make a fool of someone, then to pet and to persuade."
+  },
+  {
+    "lemma": "conceal",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To hide something or keep it secret",
+    "example": "He tried to conceal his disappointment behind a polite smile.",
+    "synonyms": [
+      "hide",
+      "cover",
+      "mask"
+    ],
+    "origin": "From Old French conceler, from Latin concelare, from con- “completely” and celare “to hide”."
+  },
+  {
+    "lemma": "dread",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel great fear about something to come",
+    "example": "I dread the long drive home in this heavy snow.",
+    "synonyms": [
+      "fear"
+    ],
+    "origin": "From Middle English dreden, shortened from Old English adrædan, ondrædan “to fear, to be afraid”."
+  },
+  {
+    "lemma": "falter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To lose strength or confidence and hesitate",
+    "example": "Her voice began to falter as she read the final paragraph.",
+    "synonyms": [
+      "waver",
+      "stumble",
+      "hesitate"
+    ],
+    "origin": "From Middle English falteren “to stagger, to stumble”, of uncertain origin, perhaps Scandinavian."
+  },
+  {
+    "lemma": "gaze",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To look steadily at something for a long time",
+    "example": "We sat on the hill to gaze at the stars.",
+    "synonyms": [
+      "stare",
+      "look",
+      "contemplate"
+    ],
+    "origin": "From Middle English gasen “to stare”, probably of Scandinavian origin; compare Swedish dialect gasa “to gape”."
+  },
+  {
+    "lemma": "grieve",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel deep sadness, especially after a death",
+    "example": "The whole town continued to grieve for the lost fishermen.",
+    "synonyms": [
+      "mourn",
+      "sorrow",
+      "lament"
+    ],
+    "origin": "From Old French grever “to burden, to afflict”, from Latin gravare “to make heavy”, from gravis “heavy”."
+  },
+  {
+    "lemma": "linger",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To stay somewhere longer than necessary",
+    "example": "Guests tend to linger in the garden long after dinner is over.",
+    "synonyms": [
+      "stay",
+      "remain",
+      "loiter"
+    ],
+    "origin": "From Middle English lengeren “to dwell”, a frequentative of lengen “to prolong”, from Old English lengan, related to long."
+  },
+  {
+    "lemma": "loathe",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To dislike someone or something intensely",
+    "example": "I loathe waiting in line at the airport.",
+    "synonyms": [
+      "hate",
+      "detest",
+      "despise"
+    ],
+    "origin": "From Old English lathian “to be hateful”, from lath “hostile, hateful”."
+  },
+  {
+    "lemma": "mend",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To repair something broken or damaged",
+    "example": "My grandfather taught me how to mend a torn fishing net.",
+    "synonyms": [
+      "repair",
+      "fix",
+      "patch"
+    ],
+    "origin": "Shortened from amend, from Old French amender, from Latin emendare “to free from fault”, from menda “fault”."
+  },
+  {
+    "lemma": "plead",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To ask for something in an urgent, emotional way",
+    "example": "The prisoners plead for mercy, but the judge is unmoved.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "appeal"
+    ],
+    "origin": "From Old French plaidier “to go to law”, from plait “lawsuit”, from Latin placitum “decree, opinion”, literally “what is pleasing”."
+  },
+  {
+    "lemma": "pursue",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To follow or chase in order to catch or achieve",
+    "example": "She moved to Vienna to pursue a career in music.",
+    "synonyms": [
+      "chase",
+      "follow",
+      "seek"
+    ],
+    "origin": "From Anglo-French pursuer, from Latin prosequi “to follow after”, from pro- “forward” and sequi “to follow”."
+  },
+  {
+    "lemma": "rejoice",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel or show great joy",
+    "example": "Fans rejoice whenever the team wins at home.",
+    "synonyms": [
+      "celebrate",
+      "delight",
+      "exult"
+    ],
+    "origin": "From Old French rejoiss-, stem of rejoir “to gladden”, from re- (intensive) and joir “to be glad”, from Latin gaudere “to be glad”."
+  },
+  {
+    "lemma": "scold",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To speak angrily to someone who has done wrong",
+    "example": "Parents should not scold a child for asking honest questions.",
+    "synonyms": [
+      "rebuke",
+      "reprimand",
+      "chide"
+    ],
+    "origin": "From Middle English scold “a quarrelsome, abusive person”, probably from Old Norse skáld “poet”, as a writer of mocking verse."
+  },
+  {
+    "lemma": "seize",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To take hold of something suddenly and firmly",
+    "example": "Police were able to seize the stolen paintings at the border.",
+    "synonyms": [
+      "grab",
+      "grasp",
+      "capture"
+    ],
+    "origin": "From Old French seisir “to take possession of”, from medieval Latin sacire, probably of Germanic origin."
+  },
+  {
+    "lemma": "startle",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To surprise or frighten someone suddenly",
+    "example": "A loud knock on the window will startle the sleeping dog.",
+    "synonyms": [
+      "surprise",
+      "alarm",
+      "shock"
+    ],
+    "origin": "From Old English steartlian “to kick, to struggle”, related to start in its old sense “to leap”."
+  },
+  {
+    "lemma": "wander",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To walk around slowly with no clear direction",
+    "example": "We love to wander through the old streets of Lisbon at night.",
+    "synonyms": [
+      "roam",
+      "stroll",
+      "drift"
+    ],
+    "origin": "From Old English wandrian “to move about aimlessly”, related to wend and wind."
+  },
+  {
+    "lemma": "perish",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To die, especially in a sudden or violent way",
+    "example": "Without water, the young plants will perish within days.",
+    "synonyms": [
+      "die",
+      "expire"
+    ],
+    "origin": "From Old French periss-, stem of perir, from Latin perire “to pass away, to be lost”, from per- “through, away” and ire “to go”."
+  },
+  {
+    "lemma": "murmur",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To say something in a soft, quiet voice",
+    "example": "I heard him murmur an apology as he left the room.",
+    "synonyms": [
+      "mutter",
+      "whisper",
+      "mumble"
+    ],
+    "origin": "From Old French murmurer, from Latin murmurare, from murmur “a hum, a muttering”, an imitative word."
+  },
+  {
+    "lemma": "blunder",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A careless or stupid mistake",
+    "example": "Sending the email to the whole company was an embarrassing blunder.",
+    "synonyms": [
+      "mistake",
+      "error",
+      "slip"
+    ],
+    "origin": "From Middle English blunderen “to stumble about blindly”, probably of Scandinavian origin; compare Old Norse blunda “to shut the eyes”."
+  },
+  {
+    "lemma": "dusk",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "The darker part of twilight, just before night",
+    "example": "Bats leave the cave at dusk to hunt for insects.",
+    "synonyms": [
+      "twilight",
+      "nightfall",
+      "sundown"
+    ],
+    "origin": "From Middle English dosk “dark, dim”, from Old English dox “dark, swarthy”."
+  },
+  {
+    "lemma": "feat",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "An achievement that needs great skill or courage",
+    "example": "Crossing the ocean alone in a rowing boat was an extraordinary feat.",
+    "synonyms": [
+      "achievement",
+      "exploit",
+      "deed"
+    ],
+    "origin": "From Anglo-French fet, Old French fait, from Latin factum “a thing done”, from facere “to do”."
+  },
+  {
+    "lemma": "folly",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A lack of good sense; a foolish act",
+    "example": "It would be folly to sail in such a violent storm.",
+    "synonyms": [
+      "foolishness",
+      "madness",
+      "stupidity"
+    ],
+    "origin": "From Old French folie “madness”, from fol “foolish, mad”, from Latin follis “bellows, bag of wind”."
+  },
+  {
+    "lemma": "gloom",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Partial darkness, or a feeling of sadness",
+    "example": "A single candle did little to lift the gloom of the hall.",
+    "synonyms": [
+      "darkness",
+      "sadness",
+      "melancholy"
+    ],
+    "origin": "Related to Old English glom “twilight”; in Middle English the verb gloumen meant “to frown, to look sullen”."
+  },
+  {
+    "lemma": "grudge",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A lasting feeling of anger about a past wrong",
+    "example": "He has held a grudge against his brother for twenty years.",
+    "synonyms": [
+      "resentment",
+      "grievance",
+      "bitterness"
+    ],
+    "origin": "From Middle English grucchen “to murmur, to complain”, from Old French grouchier “to grumble”, of uncertain origin."
+  },
+  {
+    "lemma": "mischief",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Playful behavior that causes minor trouble",
+    "example": "The twins were always getting into mischief when left alone.",
+    "synonyms": [
+      "naughtiness",
+      "trouble",
+      "pranks"
+    ],
+    "origin": "From Old French meschief “misfortune”, from meschever “to come to grief”, from mes- “badly” and chever “to come to an end”, from chief “head, end”."
+  },
+  {
+    "lemma": "remorse",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Deep regret for something you did wrong",
+    "example": "The driver showed no remorse for the accident he caused.",
+    "synonyms": [
+      "regret",
+      "guilt",
+      "repentance"
+    ],
+    "origin": "From Old French remors, from medieval Latin remorsus, from Latin remordere “to bite again, to torment”, from mordere “to bite”."
+  },
+  {
+    "lemma": "solitude",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "The state of being alone, often by choice",
+    "example": "After a noisy week she enjoyed the solitude of the mountains.",
+    "synonyms": [
+      "isolation",
+      "seclusion",
+      "privacy"
+    ],
+    "origin": "From Old French solitude, from Latin solitudo “loneliness”, from solus “alone”."
+  },
+  {
+    "lemma": "sorrow",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A feeling of deep sadness or loss",
+    "example": "Words cannot express our sorrow at the news of his death.",
+    "synonyms": [
+      "grief",
+      "sadness",
+      "woe"
+    ],
+    "origin": "From Old English sorg “grief, care, anxiety”."
+  },
+  {
+    "lemma": "toil",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Long, hard and tiring work",
+    "example": "After years of toil, the farm finally began to make money.",
+    "synonyms": [
+      "labor",
+      "drudgery",
+      "work"
+    ],
+    "origin": "From Anglo-French toiller “to agitate, to stir up, to entangle”; the sense “hard work” grew out of “struggle, turmoil”."
+  },
+  {
+    "lemma": "whim",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A sudden wish or idea, often an odd one",
+    "example": "On a whim, we booked two tickets to Iceland that same evening.",
+    "synonyms": [
+      "impulse",
+      "fancy",
+      "caprice"
+    ],
+    "origin": "Shortened from whim-wham “a fanciful object, a trinket”, of unknown origin."
+  },
+  {
+    "lemma": "envy",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A wish to have what another person has",
+    "example": "Her new car was the envy of the whole neighborhood.",
+    "synonyms": [
+      "jealousy",
+      "covetousness",
+      "resentment"
+    ],
+    "origin": "From Old French envie, from Latin invidia, from invidere “to look at with ill will”, from in- “upon” and videre “to see”."
+  },
+  {
+    "lemma": "ample",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "More than enough in size or amount",
+    "example": "There is ample room in the trunk for all four suitcases.",
+    "synonyms": [
+      "plentiful",
+      "abundant",
+      "generous"
+    ],
+    "origin": "From Old French ample, from Latin amplus “large, spacious, abundant”."
+  },
+  {
+    "lemma": "awkward",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Lacking ease or grace; uncomfortable or embarrassing",
+    "example": "There was an awkward silence after he forgot her name.",
+    "synonyms": [
+      "clumsy",
+      "uncomfortable",
+      "embarrassing"
+    ],
+    "origin": "From Middle English awk “turned the wrong way” (from Old Norse afugr) and -ward “in the direction of”."
+  },
+  {
+    "lemma": "cunning",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clever at getting what you want by tricks",
+    "example": "The cunning fox waited until the farmer had gone inside.",
+    "synonyms": [
+      "sly",
+      "crafty",
+      "wily"
+    ],
+    "origin": "From Middle English cunning “knowing, skilled”, from cunnen “to know”, from Old English cunnan; related to can."
+  },
+  {
+    "lemma": "dreary",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Dull, dark and making you feel sad",
+    "example": "We spent a dreary afternoon waiting for the rain to stop.",
+    "synonyms": [
+      "bleak",
+      "dull",
+      "gloomy"
+    ],
+    "origin": "From Old English dreorig “sad, sorrowful”, originally “bloody, gory”, from dreor “gore, falling blood”."
+  },
+  {
+    "lemma": "fierce",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Violent and aggressive, or very strong",
+    "example": "The two companies are locked in fierce competition for customers.",
+    "synonyms": [
+      "ferocious",
+      "savage",
+      "intense"
+    ],
+    "origin": "From Old French fers, nominative of fer “wild, proud”, from Latin ferus “wild, untamed”."
+  },
+  {
+    "lemma": "grim",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very serious, gloomy or worrying",
+    "example": "The doctor's grim expression told us the news was bad.",
+    "synonyms": [
+      "stern",
+      "bleak",
+      "severe"
+    ],
+    "origin": "From Old English grimm “fierce, savage, cruel”."
+  },
+  {
+    "lemma": "keen",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very eager, or sharp and quick",
+    "example": "She has a keen eye for detail and a keen interest in art.",
+    "synonyms": [
+      "eager",
+      "sharp",
+      "enthusiastic"
+    ],
+    "origin": "From Old English cene “bold, brave”, later “sharp”."
+  },
+  {
+    "lemma": "nimble",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Quick and light in movement or thought",
+    "example": "A nimble goalkeeper can change direction in an instant.",
+    "synonyms": [
+      "agile",
+      "quick",
+      "spry"
+    ],
+    "origin": "From Old English næmel “quick to grasp”, from niman “to take”; the b crept in later."
+  },
+  {
+    "lemma": "radiant",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Shining brightly, or glowing with joy",
+    "example": "The bride looked radiant as she walked into the room.",
+    "synonyms": [
+      "glowing",
+      "bright",
+      "beaming"
+    ],
+    "origin": "From Latin radians “shining”, from radiare “to emit rays”, from radius “ray, spoke”."
+  },
+  {
+    "lemma": "shrewd",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Having sharp practical judgment",
+    "example": "A shrewd investor, she sold her shares just before prices fell.",
+    "synonyms": [
+      "astute",
+      "sharp",
+      "canny"
+    ],
+    "origin": "From Middle English shrewed “wicked, cursed”, from shrew “a spiteful person”; the sense softened to “cunning” and then “clever”."
+  },
+  {
+    "lemma": "solemn",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very serious, formal and dignified",
+    "example": "The soldiers made a solemn promise to defend the city.",
+    "synonyms": [
+      "serious",
+      "grave",
+      "earnest"
+    ],
+    "origin": "From Old French solemne, from Latin sollemnis “established, ceremonial, performed at fixed times”."
+  },
+  {
+    "lemma": "timid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Lacking courage or confidence; easily frightened",
+    "example": "The timid boy stood at the back and never raised his hand.",
+    "synonyms": [
+      "shy",
+      "fearful",
+      "bashful"
+    ],
+    "origin": "From Latin timidus “fearful”, from timere “to fear”."
+  },
+  {
+    "lemma": "vast",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Extremely large in size, amount or extent",
+    "example": "A vast desert stretches from the mountains to the sea.",
+    "synonyms": [
+      "huge",
+      "immense",
+      "enormous"
+    ],
+    "origin": "From Latin vastus “immense, empty, desolate”."
+  },
+  {
+    "lemma": "wretched",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very unhappy, unfortunate or of poor quality",
+    "example": "The refugees spent a wretched winter in thin canvas tents.",
+    "synonyms": [
+      "miserable",
+      "pitiful",
+      "unhappy"
+    ],
+    "origin": "From Middle English wrecched, from wrecche “wretch”, from Old English wrecca “exile, outcast”."
+  },
+  {
+    "lemma": "earnest",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Serious and sincere in what you say or do",
+    "example": "He made an earnest attempt to repair the friendship.",
+    "synonyms": [
+      "serious",
+      "sincere",
+      "heartfelt"
+    ],
+    "origin": "From Old English eornoste “serious, zealous”, from eornost “seriousness”."
+  },
+  {
+    "lemma": "fragile",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Easily broken, damaged or harmed",
+    "example": "Pack the fragile glasses carefully between layers of newspaper.",
+    "synonyms": [
+      "delicate",
+      "brittle",
+      "frail"
+    ],
+    "origin": "From Latin fragilis “easily broken”, from frangere “to break”."
+  }
+]

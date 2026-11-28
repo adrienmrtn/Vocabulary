@@ -915,5 +915,556 @@
   ],
   "schadenfreude": [
     "emotions"
+  ],
+  "adore": [
+    "emotions"
+  ],
+  "bewilder": [
+    "emotions",
+    "debate"
+  ],
+  "cherish": [
+    "emotions"
+  ],
+  "coax": [
+    "persuasion"
+  ],
+  "conceal": [
+    "persuasion",
+    "character"
+  ],
+  "dread": [
+    "emotions"
+  ],
+  "falter": [
+    "emotions",
+    "character"
+  ],
+  "gaze": [
+    "nature",
+    "travel"
+  ],
+  "grieve": [
+    "emotions"
+  ],
+  "linger": [
+    "travel",
+    "emotions"
+  ],
+  "loathe": [
+    "emotions"
+  ],
+  "mend": [
+    "society"
+  ],
+  "plead": [
+    "persuasion",
+    "society"
+  ],
+  "pursue": [
+    "business"
+  ],
+  "rejoice": [
+    "emotions"
+  ],
+  "scold": [
+    "society",
+    "character"
+  ],
+  "seize": [
+    "business",
+    "society"
+  ],
+  "startle": [
+    "emotions"
+  ],
+  "wander": [
+    "travel"
+  ],
+  "perish": [
+    "nature"
+  ],
+  "murmur": [
+    "literature"
+  ],
+  "blunder": [
+    "business"
+  ],
+  "dusk": [
+    "nature"
+  ],
+  "feat": [
+    "business",
+    "travel"
+  ],
+  "folly": [
+    "character",
+    "debate"
+  ],
+  "gloom": [
+    "emotions",
+    "nature"
+  ],
+  "grudge": [
+    "emotions"
+  ],
+  "mischief": [
+    "character"
+  ],
+  "remorse": [
+    "emotions"
+  ],
+  "solitude": [
+    "emotions",
+    "nature"
+  ],
+  "sorrow": [
+    "emotions"
+  ],
+  "toil": [
+    "business"
+  ],
+  "whim": [
+    "character",
+    "emotions"
+  ],
+  "envy": [
+    "emotions"
+  ],
+  "ample": [
+    "business"
+  ],
+  "awkward": [
+    "emotions",
+    "society"
+  ],
+  "cunning": [
+    "character"
+  ],
+  "dreary": [
+    "nature",
+    "emotions"
+  ],
+  "fierce": [
+    "nature",
+    "business"
+  ],
+  "grim": [
+    "emotions"
+  ],
+  "keen": [
+    "character"
+  ],
+  "nimble": [
+    "character",
+    "nature"
+  ],
+  "radiant": [
+    "emotions",
+    "nature"
+  ],
+  "shrewd": [
+    "business",
+    "character"
+  ],
+  "solemn": [
+    "society",
+    "character"
+  ],
+  "timid": [
+    "character",
+    "emotions"
+  ],
+  "vast": [
+    "nature",
+    "travel"
+  ],
+  "wretched": [
+    "emotions",
+    "society"
+  ],
+  "earnest": [
+    "character"
+  ],
+  "fragile": [
+    "science",
+    "emotions"
+  ],
+  "abhor": [
+    "emotions",
+    "debate"
+  ],
+  "admonish": [
+    "society",
+    "persuasion"
+  ],
+  "allude": [
+    "literature",
+    "debate"
+  ],
+  "appease": [
+    "persuasion",
+    "society"
+  ],
+  "beguile": [
+    "persuasion",
+    "literature"
+  ],
+  "beseech": [
+    "persuasion",
+    "literature"
+  ],
+  "contemplate": [
+    "literature",
+    "science"
+  ],
+  "disdain": [
+    "emotions",
+    "character"
+  ],
+  "entreat": [
+    "persuasion"
+  ],
+  "exalt": [
+    "literature",
+    "society"
+  ],
+  "implore": [
+    "persuasion",
+    "emotions"
+  ],
+  "languish": [
+    "emotions",
+    "business"
+  ],
+  "perplex": [
+    "science",
+    "debate"
+  ],
+  "rebuke": [
+    "society"
+  ],
+  "reproach": [
+    "emotions",
+    "society"
+  ],
+  "repudiate": [
+    "debate",
+    "society"
+  ],
+  "surmise": [
+    "debate",
+    "science"
+  ],
+  "vex": [
+    "emotions"
+  ],
+  "waver": [
+    "character",
+    "debate"
+  ],
+  "ardor": [
+    "emotions"
+  ],
+  "avarice": [
+    "character",
+    "business"
+  ],
+  "caprice": [
+    "character"
+  ],
+  "composure": [
+    "emotions",
+    "character"
+  ],
+  "fortitude": [
+    "character"
+  ],
+  "indignation": [
+    "emotions",
+    "society"
+  ],
+  "melancholy": [
+    "emotions",
+    "literature"
+  ],
+  "reverie": [
+    "emotions",
+    "literature"
+  ],
+  "scruple": [
+    "character",
+    "debate"
+  ],
+  "tumult": [
+    "society"
+  ],
+  "vanity": [
+    "character"
+  ],
+  "vigor": [
+    "nature",
+    "character"
+  ],
+  "anguish": [
+    "emotions"
+  ],
+  "malice": [
+    "character"
+  ],
+  "pretext": [
+    "persuasion",
+    "debate"
+  ],
+  "solicitude": [
+    "emotions",
+    "character"
+  ],
+  "countenance": [
+    "literature"
+  ],
+  "amiable": [
+    "character"
+  ],
+  "arduous": [
+    "travel",
+    "business"
+  ],
+  "astute": [
+    "business",
+    "character"
+  ],
+  "aloof": [
+    "character"
+  ],
+  "despondent": [
+    "emotions"
+  ],
+  "formidable": [
+    "business",
+    "debate"
+  ],
+  "haughty": [
+    "character"
+  ],
+  "impetuous": [
+    "character"
+  ],
+  "ludicrous": [
+    "debate"
+  ],
+  "sullen": [
+    "emotions",
+    "character"
+  ],
+  "vehement": [
+    "debate",
+    "emotions"
+  ],
+  "wistful": [
+    "emotions",
+    "literature"
+  ],
+  "impertinent": [
+    "society",
+    "character"
+  ],
+  "sublime": [
+    "literature",
+    "nature"
+  ],
+  "dismal": [
+    "emotions",
+    "business"
+  ],
+  "credulous": [
+    "debate",
+    "character"
+  ],
+  "docile": [
+    "character",
+    "nature"
+  ],
+  "imperious": [
+    "character"
+  ],
+  "importunate": [
+    "persuasion"
+  ],
+  "inexorable": [
+    "science",
+    "debate"
+  ],
+  "ignominious": [
+    "society"
+  ],
+  "lugubrious": [
+    "emotions",
+    "literature"
+  ],
+  "impecunious": [
+    "business",
+    "society"
+  ],
+  "mercurial": [
+    "character"
+  ],
+  "punctilious": [
+    "character",
+    "business"
+  ],
+  "sedulous": [
+    "business",
+    "character"
+  ],
+  "tremulous": [
+    "emotions"
+  ],
+  "sardonic": [
+    "character",
+    "literature"
+  ],
+  "saturnine": [
+    "character"
+  ],
+  "peremptory": [
+    "society",
+    "character"
+  ],
+  "disconsolate": [
+    "emotions"
+  ],
+  "insidious": [
+    "science",
+    "society"
+  ],
+  "incorrigible": [
+    "character"
+  ],
+  "irascible": [
+    "character",
+    "emotions"
+  ],
+  "petulant": [
+    "character"
+  ],
+  "salubrious": [
+    "nature",
+    "travel"
+  ],
+  "voluble": [
+    "character",
+    "travel"
+  ],
+  "redolent": [
+    "nature",
+    "literature"
+  ],
+  "propitious": [
+    "business"
+  ],
+  "inimical": [
+    "debate",
+    "science"
+  ],
+  "intractable": [
+    "science",
+    "society"
+  ],
+  "implacable": [
+    "character",
+    "society"
+  ],
+  "ameliorate": [
+    "society",
+    "business"
+  ],
+  "assuage": [
+    "emotions"
+  ],
+  "descry": [
+    "travel",
+    "literature"
+  ],
+  "dissemble": [
+    "persuasion",
+    "character"
+  ],
+  "expostulate": [
+    "debate"
+  ],
+  "extol": [
+    "persuasion",
+    "literature"
+  ],
+  "remonstrate": [
+    "debate"
+  ],
+  "upbraid": [
+    "society"
+  ],
+  "vacillate": [
+    "debate",
+    "character"
+  ],
+  "enervate": [
+    "science",
+    "business"
+  ],
+  "impugn": [
+    "debate"
+  ],
+  "approbation": [
+    "society"
+  ],
+  "effrontery": [
+    "character"
+  ],
+  "opprobrium": [
+    "society"
+  ],
+  "temerity": [
+    "character"
+  ],
+  "lassitude": [
+    "emotions",
+    "science"
+  ],
+  "perfidy": [
+    "character",
+    "society"
+  ],
+  "probity": [
+    "character",
+    "business"
+  ],
+  "rectitude": [
+    "character"
+  ],
+  "torpor": [
+    "nature",
+    "science"
+  ],
+  "turpitude": [
+    "society"
+  ],
+  "penury": [
+    "society",
+    "business"
+  ],
+  "paroxysm": [
+    "emotions",
+    "science"
+  ],
+  "celerity": [
+    "business"
+  ],
+  "misanthrope": [
+    "society",
+    "character"
+  ],
+  "harbinger": [
+    "nature",
+    "literature"
   ]
 }

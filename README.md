@@ -64,7 +64,7 @@ review. Topics per word are in `content/topics.json`.
 ### Supabase
 
 The schema in `supabase/migrations` is applied to the "Vocabulary" project and
-the 250 words are loaded. At launch the app downloads the published catalogue
+the 404 words are loaded. At launch the app downloads the published catalogue
 and uses it from the next launch on; the bundled file is the offline fallback.
 To publish a new build of the catalogue (needs the project's secret key, which
 must stay out of the repository):
@@ -88,7 +88,8 @@ app simply stays local.
 `content/build_quotes.py` downloads public-domain classics from Project
 Gutenberg and proposes up to five sentences per word. The ones chosen go in
 `content/quotes.json` and are merged by the build above; the app shows them in
-the word detail sheet. No quotations have been chosen yet.
+the word detail sheet. 344 of the 404 words have a quotation; the rest are
+too rare or too modern to appear in these books.
 
 When gutenberg.org is down, `fetch` takes the same files from
 [GITenberg](https://github.com/GITenberg), a copy of the collection on GitHub.

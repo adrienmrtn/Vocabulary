@@ -15,8 +15,8 @@
       "debate",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The policeman bent over to examine her more closely, and his face worked with genuine compassion.",
+    "quote_source": "Fyodor Dostoevsky, Crime and Punishment",
     "ipa": "ˈdʒɛnjəwən",
     "zipf": 4.37,
     "issues": []
@@ -37,8 +37,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Elizabeth tried to join in her father’s pleasantry, but could only force one most reluctant smile.",
+    "quote_source": "Jane Austen, Pride and Prejudice",
     "ipa": "rɪˈlʌktənt",
     "zipf": 3.81,
     "issues": []
@@ -59,8 +59,8 @@
       "literature",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Women and girls dressed in long vivid gowns traversed the street from house to house.",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
     "ipa": "ˈvɪvəd",
     "zipf": 3.75,
     "issues": []
@@ -81,8 +81,8 @@
       "science",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "There were poisons so subtle that to know their properties one had to sicken of them.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
     "ipa": "ˈsʌtəl",
     "zipf": 4.08,
     "issues": []
@@ -103,8 +103,8 @@
       "character",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Does any one suppose that private prayer is necessarily candid—necessarily goes to the roots of action?",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "ˈkændəd",
     "zipf": 3.45,
     "issues": []
@@ -125,8 +125,8 @@
       "business",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The partridge and the rabbit are still sure to thrive, like true natives of the soil, whatever revolutions occur.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "θraɪv",
     "zipf": 3.73,
     "issues": []
@@ -146,8 +146,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "However I disapproved, I couldn’t hinder her: indeed, how could she have refused him herself?",
+    "quote_source": "Emily Brontë, Wuthering Heights",
     "ipa": "ˈhɪndɚ",
     "zipf": 3.39,
     "issues": []
@@ -168,8 +168,8 @@
       "travel",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Do you think, because I am poor, obscure, plain, and little, I am soulless and heartless?",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "əbˈskjʊr",
     "zipf": 3.85,
     "issues": []
@@ -190,8 +190,8 @@
       "debate",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Very simple was my explanation, and plausible enough—as most wrong theories are!",
+    "quote_source": "H. G. Wells, The Time Machine",
     "ipa": "ˈplɔzəbəl",
     "zipf": 3.64,
     "issues": []
@@ -212,8 +212,8 @@
       "business",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Foolish and irrelevant ideas strayed about his mind, as they always do in a time of tedious waiting.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "ˈtidiəs",
     "zipf": 3.5,
     "issues": []
@@ -234,8 +234,8 @@
       "nature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Like violent people in general, he was subject to abrupt changes of opinion.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "əˈbrʌpt",
     "zipf": 3.38,
     "issues": []
@@ -256,8 +256,8 @@
       "science",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "What kind of liberation would that be to forsake an absurdity which is logical and coherent and to embrace one which is illogical and incoherent?",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
     "ipa": "koʊˈhɪrənt",
     "zipf": 3.63,
     "issues": []
@@ -278,8 +278,8 @@
       "business",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "In short he was accurate and diligent; but profoundly morose.",
+    "quote_source": "Virginia Woolf, Jacob's Room",
     "ipa": "ˈdɪlɪdʒənt",
     "zipf": 3.23,
     "issues": []
@@ -299,8 +299,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "If he were a little spoilt by such universal, such eager admiration, who could wonder?",
+    "quote_source": "Jane Austen, Persuasion",
     "ipa": "ˈiɡɚ",
     "zipf": 4.03,
     "issues": []
@@ -321,8 +321,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Nothing could be more frugal than this repast.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈfruɡəl",
     "zipf": 3.11,
     "issues": []
@@ -343,8 +343,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Yes, his mother was hostile to the idea, as he had read from her listless silence.",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
     "ipa": "ˈhɑstəl",
     "zipf": 4.07,
     "issues": []
@@ -365,8 +365,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I left the proud and went back to the humble, for the happiness of the humble.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "ˈhʌmbəl",
     "zipf": 4.11,
     "issues": []
@@ -387,8 +387,8 @@
       "literature",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A cold lucid indifference reigned in his soul.",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
     "ipa": "ˈlusəd",
     "zipf": 3.27,
     "issues": []
@@ -408,8 +408,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The distinction between the poor teachings of mundane science and our sacred all-embracing teaching is clear to me.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "mənˈdeɪn",
     "zipf": 3.43,
     "issues": []
@@ -430,8 +430,8 @@
       "science",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A novel feeling of anger against the foe made him forget his own sorrow.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "ˈnɑvəl",
     "zipf": 4.63,
     "issues": []
@@ -452,8 +452,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The last alternative seemed the most prudent, so he waited until twelve o’clock.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "ˈprudənt",
     "zipf": 3.41,
     "issues": []
@@ -474,8 +474,8 @@
       "science",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He was one of those rare men who are rigid to themselves and indulgent to others.",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "ˈrɪdʒəd",
     "zipf": 3.75,
     "issues": []
@@ -496,8 +496,8 @@
       "science",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He was a man of medium stature, thickset and robust, in the prime of life.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "roʊˈbʌst",
     "zipf": 3.94,
     "issues": []
@@ -518,8 +518,8 @@
       "business",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "In merchantmen, oil for the sailor is more scarce than the milk of queens.",
+    "quote_source": "Herman Melville, Moby-Dick",
     "ipa": "skɛrs",
     "zipf": 3.61,
     "issues": []
@@ -540,8 +540,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I think you will prosper, for the sincere wish to be good is half the battle.",
+    "quote_source": "Louisa May Alcott, Little Women",
     "ipa": "sɪnˈsɪr",
     "zipf": 3.84,
     "issues": []
@@ -561,8 +561,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "All tense and trembling with eagerness and desire, he mastered his instinct and stood still.",
+    "quote_source": "Jack London, White Fang",
     "ipa": "tɛns",
     "zipf": 3.95,
     "issues": []
@@ -583,8 +583,8 @@
       "literature",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A vague pathway among the boulders led to the dilapidated opening which served as a door.",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
     "ipa": "veɪɡ",
     "zipf": 3.87,
     "issues": []
@@ -605,8 +605,8 @@
       "emotions",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "At once weary and content, I slept soon and soundly: when I awoke it was broad day.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "ˈwɪri",
     "zipf": 3.61,
     "issues": []
@@ -627,8 +627,8 @@
       "literature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The food was poor, but the talk had a witty weariness that impressed the girl.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "ˈwɪti",
     "zipf": 3.56,
     "issues": []
@@ -649,8 +649,8 @@
       "character",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I began after a little to grow very bold and sat up to try my skill at paddling.",
+    "quote_source": "Robert Louis Stevenson, Treasure Island",
     "ipa": "boʊld",
     "zipf": 4.26,
     "issues": []
@@ -671,8 +671,8 @@
       "nature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "These bleak skies I hail, for they are kinder to me than your fellow beings.",
+    "quote_source": "Mary Shelley, Frankenstein",
     "ipa": "blik",
     "zipf": 3.43,
     "issues": []
@@ -693,8 +693,8 @@
       "nature",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "As we walked across the moonlight gravel to the porch he disposed of the situation in a few brisk phrases.",
+    "quote_source": "F. Scott Fitzgerald, The Great Gatsby",
     "ipa": "brɪsk",
     "zipf": 3.2,
     "issues": []
@@ -715,8 +715,8 @@
       "society",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Nothing can rightly compel a simple and brave man to a vulgar sadness.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "kəmˈpɛl",
     "zipf": 3.28,
     "issues": []
@@ -736,8 +736,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Villefort had never been so concise and eloquent.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "kənˈsaɪs",
     "zipf": 3.46,
     "issues": []
@@ -758,8 +758,8 @@
       "persuasion",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A farmer, a hunter, a soldier, a reporter, even a philosopher, may be daunted; but nothing can deter a poet, for he is actuated by pure love.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "dɪˈtɝ",
     "zipf": 3.48,
     "issues": []
@@ -780,8 +780,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "All the pain he had endured was as nothing compared with the exquisite agony of this.",
+    "quote_source": "Jack London, The Call of the Wild",
     "ipa": "ɛndˈjʊr",
     "zipf": 3.82,
     "issues": []
@@ -802,8 +802,8 @@
       "society",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "She has fostered my independence by professedly indulging my love for liberty.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "ˈfɑstɚ",
     "zipf": 4.33,
     "issues": []
@@ -823,8 +823,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Toil lets go of you on one side only to grasp you again on the other.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ɡræsp",
     "zipf": 3.97,
     "issues": []
@@ -845,8 +845,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "You are rather too kind sometimes, and then just a trifle hasty when he tries your patience.",
+    "quote_source": "Louisa May Alcott, Little Women",
     "ipa": "ˈheɪsti",
     "zipf": 3.29,
     "issues": []
@@ -867,8 +867,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "“You are too lenient, too lenient by far, Leonce,” asserted the Colonel.",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "ˈliniənt",
     "zipf": 3.13,
     "issues": []
@@ -888,8 +888,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "How few and meager they had been for her hungry heart!",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "ˈmiɡɚ",
     "zipf": 3.05,
     "issues": []
@@ -909,8 +909,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Miss Brooke was certainly very naive with all her alleged cleverness.",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "naɪˈiv",
     "zipf": 3.75,
     "issues": []
@@ -931,8 +931,8 @@
       "science",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I fancy I had some vague notion of falling upon him and giving him a drubbing.",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
     "ipa": "ˈnoʊʃən",
     "zipf": 4.17,
     "issues": []
@@ -952,8 +952,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "We might as well omit to study Nature because she is old.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "oʊˈmɪt",
     "zipf": 3.07,
     "issues": []
@@ -974,8 +974,8 @@
       "science",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The more I pondered over this harpooneer, the more I abominated the thought of sleeping with him.",
+    "quote_source": "Herman Melville, Moby-Dick",
     "ipa": "ˈpɑndɚ",
     "zipf": 3.35,
     "issues": []
@@ -995,8 +995,8 @@
     "topics": [
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He is so quaint that I am determined to understand him as well as I can.",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "kweɪnt",
     "zipf": 3.27,
     "issues": []
@@ -1016,8 +1016,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He was astonished, indeed, but his character and general conduct must refute it.",
+    "quote_source": "Jane Austen, Persuasion",
     "ipa": "rɪˈfjut",
     "zipf": 3.14,
     "issues": []
@@ -1038,8 +1038,8 @@
       "emotions",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The remarkably adult yet innocent expression of their open and serene eyes is very memorable.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "səˈrin",
     "zipf": 3.27,
     "issues": []
@@ -1081,8 +1081,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "You shall find me as stubborn as you can be artful.",
+    "quote_source": "Jane Austen, Sense and Sensibility",
     "ipa": "ˈstʌbɚn",
     "zipf": 3.76,
     "issues": []
@@ -1102,8 +1102,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Now he was a sturdy straw-haired man of thirty, with a rather hard mouth and a supercilious manner.",
+    "quote_source": "F. Scott Fitzgerald, The Great Gatsby",
     "ipa": "ˈstɝdi",
     "zipf": 3.44,
     "issues": []
@@ -1124,8 +1124,8 @@
       "travel",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The current ran smooth and swift, but a dumb immobility sat on the banks.",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
     "ipa": "swɪft",
     "zipf": 4.15,
     "issues": []
@@ -1145,8 +1145,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "On every side was the silence, pressing upon them with a tangible presence.",
+    "quote_source": "Jack London, White Fang",
     "ipa": "ˈtændʒəbəl",
     "zipf": 3.66,
     "issues": []
@@ -1167,8 +1167,8 @@
       "business",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Nothing but a thorough change of sentiment could account for it.",
+    "quote_source": "Jane Austen, Sense and Sensibility",
     "ipa": "ˈθɝoʊ",
     "zipf": 3.97,
     "issues": []
@@ -1188,8 +1188,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "If she ignored his note it would give undue importance to a trivial affair.",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "ˈtrɪviəl",
     "zipf": 3.66,
     "issues": []
@@ -1210,8 +1210,8 @@
       "society",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The lamps of London uphold the dark as upon the points of burning bayonets.",
+    "quote_source": "Virginia Woolf, Jacob's Room",
     "ipa": "əpˈhoʊld",
     "zipf": 3.52,
     "issues": []
@@ -1232,8 +1232,8 @@
       "science",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Diversity of opinion about a work of art shows that the work is new, complex, and vital.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
     "ipa": "ˈvaɪtəl",
     "zipf": 4.38,
     "issues": []
@@ -1254,8 +1254,8 @@
       "character",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The fellow is wary and cunning to the last degree.",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
     "ipa": "ˈwɛri",
     "zipf": 3.57,
     "issues": []
@@ -1275,8 +1275,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It was as if what I had yearned for had come at last only to astonish me.",
+    "quote_source": "Henry James, The Turn of the Screw",
     "ipa": "jɝn",
     "zipf": 2.97,
     "issues": []
@@ -1297,8 +1297,8 @@
       "emotions",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "When they understood that order the servants set to work at this new task with pleasure and zeal.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "zil",
     "zipf": 3.28,
     "issues": []
@@ -1318,8 +1318,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It seems as though man’s lodging partook of his ephemeral character, and God’s house of his eternity.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ɪˈfɛmərəl",
     "zipf": 2.99,
     "issues": []
@@ -1340,8 +1340,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He is as brave as a bulldog and as tenacious as a lobster if he gets his claws upon anyone.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
     "ipa": "təˈneɪʃəs",
     "zipf": 3.04,
     "issues": []
@@ -1362,8 +1362,8 @@
       "literature",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The rich would have spoken on the value of thrift, and the idle grown eloquent over the dignity of labour.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
     "ipa": "ˈɛləkwənt",
     "zipf": 3.21,
     "issues": []
@@ -1471,8 +1471,8 @@
       "character",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "However pure and sincere we may be, we all bear upon our candor the crack of the little, innocent lie.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈkændɚ",
     "zipf": 2.8,
     "issues": []
@@ -1492,8 +1492,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The historian of manners and ideas has no less austere a mission than the historian of events.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ɔˈstɪr",
     "zipf": 3.0,
     "issues": []
@@ -1514,8 +1514,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "His very boots were benevolent, and his collars never stiff and raspy like other people’s.",
+    "quote_source": "Louisa May Alcott, Little Women",
     "ipa": "bəˈnɛvələnt",
     "zipf": 3.34,
     "issues": []
@@ -1536,8 +1536,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "As a rule he was very willful, even capricious, though always friendly.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "kəˈprɪʃəs",
     "zipf": 2.79,
     "issues": []
@@ -1558,8 +1558,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "They were both well dressed, stout and complacent and they brought a breath of opulence among the company.",
+    "quote_source": "James Joyce, Dubliners",
     "ipa": "kəmˈpleɪsənt",
     "zipf": 3.19,
     "issues": []
@@ -1580,8 +1580,8 @@
       "debate",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I believe the theme of this incomprehensible conundrum was the moon.",
+    "quote_source": "Charles Dickens, David Copperfield",
     "ipa": "kəˈnʌndrəm",
     "zipf": 3.0,
     "issues": []
@@ -1601,8 +1601,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A telegram to this effect would be cold and cryptic, a personal visit seemed each moment more impossible.",
+    "quote_source": "E. M. Forster, Howards End",
     "ipa": "ˈkrɪptɪk",
     "zipf": 3.23,
     "issues": []
@@ -1665,8 +1665,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Now that she had fallen to him so easily, he wondered why he had been so diffident.",
+    "quote_source": "James Joyce, Dubliners",
     "ipa": "ˈdɪfɪdənt",
     "zipf": 2.1,
     "issues": []
@@ -1730,8 +1730,8 @@
       "travel",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "His destiny was to be elusive of social or religious orders.",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
     "ipa": "ɪˈlusɪv",
     "zipf": 3.47,
     "issues": []
@@ -1774,8 +1774,8 @@
       "science",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Watching a coast as it slips by the ship is like thinking about an enigma.",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
     "ipa": "ɪˈnɪɡmə",
     "zipf": 3.24,
     "issues": []
@@ -1796,8 +1796,8 @@
       "nature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Some erratic impulse prompted Ethan to say: “How’d you like me to take you down now?”",
+    "quote_source": "Edith Wharton, Ethan Frome",
     "ipa": "ɪˈrætɪk",
     "zipf": 3.34,
     "issues": []
@@ -1838,8 +1838,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Emma made her toilet with the fastidious care of an actress on her debut.",
+    "quote_source": "Gustave Flaubert, Madame Bovary",
     "ipa": "fæˈstɪdiəs",
     "zipf": 2.64,
     "issues": []
@@ -1859,8 +1859,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I have described myself as always having been imbued with a fervent longing to penetrate the secrets of nature.",
+    "quote_source": "Mary Shelley, Frankenstein",
     "ipa": "ˈfɝvənt",
     "zipf": 3.04,
     "issues": []
@@ -1880,8 +1880,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Droll thing life is—that mysterious arrangement of merciless logic for a futile purpose.",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
     "ipa": "ˈfjutəl",
     "zipf": 3.39,
     "issues": []
@@ -1902,8 +1902,8 @@
       "literature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "They entered the grounds of the college and were led by the garrulous porter across the quadrangle.",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
     "ipa": "ˈɡɛrələs",
     "zipf": 2.11,
     "issues": []
@@ -1945,8 +1945,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The view thence of Florence is most beautiful—far better than the hackneyed view of Fiesole.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "ˈhæknid",
     "zipf": 2.4,
     "issues": []
@@ -1966,8 +1966,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Archer’s New York tolerated hypocrisy in private relations; but in business matters it exacted a limpid and impeccable honesty.",
+    "quote_source": "Edith Wharton, The Age of Innocence",
     "ipa": "ɪmˈpɛkəbəl",
     "zipf": 3.25,
     "issues": []
@@ -1987,8 +1987,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "There is an incessant influx of novelty into the world, and yet we tolerate incredible dulness.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "ɪnˈsɛsənt",
     "zipf": 3.03,
     "issues": []
@@ -2009,8 +2009,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It is very curious to watch this harem and its lord in their indolent ramblings.",
+    "quote_source": "Herman Melville, Moby-Dick",
     "ipa": "ˈɪndələnt",
     "zipf": 2.26,
     "issues": []
@@ -2052,8 +2052,8 @@
       "science",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Man’s actions proceed from his innate character and the motives acting upon him.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "ɪˈneɪt",
     "zipf": 3.48,
     "issues": []
@@ -2074,8 +2074,8 @@
       "nature",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Your third estate is insipid, colorless, odorless, and shapeless.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ɪnˈsɪpəd",
     "zipf": 2.64,
     "issues": []
@@ -2096,8 +2096,8 @@
       "travel",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Many of those intrepid men, who had so tranquilly entered upon the most terrible of adventures, turned aside their heads.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ɪnˈtrɛpəd",
     "zipf": 3.04,
     "issues": []
@@ -2118,8 +2118,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The battalion commander perceived the jovial irony and laughed.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "ˈdʒoʊviəl",
     "zipf": 2.74,
     "issues": []
@@ -2140,8 +2140,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Under such circumstances a judicious man changes the topic and enters on ground where his own gifts may be more useful.",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "dʒuˈdɪʃəs",
     "zipf": 2.68,
     "issues": []
@@ -2162,8 +2162,8 @@
       "emotions",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "For himself, he grew desperate: his sorrow was of that kind that will not lament.",
+    "quote_source": "Emily Brontë, Wuthering Heights",
     "ipa": "ləˈmɛnt",
     "zipf": 3.25,
     "issues": []
@@ -2184,8 +2184,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "She continued either delirious or lethargic; and the doctor forbade everything which could painfully excite her.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "ləˈθɑrdʒɪk",
     "zipf": 2.78,
     "issues": []
@@ -2206,8 +2206,8 @@
       "literature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The more loquacious Thénardier became, the more mute was Jean Valjean.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "loʊˈkweɪʃəs",
     "zipf": 2.11,
     "issues": []
@@ -2227,8 +2227,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The characters of the narrative would not be warmed and rendered malleable by any heat that I could kindle at my intellectual forge.",
+    "quote_source": "Nathaniel Hawthorne, The Scarlet Letter",
     "ipa": "ˈmæliəbəl",
     "zipf": 2.82,
     "issues": []
@@ -2249,8 +2249,8 @@
       "science",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "That a criminal was reared among malefactors mitigates his fault in our eyes.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "ˈmɪtəɡeɪt",
     "zipf": 3.54,
     "issues": []
@@ -2270,8 +2270,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He was a young man, lean, fair, and morose, with lanky hair and a shuffling gait.",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
     "ipa": "məˈroʊs",
     "zipf": 2.44,
     "issues": []
@@ -2292,8 +2292,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "They followed him up the bank attempting the tense yet nonchalant expression that is suitable for ladies on such occasions.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "nɑnʃəˈlɑnt",
     "zipf": 2.74,
     "issues": []
@@ -2357,8 +2357,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Americans, while willing, even eager, to be serfs, have always been obstinate about being peasantry.",
+    "quote_source": "F. Scott Fitzgerald, The Great Gatsby",
     "ipa": "ˈɑbstənət",
     "zipf": 2.73,
     "issues": []
@@ -2379,8 +2379,8 @@
       "nature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I feel there is something ominous in his calm, and shall not forget this night....",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "ˈɑmənəs",
     "zipf": 3.4,
     "issues": []
@@ -2401,8 +2401,8 @@
       "society",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Yet, in spite of this, nowhere in all America will you find more patrician-like houses; parks and gardens more opulent, than in New Bedford.",
+    "quote_source": "Herman Melville, Moby-Dick",
     "ipa": "ˈɑpjələnt",
     "zipf": 2.91,
     "issues": []
@@ -2423,8 +2423,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A man can’t very well be ostentatious of what nobody believes in.",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "ɑstənˈteɪʃəs",
     "zipf": 2.68,
     "issues": []
@@ -2445,8 +2445,8 @@
       "debate",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Well, the way of paradoxes is the way of truth.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
     "ipa": "ˈpɛrədɑks",
     "zipf": 3.63,
     "issues": []
@@ -2467,8 +2467,8 @@
       "business",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It was an error; but ought not the paucity of this intelligence to be taken into consideration?",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈpɔsəti",
     "zipf": 2.61,
     "issues": []
@@ -2488,8 +2488,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "But what she had lost in ingenuous grace, she gained in pensive and serious charm.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈpɛnsɪv",
     "zipf": 2.63,
     "issues": []
@@ -2532,8 +2532,8 @@
       "emotions",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful.",
+    "quote_source": "Charles Dickens, A Tale of Two Cities",
     "ipa": "ˈplæsəd",
     "zipf": 3.01,
     "issues": []
@@ -2554,8 +2554,8 @@
       "emotions",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Her suffering was the more poignant that she had to bear it in solitude.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
     "ipa": "ˈpɔɪnjənt",
     "zipf": 3.27,
     "issues": []
@@ -2576,8 +2576,8 @@
       "business",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Never had he been so fond of this body of his as now when his tenure of it was so precarious.",
+    "quote_source": "Jack London, White Fang",
     "ipa": "priˈkɛriəs",
     "zipf": 3.27,
     "issues": []
@@ -2620,8 +2620,8 @@
       "debate",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It was his mate who relieved him from the quandary in which he found himself.",
+    "quote_source": "Jack London, White Fang",
     "ipa": "ˈkwɑndəri",
     "zipf": 2.6,
     "issues": []
@@ -2641,8 +2641,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He even referred to Sergey Ivanovitch without rancor.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
     "ipa": "ˈræŋkɚ",
     "zipf": 2.51,
     "issues": []
@@ -2663,8 +2663,8 @@
       "character",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Why should she have been so reticent at the time of the tragedy?",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
     "ipa": "ˈrɛtɪsənt",
     "zipf": 2.62,
     "issues": []
@@ -2685,8 +2685,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "For he believed that women revere men for their manliness.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "rɪˈvɪr",
     "zipf": 3.09,
     "issues": []
@@ -2707,8 +2707,8 @@
       "character",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Between these four ways, a less sagacious man would have remained undecided.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "səˈɡeɪʃəs",
     "zipf": 1.8,
     "issues": []
@@ -2729,8 +2729,8 @@
       "science",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "They fear the ear that hears their orders, and the eye that scrutinizes their actions.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "ˈskrutənaɪz",
     "zipf": 2.76,
     "issues": []
@@ -2772,8 +2772,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Go on with your work as usual, for work is a blessed solace.",
+    "quote_source": "Louisa May Alcott, Little Women",
     "ipa": "ˈsɑləs",
     "zipf": 3.28,
     "issues": []
@@ -2793,8 +2793,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "She knows we have money and could squander it if we chose.",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "ˈskwɑndɚ",
     "zipf": 2.74,
     "issues": []
@@ -2836,8 +2836,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The house was just such as I had pictured it from Sherlock Holmes’ succinct description, but the locality appeared to be less private than I expected.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
     "ipa": "səkˈsɪŋkt",
     "zipf": 2.9,
     "issues": []
@@ -2857,8 +2857,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I want the superfluous, the useless, the extravagant, excess, that which serves no purpose.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈsupɚflwəs",
     "zipf": 3.0,
     "issues": []
@@ -2879,8 +2879,8 @@
       "character",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Externally, Grigory was cold, dignified and taciturn, and spoke, weighing his words, without frivolity.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "ˈtæsɪtɚn",
     "zipf": 2.37,
     "issues": []
@@ -2901,8 +2901,8 @@
       "debate",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "That vision, faint and tenuous as it was, had kept him from thinking of other women.",
+    "quote_source": "Edith Wharton, The Age of Innocence",
     "ipa": "ˈtɛnjəwəs",
     "zipf": 3.02,
     "issues": []
@@ -2922,8 +2922,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It was with some trepidation that I perceived the hour approach when I was to repair with my charge to the drawing-room.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "trɛpɪˈdeɪʃən",
     "zipf": 2.72,
     "issues": []
@@ -2944,8 +2944,8 @@
       "science",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Sallie Gardiner was absorbed in keeping her white pique dress clean and chattering with the ubiquitous Fred, who kept Beth in constant terror by his pranks.",
+    "quote_source": "Louisa May Alcott, Little Women",
     "ipa": "juˈbɪkwɪtəs",
     "zipf": 3.42,
     "issues": []
@@ -2965,8 +2965,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "To crush fanaticism and to venerate the infinite, such is the law.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈvɛnəreɪt",
     "zipf": 2.28,
     "issues": []
@@ -2987,8 +2987,8 @@
       "debate",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "How was he to live on without vindicating himself among people who suspected him of baseness?",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "ˈvɪndəkeɪt",
     "zipf": 2.54,
     "issues": []
@@ -3009,8 +3009,8 @@
       "nature",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The volatile truth of our words should continually betray the inadequacy of the residual statement.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "ˈvɑlətəl",
     "zipf": 3.72,
     "issues": []
@@ -3031,8 +3031,8 @@
       "character",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Chance has put in our way a most singular and whimsical problem, and its solution is its own reward.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
     "ipa": "ˈwɪmzɪkəl",
     "zipf": 3.1,
     "issues": []
@@ -3095,8 +3095,8 @@
       "literature",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Now it was that the lucubrations of my ancient predecessor, Mr. Surveyor Pue, came into play.",
+    "quote_source": "Nathaniel Hawthorne, The Scarlet Letter",
     "ipa": "lukjəˈbreɪʃən",
     "zipf": 0.0,
     "issues": []
@@ -3195,8 +3195,8 @@
       "persuasion",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The doctor, flattered at this unexpected title, launched out into obsequious phrases.",
+    "quote_source": "Gustave Flaubert, Madame Bovary",
     "ipa": "əbˈsikwiəs",
     "zipf": 2.14,
     "issues": []
@@ -3282,8 +3282,8 @@
       "character",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Only the negro and I were near enough to hear what he said, but the policeman caught something in the tone and looked over with truculent eyes.",
+    "quote_source": "F. Scott Fitzgerald, The Great Gatsby",
     "ipa": "ˈtrʌkjələnt",
     "zipf": 2.01,
     "issues": []
@@ -3304,8 +3304,8 @@
       "nature",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "So great a vicissitude in his life could not at once be received as real.",
+    "quote_source": "Nathaniel Hawthorne, The Scarlet Letter",
     "ipa": "vɪˈsɪsɪtud",
     "zipf": 1.34,
     "issues": []
@@ -3391,8 +3391,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A slight frown and a laconic “Yes,” were the answer.",
+    "quote_source": "Charles Dickens, A Tale of Two Cities",
     "ipa": "lɑˈkɑnɪk",
     "zipf": 2.39,
     "issues": []
@@ -3413,8 +3413,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He felt that the husband was magnanimous even in his sorrow, while he had been base and petty in his deceit.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
     "ipa": "mæɡˈnænəməs",
     "zipf": 2.61,
     "issues": []
@@ -3456,8 +3456,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "When he saw me, he made me a low bow and assured me that I was a munificent patron of art.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
     "ipa": "mjuˈnɪfɪsənt",
     "zipf": 1.76,
     "issues": []
@@ -3498,8 +3498,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "She implored him not to come, but he was obdurate.",
+    "quote_source": "E. M. Forster, Howards End",
     "ipa": "ˈɑbdərət",
     "zipf": 2.01,
     "issues": []
@@ -3542,8 +3542,8 @@
       "literature",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Successive nations perchance have drank at, admired, and fathomed it, and passed away, and still its water is green and pellucid as ever.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "pəˈlusɪd",
     "zipf": 1.6,
     "issues": []
@@ -3563,8 +3563,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "We had a sort of perfunctory supper together, and I think it cheered us all up somewhat.",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "pɚˈfʌŋktəri",
     "zipf": 2.45,
     "issues": []
@@ -3585,8 +3585,8 @@
       "science",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Then the pernicious charm of Italy worked on her, and, instead of acquiring information, she began to be happy.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "pɚˈnɪʃəs",
     "zipf": 2.87,
     "issues": []
@@ -3607,8 +3607,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A tear moistened the eye of the phlegmatic Englishman.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "flɛɡˈmætɪk",
     "zipf": 2.07,
     "issues": []
@@ -3629,8 +3629,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Must he wear out all his years at the side of a bitter querulous woman?",
+    "quote_source": "Edith Wharton, Ethan Frome",
     "ipa": "ˈkwɛrələs",
     "zipf": 1.61,
     "issues": []
@@ -3650,8 +3650,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "All his sanguine expectations, all his confidence had been justified.",
+    "quote_source": "Jane Austen, Persuasion",
     "ipa": "ˈsæŋɡwɪn",
     "zipf": 2.74,
     "issues": []
@@ -3691,8 +3691,8 @@
       "nature",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "When the monotonous sound of Weyrother’s voice ceased, Kutúzov opened his eye as a miller wakes up when the soporific drone of the mill wheel is interrupted.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "sɑpəˈrɪfɪk",
     "zipf": 2.1,
     "issues": []
@@ -3713,8 +3713,8 @@
       "debate",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He then, by a specious argument, prevented her from going, and so had the chance for which he had waited.",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
     "ipa": "ˈspiʃəs",
     "zipf": 2.45,
     "issues": []
@@ -3735,8 +3735,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "There was no concealing the fact, Cecil had meant to be supercilious, and he had succeeded.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "supɚˈsɪliəs",
     "zipf": 1.94,
     "issues": []
@@ -3756,8 +3756,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "At the time he had given surreptitious tugs to the string himself.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "sɚəpˈtɪʃəs",
     "zipf": 2.28,
     "issues": []
@@ -3799,8 +3799,8 @@
       "debate",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "It was a criticism of Henry’s character far more trenchant than any of her own.",
+    "quote_source": "E. M. Forster, Howards End",
     "ipa": "ˈtrɛntʃənt",
     "zipf": 2.35,
     "issues": []
@@ -3886,8 +3886,8 @@
       "science",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The subject is not so abstruse as I thought it was.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
     "ipa": "əbˈstrus",
     "zipf": 2.13,
     "issues": []
@@ -3930,8 +3930,8 @@
       "business",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Tom gave up the brush with reluctance in his face, but alacrity in his heart.",
+    "quote_source": "Mark Twain, The Adventures of Tom Sawyer",
     "ipa": "əˈlækrəti",
     "zipf": 2.36,
     "issues": []
@@ -3952,8 +3952,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "And if once you’re anathema they won’t pat you on the head for it in hell.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "əˈnæθəmə",
     "zipf": 2.79,
     "issues": []
@@ -3996,8 +3996,8 @@
       "business",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Mary would sit and watch me by the hour together: then she would take lessons; and a docile, intelligent, assiduous pupil she made.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "əˈsɪdwəs",
     "zipf": 2.15,
     "issues": []
@@ -4060,8 +4060,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "And he looked on this visit to a churlish old man and a rich and ugly heiress in the same way.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "ˈtʃɝlɪʃ",
     "zipf": 2.19,
     "issues": []
@@ -4082,8 +4082,8 @@
       "literature",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "She had a good honest glance and used no circumlocution.",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "sɝkəmloʊˈkjuʃən",
     "zipf": 1.62,
     "issues": []
@@ -4104,8 +4104,8 @@
       "persuasion",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "But the last term of the definition is still more cogent, as coupled with the first.",
+    "quote_source": "Herman Melville, Moby-Dick",
     "ipa": "ˈkoʊdʒənt",
     "zipf": 2.71,
     "issues": []
@@ -4126,8 +4126,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "As to all the rest, he was humble and contrite, and I never knew him complain.",
+    "quote_source": "Charles Dickens, Great Expectations",
     "ipa": "kənˈtraɪt",
     "zipf": 2.48,
     "issues": []
@@ -4147,8 +4147,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Or might it suffice him, that every wholesome growth should be converted into something deleterious and malignant at his touch?",
+    "quote_source": "Nathaniel Hawthorne, The Scarlet Letter",
     "ipa": "dɛləˈtɪriəs",
     "zipf": 2.72,
     "issues": []
@@ -4168,8 +4168,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "In the lulls, Robert and his mother exchanged bits of desultory conversation.",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "ˈdɛsəltɔri",
     "zipf": 2.1,
     "issues": []
@@ -4189,8 +4189,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He was extremely nervous and extremely jealous of other tenors and he covered his nervous jealousy with an ebullient friendliness.",
+    "quote_source": "James Joyce, Dubliners",
     "ipa": "ɪˈbʌljənt",
     "zipf": 2.17,
     "issues": []
@@ -4233,8 +4233,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "How slight a thing will disturb the equanimity of our frail minds!",
+    "quote_source": "Charles Dickens, Oliver Twist",
     "ipa": "ikwəˈnɪmɪti",
     "zipf": 2.4,
     "issues": []
@@ -4255,8 +4255,8 @@
       "science",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The merchants valued him not less than we, his esoteric friends.",
+    "quote_source": "Nathaniel Hawthorne, The Scarlet Letter",
     "ipa": "ɛsəˈtɛrɪk",
     "zipf": 3.17,
     "issues": []
@@ -4321,8 +4321,8 @@
       "literature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "She sighed a sigh of ineffable satisfaction, as if her cup of happiness were now full.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "ɪˈnɛfəbəl",
     "zipf": 2.41,
     "issues": []
@@ -4342,8 +4342,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I am an inveterate buffoon, and have been from birth up, your reverence, it’s as though it were a craze in me.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "ɪnˈvɛtərət",
     "zipf": 2.34,
     "issues": []
@@ -4364,8 +4364,8 @@
       "nature",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The traveller does not often look into such a limpid well.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "ˈlɪmpɪd",
     "zipf": 2.04,
     "issues": []
@@ -4385,8 +4385,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I don’t say this to boast, but just to show you the kind of man I am.",
+    "quote_source": "E. M. Forster, Howards End",
     "ipa": "boʊst",
     "zipf": 3.51,
     "issues": []
@@ -4406,8 +4406,8 @@
     "topics": [
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Therefore it is upon the logic rather than upon the crime that you should dwell.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
     "ipa": "dwɛl",
     "zipf": 3.57,
     "issues": []
@@ -4428,8 +4428,8 @@
       "nature",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The plan will flourish in spite of them, and then they’ll be glad to come in.",
+    "quote_source": "George Eliot, Middlemarch",
     "ipa": "ˈflɝɪʃ",
     "zipf": 3.53,
     "issues": []
@@ -4450,8 +4450,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Though he hesitated, and perhaps failed to express himself distinctly, he always had a presentable thought behind.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "ˈhɛzəteɪt",
     "zipf": 3.79,
     "issues": []
@@ -4471,8 +4471,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The passengers drew back with a sigh of gladness, which seemed to mock my own disappointment.",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "mɑk",
     "zipf": 3.85,
     "issues": []
@@ -4493,8 +4493,8 @@
       "business",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I see you persist in expecting something big of me, and perhaps something fine.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "pɚˈsɪst",
     "zipf": 3.53,
     "issues": []
@@ -4515,8 +4515,8 @@
       "debate",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "To quarrel was the one thing they were never too weary to do.",
+    "quote_source": "Jack London, The Call of the Wild",
     "ipa": "ˈkwɔrəl",
     "zipf": 3.31,
     "issues": []
@@ -4534,8 +4534,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I resented it, because it seemed to imply that he expected me to respond to it.",
+    "quote_source": "Charles Dickens, Great Expectations",
     "ipa": "rɪˈzɛnt",
     "zipf": 3.38,
     "issues": []
@@ -4556,8 +4556,8 @@
       "emotions",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The soft moonlight soothed, and the wide expanse without gave a sense of freedom which refreshed me.",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "suð",
     "zipf": 3.18,
     "issues": []
@@ -4577,8 +4577,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Even the offer of a kitten or even a full-grown cat will not tempt him.",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "tɛmpt",
     "zipf": 3.22,
     "issues": []
@@ -4599,8 +4599,8 @@
       "science",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Seek not to console me; alas, nothing can alleviate so great a sorrow—the wound is too deep and too fresh!",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "əˈlivieɪt",
     "zipf": 3.52,
     "issues": []
@@ -4621,8 +4621,8 @@
       "business",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "For this is one of those disheartening instances where truth requires full as much bolstering as error.",
+    "quote_source": "Herman Melville, Moby-Dick",
     "ipa": "ˈboʊlstɚ",
     "zipf": 3.31,
     "issues": []
@@ -4643,8 +4643,8 @@
       "persuasion",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The Colonel was perhaps unaware that he had coerced his own wife into her grave.",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "koʊˈɝs",
     "zipf": 2.86,
     "issues": []
@@ -4664,8 +4664,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A woman of Spanish blood does not condone such an injury so lightly.",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
     "ipa": "kənˈdoʊn",
     "zipf": 3.17,
     "issues": []
@@ -4686,8 +4686,8 @@
       "debate",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Standing outside, we deride or oppose it, or at the most feel sentimental.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "dɪˈraɪd",
     "zipf": 2.4,
     "issues": []
@@ -4708,8 +4708,8 @@
       "persuasion",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I had calculated with certainty on this step answering my end: I felt sure it would elicit an early answer.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "ɪˈlɪsɪt",
     "zipf": 3.1,
     "issues": []
@@ -4730,8 +4730,8 @@
       "persuasion",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "“I understand that, but I do not understand what it is that galvanizes you in this manner.”",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
     "ipa": "ˈɡælvənaɪz",
     "zipf": 2.31,
     "issues": []
@@ -4752,8 +4752,8 @@
       "persuasion",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Then he discovered his mistake and tried to placate her.",
+    "quote_source": "Jack London, White Fang",
     "ipa": "ˈpleɪkeɪt",
     "zipf": 2.77,
     "issues": []
@@ -4774,8 +4774,8 @@
       "society",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "And so she ran on, till I relinquished the endeavour to convince her of her mistake.",
+    "quote_source": "Emily Brontë, Wuthering Heights",
     "ipa": "rɪˈlɪŋkwɪʃ",
     "zipf": 3.12,
     "issues": []
@@ -4795,8 +4795,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "There is grim purpose in all I do; and I warn you that you do not thwart me.",
+    "quote_source": "Bram Stoker, Dracula",
     "ipa": "θwɔrt",
     "zipf": 3.06,
     "issues": []
@@ -4816,8 +4816,8 @@
       "society",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "On receiving this the victim might either openly abjure his former ways, or might fly from the country.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
     "ipa": "æbˈdʒʊr",
     "zipf": 1.82,
     "issues": []
@@ -4857,8 +4857,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I am to blame, and punish me, make me expiate my fault.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
     "ipa": "ˈɛkspieɪt",
     "zipf": 1.7,
     "issues": []
@@ -4878,8 +4878,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "He had led his mother there, step by step, and now when she stopped, he tried to inveigle her farther.",
+    "quote_source": "Jack London, White Fang",
     "ipa": "ɪnˈveɪɡəl",
     "zipf": 1.51,
     "issues": []
@@ -4900,8 +4900,8 @@
       "science",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "A useful and graciously austere half-light which dissipates puerile fears and obviates falls.",
+    "quote_source": "Victor Hugo, Les Misérables",
     "ipa": "ˈɑbvieɪt",
     "zipf": 2.11,
     "issues": []
@@ -4921,8 +4921,8 @@
       "persuasion",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Thinking it professional to prevaricate, he murmured something about a nervous breakdown.",
+    "quote_source": "E. M. Forster, Howards End",
     "ipa": "prəˈvɛrəkeɪt",
     "zipf": 1.58,
     "issues": []
@@ -4943,8 +4943,8 @@
       "business",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "If I have ever had a burden on my heart, it has been lightened for me.",
+    "quote_source": "Charles Dickens, David Copperfield",
     "ipa": "ˈbɝdən",
     "zipf": 4.23,
     "issues": []
@@ -4964,8 +4964,8 @@
     "topics": [
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The little glimpse of domestic harmony which had been offered her, gave her no regret, no longing.",
+    "quote_source": "Kate Chopin, The Awakening",
     "ipa": "ɡlɪmps",
     "zipf": 3.81,
     "issues": []
@@ -4985,8 +4985,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "They think that, if they should resist, the remedy would be worse than the evil.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "ˈrɛmədi",
     "zipf": 3.82,
     "issues": []
@@ -5006,8 +5006,8 @@
       "society",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "No one said anything definite, but the rumor of an attack spread through the squadron.",
+    "quote_source": "Leo Tolstoy, War and Peace",
     "ipa": "ˈrumɚ",
     "zipf": 3.73,
     "issues": []
@@ -5027,8 +5027,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The gloomy moment had come that usually precedes the dawn, the full triumph of light over darkness.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
     "ipa": "ˈtraɪəmf",
     "zipf": 3.96,
     "issues": []
@@ -5049,8 +5049,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "These things and deeds are diametrically opposed: they are as distinct as is vice from virtue.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
     "ipa": "ˈvɝtʃu",
     "zipf": 3.94,
     "issues": []
@@ -5068,8 +5068,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Even extreme grief may ultimately vent itself in violence—but more generally takes the form of apathy....",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
     "ipa": "ˈæpəθi",
     "zipf": 3.26,
     "issues": []
@@ -5155,8 +5155,8 @@
       "persuasion",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "But it gave them strength to drift into another Piazza, large and dusty, on the farther side of which rose a black-and-white facade of surpassing ugliness.",
+    "quote_source": "E. M. Forster, A Room with a View",
     "ipa": "fəˈsɑd",
     "zipf": 3.42,
     "issues": []
@@ -5197,8 +5197,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Poor Hannah was the first to recover, and with unconscious wisdom she set all the rest a good example, for with her, work was panacea for most afflictions.",
+    "quote_source": "Louisa May Alcott, Little Women",
     "ipa": "pænəˈsiə",
     "zipf": 2.78,
     "issues": []
@@ -5218,8 +5218,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Deprived of this respite, I should have sunk under my hardships.",
+    "quote_source": "Mary Shelley, Frankenstein",
     "ipa": "ˈrɛspɪt",
     "zipf": 3.18,
     "issues": []
@@ -5239,8 +5239,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Do not return to your families with the stigma of disgrace marked on your brows.",
+    "quote_source": "Mary Shelley, Frankenstein",
     "ipa": "ˈstɪɡmə",
     "zipf": 3.69,
     "issues": []
@@ -5261,8 +5261,8 @@
       "nature",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "The Milky Way ran in two pale streams from the zenith to the horizon.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
     "ipa": "ˈzinəθ",
     "zipf": 3.15,
     "issues": []
@@ -5302,8 +5302,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "An old-fashioned man would have lost his senses or died of ennui before this.",
+    "quote_source": "Henry David Thoreau, Walden",
     "ipa": "ɛˈnui",
     "zipf": 2.41,
     "issues": []
@@ -5386,6 +5386,3326 @@
     "quote_source": "",
     "ipa": "ˈʃɑdənfrɔɪdə",
     "zipf": 2.43,
+    "issues": []
+  },
+  {
+    "lemma": "adore",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To love and respect someone very deeply",
+    "example": "The children adore their grandmother and visit her every Sunday.",
+    "synonyms": [
+      "love",
+      "cherish",
+      "worship"
+    ],
+    "origin": "From Old French adorer, from Latin adorare “to speak to, to worship”, from ad- “to” and orare “to speak, to pray”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "If her husband did not adore her, he was a brute, deserving of death by slow torture.",
+    "quote_source": "Kate Chopin, The Awakening",
+    "ipa": "əˈdɔr",
+    "zipf": 3.7,
+    "issues": []
+  },
+  {
+    "lemma": "bewilder",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To confuse someone completely",
+    "example": "The new tax forms bewilder even experienced accountants.",
+    "synonyms": [
+      "confuse",
+      "baffle",
+      "puzzle"
+    ],
+    "origin": "From be- “thoroughly” and the old verb wilder “to lead astray”, probably taken from wilderness.",
+    "topics": [
+      "emotions",
+      "debate"
+    ],
+    "quote": "The captain, for his part, stood staring at the signboard like a bewildered man.",
+    "quote_source": "Robert Louis Stevenson, Treasure Island",
+    "ipa": "bɪˈwɪldɚ",
+    "zipf": 1.74,
+    "issues": []
+  },
+  {
+    "lemma": "cherish",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To love, protect and care for something deeply",
+    "example": "I cherish the letters my father wrote to me during the war.",
+    "synonyms": [
+      "treasure",
+      "value",
+      "prize"
+    ],
+    "origin": "From Old French cherir “to hold dear”, from cher “dear”, from Latin carus “dear”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "I perceived the folly of the faint hope I had cherished so long.",
+    "quote_source": "H. G. Wells, The War of the Worlds",
+    "ipa": "ˈtʃɛrɪʃ",
+    "zipf": 3.52,
+    "issues": []
+  },
+  {
+    "lemma": "coax",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To gently persuade someone to do something",
+    "example": "She managed to coax the frightened kitten out from under the bed.",
+    "synonyms": [
+      "persuade",
+      "cajole",
+      "wheedle"
+    ],
+    "origin": "From the obsolete noun cokes “a fool, a simpleton”; to coax first meant to make a fool of someone, then to pet and to persuade.",
+    "topics": [
+      "persuasion"
+    ],
+    "quote": "“Ay, ay; you want to coax me into thinking him a fine match.”",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "koʊks",
+    "zipf": 2.96,
+    "issues": []
+  },
+  {
+    "lemma": "conceal",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To hide something or keep it secret",
+    "example": "He tried to conceal his disappointment behind a polite smile.",
+    "synonyms": [
+      "hide",
+      "cover",
+      "mask"
+    ],
+    "origin": "From Old French conceler, from Latin concelare, from con- “completely” and celare “to hide”.",
+    "topics": [
+      "persuasion",
+      "character"
+    ],
+    "quote": "Far from desiring to publish the connection, he became as anxious to conceal it as myself.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "kənˈsil",
+    "zipf": 3.52,
+    "issues": []
+  },
+  {
+    "lemma": "dread",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel great fear about something to come",
+    "example": "I dread the long drive home in this heavy snow.",
+    "synonyms": [
+      "fear"
+    ],
+    "origin": "From Middle English dreden, shortened from Old English adrædan, ondrædan “to fear, to be afraid”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "Somehow, I do not dread being alone to-night, and I can go to sleep without fear.",
+    "quote_source": "Bram Stoker, Dracula",
+    "ipa": "drɛd",
+    "zipf": 3.64,
+    "issues": []
+  },
+  {
+    "lemma": "falter",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To lose strength or confidence and hesitate",
+    "example": "Her voice began to falter as she read the final paragraph.",
+    "synonyms": [
+      "waver",
+      "stumble",
+      "hesitate"
+    ],
+    "origin": "From Middle English falteren “to stagger, to stumble”, of uncertain origin, perhaps Scandinavian.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "His speech had begun to falter, and he passed abruptly from one subject to another.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "ˈfɔltɚ",
+    "zipf": 2.82,
+    "issues": []
+  },
+  {
+    "lemma": "gaze",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To look steadily at something for a long time",
+    "example": "We sat on the hill to gaze at the stars.",
+    "synonyms": [
+      "stare",
+      "look",
+      "contemplate"
+    ],
+    "origin": "From Middle English gasen “to stare”, probably of Scandinavian origin; compare Swedish dialect gasa “to gape”.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "I saw his dark face lit up with a boyish enthusiasm as he gazed about him.",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
+    "ipa": "ɡeɪz",
+    "zipf": 3.7,
+    "issues": []
+  },
+  {
+    "lemma": "grieve",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel deep sadness, especially after a death",
+    "example": "The whole town continued to grieve for the lost fishermen.",
+    "synonyms": [
+      "mourn",
+      "sorrow",
+      "lament"
+    ],
+    "origin": "From Old French grever “to burden, to afflict”, from Latin gravare “to make heavy”, from gravis “heavy”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "If you had murdered our father, it would grieve me that you should reject your punishment.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
+    "ipa": "ɡriv",
+    "zipf": 3.33,
+    "issues": []
+  },
+  {
+    "lemma": "linger",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To stay somewhere longer than necessary",
+    "example": "Guests tend to linger in the garden long after dinner is over.",
+    "synonyms": [
+      "stay",
+      "remain",
+      "loiter"
+    ],
+    "origin": "From Middle English lengeren “to dwell”, a frequentative of lengen “to prolong”, from Old English lengan, related to long.",
+    "topics": [
+      "travel",
+      "emotions"
+    ],
+    "quote": "The dragons have gone, and so have the knights, but still she lingers in our midst.",
+    "quote_source": "E. M. Forster, A Room with a View",
+    "ipa": "ˈlɪŋɡɚ",
+    "zipf": 3.31,
+    "issues": []
+  },
+  {
+    "lemma": "loathe",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To dislike someone or something intensely",
+    "example": "I loathe waiting in line at the airport.",
+    "synonyms": [
+      "hate",
+      "detest",
+      "despise"
+    ],
+    "origin": "From Old English lathian “to be hateful”, from lath “hostile, hateful”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "The more she gave up herself to the one, the more she loathed the other.",
+    "quote_source": "Gustave Flaubert, Madame Bovary",
+    "ipa": "loʊð",
+    "zipf": 3.11,
+    "issues": []
+  },
+  {
+    "lemma": "mend",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To repair something broken or damaged",
+    "example": "My grandfather taught me how to mend a torn fishing net.",
+    "synonyms": [
+      "repair",
+      "fix",
+      "patch"
+    ],
+    "origin": "Shortened from amend, from Old French amender, from Latin emendare “to free from fault”, from menda “fault”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "Whether from lack of time or from indifference, she no longer mended her linen.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "mɛnd",
+    "zipf": 3.33,
+    "issues": []
+  },
+  {
+    "lemma": "plead",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To ask for something in an urgent, emotional way",
+    "example": "The prisoners plead for mercy, but the judge is unmoved.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "appeal"
+    ],
+    "origin": "From Old French plaidier “to go to law”, from plait “lawsuit”, from Latin placitum “decree, opinion”, literally “what is pleasing”.",
+    "topics": [
+      "persuasion",
+      "society"
+    ],
+    "quote": "At first she wouldn’t come at all; and then she pleaded for five minutes by my watch.",
+    "quote_source": "Charles Dickens, David Copperfield",
+    "ipa": "plid",
+    "zipf": 3.63,
+    "issues": []
+  },
+  {
+    "lemma": "pursue",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To follow or chase in order to catch or achieve",
+    "example": "She moved to Vienna to pursue a career in music.",
+    "synonyms": [
+      "chase",
+      "follow",
+      "seek"
+    ],
+    "origin": "From Anglo-French pursuer, from Latin prosequi “to follow after”, from pro- “forward” and sequi “to follow”.",
+    "topics": [
+      "business"
+    ],
+    "quote": "One thought, and one only, pursued her in different forms, and refused to be shaken off.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "pɚˈsu",
+    "zipf": 4.26,
+    "issues": []
+  },
+  {
+    "lemma": "rejoice",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To feel or show great joy",
+    "example": "Fans rejoice whenever the team wins at home.",
+    "synonyms": [
+      "celebrate",
+      "delight",
+      "exult"
+    ],
+    "origin": "From Old French rejoiss-, stem of rejoir “to gladden”, from re- (intensive) and joir “to be glad”, from Latin gaudere “to be glad”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "With all my soul I wish them happy, and rejoice over every circumstance in favour of it.",
+    "quote_source": "Jane Austen, Persuasion",
+    "ipa": "rɪˈdʒɔɪs",
+    "zipf": 3.46,
+    "issues": []
+  },
+  {
+    "lemma": "scold",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To speak angrily to someone who has done wrong",
+    "example": "Parents should not scold a child for asking honest questions.",
+    "synonyms": [
+      "rebuke",
+      "reprimand",
+      "chide"
+    ],
+    "origin": "From Middle English scold “a quarrelsome, abusive person”, probably from Old Norse skáld “poet”, as a writer of mocking verse.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "You have scolded me too much for match-making, for me to presume to take such a liberty with you.",
+    "quote_source": "Jane Austen, Emma",
+    "ipa": "skoʊld",
+    "zipf": 2.81,
+    "issues": []
+  },
+  {
+    "lemma": "seize",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To take hold of something suddenly and firmly",
+    "example": "Police were able to seize the stolen paintings at the border.",
+    "synonyms": [
+      "grab",
+      "grasp",
+      "capture"
+    ],
+    "origin": "From Old French seisir “to take possession of”, from medieval Latin sacire, probably of Germanic origin.",
+    "topics": [
+      "business",
+      "society"
+    ],
+    "quote": "I seized the opportunity of slightly shifting my position, which had become cramped, and then listened.",
+    "quote_source": "H. G. Wells, The War of the Worlds",
+    "ipa": "siz",
+    "zipf": 3.8,
+    "issues": []
+  },
+  {
+    "lemma": "startle",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To surprise or frighten someone suddenly",
+    "example": "A loud knock on the window will startle the sleeping dog.",
+    "synonyms": [
+      "surprise",
+      "alarm",
+      "shock"
+    ],
+    "origin": "From Old English steartlian “to kick, to struggle”, related to start in its old sense “to leap”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "Here perhaps in some southern wood an old man lit dry ferns and the birds were startled.",
+    "quote_source": "Virginia Woolf, Jacob's Room",
+    "ipa": "ˈstɑrtəl",
+    "zipf": 2.69,
+    "issues": []
+  },
+  {
+    "lemma": "wander",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To walk around slowly with no clear direction",
+    "example": "We love to wander through the old streets of Lisbon at night.",
+    "synonyms": [
+      "roam",
+      "stroll",
+      "drift"
+    ],
+    "origin": "From Old English wandrian “to move about aimlessly”, related to wend and wind.",
+    "topics": [
+      "travel"
+    ],
+    "quote": "Raskolnikov particularly liked this place and the neighbouring alleys, when he wandered aimlessly in the streets.",
+    "quote_source": "Fyodor Dostoevsky, Crime and Punishment",
+    "ipa": "ˈwɑndɚ",
+    "zipf": 3.67,
+    "issues": []
+  },
+  {
+    "lemma": "perish",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To die, especially in a sudden or violent way",
+    "example": "Without water, the young plants will perish within days.",
+    "synonyms": [
+      "die",
+      "expire"
+    ],
+    "origin": "From Old French periss-, stem of perir, from Latin perire “to pass away, to be lost”, from per- “through, away” and ire “to go”.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "One can perish from being undermined as well as from being struck by lightning.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ˈpɛrɪʃ",
+    "zipf": 3.32,
+    "issues": []
+  },
+  {
+    "lemma": "murmur",
+    "level": 1,
+    "part_of_speech": "v.",
+    "definition": "To say something in a soft, quiet voice",
+    "example": "I heard him murmur an apology as he left the room.",
+    "synonyms": [
+      "mutter",
+      "whisper",
+      "mumble"
+    ],
+    "origin": "From Old French murmurer, from Latin murmurare, from murmur “a hum, a muttering”, an imitative word.",
+    "topics": [
+      "literature"
+    ],
+    "quote": "The murmur trembled on the verge of coherence, sank down, mounted excitedly, and then ceased altogether.",
+    "quote_source": "F. Scott Fitzgerald, The Great Gatsby",
+    "ipa": "ˈmɝmɚ",
+    "zipf": 2.92,
+    "issues": []
+  },
+  {
+    "lemma": "blunder",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A careless or stupid mistake",
+    "example": "Sending the email to the whole company was an embarrassing blunder.",
+    "synonyms": [
+      "mistake",
+      "error",
+      "slip"
+    ],
+    "origin": "From Middle English blunderen “to stumble about blindly”, probably of Scandinavian origin; compare Old Norse blunda “to shut the eyes”.",
+    "topics": [
+      "business"
+    ],
+    "quote": "In another plate, the prodigious blunder is made of representing the whale with perpendicular flukes.",
+    "quote_source": "Herman Melville, Moby-Dick",
+    "ipa": "ˈblʌndɚ",
+    "zipf": 3.13,
+    "issues": []
+  },
+  {
+    "lemma": "dusk",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "The darker part of twilight, just before night",
+    "example": "Bats leave the cave at dusk to hunt for insects.",
+    "synonyms": [
+      "twilight",
+      "nightfall",
+      "sundown"
+    ],
+    "origin": "From Middle English dosk “dark, dim”, from Old English dox “dark, swarthy”.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "When the short days of winter came dusk fell before we had well eaten our dinners.",
+    "quote_source": "James Joyce, Dubliners",
+    "ipa": "dʌsk",
+    "zipf": 3.44,
+    "issues": []
+  },
+  {
+    "lemma": "feat",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "An achievement that needs great skill or courage",
+    "example": "Crossing the ocean alone in a rowing boat was an extraordinary feat.",
+    "synonyms": [
+      "achievement",
+      "exploit",
+      "deed"
+    ],
+    "origin": "From Anglo-French fet, Old French fait, from Latin factum “a thing done”, from facere “to do”.",
+    "topics": [
+      "business",
+      "travel"
+    ],
+    "quote": "Do you think that you could perform one more feat?",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
+    "ipa": "fit",
+    "zipf": 3.99,
+    "issues": []
+  },
+  {
+    "lemma": "folly",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A lack of good sense; a foolish act",
+    "example": "It would be folly to sail in such a violent storm.",
+    "synonyms": [
+      "foolishness",
+      "madness",
+      "stupidity"
+    ],
+    "origin": "From Old French folie “madness”, from fol “foolish, mad”, from Latin follis “bellows, bag of wind”.",
+    "topics": [
+      "character",
+      "debate"
+    ],
+    "quote": "Not a single sprouting ambition committed the folly of putting forth its foliage in his shadow.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ˈfɑli",
+    "zipf": 3.34,
+    "issues": []
+  },
+  {
+    "lemma": "gloom",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Partial darkness, or a feeling of sadness",
+    "example": "A single candle did little to lift the gloom of the hall.",
+    "synonyms": [
+      "darkness",
+      "sadness",
+      "melancholy"
+    ],
+    "origin": "Related to Old English glom “twilight”; in Middle English the verb gloumen meant “to frown, to look sullen”.",
+    "topics": [
+      "emotions",
+      "nature"
+    ],
+    "quote": "No golden light had ever been so precious as the gloom of this dark forest.",
+    "quote_source": "Nathaniel Hawthorne, The Scarlet Letter",
+    "ipa": "ɡlum",
+    "zipf": 3.31,
+    "issues": []
+  },
+  {
+    "lemma": "grudge",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A lasting feeling of anger about a past wrong",
+    "example": "He has held a grudge against his brother for twenty years.",
+    "synonyms": [
+      "resentment",
+      "grievance",
+      "bitterness"
+    ],
+    "origin": "From Middle English grucchen “to murmur, to complain”, from Old French grouchier “to grumble”, of uncertain origin.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "I bear you no grudge; I think no worse of you than I do of other people.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ɡrʌdʒ",
+    "zipf": 3.33,
+    "issues": []
+  },
+  {
+    "lemma": "mischief",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Playful behavior that causes minor trouble",
+    "example": "The twins were always getting into mischief when left alone.",
+    "synonyms": [
+      "naughtiness",
+      "trouble",
+      "pranks"
+    ],
+    "origin": "From Old French meschief “misfortune”, from meschever “to come to grief”, from mes- “badly” and chever “to come to an end”, from chief “head, end”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "There was a gleam of mischief in her big dark eyes with their long lashes.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
+    "ipa": "ˈmɪstʃəf",
+    "zipf": 3.36,
+    "issues": []
+  },
+  {
+    "lemma": "remorse",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Deep regret for something you did wrong",
+    "example": "The driver showed no remorse for the accident he caused.",
+    "synonyms": [
+      "regret",
+      "guilt",
+      "repentance"
+    ],
+    "origin": "From Old French remors, from medieval Latin remorsus, from Latin remordere “to bite again, to torment”, from mordere “to bite”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "Levin immediately felt the reproach in the eyes fixed on him, and felt remorse at his own happiness.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "rɪˈmɔrs",
+    "zipf": 3.49,
+    "issues": []
+  },
+  {
+    "lemma": "solitude",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "The state of being alone, often by choice",
+    "example": "After a noisy week she enjoyed the solitude of the mountains.",
+    "synonyms": [
+      "isolation",
+      "seclusion",
+      "privacy"
+    ],
+    "origin": "From Old French solitude, from Latin solitudo “loneliness”, from solus “alone”.",
+    "topics": [
+      "emotions",
+      "nature"
+    ],
+    "quote": "In solitude a man generally listens to the first voice, but in society to the second.",
+    "quote_source": "Leo Tolstoy, War and Peace",
+    "ipa": "ˈsɑlətud",
+    "zipf": 3.42,
+    "issues": []
+  },
+  {
+    "lemma": "sorrow",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A feeling of deep sadness or loss",
+    "example": "Words cannot express our sorrow at the news of his death.",
+    "synonyms": [
+      "grief",
+      "sadness",
+      "woe"
+    ],
+    "origin": "From Old English sorg “grief, care, anxiety”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "Oh! how easy for those, who have no sorrow of their own to talk of exertion!",
+    "quote_source": "Jane Austen, Sense and Sensibility",
+    "ipa": "ˈsɑroʊ",
+    "zipf": 3.73,
+    "issues": []
+  },
+  {
+    "lemma": "toil",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "Long, hard and tiring work",
+    "example": "After years of toil, the farm finally began to make money.",
+    "synonyms": [
+      "labor",
+      "drudgery",
+      "work"
+    ],
+    "origin": "From Anglo-French toiller “to agitate, to stir up, to entangle”; the sense “hard work” grew out of “struggle, turmoil”.",
+    "topics": [
+      "business"
+    ],
+    "quote": "All the long day of toil had left no trace in them but lightness of heart.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "tɔɪl",
+    "zipf": 3.03,
+    "issues": []
+  },
+  {
+    "lemma": "whim",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A sudden wish or idea, often an odd one",
+    "example": "On a whim, we booked two tickets to Iceland that same evening.",
+    "synonyms": [
+      "impulse",
+      "fancy",
+      "caprice"
+    ],
+    "origin": "Shortened from whim-wham “a fanciful object, a trinket”, of unknown origin.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "Follies and nonsense, whims and inconsistencies, do divert me, I own, and I laugh at them whenever I can.",
+    "quote_source": "Jane Austen, Pride and Prejudice",
+    "ipa": "wɪm",
+    "zipf": 3.28,
+    "issues": []
+  },
+  {
+    "lemma": "envy",
+    "level": 1,
+    "part_of_speech": "n.",
+    "definition": "A wish to have what another person has",
+    "example": "Her new car was the envy of the whole neighborhood.",
+    "synonyms": [
+      "jealousy",
+      "covetousness",
+      "resentment"
+    ],
+    "origin": "From Old French envie, from Latin invidia, from invidere “to look at with ill will”, from in- “upon” and videre “to see”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "Tom was a glittering hero once more—the pet of the old, the envy of the young.",
+    "quote_source": "Mark Twain, The Adventures of Tom Sawyer",
+    "ipa": "ˈɛnvi",
+    "zipf": 3.84,
+    "issues": []
+  },
+  {
+    "lemma": "ample",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "More than enough in size or amount",
+    "example": "There is ample room in the trunk for all four suitcases.",
+    "synonyms": [
+      "plentiful",
+      "abundant",
+      "generous"
+    ],
+    "origin": "From Old French ample, from Latin amplus “large, spacious, abundant”.",
+    "topics": [
+      "business"
+    ],
+    "quote": "All of us had an ample share of the treasure and used it wisely or foolishly, according to our natures.",
+    "quote_source": "Robert Louis Stevenson, Treasure Island",
+    "ipa": "ˈæmpəl",
+    "zipf": 3.71,
+    "issues": []
+  },
+  {
+    "lemma": "awkward",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Lacking ease or grace; uncomfortable or embarrassing",
+    "example": "There was an awkward silence after he forgot her name.",
+    "synonyms": [
+      "clumsy",
+      "uncomfortable",
+      "embarrassing"
+    ],
+    "origin": "From Middle English awk “turned the wrong way” (from Old Norse afugr) and -ward “in the direction of”.",
+    "topics": [
+      "emotions",
+      "society"
+    ],
+    "quote": "At such a time much might have been said, and silence was very awkward.",
+    "quote_source": "Jane Austen, Pride and Prejudice",
+    "ipa": "ˈɑkwɚd",
+    "zipf": 4.29,
+    "issues": []
+  },
+  {
+    "lemma": "cunning",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Clever at getting what you want by tricks",
+    "example": "The cunning fox waited until the farmer had gone inside.",
+    "synonyms": [
+      "sly",
+      "crafty",
+      "wily"
+    ],
+    "origin": "From Middle English cunning “knowing, skilled”, from cunnen “to know”, from Old English cunnan; related to can.",
+    "topics": [
+      "character"
+    ],
+    "quote": "The more cunning a man is, the simpler the trap he must be caught in.",
+    "quote_source": "Fyodor Dostoevsky, Crime and Punishment",
+    "ipa": "ˈkʌnɪŋ",
+    "zipf": 3.45,
+    "issues": []
+  },
+  {
+    "lemma": "dreary",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Dull, dark and making you feel sad",
+    "example": "We spent a dreary afternoon waiting for the rain to stop.",
+    "synonyms": [
+      "bleak",
+      "dull",
+      "gloomy"
+    ],
+    "origin": "From Old English dreorig “sad, sorrowful”, originally “bloody, gory”, from dreor “gore, falling blood”.",
+    "topics": [
+      "nature",
+      "emotions"
+    ],
+    "quote": "I wondered why moralists call this world a dreary wilderness: for me it blossomed like a rose.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "ˈdrɪri",
+    "zipf": 3.08,
+    "issues": []
+  },
+  {
+    "lemma": "fierce",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Violent and aggressive, or very strong",
+    "example": "The two companies are locked in fierce competition for customers.",
+    "synonyms": [
+      "ferocious",
+      "savage",
+      "intense"
+    ],
+    "origin": "From Old French fers, nominative of fer “wild, proud”, from Latin ferus “wild, untamed”.",
+    "topics": [
+      "nature",
+      "business"
+    ],
+    "quote": "He’s not a rough diamond—a pearl-containing oyster of a rustic: he’s a fierce, pitiless, wolfish man.",
+    "quote_source": "Emily Brontë, Wuthering Heights",
+    "ipa": "fɪrs",
+    "zipf": 3.92,
+    "issues": []
+  },
+  {
+    "lemma": "grim",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very serious, gloomy or worrying",
+    "example": "The doctor's grim expression told us the news was bad.",
+    "synonyms": [
+      "stern",
+      "bleak",
+      "severe"
+    ],
+    "origin": "From Old English grimm “fierce, savage, cruel”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "There was a look of grim satisfaction in his face, as of one who has had a doubt solved.",
+    "quote_source": "Bram Stoker, Dracula",
+    "ipa": "ɡrɪm",
+    "zipf": 3.69,
+    "issues": []
+  },
+  {
+    "lemma": "keen",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very eager, or sharp and quick",
+    "example": "She has a keen eye for detail and a keen interest in art.",
+    "synonyms": [
+      "eager",
+      "sharp",
+      "enthusiastic"
+    ],
+    "origin": "From Old English cene “bold, brave”, later “sharp”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "There is so keen a sympathy between us that I should know if evil came upon him.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
+    "ipa": "kin",
+    "zipf": 4.13,
+    "issues": []
+  },
+  {
+    "lemma": "nimble",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Quick and light in movement or thought",
+    "example": "A nimble goalkeeper can change direction in an instant.",
+    "synonyms": [
+      "agile",
+      "quick",
+      "spry"
+    ],
+    "origin": "From Old English næmel “quick to grasp”, from niman “to take”; the b crept in later.",
+    "topics": [
+      "character",
+      "nature"
+    ],
+    "quote": "She was a nimble little needlewoman, and they were finished before anyone got tired of them.",
+    "quote_source": "Louisa May Alcott, Little Women",
+    "ipa": "ˈnɪmbəl",
+    "zipf": 3.07,
+    "issues": []
+  },
+  {
+    "lemma": "radiant",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Shining brightly, or glowing with joy",
+    "example": "The bride looked radiant as she walked into the room.",
+    "synonyms": [
+      "glowing",
+      "bright",
+      "beaming"
+    ],
+    "origin": "From Latin radians “shining”, from radiare “to emit rays”, from radius “ray, spoke”.",
+    "topics": [
+      "emotions",
+      "nature"
+    ],
+    "quote": "Her flushed face, fringed with soft curling hair under her night cap, was radiant with joy and courage.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "ˈreɪdiənt",
+    "zipf": 3.49,
+    "issues": []
+  },
+  {
+    "lemma": "shrewd",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Having sharp practical judgment",
+    "example": "A shrewd investor, she sold her shares just before prices fell.",
+    "synonyms": [
+      "astute",
+      "sharp",
+      "canny"
+    ],
+    "origin": "From Middle English shrewed “wicked, cursed”, from shrew “a spiteful person”; the sense softened to “cunning” and then “clever”.",
+    "topics": [
+      "business",
+      "character"
+    ],
+    "quote": "He was a strong-minded man, sir, shrewd, practical, and as unimaginative as I am myself.",
+    "quote_source": "Arthur Conan Doyle, The Hound of the Baskervilles",
+    "ipa": "ʃrud",
+    "zipf": 3.11,
+    "issues": []
+  },
+  {
+    "lemma": "solemn",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very serious, formal and dignified",
+    "example": "The soldiers made a solemn promise to defend the city.",
+    "synonyms": [
+      "serious",
+      "grave",
+      "earnest"
+    ],
+    "origin": "From Old French solemne, from Latin sollemnis “established, ceremonial, performed at fixed times”.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "All manner of solemn nonsense was talked on the subject, but I believed none of it.",
+    "quote_source": "Jane Austen, Emma",
+    "ipa": "ˈsɑləm",
+    "zipf": 3.41,
+    "issues": []
+  },
+  {
+    "lemma": "timid",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Lacking courage or confidence; easily frightened",
+    "example": "The timid boy stood at the back and never raised his hand.",
+    "synonyms": [
+      "shy",
+      "fearful",
+      "bashful"
+    ],
+    "origin": "From Latin timidus “fearful”, from timere “to fear”.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "The gardener made a timid bow, and remained at the door of the cell.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ˈtɪmɪd",
+    "zipf": 3.25,
+    "issues": []
+  },
+  {
+    "lemma": "vast",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Extremely large in size, amount or extent",
+    "example": "A vast desert stretches from the mountains to the sea.",
+    "synonyms": [
+      "huge",
+      "immense",
+      "enormous"
+    ],
+    "origin": "From Latin vastus “immense, empty, desolate”.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "Don’t I feel in my soul that I am part of this vast harmonious whole?",
+    "quote_source": "Leo Tolstoy, War and Peace",
+    "ipa": "væst",
+    "zipf": 4.49,
+    "issues": []
+  },
+  {
+    "lemma": "wretched",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Very unhappy, unfortunate or of poor quality",
+    "example": "The refugees spent a wretched winter in thin canvas tents.",
+    "synonyms": [
+      "miserable",
+      "pitiful",
+      "unhappy"
+    ],
+    "origin": "From Middle English wrecched, from wrecche “wretch”, from Old English wrecca “exile, outcast”.",
+    "topics": [
+      "emotions",
+      "society"
+    ],
+    "quote": "Though the day was just as fine as yesterday, it seemed a wretched little place this time.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
+    "ipa": "ˈrɛtʃɪd",
+    "zipf": 3.37,
+    "issues": []
+  },
+  {
+    "lemma": "earnest",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Serious and sincere in what you say or do",
+    "example": "He made an earnest attempt to repair the friendship.",
+    "synonyms": [
+      "serious",
+      "sincere",
+      "heartfelt"
+    ],
+    "origin": "From Old English eornoste “serious, zealous”, from eornost “seriousness”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "We shook hands, and he was so earnest and so kind that it made me quite choky.",
+    "quote_source": "Bram Stoker, Dracula",
+    "ipa": "ˈɝnɪst",
+    "zipf": 3.66,
+    "issues": []
+  },
+  {
+    "lemma": "fragile",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "definition": "Easily broken, damaged or harmed",
+    "example": "Pack the fragile glasses carefully between layers of newspaper.",
+    "synonyms": [
+      "delicate",
+      "brittle",
+      "frail"
+    ],
+    "origin": "From Latin fragilis “easily broken”, from frangere “to break”.",
+    "topics": [
+      "science",
+      "emotions"
+    ],
+    "quote": "Despair is surrounded with fragile partitions which all open on either vice or crime.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ˈfrædʒəl",
+    "zipf": 3.86,
+    "issues": []
+  },
+  {
+    "lemma": "abhor",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To regard with disgust and hatred",
+    "example": "Most people abhor cruelty to animals in any form.",
+    "synonyms": [
+      "detest",
+      "loathe",
+      "despise"
+    ],
+    "origin": "From Latin abhorrere “to shrink back from in horror”, from ab- “away from” and horrere “to bristle, to shudder”.",
+    "topics": [
+      "emotions",
+      "debate"
+    ],
+    "quote": "You, my creator, abhor me; what hope can I gather from your fellow creatures, who owe me nothing?",
+    "quote_source": "Mary Shelley, Frankenstein",
+    "ipa": "æbˈhɔr",
+    "zipf": 2.64,
+    "issues": []
+  },
+  {
+    "lemma": "admonish",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To warn or criticize someone firmly but gently",
+    "example": "The coach had to admonish two players for arriving late.",
+    "synonyms": [
+      "warn",
+      "reprimand",
+      "caution"
+    ],
+    "origin": "From Old French amonester, from Latin admonere “to remind, to warn”, from ad- “to” and monere “to warn”.",
+    "topics": [
+      "society",
+      "persuasion"
+    ],
+    "quote": "“You’re letting your supper get cold,” she admonished him with a pale gleam of gaiety.",
+    "quote_source": "Edith Wharton, Ethan Frome",
+    "ipa": "ædˈmɑnɪʃ",
+    "zipf": 2.29,
+    "issues": []
+  },
+  {
+    "lemma": "allude",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To mention something in an indirect way",
+    "example": "She likes to allude to her years in Paris without giving details.",
+    "synonyms": [
+      "refer",
+      "hint",
+      "suggest"
+    ],
+    "origin": "From Latin alludere “to play with, to jest”, from ad- “to” and ludere “to play”.",
+    "topics": [
+      "literature",
+      "debate"
+    ],
+    "quote": "Besides, it struck him as a little absurd to allude to the matter.",
+    "quote_source": "Edith Wharton, The Age of Innocence",
+    "ipa": "əˈlud",
+    "zipf": 2.7,
+    "issues": []
+  },
+  {
+    "lemma": "appease",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To calm someone by giving what they demand",
+    "example": "The manager offered a refund to appease the angry customer.",
+    "synonyms": [
+      "pacify",
+      "placate",
+      "soothe"
+    ],
+    "origin": "From Old French apaisier “to bring to peace”, from a- “to” and pais “peace”, from Latin pax.",
+    "topics": [
+      "persuasion",
+      "society"
+    ],
+    "quote": "Hunger he had known; and when he could not appease his hunger he had felt restriction.",
+    "quote_source": "Jack London, White Fang",
+    "ipa": "əˈpiz",
+    "zipf": 3.2,
+    "issues": []
+  },
+  {
+    "lemma": "beguile",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To charm someone, sometimes in order to deceive",
+    "example": "The salesman tried to beguile us with stories of easy profits.",
+    "synonyms": [
+      "charm",
+      "enchant",
+      "deceive"
+    ],
+    "origin": "From be- “thoroughly” and guile “deceit”, from Old French guile, of Germanic origin.",
+    "topics": [
+      "persuasion",
+      "literature"
+    ],
+    "quote": "Finding that the social spirit had beguiled her into being rather late, she dressed hastily and went over to the parsonage rather earlier than was necessary.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "bɪˈɡaɪl",
+    "zipf": 2.04,
+    "issues": []
+  },
+  {
+    "lemma": "beseech",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To ask for something in an anxious, urgent way",
+    "example": "I beseech you to think again before you sign that contract.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "entreat"
+    ],
+    "origin": "From Middle English besechen, from be- (intensive) and sechen “to seek”, from Old English secan.",
+    "topics": [
+      "persuasion",
+      "literature"
+    ],
+    "quote": "Don’t follow me, I beseech you, I have somewhere else to go....",
+    "quote_source": "Fyodor Dostoevsky, Crime and Punishment",
+    "ipa": "biˈsitʃ",
+    "zipf": 2.74,
+    "issues": []
+  },
+  {
+    "lemma": "contemplate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To think about something deeply and at length",
+    "example": "He sat by the lake to contemplate his future.",
+    "synonyms": [
+      "consider",
+      "ponder",
+      "reflect"
+    ],
+    "origin": "From Latin contemplari “to gaze at, to observe”, from con- (intensive) and templum, a space marked out for watching omens.",
+    "topics": [
+      "literature",
+      "science"
+    ],
+    "quote": "I contemplate at least a temporary withdrawal from the management of much business, whether benevolent or commercial.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ˈkɑntəmpleɪt",
+    "zipf": 3.41,
+    "issues": []
+  },
+  {
+    "lemma": "disdain",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The feeling that something deserves no respect",
+    "example": "She looked at the cheap souvenirs with obvious disdain.",
+    "synonyms": [
+      "contempt",
+      "scorn",
+      "derision"
+    ],
+    "origin": "From Old French desdeign, from desdeignier “to scorn”, from Latin dedignari “to reject as unworthy”, from de- “away” and dignari “to deem worthy”.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "The face was saturnine and swarthy, and the sensual lips seemed to be twisted with disdain.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
+    "ipa": "dɪsˈdeɪn",
+    "zipf": 3.33,
+    "issues": []
+  },
+  {
+    "lemma": "entreat",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To ask someone earnestly or anxiously",
+    "example": "Let me entreat you once more to stay until morning.",
+    "synonyms": [
+      "beg",
+      "implore",
+      "plead"
+    ],
+    "origin": "From Old French entraiter “to treat, to deal with”, from en- and traiter “to treat”, from Latin tractare “to handle”.",
+    "topics": [
+      "persuasion"
+    ],
+    "quote": "I entreat you to hear me before you give vent to your hatred on my devoted head.",
+    "quote_source": "Mary Shelley, Frankenstein",
+    "ipa": "ɪnˈtrit",
+    "zipf": 2.32,
+    "issues": []
+  },
+  {
+    "lemma": "exalt",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To praise highly or raise in rank",
+    "example": "The poem seems to exalt the simple life of the countryside.",
+    "synonyms": [
+      "praise",
+      "glorify",
+      "elevate"
+    ],
+    "origin": "From Latin exaltare “to raise high”, from ex- “out, upward” and altus “high”.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "And, true enough, in proportion as he appeared to humble himself was he exalted.",
+    "quote_source": "Henry David Thoreau, Walden",
+    "ipa": "ɪɡˈzɔlt",
+    "zipf": 2.6,
+    "issues": []
+  },
+  {
+    "lemma": "implore",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To beg someone desperately to do something",
+    "example": "Doctors implore the public to stay home during the storm.",
+    "synonyms": [
+      "beg",
+      "beseech",
+      "plead"
+    ],
+    "origin": "From Latin implorare “to call upon with tears”, from in- “upon” and plorare “to weep, to cry out”.",
+    "topics": [
+      "persuasion",
+      "emotions"
+    ],
+    "quote": "I implored the colonel to let me out, but the remorseless clanking of the levers drowned my cries.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
+    "ipa": "ɪmˈplɔr",
+    "zipf": 2.84,
+    "issues": []
+  },
+  {
+    "lemma": "languish",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To grow weak or remain neglected for a long time",
+    "example": "Thousands of applications languish in a queue for months.",
+    "synonyms": [
+      "weaken",
+      "wither",
+      "decline"
+    ],
+    "origin": "From Old French languiss-, stem of languir, from Latin languere “to be faint, to be weak”.",
+    "topics": [
+      "emotions",
+      "business"
+    ],
+    "quote": "The conversation languished; Madame Bovary gave it up every few minutes, whilst he himself seemed quite embarrassed.",
+    "quote_source": "Gustave Flaubert, Madame Bovary",
+    "ipa": "ˈlæŋɡwɪʃ",
+    "zipf": 2.55,
+    "issues": []
+  },
+  {
+    "lemma": "perplex",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To confuse and worry someone",
+    "example": "The strange results perplex the scientists who ran the experiment.",
+    "synonyms": [
+      "puzzle",
+      "baffle",
+      "confuse"
+    ],
+    "origin": "From the older adjective perplex “confused”, from Latin perplexus “entangled”, from per- “thoroughly” and plectere “to weave, to braid”.",
+    "topics": [
+      "science",
+      "debate"
+    ],
+    "quote": "What was there to frighten or to perplex in the prospect of life?",
+    "quote_source": "Virginia Woolf, The Voyage Out",
+    "ipa": "pɚˈplɛks",
+    "zipf": 1.88,
+    "issues": []
+  },
+  {
+    "lemma": "rebuke",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To criticize someone sharply for what they did",
+    "example": "The judge did not hesitate to rebuke the lawyer for his rudeness.",
+    "synonyms": [
+      "scold",
+      "reprimand",
+      "reproach"
+    ],
+    "origin": "From Anglo-French rebuker “to beat back”, from re- “back” and Old French buschier “to strike, to chop wood”, from busche “log”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "Archer, changing colour, stood up also: it was the bitterest rebuke she could have given him.",
+    "quote_source": "Edith Wharton, The Age of Innocence",
+    "ipa": "riˈbjuk",
+    "zipf": 3.1,
+    "issues": []
+  },
+  {
+    "lemma": "reproach",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Blame or criticism for a fault or failure",
+    "example": "His mother's eyes were full of silent reproach.",
+    "synonyms": [
+      "blame",
+      "criticism",
+      "censure"
+    ],
+    "origin": "From Old French reproche, from reprochier “to blame”, probably from Latin re- “back” and prope “near”: to bring something back close to someone.",
+    "topics": [
+      "emotions",
+      "society"
+    ],
+    "quote": "The man folded his arms and stared at the grating with an air of reproach.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "riˈproʊtʃ",
+    "zipf": 2.94,
+    "issues": []
+  },
+  {
+    "lemma": "repudiate",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To refuse to accept or be connected with",
+    "example": "The senator was quick to repudiate the remarks of his own adviser.",
+    "synonyms": [
+      "reject",
+      "disown",
+      "renounce"
+    ],
+    "origin": "From Latin repudiare “to divorce, to reject”, from repudium “divorce, rejection”.",
+    "topics": [
+      "debate",
+      "society"
+    ],
+    "quote": "The charge of robbery I repudiate with indignation.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
+    "ipa": "riˈpjudieɪt",
+    "zipf": 2.45,
+    "issues": []
+  },
+  {
+    "lemma": "surmise",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To suppose something is true without firm proof",
+    "example": "From the empty driveway I surmise that they have already left.",
+    "synonyms": [
+      "guess",
+      "suppose",
+      "infer"
+    ],
+    "origin": "From Old French surmis, past participle of surmettre “to accuse”, from sur- “upon” and mettre “to put”.",
+    "topics": [
+      "debate",
+      "science"
+    ],
+    "quote": "Harriet had not surmised her own danger, but the idea of it struck her forcibly.",
+    "quote_source": "Jane Austen, Emma",
+    "ipa": "sɚˈmaɪz",
+    "zipf": 2.67,
+    "issues": []
+  },
+  {
+    "lemma": "vex",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To annoy, worry or frustrate someone",
+    "example": "Small delays vex him far more than real disasters ever do.",
+    "synonyms": [
+      "annoy",
+      "irritate",
+      "bother"
+    ],
+    "origin": "From Old French vexer, from Latin vexare “to shake, to harass, to trouble”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "At the same time, he was horribly vexed because there was dust on his boots.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "vɛks",
+    "zipf": 2.85,
+    "issues": []
+  },
+  {
+    "lemma": "waver",
+    "level": 2,
+    "part_of_speech": "v.",
+    "definition": "To be unsteady or unable to decide",
+    "example": "Her support for the plan began to waver after the first setback.",
+    "synonyms": [
+      "hesitate",
+      "falter",
+      "vacillate"
+    ],
+    "origin": "From Middle English waveren, probably from Old Norse vafra “to flicker, to move unsteadily”.",
+    "topics": [
+      "character",
+      "debate"
+    ],
+    "quote": "I wavered again, and began to think here were greater expectations than my own.",
+    "quote_source": "Charles Dickens, Great Expectations",
+    "ipa": "ˈweɪvɚ",
+    "zipf": 2.75,
+    "issues": []
+  },
+  {
+    "lemma": "ardor",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Great enthusiasm or passion",
+    "example": "They defended their small theater with surprising ardor.",
+    "synonyms": [
+      "passion",
+      "fervor",
+      "zeal"
+    ],
+    "origin": "From Old French ardour, from Latin ardor “heat, flame”, from ardere “to burn”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "The very nearness of the fire but cooled our ardor.",
+    "quote_source": "Henry David Thoreau, Walden",
+    "ipa": "ˈɑrdɚ",
+    "zipf": 2.34,
+    "issues": []
+  },
+  {
+    "lemma": "avarice",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Extreme greed for money or possessions",
+    "example": "His avarice cost him every friend he ever had.",
+    "synonyms": [
+      "greed",
+      "cupidity",
+      "covetousness"
+    ],
+    "origin": "From Old French avarice, from Latin avaritia, from avarus “greedy”, from avere “to crave”.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "They were influenced by hatred, by avarice, and by self-love; but I was base, and for want of courage acted against my judgment.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
+    "ipa": "ˈævərəs",
+    "zipf": 2.5,
+    "issues": []
+  },
+  {
+    "lemma": "caprice",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A sudden, unpredictable change of mood or behavior",
+    "example": "The schedule seemed to change at the caprice of the director.",
+    "synonyms": [
+      "whim",
+      "impulse",
+      "fancy"
+    ],
+    "origin": "From French caprice, from Italian capriccio “a sudden start, a shiver”, perhaps from capo “head” and riccio “hedgehog”: a head with the hair standing on end.",
+    "topics": [
+      "character"
+    ],
+    "quote": "Without conscious intention he began to clutch at every passing caprice, taking it for a desire and an object.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "kəˈpris",
+    "zipf": 2.86,
+    "issues": []
+  },
+  {
+    "lemma": "composure",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The state of being calm and in control",
+    "example": "She kept her composure even when the audience began to shout.",
+    "synonyms": [
+      "calm",
+      "poise",
+      "serenity"
+    ],
+    "origin": "From compose and the suffix -ure; compose comes from Old French composer “to put together”, from com- “together” and poser “to place”.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "Estella looked at her with perfect composure, and again looked down at the fire.",
+    "quote_source": "Charles Dickens, Great Expectations",
+    "ipa": "kəmˈpoʊʒɚ",
+    "zipf": 3.18,
+    "issues": []
+  },
+  {
+    "lemma": "fortitude",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Courage shown through pain or long difficulty",
+    "example": "She bore the long illness with remarkable fortitude.",
+    "synonyms": [
+      "courage",
+      "endurance",
+      "strength"
+    ],
+    "origin": "From Latin fortitudo “strength”, from fortis “strong”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "But active love is labor and fortitude, and for some people too, perhaps, a complete science.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
+    "ipa": "ˈfɔrtɪtud",
+    "zipf": 3.15,
+    "issues": []
+  },
+  {
+    "lemma": "indignation",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Anger at something that seems unfair or wrong",
+    "example": "The decision to close the school caused widespread indignation.",
+    "synonyms": [
+      "anger",
+      "outrage",
+      "resentment"
+    ],
+    "origin": "From Latin indignatio, from indignari “to regard as unworthy”, from in- “not” and dignus “worthy”.",
+    "topics": [
+      "emotions",
+      "society"
+    ],
+    "quote": "However just her indignation might be, her ideal was not to claim justice, but to give tenderness.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ɪndɪɡˈneɪʃən",
+    "zipf": 3.08,
+    "issues": []
+  },
+  {
+    "lemma": "melancholy",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A deep, lasting and thoughtful sadness",
+    "example": "A gentle melancholy settled over him as the summer ended.",
+    "synonyms": [
+      "sadness",
+      "gloom",
+      "sorrow"
+    ],
+    "origin": "From Greek melankholia, from melas “black” and khole “bile”; an excess of black bile was once thought to cause sadness.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "You are in a melancholy humour, and fancy that any one unlike yourself must be happy.",
+    "quote_source": "Jane Austen, Sense and Sensibility",
+    "ipa": "ˈmɛlənkɑli",
+    "zipf": 3.39,
+    "issues": []
+  },
+  {
+    "lemma": "reverie",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A state of pleasant, dreamy thought",
+    "example": "The ringing phone pulled her out of her reverie.",
+    "synonyms": [
+      "daydream",
+      "trance",
+      "musing"
+    ],
+    "origin": "From French rêverie, from rêver “to dream”, in Old French “to wander, to be delirious”, of uncertain origin.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "Helen sighed as her reverie fled, and getting up, obeyed the monitor without reply as without delay.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "ˈrɛvəri",
+    "zipf": 2.62,
+    "issues": []
+  },
+  {
+    "lemma": "scruple",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A moral doubt that makes you hesitate",
+    "example": "He had no scruple about reading other people's letters.",
+    "synonyms": [
+      "qualm",
+      "doubt",
+      "misgiving"
+    ],
+    "origin": "From Latin scrupulus “a small sharp stone”, hence a source of unease, from scrupus “rough stone”.",
+    "topics": [
+      "character",
+      "debate"
+    ],
+    "quote": "Notions and scruples were like spilt needles, making one afraid of treading, or sitting down, or even eating.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ˈskrupəl",
+    "zipf": 1.89,
+    "issues": []
+  },
+  {
+    "lemma": "tumult",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A loud, confused noise or state of disorder",
+    "example": "The speaker could not be heard above the tumult of the crowd.",
+    "synonyms": [
+      "uproar",
+      "commotion",
+      "turmoil"
+    ],
+    "origin": "From Latin tumultus “commotion, uproar”, related to tumere “to swell”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "Suddenly the tumult ceased, as if by magic, and the doors of the church opened.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
+    "ipa": "ˈtuməlt",
+    "zipf": 2.7,
+    "issues": []
+  },
+  {
+    "lemma": "vanity",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Too much pride in your looks or achievements",
+    "example": "Out of vanity, he refused to wear his glasses in public.",
+    "synonyms": [
+      "pride",
+      "conceit",
+      "narcissism"
+    ],
+    "origin": "From Old French vanité, from Latin vanitas “emptiness, worthlessness”, from vanus “empty”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "The world had made him extravagant and vain—Extravagance and vanity had made him cold-hearted and selfish.",
+    "quote_source": "Jane Austen, Sense and Sensibility",
+    "ipa": "ˈvænəti",
+    "zipf": 3.74,
+    "issues": []
+  },
+  {
+    "lemma": "vigor",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Physical or mental strength and energy",
+    "example": "At eighty she still argues with the vigor of a young lawyer.",
+    "synonyms": [
+      "energy",
+      "vitality",
+      "strength"
+    ],
+    "origin": "From Old French vigor, from Latin vigor “liveliness”, from vigere “to be lively, to thrive”.",
+    "topics": [
+      "nature",
+      "character"
+    ],
+    "quote": "With unrelaxed nerves, with morning vigor, sail by it, looking another way, tied to the mast like Ulysses.",
+    "quote_source": "Henry David Thoreau, Walden",
+    "ipa": "ˈvɪɡɚ",
+    "zipf": 3.03,
+    "issues": []
+  },
+  {
+    "lemma": "anguish",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Severe mental or physical pain",
+    "example": "The families waited in anguish for news of the rescue.",
+    "synonyms": [
+      "agony",
+      "torment",
+      "suffering"
+    ],
+    "origin": "From Old French anguisse “a choking sensation”, from Latin angustia “narrowness, distress”, from angustus “narrow”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "The anguish of this thought was such that for a moment he almost forgot himself.",
+    "quote_source": "Fyodor Dostoevsky, Crime and Punishment",
+    "ipa": "ˈæŋɡwɪʃ",
+    "zipf": 3.37,
+    "issues": []
+  },
+  {
+    "lemma": "malice",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "The wish to harm or upset other people",
+    "example": "There was no malice in his joke, only clumsiness.",
+    "synonyms": [
+      "spite",
+      "malevolence",
+      "cruelty"
+    ],
+    "origin": "From Old French malice, from Latin malitia “badness, ill will”, from malus “bad”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "But some enchantment had put both man and woman beyond the reach of malice and unpopularity.",
+    "quote_source": "Virginia Woolf, The Voyage Out",
+    "ipa": "ˈmæləs",
+    "zipf": 3.34,
+    "issues": []
+  },
+  {
+    "lemma": "pretext",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A false reason given to hide the real one",
+    "example": "He left the meeting early on the pretext of a headache.",
+    "synonyms": [
+      "excuse",
+      "pretense",
+      "guise"
+    ],
+    "origin": "From Latin praetextus “outward show”, from praetexere “to weave in front, to disguise”, from prae- “before” and texere “to weave”.",
+    "topics": [
+      "persuasion",
+      "debate"
+    ],
+    "quote": "Seizing the first pretext, she got up, and with her light, resolute step went for her album.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "ˈpritɛkst",
+    "zipf": 3.27,
+    "issues": []
+  },
+  {
+    "lemma": "solicitude",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "Care and concern for someone's comfort or wellbeing",
+    "example": "The nurse treated every patient with the same quiet solicitude.",
+    "synonyms": [
+      "concern",
+      "care",
+      "attentiveness"
+    ],
+    "origin": "From Latin sollicitudo “anxiety”, from sollicitus “agitated, troubled”, from sollus “whole” and citus “set in motion”.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "Evening came, and still, with all the patient solicitude of a mother, she watched for his return.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
+    "ipa": "səˈlɪsɪtud",
+    "zipf": 1.91,
+    "issues": []
+  },
+  {
+    "lemma": "countenance",
+    "level": 2,
+    "part_of_speech": "n.",
+    "definition": "A person's face or its expression",
+    "example": "His cheerful countenance put the nervous visitors at ease.",
+    "synonyms": [
+      "face",
+      "expression",
+      "visage"
+    ],
+    "origin": "From Old French contenance “bearing, behavior”, from Latin continentia “restraint”, from continere “to hold together”.",
+    "topics": [
+      "literature"
+    ],
+    "quote": "His countenance, voice, and manner had established him at once in the possession of every virtue.",
+    "quote_source": "Jane Austen, Pride and Prejudice",
+    "ipa": "ˈkaʊntənəns",
+    "zipf": 2.91,
+    "issues": []
+  },
+  {
+    "lemma": "amiable",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Friendly and pleasant to be with",
+    "example": "Our amiable neighbor always stops to chat over the fence.",
+    "synonyms": [
+      "friendly",
+      "pleasant",
+      "genial"
+    ],
+    "origin": "From Old French amiable, from late Latin amicabilis “friendly”, from Latin amicus “friend”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "The conversation began amiably, but just because it was too amiable, it came to a stop again.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "ˈeɪmiəbəl",
+    "zipf": 2.84,
+    "issues": []
+  },
+  {
+    "lemma": "arduous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Needing great effort; difficult and tiring",
+    "example": "The arduous climb to the summit took nearly twelve hours.",
+    "synonyms": [
+      "difficult",
+      "strenuous",
+      "grueling"
+    ],
+    "origin": "From Latin arduus “high, steep, difficult”.",
+    "topics": [
+      "travel",
+      "business"
+    ],
+    "quote": "The rest of us must be contented with a fair, but a less arduous, goal.",
+    "quote_source": "E. M. Forster, A Room with a View",
+    "ipa": "ˈɑrdʒuəs",
+    "zipf": 3.18,
+    "issues": []
+  },
+  {
+    "lemma": "astute",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Quick to understand a situation and gain from it",
+    "example": "An astute observer would have noticed the tension in the room.",
+    "synonyms": [
+      "shrewd",
+      "sharp",
+      "perceptive"
+    ],
+    "origin": "From Latin astutus “crafty, clever”, from astus “craft, cunning”.",
+    "topics": [
+      "business",
+      "character"
+    ],
+    "quote": "Thénardier, who was, above all, an astute and well-balanced man, was a scamp of a temperate sort.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "əˈstut",
+    "zipf": 3.1,
+    "issues": []
+  },
+  {
+    "lemma": "aloof",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Distant and not friendly or involved",
+    "example": "He remained aloof from the office gossip and ate lunch alone.",
+    "synonyms": [
+      "distant",
+      "detached",
+      "reserved"
+    ],
+    "origin": "From a- “on” and loof, an old form of luff “the windward side of a ship”; a ship kept aloof stayed clear of the shore.",
+    "topics": [
+      "character"
+    ],
+    "quote": "His whole life he had kept aloof from his kind, and he still desired to keep aloof.",
+    "quote_source": "Jack London, White Fang",
+    "ipa": "əˈluf",
+    "zipf": 2.99,
+    "issues": []
+  },
+  {
+    "lemma": "despondent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Very sad and without hope",
+    "example": "She grew despondent after her third job application was rejected.",
+    "synonyms": [
+      "hopeless",
+      "dejected",
+      "discouraged"
+    ],
+    "origin": "From Latin despondere “to give up, to lose heart”, from de- “away” and spondere “to promise”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "All I see has made me thankful, not despondent.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "dɪˈspɑndənt",
+    "zipf": 2.68,
+    "issues": []
+  },
+  {
+    "lemma": "formidable",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Causing fear or respect by being large or powerful",
+    "example": "The champion faces a formidable opponent in tonight's final.",
+    "synonyms": [
+      "daunting",
+      "impressive",
+      "fearsome"
+    ],
+    "origin": "From Latin formidabilis, from formidare “to fear”, from formido “fear, terror”.",
+    "topics": [
+      "business",
+      "debate"
+    ],
+    "quote": "The glance of women resembles certain combinations of wheels, which are tranquil in appearance yet formidable.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ˈfɔrmədəbəl",
+    "zipf": 3.65,
+    "issues": []
+  },
+  {
+    "lemma": "haughty",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Proud and looking down on other people",
+    "example": "The haughty waiter ignored us for nearly half an hour.",
+    "synonyms": [
+      "arrogant",
+      "proud",
+      "disdainful"
+    ],
+    "origin": "From Middle English haut “high, proud”, from Old French haut “high”, from Latin altus.",
+    "topics": [
+      "character"
+    ],
+    "quote": "He had a haughty bearing, a look either steady and impenetrable or insolently piercing and inquisitorial.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
+    "ipa": "ˈhɔti",
+    "zipf": 2.68,
+    "issues": []
+  },
+  {
+    "lemma": "impetuous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Acting quickly without thinking about the results",
+    "example": "His impetuous decision to quit left the family without income.",
+    "synonyms": [
+      "rash",
+      "impulsive",
+      "hasty"
+    ],
+    "origin": "From Latin impetuosus, from impetus “attack, rush”, from impetere “to attack”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "Rosamond had that victorious obstinacy which never wastes its energy in impetuous resistance.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ɪmˈpɛtʃwəs",
+    "zipf": 2.6,
+    "issues": []
+  },
+  {
+    "lemma": "ludicrous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "So foolish or unreasonable as to be laughable",
+    "example": "It is ludicrous to expect the work to be done by Friday.",
+    "synonyms": [
+      "absurd",
+      "ridiculous",
+      "laughable"
+    ],
+    "origin": "From Latin ludicrus “sportive, done in play”, from ludere “to play”.",
+    "topics": [
+      "debate"
+    ],
+    "quote": "We try to find out, but can you imagine anything more ludicrous than one person’s opinion of another person?",
+    "quote_source": "Virginia Woolf, The Voyage Out",
+    "ipa": "ˈludəkrəs",
+    "zipf": 3.34,
+    "issues": []
+  },
+  {
+    "lemma": "sullen",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Silently bad-tempered and gloomy",
+    "example": "The sullen teenager answered every question with a shrug.",
+    "synonyms": [
+      "sulky",
+      "morose",
+      "surly"
+    ],
+    "origin": "From Anglo-French solein “alone, solitary”, from Old French sol “alone”, from Latin solus.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "A slight wind arose, and the sky looked gray and sullen.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "ˈsʌlən",
+    "zipf": 2.71,
+    "issues": []
+  },
+  {
+    "lemma": "vehement",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Showing strong and forceful feeling",
+    "example": "The plan met with vehement opposition from local residents.",
+    "synonyms": [
+      "passionate",
+      "forceful",
+      "fierce"
+    ],
+    "origin": "From Latin vehemens “violent, eager, impetuous”, of uncertain formation.",
+    "topics": [
+      "debate",
+      "emotions"
+    ],
+    "quote": "She was mortally afraid of being laughed at for surrendering, after her many and vehement declarations of independence.",
+    "quote_source": "Louisa May Alcott, Little Women",
+    "ipa": "ˈviəmənt",
+    "zipf": 2.62,
+    "issues": []
+  },
+  {
+    "lemma": "wistful",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Full of gentle, sad longing",
+    "example": "She gave a wistful smile as the train pulled away.",
+    "synonyms": [
+      "longing",
+      "nostalgic",
+      "yearning"
+    ],
+    "origin": "Probably from the obsolete wistly “intently”, with its sense of longing influenced by wishful.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "Instead, and after a wistful, searching look, he snuggled in, burrowing his head out of sight between the master’s arm and body.",
+    "quote_source": "Jack London, White Fang",
+    "ipa": "ˈwɪstfəl",
+    "zipf": 2.71,
+    "issues": []
+  },
+  {
+    "lemma": "impertinent",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Rude and not showing proper respect",
+    "example": "The reporter was told that his question was impertinent.",
+    "synonyms": [
+      "rude",
+      "insolent",
+      "cheeky"
+    ],
+    "origin": "From late Latin impertinens “not belonging, not to the point”, from in- “not” and pertinere “to pertain”.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "I told him of all that had occurred to make my former interference in his affairs absurd and impertinent.",
+    "quote_source": "Jane Austen, Pride and Prejudice",
+    "ipa": "ɪmˈpɝtənənt",
+    "zipf": 2.55,
+    "issues": []
+  },
+  {
+    "lemma": "sublime",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "So beautiful or grand as to inspire awe",
+    "example": "The view from the top of the pass was simply sublime.",
+    "synonyms": [
+      "magnificent",
+      "glorious",
+      "majestic"
+    ],
+    "origin": "From Latin sublimis “uplifted, lofty”, probably from sub “up to” and limen “lintel”.",
+    "topics": [
+      "literature",
+      "nature"
+    ],
+    "quote": "These sublime and magnificent scenes afforded me the greatest consolation that I was capable of receiving.",
+    "quote_source": "Mary Shelley, Frankenstein",
+    "ipa": "səˈblaɪm",
+    "zipf": 3.48,
+    "issues": []
+  },
+  {
+    "lemma": "dismal",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Gloomy and depressing, or very bad",
+    "example": "Ticket sales were dismal during the long, wet summer.",
+    "synonyms": [
+      "gloomy",
+      "dreary",
+      "miserable"
+    ],
+    "origin": "From Anglo-French dis mal, from medieval Latin dies mali “evil days”, the unlucky days of the medieval calendar.",
+    "topics": [
+      "emotions",
+      "business"
+    ],
+    "quote": "His answer was not cheering to my spirits, for it consisted of two dismal words, ‘With whopping.’",
+    "quote_source": "Charles Dickens, David Copperfield",
+    "ipa": "ˈdɪzməl",
+    "zipf": 3.26,
+    "issues": []
+  },
+  {
+    "lemma": "credulous",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Too ready to believe what you are told",
+    "example": "Credulous investors lost millions in the scheme.",
+    "synonyms": [
+      "gullible",
+      "naive",
+      "trusting"
+    ],
+    "origin": "From Latin credulus “easily believing”, from credere “to believe”.",
+    "topics": [
+      "debate",
+      "character"
+    ],
+    "quote": "Oh, in such cases the criminal is often amazingly shallow and credulous.",
+    "quote_source": "Fyodor Dostoevsky, The Brothers Karamazov",
+    "ipa": "ˈkrɛdʒələs",
+    "zipf": 2.29,
+    "issues": []
+  },
+  {
+    "lemma": "docile",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "definition": "Quiet and easy to control or teach",
+    "example": "The horse was docile enough for a child to ride.",
+    "synonyms": [
+      "obedient",
+      "gentle",
+      "submissive"
+    ],
+    "origin": "From Latin docilis “easily taught”, from docere “to teach”.",
+    "topics": [
+      "character",
+      "nature"
+    ],
+    "quote": "Mamma had a little filial lecture afterwards, and was docile as usual.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ˈdɑsəl",
+    "zipf": 2.93,
+    "issues": []
+  },
+  {
+    "lemma": "imperious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Expecting obedience in a proud, commanding way",
+    "example": "With an imperious wave, she sent the waiter away.",
+    "synonyms": [
+      "domineering",
+      "commanding",
+      "overbearing"
+    ],
+    "origin": "From Latin imperiosus “commanding”, from imperium “command, empire”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "The doll is one of the most imperious needs and, at the same time, one of the most charming instincts of feminine childhood.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ɪmˈpɪriəs",
+    "zipf": 2.66,
+    "issues": []
+  },
+  {
+    "lemma": "importunate",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Persistent in asking, to the point of annoyance",
+    "example": "He hid in his office to escape the importunate salesmen.",
+    "synonyms": [
+      "insistent",
+      "persistent",
+      "pressing"
+    ],
+    "origin": "From Latin importunus “unsuitable, troublesome”, originally “having no harbor”, from in- “not” and portus “harbor”.",
+    "topics": [
+      "persuasion"
+    ],
+    "quote": "They were never importunate and yet never listless.",
+    "quote_source": "Henry James, The Turn of the Screw",
+    "ipa": "ɪmˈpɔrtʃənət",
+    "zipf": 1.6,
+    "issues": []
+  },
+  {
+    "lemma": "inexorable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Impossible to stop or to persuade",
+    "example": "The inexorable rise of the sea threatens every village on the coast.",
+    "synonyms": [
+      "relentless",
+      "unstoppable",
+      "inevitable"
+    ],
+    "origin": "From Latin inexorabilis, from in- “not” and exorare “to prevail upon by pleading”, from orare “to pray, to speak”.",
+    "topics": [
+      "science",
+      "debate"
+    ],
+    "quote": "The inexorable facts closed in on him like prison-warders handcuffing a convict.",
+    "quote_source": "Edith Wharton, Ethan Frome",
+    "ipa": "ɪˈnɛksərəbəl",
+    "zipf": 2.57,
+    "issues": []
+  },
+  {
+    "lemma": "ignominious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Deserving or causing public shame",
+    "example": "The team suffered an ignominious defeat on its own field.",
+    "synonyms": [
+      "shameful",
+      "humiliating",
+      "disgraceful"
+    ],
+    "origin": "From Latin ignominiosus, from ignominia “loss of good name”, from in- “not” and nomen “name”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "“Brevet,” said the President, “you have undergone an ignominious sentence, and you cannot take an oath.”",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ɪɡnəˈmɪniəs",
+    "zipf": 2.34,
+    "issues": []
+  },
+  {
+    "lemma": "lugubrious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Looking or sounding sad in an exaggerated way",
+    "example": "The lugubrious music made the comedy feel like a funeral.",
+    "synonyms": [
+      "mournful",
+      "gloomy",
+      "doleful"
+    ],
+    "origin": "From Latin lugubris “mournful”, from lugere “to mourn”.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "Presently a dog set up a long, lugubrious howl just outside—within ten feet of them.",
+    "quote_source": "Mark Twain, The Adventures of Tom Sawyer",
+    "ipa": "luˈɡubriəs",
+    "zipf": 2.02,
+    "issues": []
+  },
+  {
+    "lemma": "impecunious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Having little or no money",
+    "example": "The impecunious student lived on rice and borrowed books.",
+    "synonyms": [
+      "poor",
+      "penniless",
+      "broke"
+    ],
+    "origin": "From in- “not” and the obsolete pecunious “wealthy”, from Latin pecunia “money”, from pecu “cattle”.",
+    "topics": [
+      "business",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "ipa": "ɪmpɪˈkjuniəs",
+    "zipf": 1.73,
+    "issues": []
+  },
+  {
+    "lemma": "mercurial",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Changing mood or mind quickly and unpredictably",
+    "example": "Working for such a mercurial director exhausted the whole crew.",
+    "synonyms": [
+      "volatile",
+      "changeable",
+      "fickle"
+    ],
+    "origin": "From Latin mercurialis “of the god Mercury”, the swift messenger, whose planet was thought to give a lively, changeable nature.",
+    "topics": [
+      "character"
+    ],
+    "quote": "So our mercurial Ladislaw has a queer genealogy!",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "mɚˈkjʊriəl",
+    "zipf": 2.82,
+    "issues": []
+  },
+  {
+    "lemma": "punctilious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very careful about correct behavior and small details",
+    "example": "She was punctilious about answering every letter within a day.",
+    "synonyms": [
+      "scrupulous",
+      "meticulous",
+      "careful"
+    ],
+    "origin": "From Italian puntiglioso, from puntiglio “a fine point”, from Latin punctum “point”.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "This quality was continually breaking through his punctilious manner in the shape of restlessness.",
+    "quote_source": "F. Scott Fitzgerald, The Great Gatsby",
+    "ipa": "pəŋkˈtɪliəs",
+    "zipf": 1.76,
+    "issues": []
+  },
+  {
+    "lemma": "sedulous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Showing steady care, effort and dedication",
+    "example": "Years of sedulous practice made him a superb pianist.",
+    "synonyms": [
+      "diligent",
+      "assiduous",
+      "industrious"
+    ],
+    "origin": "From Latin sedulus “busy, careful”, probably from se dolo “without deceit”.",
+    "topics": [
+      "business",
+      "character"
+    ],
+    "quote": "Yet there was nothing finicky about their politeness: it had the Public School touch, and, though sedulous, was virile.",
+    "quote_source": "E. M. Forster, Howards End",
+    "ipa": "ˈsɛdʒələs",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "tremulous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Shaking slightly, often from nerves or weakness",
+    "example": "In a tremulous voice, the witness began to describe the fire.",
+    "synonyms": [
+      "trembling",
+      "quivering",
+      "shaky"
+    ],
+    "origin": "From Latin tremulus “shaking”, from tremere “to tremble”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "In the garden-scene it had all the tremulous ecstasy that one hears just before dawn when nightingales are singing.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
+    "ipa": "ˈtrɛmjələs",
+    "zipf": 2.02,
+    "issues": []
+  },
+  {
+    "lemma": "sardonic",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Mocking in a grim or scornful way",
+    "example": "He greeted the good news with a sardonic little laugh.",
+    "synonyms": [
+      "mocking",
+      "cynical",
+      "scornful"
+    ],
+    "origin": "From French sardonique, from Greek sardonios, an alteration of sardanios “bitter, scornful” (of laughter), linked in antiquity to a Sardinian plant said to twist the face.",
+    "topics": [
+      "character",
+      "literature"
+    ],
+    "quote": "She watched us with a sardonic eye as we stepped from the brougham.",
+    "quote_source": "Arthur Conan Doyle, The Adventures of Sherlock Holmes",
+    "ipa": "sɑrˈdɑnɪk",
+    "zipf": 2.58,
+    "issues": []
+  },
+  {
+    "lemma": "saturnine",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Gloomy, serious and slow to smile",
+    "example": "The saturnine old lawyer rarely spoke at dinner.",
+    "synonyms": [
+      "gloomy",
+      "somber",
+      "sullen"
+    ],
+    "origin": "From medieval Latin saturninus “of Saturn”; people born under the planet were thought to be cold and gloomy.",
+    "topics": [
+      "character"
+    ],
+    "quote": "A mediæval doctor would have called him saturnine.",
+    "quote_source": "James Joyce, Dubliners",
+    "ipa": "ˈsætɚnaɪn",
+    "zipf": 1.74,
+    "issues": []
+  },
+  {
+    "lemma": "peremptory",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Demanding immediate obedience, with no discussion",
+    "example": "A peremptory knock at the door silenced the whole room.",
+    "synonyms": [
+      "commanding",
+      "abrupt",
+      "dictatorial"
+    ],
+    "origin": "From Latin peremptorius “final, decisive”, from perimere “to destroy, to take away entirely”.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "Now he was peremptory, stern, frowning and for once laying aside all mystification.",
+    "quote_source": "Fyodor Dostoevsky, Crime and Punishment",
+    "ipa": "pəˈrɛmptəri",
+    "zipf": 2.08,
+    "issues": []
+  },
+  {
+    "lemma": "disconsolate",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very unhappy and unable to be comforted",
+    "example": "The disconsolate fans sat in the empty stadium long after the final whistle.",
+    "synonyms": [
+      "dejected",
+      "inconsolable",
+      "miserable"
+    ],
+    "origin": "From medieval Latin disconsolatus, from dis- “not” and Latin consolari “to comfort”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "Miserable and disconsolate, he wandered about among the many tents, only to find that one place was as cold as another.",
+    "quote_source": "Jack London, The Call of the Wild",
+    "ipa": "dɪsˈkɑnsələt",
+    "zipf": 2.08,
+    "issues": []
+  },
+  {
+    "lemma": "insidious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Causing harm gradually and without being noticed",
+    "example": "Stress is an insidious problem that builds over many years.",
+    "synonyms": [
+      "stealthy",
+      "subtle",
+      "treacherous"
+    ],
+    "origin": "From Latin insidiosus “cunning”, from insidiae “ambush”, from insidere “to sit in wait”.",
+    "topics": [
+      "science",
+      "society"
+    ],
+    "quote": "How insidious he could be, too, I was only to find out several months later and a thousand miles farther.",
+    "quote_source": "Joseph Conrad, Heart of Darkness",
+    "ipa": "ɪnˈsɪdiəs",
+    "zipf": 3.24,
+    "issues": []
+  },
+  {
+    "lemma": "incorrigible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Having bad habits that cannot be changed",
+    "example": "My uncle is an incorrigible gambler who never learns.",
+    "synonyms": [
+      "hopeless",
+      "hardened",
+      "incurable"
+    ],
+    "origin": "From Latin incorrigibilis, from in- “not” and corrigere “to correct”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "“Isn’t he incorrigible?” cried Dorian, leaning forward in his chair.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
+    "ipa": "ɪnˈkɑrədʒəbəl",
+    "zipf": 2.51,
+    "issues": []
+  },
+  {
+    "lemma": "irascible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Easily made angry",
+    "example": "The irascible chef shouted at anyone who entered his kitchen.",
+    "synonyms": [
+      "irritable",
+      "testy",
+      "cranky"
+    ],
+    "origin": "From late Latin irascibilis, from Latin irasci “to grow angry”, from ira “anger”.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "That hiss, faint as it was, irritated the irascible gentleman, and sealed the culprit’s fate.",
+    "quote_source": "Louisa May Alcott, Little Women",
+    "ipa": "ɪˈræsɪbəl",
+    "zipf": 2.29,
+    "issues": []
+  },
+  {
+    "lemma": "petulant",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Bad-tempered in a childish, sulky way",
+    "example": "He gave a petulant shrug when asked to wait his turn.",
+    "synonyms": [
+      "sulky",
+      "peevish",
+      "fretful"
+    ],
+    "origin": "From Latin petulans “impudent, forward”, related to petere “to attack, to seek”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "There was a petulant touch about him—more like a woman.",
+    "quote_source": "E. M. Forster, Howards End",
+    "ipa": "ˈpɛtʃələnt",
+    "zipf": 2.73,
+    "issues": []
+  },
+  {
+    "lemma": "salubrious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Good for your health; pleasant and clean",
+    "example": "They moved to the hills in search of more salubrious air.",
+    "synonyms": [
+      "healthy",
+      "wholesome",
+      "beneficial"
+    ],
+    "origin": "From Latin salubris “healthful”, from salus “health”.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "The outhouse will do me nicely: it will be more salubrious.",
+    "quote_source": "James Joyce, A Portrait of the Artist as a Young Man",
+    "ipa": "səˈlubriəs",
+    "zipf": 2.13,
+    "issues": []
+  },
+  {
+    "lemma": "voluble",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Talking easily, quickly and at length",
+    "example": "The voluble guide barely paused for breath during the tour.",
+    "synonyms": [
+      "talkative",
+      "fluent",
+      "garrulous"
+    ],
+    "origin": "From Latin volubilis “rolling, flowing”, from volvere “to roll”.",
+    "topics": [
+      "character",
+      "travel"
+    ],
+    "quote": "“There is no better,” the voluble Vengeance protested in her shrill notes, “in France.”",
+    "quote_source": "Charles Dickens, A Tale of Two Cities",
+    "ipa": "ˈvɑljəbəl",
+    "zipf": 2.04,
+    "issues": []
+  },
+  {
+    "lemma": "redolent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Strongly smelling or reminiscent of something",
+    "example": "The kitchen was redolent of garlic and fresh bread.",
+    "synonyms": [
+      "fragrant",
+      "evocative",
+      "aromatic"
+    ],
+    "origin": "From Latin redolens, from redolere “to give off a smell”, from re- (intensive) and olere “to smell”.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "Must it not be to that famous elephant, with jewelled tusks, and redolent with myrrh, which was led out of an Indian town to do honor to Alexander the Great?",
+    "quote_source": "Herman Melville, Moby-Dick",
+    "ipa": "ˈrɛdələnt",
+    "zipf": 2.29,
+    "issues": []
+  },
+  {
+    "lemma": "propitious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Giving a good chance of success",
+    "example": "With interest rates low, it was a propitious moment to buy.",
+    "synonyms": [
+      "favorable",
+      "auspicious",
+      "promising"
+    ],
+    "origin": "From Latin propitius “favorable, gracious”.",
+    "topics": [
+      "business"
+    ],
+    "quote": "The day was declining, there was not even a cat in the lane, the hour was propitious.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "prəˈpɪʃəs",
+    "zipf": 2.24,
+    "issues": []
+  },
+  {
+    "lemma": "inimical",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Harmful or unfriendly to something",
+    "example": "Constant noise is inimical to serious study.",
+    "synonyms": [
+      "hostile",
+      "harmful",
+      "adverse"
+    ],
+    "origin": "From late Latin inimicalis, from Latin inimicus “enemy”, from in- “not” and amicus “friend”.",
+    "topics": [
+      "debate",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "ipa": "ɪˈnɪmɪkəl",
+    "zipf": 2.17,
+    "issues": []
+  },
+  {
+    "lemma": "intractable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very hard to control, manage or solve",
+    "example": "Traffic remains the city's most intractable problem.",
+    "synonyms": [
+      "stubborn",
+      "unmanageable",
+      "obstinate"
+    ],
+    "origin": "From Latin intractabilis, from in- “not” and tractare “to handle”.",
+    "topics": [
+      "science",
+      "society"
+    ],
+    "quote": "The spirit which served her was growing intractable: she could neither lay nor control it.",
+    "quote_source": "Emily Brontë, Wuthering Heights",
+    "ipa": "ɪnˈtræktəbəl",
+    "zipf": 2.88,
+    "issues": []
+  },
+  {
+    "lemma": "implacable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Impossible to calm, satisfy or change",
+    "example": "She faced an implacable enemy who refused every offer of peace.",
+    "synonyms": [
+      "relentless",
+      "unforgiving",
+      "merciless"
+    ],
+    "origin": "From Latin implacabilis, from in- “not” and placare “to calm, to appease”.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "The burden is implacable, and remains the same for the few as for the many.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ɪmˈplækəbəl",
+    "zipf": 2.61,
+    "issues": []
+  },
+  {
+    "lemma": "ameliorate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To make a bad situation better",
+    "example": "New housing would ameliorate conditions for thousands of families.",
+    "synonyms": [
+      "improve",
+      "better",
+      "ease"
+    ],
+    "origin": "From French améliorer, from Old French ameillorer, from meillor “better”, from Latin melior.",
+    "topics": [
+      "society",
+      "business"
+    ],
+    "quote": "Philosophy should be an energy; it should have for effort and effect to ameliorate the condition of man.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "əˈmiljəreɪt",
+    "zipf": 2.56,
+    "issues": []
+  },
+  {
+    "lemma": "assuage",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To make an unpleasant feeling less intense",
+    "example": "Nothing could assuage her guilt over the missed phone call.",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "soothe"
+    ],
+    "origin": "From Old French assouagier, from Latin ad- “to” and suavis “sweet”.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "I cannot deny that I grieved for his grief, whatever that was, and would have given much to assuage it.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "əˈsweɪdʒ",
+    "zipf": 2.63,
+    "issues": []
+  },
+  {
+    "lemma": "descry",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To catch sight of something far away",
+    "example": "Through the mist we could just descry the outline of the island.",
+    "synonyms": [
+      "spot",
+      "discern",
+      "glimpse"
+    ],
+    "origin": "From Old French descrier “to proclaim, to cry out”; the sense “to catch sight of” comes from a lookout announcing what he saw.",
+    "topics": [
+      "travel",
+      "literature"
+    ],
+    "quote": "At intervals, truth, that daylight of the human soul, can be descried shining there.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "dɪˈskraɪ",
+    "zipf": 1.32,
+    "issues": []
+  },
+  {
+    "lemma": "dissemble",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To hide your real feelings or intentions",
+    "example": "Unable to dissemble, he blushed whenever her name was mentioned.",
+    "synonyms": [
+      "pretend",
+      "feign",
+      "conceal"
+    ],
+    "origin": "From Old French dissembler, from Latin dissimulare “to disguise”, reshaped after sembler “to seem”.",
+    "topics": [
+      "persuasion",
+      "character"
+    ],
+    "quote": "Quickly and cleverly she dissembled the astonishment she felt at seeing La Folle.",
+    "quote_source": "Kate Chopin, The Awakening",
+    "ipa": "dɪˈsɛmbəl",
+    "zipf": 1.86,
+    "issues": []
+  },
+  {
+    "lemma": "expostulate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To express strong disagreement by reasoning with someone",
+    "example": "I tried to expostulate with him, but he had made up his mind.",
+    "synonyms": [
+      "protest",
+      "object",
+      "argue"
+    ],
+    "origin": "From Latin expostulare “to demand urgently”, from ex- “out” and postulare “to demand”.",
+    "topics": [
+      "debate"
+    ],
+    "quote": "Sometimes, when the day was very unfavourable, his sisters would expostulate.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "ɪkˈspɑstʃəleɪt",
+    "zipf": 1.22,
+    "issues": []
+  },
+  {
+    "lemma": "extol",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To praise something with great enthusiasm",
+    "example": "Travel writers extol the beaches of the southern coast.",
+    "synonyms": [
+      "praise",
+      "acclaim",
+      "laud"
+    ],
+    "origin": "From Latin extollere “to raise up”, from ex- “out, upward” and tollere “to lift”.",
+    "topics": [
+      "persuasion",
+      "literature"
+    ],
+    "quote": "It is the humor of many heads to extol the days of their forefathers, and declaim against the wickedness of times present.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ɪkˈstoʊl",
+    "zipf": 2.3,
+    "issues": []
+  },
+  {
+    "lemma": "remonstrate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To protest or complain forcefully",
+    "example": "Passengers began to remonstrate with the driver about the delay.",
+    "synonyms": [
+      "protest",
+      "object",
+      "complain"
+    ],
+    "origin": "From medieval Latin remonstrare “to show, to point out”, from re- (intensive) and monstrare “to show”.",
+    "topics": [
+      "debate"
+    ],
+    "quote": "Henry wished to dissuade me, but seeing me bent on this plan, ceased to remonstrate.",
+    "quote_source": "Mary Shelley, Frankenstein",
+    "ipa": "rɪˈmɑnstreɪt",
+    "zipf": 1.81,
+    "issues": []
+  },
+  {
+    "lemma": "upbraid",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To criticize someone severely for a fault",
+    "example": "She would upbraid him for every minute he arrived late.",
+    "synonyms": [
+      "scold",
+      "reproach",
+      "berate"
+    ],
+    "origin": "From Old English upbregdan “to bring up as a reproach”, from up and bregdan “to move quickly, to brandish”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "I would rather you had come and upbraided me with vehemence.",
+    "quote_source": "Charlotte Brontë, Jane Eyre",
+    "ipa": "ʌpˈbreɪd",
+    "zipf": 1.45,
+    "issues": []
+  },
+  {
+    "lemma": "vacillate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To keep changing your mind between choices",
+    "example": "Voters vacillate between the two candidates from week to week.",
+    "synonyms": [
+      "waver",
+      "hesitate",
+      "dither"
+    ],
+    "origin": "From Latin vacillare “to sway, to totter”.",
+    "topics": [
+      "debate",
+      "character"
+    ],
+    "quote": "When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken.",
+    "quote_source": "Leo Tolstoy, Anna Karenina",
+    "ipa": "ˈvæsəleɪt",
+    "zipf": 1.77,
+    "issues": []
+  },
+  {
+    "lemma": "enervate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To drain someone of strength or vitality",
+    "example": "Long meetings in hot rooms enervate even the keenest staff.",
+    "synonyms": [
+      "weaken",
+      "exhaust",
+      "sap"
+    ],
+    "origin": "From Latin enervare “to weaken”, literally “to remove the sinews”, from ex- “out” and nervus “sinew”.",
+    "topics": [
+      "science",
+      "business"
+    ],
+    "quote": "What is the nature of the luxury which enervates and destroys nations?",
+    "quote_source": "Henry David Thoreau, Walden",
+    "ipa": "ˈɛnɚveɪt",
+    "zipf": 1.26,
+    "issues": []
+  },
+  {
+    "lemma": "impugn",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To question whether something is true or honest",
+    "example": "I do not impugn your motives, only your method.",
+    "synonyms": [
+      "challenge",
+      "question",
+      "dispute"
+    ],
+    "origin": "From Old French impugner, from Latin impugnare “to attack”, from in- “against” and pugnare “to fight”.",
+    "topics": [
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "ipa": "ɪmˈpjun",
+    "zipf": 2.11,
+    "issues": []
+  },
+  {
+    "lemma": "approbation",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Approval or praise, especially formal",
+    "example": "The plan won the approbation of the entire committee.",
+    "synonyms": [
+      "approval",
+      "praise",
+      "consent"
+    ],
+    "origin": "From Latin approbatio, from approbare “to approve”, from ad- “to” and probare “to test, to find good”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "A murmur of approbation and satisfaction ran through the crowd.",
+    "quote_source": "Leo Tolstoy, War and Peace",
+    "ipa": "æprəˈbeɪʃən",
+    "zipf": 2.3,
+    "issues": []
+  },
+  {
+    "lemma": "effrontery",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Shameless and insulting boldness",
+    "example": "He had the effrontery to ask for a raise after losing the client.",
+    "synonyms": [
+      "audacity",
+      "nerve",
+      "gall"
+    ],
+    "origin": "From French effronterie, from effronté “shameless”, from late Latin effrons “barefaced”, from ex- “out” and frons “forehead”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "I wonder—yes I wonder how he has the effrontery to look me in the face, to dare to claim acquaintance with me.",
+    "quote_source": "E. M. Forster, A Room with a View",
+    "ipa": "ɪˈfrʌntəri",
+    "zipf": 1.94,
+    "issues": []
+  },
+  {
+    "lemma": "opprobrium",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Harsh public criticism or disgrace",
+    "example": "The company faced opprobrium for polluting the river.",
+    "synonyms": [
+      "disgrace",
+      "condemnation",
+      "scorn"
+    ],
+    "origin": "From Latin opprobrium “reproach, disgrace”, from ob- “against” and probrum “shameful act”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "I am content to suffer alone while my sufferings shall endure; when I die, I am well satisfied that abhorrence and opprobrium should load my memory.",
+    "quote_source": "Mary Shelley, Frankenstein",
+    "ipa": "əˈproʊbriəm",
+    "zipf": 2.11,
+    "issues": []
+  },
+  {
+    "lemma": "temerity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Bold confidence that seems rude or reckless",
+    "example": "She had the temerity to correct the professor in front of everyone.",
+    "synonyms": [
+      "audacity",
+      "nerve",
+      "recklessness"
+    ],
+    "origin": "From Latin temeritas “rashness”, from temere “blindly, by chance”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "He stared up disapprovingly over his eye-glasses as Mr. Pontellier entered, wondering who had the temerity to disturb him at that hour of the morning.",
+    "quote_source": "Kate Chopin, The Awakening",
+    "ipa": "təˈmɛrəti",
+    "zipf": 2.42,
+    "issues": []
+  },
+  {
+    "lemma": "lassitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A state of physical or mental tiredness",
+    "example": "A strange lassitude kept him in bed until noon.",
+    "synonyms": [
+      "weariness",
+      "fatigue",
+      "lethargy"
+    ],
+    "origin": "From Latin lassitudo, from lassus “weary”.",
+    "topics": [
+      "emotions",
+      "science"
+    ],
+    "quote": "It was a day of lassitude too, hot and close, with, I am told, a rapidly fluctuating barometer.",
+    "quote_source": "H. G. Wells, The War of the Worlds",
+    "ipa": "ˈlæsɪtud",
+    "zipf": 1.71,
+    "issues": []
+  },
+  {
+    "lemma": "perfidy",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Deliberate betrayal of trust",
+    "example": "The king never forgave the perfidy of his closest adviser.",
+    "synonyms": [
+      "treachery",
+      "betrayal",
+      "disloyalty"
+    ],
+    "origin": "From Latin perfidia “faithlessness”, from perfidus “treacherous”, from per- “through, beyond” and fides “faith”.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "“Provided I understand your perfidy, sir, and succeed in making you understand that I will be revenged, I shall be reasonable enough,” said Albert furiously.",
+    "quote_source": "Alexandre Dumas, The Count of Monte Cristo",
+    "ipa": "ˈpɝfɪdi",
+    "zipf": 2.02,
+    "issues": []
+  },
+  {
+    "lemma": "probity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Complete honesty and strong moral principles",
+    "example": "Voters trusted the judge for her well-known probity.",
+    "synonyms": [
+      "integrity",
+      "honesty",
+      "uprightness"
+    ],
+    "origin": "From Latin probitas “uprightness”, from probus “good, honest”.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "The man of probity sacrifices himself, and out of his very love for this crowd, he combats it.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "ipa": "ˈproʊbəti",
+    "zipf": 2.39,
+    "issues": []
+  },
+  {
+    "lemma": "rectitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Morally correct behavior or thinking",
+    "example": "He was a man of stern rectitude who never told a lie.",
+    "synonyms": [
+      "righteousness",
+      "integrity",
+      "virtue"
+    ],
+    "origin": "From late Latin rectitudo “straightness”, from Latin rectus “straight, right”.",
+    "topics": [
+      "character"
+    ],
+    "quote": "Even much stronger mortals than Fred Vincy hold half their rectitude in the mind of the being they love best.",
+    "quote_source": "George Eliot, Middlemarch",
+    "ipa": "ˈrɛktɪtud",
+    "zipf": 2.18,
+    "issues": []
+  },
+  {
+    "lemma": "torpor",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A state of inactivity and low energy",
+    "example": "The afternoon heat left the whole village in a torpor.",
+    "synonyms": [
+      "lethargy",
+      "sluggishness",
+      "inertia"
+    ],
+    "origin": "From Latin torpor “numbness”, from torpere “to be numb or stiff”.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "quote": "At the sight of another human being my torpor passed, and I leaned out of the window eagerly.",
+    "quote_source": "H. G. Wells, The War of the Worlds",
+    "ipa": "ˈtɔrpɚ",
+    "zipf": 2.37,
+    "issues": []
+  },
+  {
+    "lemma": "turpitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Wicked or shameful character or behavior",
+    "example": "The court found him guilty of an act of moral turpitude.",
+    "synonyms": [
+      "depravity",
+      "wickedness",
+      "vileness"
+    ],
+    "origin": "From Latin turpitudo “baseness”, from turpis “ugly, shameful”.",
+    "topics": [
+      "society"
+    ],
+    "quote": "As for the moral turpitude that man unveiled to me, even with tears of penitence, I can not, even in memory, dwell on it without a start of horror.",
+    "quote_source": "Robert Louis Stevenson, The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "ipa": "ˈtɝpɪtud",
+    "zipf": 2.08,
+    "issues": []
+  },
+  {
+    "lemma": "penury",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A state of extreme poverty",
+    "example": "The once-famous painter died in penury in a rented room.",
+    "synonyms": [
+      "poverty",
+      "destitution",
+      "want"
+    ],
+    "origin": "From Latin penuria “want, scarcity”.",
+    "topics": [
+      "society",
+      "business"
+    ],
+    "quote": "It contained but two rooms, and these exhibited all the squalidness of the most miserable penury.",
+    "quote_source": "Mary Shelley, Frankenstein",
+    "ipa": "ˈpɛnjʊri",
+    "zipf": 2.09,
+    "issues": []
+  },
+  {
+    "lemma": "paroxysm",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A sudden, violent burst of emotion or activity",
+    "example": "The joke sent the whole class into a paroxysm of laughter.",
+    "synonyms": [
+      "fit",
+      "outburst",
+      "spasm"
+    ],
+    "origin": "From Greek paroxysmos “irritation, a severe fit”, from paroxynein “to provoke, to sharpen”, from para- “beyond” and oxys “sharp”.",
+    "topics": [
+      "emotions",
+      "science"
+    ],
+    "quote": "The child, hearing its mother’s voice, broke out into a paroxysm of sobbing.",
+    "quote_source": "James Joyce, Dubliners",
+    "ipa": "ˈpærəksɪzəm",
+    "zipf": 1.75,
+    "issues": []
+  },
+  {
+    "lemma": "celerity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Speed of movement or action",
+    "example": "The rumor spread through the village with remarkable celerity.",
+    "synonyms": [
+      "speed",
+      "swiftness",
+      "rapidity"
+    ],
+    "origin": "From Latin celeritas, from celer “swift”.",
+    "topics": [
+      "business"
+    ],
+    "quote": "Van Helsing returned with extraordinary celerity, bearing with him a surgical case.",
+    "quote_source": "Bram Stoker, Dracula",
+    "ipa": "səˈlɛrəti",
+    "zipf": 1.96,
+    "issues": []
+  },
+  {
+    "lemma": "misanthrope",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A person who dislikes people and avoids them",
+    "example": "The old misanthrope lived alone and spoke to no one.",
+    "synonyms": [
+      "cynic",
+      "recluse",
+      "loner"
+    ],
+    "origin": "From Greek misanthropos, from misein “to hate” and anthropos “human being”.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "He had absolutely nothing to do, almost died of ennui, and became a confirmed misanthrope.",
+    "quote_source": "Oscar Wilde, The Picture of Dorian Gray",
+    "ipa": "ˈmɪsənθroʊp",
+    "zipf": 2.2,
+    "issues": []
+  },
+  {
+    "lemma": "harbinger",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A sign that something is about to happen",
+    "example": "The first swallow is a harbinger of spring.",
+    "synonyms": [
+      "omen",
+      "herald",
+      "forerunner"
+    ],
+    "origin": "From Old French herbergere “one who provides lodging”, from herberge “lodging”, of Germanic origin; a harbinger once went ahead of an army to arrange shelter.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "ipa": "ˈhɑrbɪndʒɚ",
+    "zipf": 2.91,
     "issues": []
   }
 ]

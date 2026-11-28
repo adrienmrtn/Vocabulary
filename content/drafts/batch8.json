@@ -1,0 +1,665 @@
+[
+  {
+    "lemma": "imperious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Expecting obedience in a proud, commanding way",
+    "example": "With an imperious wave, she sent the waiter away.",
+    "synonyms": [
+      "domineering",
+      "commanding",
+      "overbearing"
+    ],
+    "origin": "From Latin imperiosus “commanding”, from imperium “command, empire”."
+  },
+  {
+    "lemma": "importunate",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Persistent in asking, to the point of annoyance",
+    "example": "He hid in his office to escape the importunate salesmen.",
+    "synonyms": [
+      "insistent",
+      "persistent",
+      "pressing"
+    ],
+    "origin": "From Latin importunus “unsuitable, troublesome”, originally “having no harbor”, from in- “not” and portus “harbor”."
+  },
+  {
+    "lemma": "inexorable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Impossible to stop or to persuade",
+    "example": "The inexorable rise of the sea threatens every village on the coast.",
+    "synonyms": [
+      "relentless",
+      "unstoppable",
+      "inevitable"
+    ],
+    "origin": "From Latin inexorabilis, from in- “not” and exorare “to prevail upon by pleading”, from orare “to pray, to speak”."
+  },
+  {
+    "lemma": "ignominious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Deserving or causing public shame",
+    "example": "The team suffered an ignominious defeat on its own field.",
+    "synonyms": [
+      "shameful",
+      "humiliating",
+      "disgraceful"
+    ],
+    "origin": "From Latin ignominiosus, from ignominia “loss of good name”, from in- “not” and nomen “name”."
+  },
+  {
+    "lemma": "lugubrious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Looking or sounding sad in an exaggerated way",
+    "example": "The lugubrious music made the comedy feel like a funeral.",
+    "synonyms": [
+      "mournful",
+      "gloomy",
+      "doleful"
+    ],
+    "origin": "From Latin lugubris “mournful”, from lugere “to mourn”."
+  },
+  {
+    "lemma": "impecunious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Having little or no money",
+    "example": "The impecunious student lived on rice and borrowed books.",
+    "synonyms": [
+      "poor",
+      "penniless",
+      "broke"
+    ],
+    "origin": "From in- “not” and the obsolete pecunious “wealthy”, from Latin pecunia “money”, from pecu “cattle”."
+  },
+  {
+    "lemma": "mercurial",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Changing mood or mind quickly and unpredictably",
+    "example": "Working for such a mercurial director exhausted the whole crew.",
+    "synonyms": [
+      "volatile",
+      "changeable",
+      "fickle"
+    ],
+    "origin": "From Latin mercurialis “of the god Mercury”, the swift messenger, whose planet was thought to give a lively, changeable nature."
+  },
+  {
+    "lemma": "punctilious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very careful about correct behavior and small details",
+    "example": "She was punctilious about answering every letter within a day.",
+    "synonyms": [
+      "scrupulous",
+      "meticulous",
+      "careful"
+    ],
+    "origin": "From Italian puntiglioso, from puntiglio “a fine point”, from Latin punctum “point”."
+  },
+  {
+    "lemma": "sedulous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Showing steady care, effort and dedication",
+    "example": "Years of sedulous practice made him a superb pianist.",
+    "synonyms": [
+      "diligent",
+      "assiduous",
+      "industrious"
+    ],
+    "origin": "From Latin sedulus “busy, careful”, probably from se dolo “without deceit”."
+  },
+  {
+    "lemma": "tremulous",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Shaking slightly, often from nerves or weakness",
+    "example": "In a tremulous voice, the witness began to describe the fire.",
+    "synonyms": [
+      "trembling",
+      "quivering",
+      "shaky"
+    ],
+    "origin": "From Latin tremulus “shaking”, from tremere “to tremble”."
+  },
+  {
+    "lemma": "sardonic",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Mocking in a grim or scornful way",
+    "example": "He greeted the good news with a sardonic little laugh.",
+    "synonyms": [
+      "mocking",
+      "cynical",
+      "scornful"
+    ],
+    "origin": "From French sardonique, from Greek sardonios, an alteration of sardanios “bitter, scornful” (of laughter), linked in antiquity to a Sardinian plant said to twist the face."
+  },
+  {
+    "lemma": "saturnine",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Gloomy, serious and slow to smile",
+    "example": "The saturnine old lawyer rarely spoke at dinner.",
+    "synonyms": [
+      "gloomy",
+      "somber",
+      "sullen"
+    ],
+    "origin": "From medieval Latin saturninus “of Saturn”; people born under the planet were thought to be cold and gloomy."
+  },
+  {
+    "lemma": "peremptory",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Demanding immediate obedience, with no discussion",
+    "example": "A peremptory knock at the door silenced the whole room.",
+    "synonyms": [
+      "commanding",
+      "abrupt",
+      "dictatorial"
+    ],
+    "origin": "From Latin peremptorius “final, decisive”, from perimere “to destroy, to take away entirely”."
+  },
+  {
+    "lemma": "disconsolate",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very unhappy and unable to be comforted",
+    "example": "The disconsolate fans sat in the empty stadium long after the final whistle.",
+    "synonyms": [
+      "dejected",
+      "inconsolable",
+      "miserable"
+    ],
+    "origin": "From medieval Latin disconsolatus, from dis- “not” and Latin consolari “to comfort”."
+  },
+  {
+    "lemma": "insidious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Causing harm gradually and without being noticed",
+    "example": "Stress is an insidious problem that builds over many years.",
+    "synonyms": [
+      "stealthy",
+      "subtle",
+      "treacherous"
+    ],
+    "origin": "From Latin insidiosus “cunning”, from insidiae “ambush”, from insidere “to sit in wait”."
+  },
+  {
+    "lemma": "incorrigible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Having bad habits that cannot be changed",
+    "example": "My uncle is an incorrigible gambler who never learns.",
+    "synonyms": [
+      "hopeless",
+      "hardened",
+      "incurable"
+    ],
+    "origin": "From Latin incorrigibilis, from in- “not” and corrigere “to correct”."
+  },
+  {
+    "lemma": "irascible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Easily made angry",
+    "example": "The irascible chef shouted at anyone who entered his kitchen.",
+    "synonyms": [
+      "irritable",
+      "testy",
+      "cranky"
+    ],
+    "origin": "From late Latin irascibilis, from Latin irasci “to grow angry”, from ira “anger”."
+  },
+  {
+    "lemma": "petulant",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Bad-tempered in a childish, sulky way",
+    "example": "He gave a petulant shrug when asked to wait his turn.",
+    "synonyms": [
+      "sulky",
+      "peevish",
+      "fretful"
+    ],
+    "origin": "From Latin petulans “impudent, forward”, related to petere “to attack, to seek”."
+  },
+  {
+    "lemma": "salubrious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Good for your health; pleasant and clean",
+    "example": "They moved to the hills in search of more salubrious air.",
+    "synonyms": [
+      "healthy",
+      "wholesome",
+      "beneficial"
+    ],
+    "origin": "From Latin salubris “healthful”, from salus “health”."
+  },
+  {
+    "lemma": "voluble",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Talking easily, quickly and at length",
+    "example": "The voluble guide barely paused for breath during the tour.",
+    "synonyms": [
+      "talkative",
+      "fluent",
+      "garrulous"
+    ],
+    "origin": "From Latin volubilis “rolling, flowing”, from volvere “to roll”."
+  },
+  {
+    "lemma": "redolent",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Strongly smelling or reminiscent of something",
+    "example": "The kitchen was redolent of garlic and fresh bread.",
+    "synonyms": [
+      "fragrant",
+      "evocative",
+      "aromatic"
+    ],
+    "origin": "From Latin redolens, from redolere “to give off a smell”, from re- (intensive) and olere “to smell”."
+  },
+  {
+    "lemma": "propitious",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Giving a good chance of success",
+    "example": "With interest rates low, it was a propitious moment to buy.",
+    "synonyms": [
+      "favorable",
+      "auspicious",
+      "promising"
+    ],
+    "origin": "From Latin propitius “favorable, gracious”."
+  },
+  {
+    "lemma": "inimical",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Harmful or unfriendly to something",
+    "example": "Constant noise is inimical to serious study.",
+    "synonyms": [
+      "hostile",
+      "harmful",
+      "adverse"
+    ],
+    "origin": "From late Latin inimicalis, from Latin inimicus “enemy”, from in- “not” and amicus “friend”."
+  },
+  {
+    "lemma": "intractable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Very hard to control, manage or solve",
+    "example": "Traffic remains the city's most intractable problem.",
+    "synonyms": [
+      "stubborn",
+      "unmanageable",
+      "obstinate"
+    ],
+    "origin": "From Latin intractabilis, from in- “not” and tractare “to handle”."
+  },
+  {
+    "lemma": "implacable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "definition": "Impossible to calm, satisfy or change",
+    "example": "She faced an implacable enemy who refused every offer of peace.",
+    "synonyms": [
+      "relentless",
+      "unforgiving",
+      "merciless"
+    ],
+    "origin": "From Latin implacabilis, from in- “not” and placare “to calm, to appease”."
+  },
+  {
+    "lemma": "ameliorate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To make a bad situation better",
+    "example": "New housing would ameliorate conditions for thousands of families.",
+    "synonyms": [
+      "improve",
+      "better",
+      "ease"
+    ],
+    "origin": "From French améliorer, from Old French ameillorer, from meillor “better”, from Latin melior."
+  },
+  {
+    "lemma": "assuage",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To make an unpleasant feeling less intense",
+    "example": "Nothing could assuage her guilt over the missed phone call.",
+    "synonyms": [
+      "relieve",
+      "ease",
+      "soothe"
+    ],
+    "origin": "From Old French assouagier, from Latin ad- “to” and suavis “sweet”."
+  },
+  {
+    "lemma": "descry",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To catch sight of something far away",
+    "example": "Through the mist we could just descry the outline of the island.",
+    "synonyms": [
+      "spot",
+      "discern",
+      "glimpse"
+    ],
+    "origin": "From Old French descrier “to proclaim, to cry out”; the sense “to catch sight of” comes from a lookout announcing what he saw."
+  },
+  {
+    "lemma": "dissemble",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To hide your real feelings or intentions",
+    "example": "Unable to dissemble, he blushed whenever her name was mentioned.",
+    "synonyms": [
+      "pretend",
+      "feign",
+      "conceal"
+    ],
+    "origin": "From Old French dissembler, from Latin dissimulare “to disguise”, reshaped after sembler “to seem”."
+  },
+  {
+    "lemma": "expostulate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To express strong disagreement by reasoning with someone",
+    "example": "I tried to expostulate with him, but he had made up his mind.",
+    "synonyms": [
+      "protest",
+      "object",
+      "argue"
+    ],
+    "origin": "From Latin expostulare “to demand urgently”, from ex- “out” and postulare “to demand”."
+  },
+  {
+    "lemma": "extol",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To praise something with great enthusiasm",
+    "example": "Travel writers extol the beaches of the southern coast.",
+    "synonyms": [
+      "praise",
+      "acclaim",
+      "laud"
+    ],
+    "origin": "From Latin extollere “to raise up”, from ex- “out, upward” and tollere “to lift”."
+  },
+  {
+    "lemma": "remonstrate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To protest or complain forcefully",
+    "example": "Passengers began to remonstrate with the driver about the delay.",
+    "synonyms": [
+      "protest",
+      "object",
+      "complain"
+    ],
+    "origin": "From medieval Latin remonstrare “to show, to point out”, from re- (intensive) and monstrare “to show”."
+  },
+  {
+    "lemma": "upbraid",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To criticize someone severely for a fault",
+    "example": "She would upbraid him for every minute he arrived late.",
+    "synonyms": [
+      "scold",
+      "reproach",
+      "berate"
+    ],
+    "origin": "From Old English upbregdan “to bring up as a reproach”, from up and bregdan “to move quickly, to brandish”."
+  },
+  {
+    "lemma": "vacillate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To keep changing your mind between choices",
+    "example": "Voters vacillate between the two candidates from week to week.",
+    "synonyms": [
+      "waver",
+      "hesitate",
+      "dither"
+    ],
+    "origin": "From Latin vacillare “to sway, to totter”."
+  },
+  {
+    "lemma": "enervate",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To drain someone of strength or vitality",
+    "example": "Long meetings in hot rooms enervate even the keenest staff.",
+    "synonyms": [
+      "weaken",
+      "exhaust",
+      "sap"
+    ],
+    "origin": "From Latin enervare “to weaken”, literally “to remove the sinews”, from ex- “out” and nervus “sinew”."
+  },
+  {
+    "lemma": "impugn",
+    "level": 3,
+    "part_of_speech": "v.",
+    "definition": "To question whether something is true or honest",
+    "example": "I do not impugn your motives, only your method.",
+    "synonyms": [
+      "challenge",
+      "question",
+      "dispute"
+    ],
+    "origin": "From Old French impugner, from Latin impugnare “to attack”, from in- “against” and pugnare “to fight”."
+  },
+  {
+    "lemma": "approbation",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Approval or praise, especially formal",
+    "example": "The plan won the approbation of the entire committee.",
+    "synonyms": [
+      "approval",
+      "praise",
+      "consent"
+    ],
+    "origin": "From Latin approbatio, from approbare “to approve”, from ad- “to” and probare “to test, to find good”."
+  },
+  {
+    "lemma": "effrontery",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Shameless and insulting boldness",
+    "example": "He had the effrontery to ask for a raise after losing the client.",
+    "synonyms": [
+      "audacity",
+      "nerve",
+      "gall"
+    ],
+    "origin": "From French effronterie, from effronté “shameless”, from late Latin effrons “barefaced”, from ex- “out” and frons “forehead”."
+  },
+  {
+    "lemma": "opprobrium",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Harsh public criticism or disgrace",
+    "example": "The company faced opprobrium for polluting the river.",
+    "synonyms": [
+      "disgrace",
+      "condemnation",
+      "scorn"
+    ],
+    "origin": "From Latin opprobrium “reproach, disgrace”, from ob- “against” and probrum “shameful act”."
+  },
+  {
+    "lemma": "temerity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Bold confidence that seems rude or reckless",
+    "example": "She had the temerity to correct the professor in front of everyone.",
+    "synonyms": [
+      "audacity",
+      "nerve",
+      "recklessness"
+    ],
+    "origin": "From Latin temeritas “rashness”, from temere “blindly, by chance”."
+  },
+  {
+    "lemma": "lassitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A state of physical or mental tiredness",
+    "example": "A strange lassitude kept him in bed until noon.",
+    "synonyms": [
+      "weariness",
+      "fatigue",
+      "lethargy"
+    ],
+    "origin": "From Latin lassitudo, from lassus “weary”."
+  },
+  {
+    "lemma": "perfidy",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Deliberate betrayal of trust",
+    "example": "The king never forgave the perfidy of his closest adviser.",
+    "synonyms": [
+      "treachery",
+      "betrayal",
+      "disloyalty"
+    ],
+    "origin": "From Latin perfidia “faithlessness”, from perfidus “treacherous”, from per- “through, beyond” and fides “faith”."
+  },
+  {
+    "lemma": "probity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Complete honesty and strong moral principles",
+    "example": "Voters trusted the judge for her well-known probity.",
+    "synonyms": [
+      "integrity",
+      "honesty",
+      "uprightness"
+    ],
+    "origin": "From Latin probitas “uprightness”, from probus “good, honest”."
+  },
+  {
+    "lemma": "rectitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Morally correct behavior or thinking",
+    "example": "He was a man of stern rectitude who never told a lie.",
+    "synonyms": [
+      "righteousness",
+      "integrity",
+      "virtue"
+    ],
+    "origin": "From late Latin rectitudo “straightness”, from Latin rectus “straight, right”."
+  },
+  {
+    "lemma": "torpor",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A state of inactivity and low energy",
+    "example": "The afternoon heat left the whole village in a torpor.",
+    "synonyms": [
+      "lethargy",
+      "sluggishness",
+      "inertia"
+    ],
+    "origin": "From Latin torpor “numbness”, from torpere “to be numb or stiff”."
+  },
+  {
+    "lemma": "turpitude",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Wicked or shameful character or behavior",
+    "example": "The court found him guilty of an act of moral turpitude.",
+    "synonyms": [
+      "depravity",
+      "wickedness",
+      "vileness"
+    ],
+    "origin": "From Latin turpitudo “baseness”, from turpis “ugly, shameful”."
+  },
+  {
+    "lemma": "penury",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A state of extreme poverty",
+    "example": "The once-famous painter died in penury in a rented room.",
+    "synonyms": [
+      "poverty",
+      "destitution",
+      "want"
+    ],
+    "origin": "From Latin penuria “want, scarcity”."
+  },
+  {
+    "lemma": "paroxysm",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A sudden, violent burst of emotion or activity",
+    "example": "The joke sent the whole class into a paroxysm of laughter.",
+    "synonyms": [
+      "fit",
+      "outburst",
+      "spasm"
+    ],
+    "origin": "From Greek paroxysmos “irritation, a severe fit”, from paroxynein “to provoke, to sharpen”, from para- “beyond” and oxys “sharp”."
+  },
+  {
+    "lemma": "celerity",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "Speed of movement or action",
+    "example": "The rumor spread through the village with remarkable celerity.",
+    "synonyms": [
+      "speed",
+      "swiftness",
+      "rapidity"
+    ],
+    "origin": "From Latin celeritas, from celer “swift”."
+  },
+  {
+    "lemma": "misanthrope",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A person who dislikes people and avoids them",
+    "example": "The old misanthrope lived alone and spoke to no one.",
+    "synonyms": [
+      "cynic",
+      "recluse",
+      "loner"
+    ],
+    "origin": "From Greek misanthropos, from misein “to hate” and anthropos “human being”."
+  },
+  {
+    "lemma": "harbinger",
+    "level": 3,
+    "part_of_speech": "n.",
+    "definition": "A sign that something is about to happen",
+    "example": "The first swallow is a harbinger of spring.",
+    "synonyms": [
+      "omen",
+      "herald",
+      "forerunner"
+    ],
+    "origin": "From Old French herbergere “one who provides lodging”, from herberge “lodging”, of Germanic origin; a harbinger once went ahead of an army to arrange shelter."
+  }
+]

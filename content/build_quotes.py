@@ -35,8 +35,34 @@ BOOKS = [
 
 # Where the book itself begins and ends. Older files have no "*** START OF"
 # line: their licence closes with "*END*THE SMALL PRINT!" instead.
-BODY_START = re.compile(r"\*\*\* ?START OF.*?\*\*\*|^\*END[* ]THE SMALL PRINT.*$", re.M | re.S)
+BODY_START = re.compile(r"\*\*\* ?START OF[^\n]*?\*\*\*|^\*END[* ]THE SMALL PRINT[^\n]*$", re.M)
 BODY_END = re.compile(r"\*\*\* ?END OF|^End of (The |this )?Project Gutenberg", re.M | re.I)
+
+# The mirrored files are older editions: tidy the names they give.
+AUTHORS = {
+    "A. Conan Doyle": "Arthur Conan Doyle", "Alexandre Dumas, père": "Alexandre Dumas",
+    "Charlotte Bronte": "Charlotte Brontë", "Emily Bronte": "Emily Brontë",
+    "Fyodor Dostoyevsky": "Fyodor Dostoevsky", "Mark Twain (Samuel Clemens)": "Mark Twain",
+    "Mary Wollstonecraft (Godwin) Shelley": "Mary Shelley",
+}
+TITLES = {
+    "A Room With A View": "A Room with a View", "Howard's End": "Howards End",
+    "Walden, and On The Duty Of Civil Disobedience": "Walden", "Moby Dick; or The Whale": "Moby-Dick",
+    "Moby Dick; Or, The Whale": "Moby-Dick", "Adventures of Huckleberry Finn, Complete": "Adventures of Huckleberry Finn",
+    "The Adventures of Tom Sawyer, Complete": "The Adventures of Tom Sawyer",
+    "The Strange Case Of Dr. Jekyll And Mr. Hyde": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "The Awakening and Selected Short Stories": "The Awakening",
+}
+
+
+def typeset(sentence):
+    """Curly quotes and real dashes, for the files that are plain ASCII."""
+    sentence = re.sub(r"\s*--\s*", "—", sentence)
+    sentence = re.sub(r"(?<=\w)'(?=\w)", "’", sentence)
+    sentence = re.sub(r'"(?=\w)', "“", sentence).replace('"', "”")
+    sentence = re.sub(r"(?<!\w)'(?=\w)", "‘", sentence).replace("'", "’")
+    return sentence
+
 
 ABBREVIATIONS = ["Mr", "Mrs", "Ms", "Dr", "St", "Mme", "Mlle", "M", "Esq", "Col", "Capt", "Rev", "Prof"]
 
@@ -114,7 +140,7 @@ def read_book(path):
     """Return (author, title, sentences) for one downloaded book."""
     text = open(path, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n")
     # One mirrored file has its title glued to the end of the line before it.
-    title = re.search(r"^Title: (.+)$", text, re.M) or re.search(r"\bTitle: (.+)$", text[:3000], re.M)
+    title = re.search(r"^Title: (.+)$", text, re.M) or re.search(r"Title: (.+)$", text[:3000], re.M)
     author = re.search(r"^Author: (.+)$", text, re.M)
     start = BODY_START.search(text)
     end = BODY_END.search(text)
@@ -128,7 +154,9 @@ def read_book(path):
             paragraph = re.sub(rf"\b{short}\.", f"{short}<dot>", paragraph)
         for sentence in re.split(r"(?<=[.!?])\s+(?=[“\"‘']?[A-Z])", paragraph):
             sentences.append(sentence.replace("<dot>", ".").strip())
-    return (author.group(1).strip() if author else "", title.group(1).strip() if title else "", sentences)
+    author = author.group(1).strip() if author else ""
+    title = title.group(1).strip() if title else ""
+    return (AUTHORS.get(author, author), TITLES.get(title, title), sentences)
 
 
 def forms(lemma):
@@ -196,7 +224,7 @@ def candidates(out_path):
             if per_source.get(source, 0) >= 2 or any(sentence == p["quote"] for p in picked):
                 continue
             per_source[source] = per_source.get(source, 0) + 1
-            picked.append({"quote": sentence, "source": source})
+            picked.append({"quote": typeset(sentence), "source": source})
             if len(picked) == 5:
                 break
         result[lemma] = picked

@@ -46,6 +46,21 @@ PRONUNCIATIONS = cmudict.dict()
 
 # Hand-entered, for words the CMU dictionary lacks or gets wrong. These win.
 IPA_OVERRIDES = {
+    "entreat": "ɪnˈtrit",
+    "importunate": "ɪmˈpɔrtʃənət",
+    "impecunious": "ɪmpɪˈkjuniəs",
+    "sedulous": "ˈsɛdʒələs",
+    "saturnine": "ˈsætɚnaɪn",
+    "disconsolate": "dɪsˈkɑnsələt",
+    "salubrious": "səˈlubriəs",
+    "expostulate": "ɪkˈspɑstʃəleɪt",
+    "remonstrate": "rɪˈmɑnstreɪt",
+    "enervate": "ˈɛnɚveɪt",
+    "lassitude": "ˈlæsɪtud",
+    "paroxysm": "ˈpærəksɪzəm",
+    "lugubrious": "luˈɡubriəs",
+    "descry": "dɪˈskraɪ",
+    "upbraid": "ʌpˈbreɪd",
     "diffident": "ˈdɪfɪdənt",
     "sagacious": "səˈɡeɪʃəs",
     "numinous": "ˈnumɪnəs",
