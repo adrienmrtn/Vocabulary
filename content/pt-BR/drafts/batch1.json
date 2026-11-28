@@ -1,0 +1,827 @@
+[
+  {
+    "lemma": "aconchego",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "akõˈʃeɡu",
+    "definition": "Sensação de conforto, abrigo e carinho",
+    "example": "Depois da viagem, só queria o aconchego da própria casa.",
+    "synonyms": [
+      "conforto",
+      "abrigo",
+      "amparo"
+    ],
+    "origin": "Derivado regressivo de aconchegar, de a- e conchegar, do latim complicare «dobrar, juntar»."
+  },
+  {
+    "lemma": "afago",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "aˈfaɡu",
+    "definition": "Carícia leve feita com a mão",
+    "example": "A menina adormeceu com o afago da avó nos cabelos.",
+    "synonyms": [
+      "carícia",
+      "carinho",
+      "mimo"
+    ],
+    "origin": "Derivado de afagar, de origem controversa; costuma-se apontar o árabe ḫalaqa «alisar, polir»."
+  },
+  {
+    "lemma": "alento",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "aˈlẽtu",
+    "definition": "Ânimo ou fôlego que ajuda a continuar",
+    "example": "A carta do amigo foi um alento naquele mês difícil.",
+    "synonyms": [
+      "ânimo",
+      "fôlego",
+      "coragem"
+    ],
+    "origin": "Do latim anhelitus «respiração, sopro», por meio de uma forma alterada *alenitus."
+  },
+  {
+    "lemma": "almejar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "awmeˈʒaɾ",
+    "definition": "Desejar com ardor, de todo o coração",
+    "example": "Ela almejava uma vida tranquila perto do mar.",
+    "synonyms": [
+      "ansiar",
+      "desejar",
+      "aspirar"
+    ],
+    "origin": "Derivado de alma, com o sufixo -ejar: propriamente, querer com a alma."
+  },
+  {
+    "lemma": "ameno",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "aˈmenu",
+    "definition": "Suave e agradável, sem excessos",
+    "example": "O clima ameno da serra atrai visitantes o ano inteiro.",
+    "synonyms": [
+      "suave",
+      "aprazível",
+      "brando"
+    ],
+    "origin": "Do latim amoenus «agradável, encantador», dito sobretudo de lugares."
+  },
+  {
+    "lemma": "anseio",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ɐ̃ˈseju",
+    "definition": "Desejo intenso, misturado de inquietação",
+    "example": "O anseio de liberdade atravessa todo o romance.",
+    "synonyms": [
+      "desejo",
+      "ânsia",
+      "aspiração"
+    ],
+    "origin": "Derivado de ansiar, do latim tardio anxiare «inquietar», de anxius «angustiado»."
+  },
+  {
+    "lemma": "apreço",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "aˈpɾesu",
+    "definition": "Estima e consideração por alguém ou algo",
+    "example": "Tenho grande apreço pelo trabalho dessa professora.",
+    "synonyms": [
+      "estima",
+      "consideração",
+      "respeito"
+    ],
+    "origin": "Derivado de apreçar «avaliar», de preço, do latim pretium «valor»."
+  },
+  {
+    "lemma": "audaz",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "awˈdas",
+    "definition": "Que enfrenta o perigo sem hesitar",
+    "example": "Foi um gesto audaz, que surpreendeu até os adversários.",
+    "synonyms": [
+      "ousado",
+      "corajoso",
+      "intrépido"
+    ],
+    "origin": "Do latim audax, audacis «ousado», de audere «ousar»."
+  },
+  {
+    "lemma": "brando",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈbɾɐ̃du",
+    "definition": "Suave, que não tem dureza nem violência",
+    "example": "Cozinhe o doce em fogo brando, mexendo sempre.",
+    "synonyms": [
+      "suave",
+      "macio",
+      "meigo"
+    ],
+    "origin": "Do latim blandus «carinhoso, lisonjeiro, suave»."
+  },
+  {
+    "lemma": "cativar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "katʃiˈvaɾ",
+    "definition": "Conquistar a simpatia ou o afeto de alguém",
+    "example": "O jovem pianista cativou o público desde a primeira nota.",
+    "synonyms": [
+      "encantar",
+      "seduzir",
+      "conquistar"
+    ],
+    "origin": "Do latim tardio captivare «fazer prisioneiro», de captivus «preso»."
+  },
+  {
+    "lemma": "cautela",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "kawˈtɛlɐ",
+    "definition": "Cuidado para evitar um risco ou um erro",
+    "example": "Com cautela, ela abriu a porta do quarto escuro.",
+    "synonyms": [
+      "prudência",
+      "cuidado",
+      "precaução"
+    ],
+    "origin": "Do latim cautela «precaução», de cautus, particípio de cavere «tomar cuidado»."
+  },
+  {
+    "lemma": "singelo",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "sĩˈʒɛlu",
+    "definition": "Simples e sem enfeite, de beleza natural",
+    "example": "Recebeu os convidados com um jantar singelo e delicioso.",
+    "synonyms": [
+      "simples",
+      "modesto",
+      "despojado"
+    ],
+    "origin": "Do latim vulgar *singellus, diminutivo de singulus «um só, único»."
+  },
+  {
+    "lemma": "sereno",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "seˈɾenu",
+    "definition": "Calmo, sem agitação nem perturbação",
+    "example": "Mesmo diante da má notícia, ele permaneceu sereno.",
+    "synonyms": [
+      "calmo",
+      "tranquilo",
+      "plácido"
+    ],
+    "origin": "Do latim serenus «limpo, sem nuvens», dito primeiro do céu."
+  },
+  {
+    "lemma": "sutil",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "suˈtʃiw",
+    "definition": "Fino e delicado, difícil de perceber",
+    "example": "Havia uma ironia sutil em cada resposta dela.",
+    "synonyms": [
+      "delicado",
+      "tênue",
+      "fino"
+    ],
+    "origin": "Do latim subtilis «fino, delgado», originalmente um termo dos tecelões."
+  },
+  {
+    "lemma": "ternura",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "teɾˈnuɾɐ",
+    "definition": "Afeto meigo e delicado",
+    "example": "Olhou para o filho adormecido com imensa ternura.",
+    "synonyms": [
+      "carinho",
+      "meiguice",
+      "afeto"
+    ],
+    "origin": "Derivado de terno, do latim tener «tenro, delicado»."
+  },
+  {
+    "lemma": "zelo",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ˈzelu",
+    "definition": "Cuidado dedicado que se põe numa tarefa",
+    "example": "O jardineiro tratava das roseiras com zelo admirável.",
+    "synonyms": [
+      "cuidado",
+      "dedicação",
+      "desvelo"
+    ],
+    "origin": "Do latim zelus, do grego zêlos «ardor, emulação, ciúme»."
+  },
+  {
+    "lemma": "vigor",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "viˈɡoɾ",
+    "definition": "Força e energia do corpo ou do espírito",
+    "example": "Aos oitenta anos, ela ainda caminha com vigor.",
+    "synonyms": [
+      "força",
+      "energia",
+      "robustez"
+    ],
+    "origin": "Do latim vigor «força vital», de vigere «estar cheio de vida»."
+  },
+  {
+    "lemma": "vislumbrar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "vizlũˈbɾaɾ",
+    "definition": "Ver de modo vago, entrever ao longe",
+    "example": "Do alto do morro já se vislumbrava o mar.",
+    "synonyms": [
+      "entrever",
+      "avistar",
+      "divisar"
+    ],
+    "origin": "Do espanhol vislumbrar, de vislumbre «clarão fraco», formado sobre lumbre «luz», do latim lumen."
+  },
+  {
+    "lemma": "esmero",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ezˈmeɾu",
+    "definition": "Cuidado extremo em fazer algo bem-feito",
+    "example": "A mesa foi arrumada com esmero para a festa.",
+    "synonyms": [
+      "capricho",
+      "primor",
+      "apuro"
+    ],
+    "origin": "Derivado de esmerar, do latim vulgar *exmerare «purificar», de merus «puro»."
+  },
+  {
+    "lemma": "desvelo",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "dezˈvelu",
+    "definition": "Dedicação atenta e carinhosa a alguém",
+    "example": "A enfermeira cuidou do doente com desvelo durante toda a noite.",
+    "synonyms": [
+      "dedicação",
+      "zelo",
+      "cuidado"
+    ],
+    "origin": "Derivado de desvelar «passar a noite sem dormir», de velar, do latim vigilare «vigiar»."
+  },
+  {
+    "lemma": "deleite",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "deˈlejtʃi",
+    "definition": "Prazer suave e demorado",
+    "example": "Lia os poemas em voz alta, com evidente deleite.",
+    "synonyms": [
+      "prazer",
+      "delícia",
+      "gozo"
+    ],
+    "origin": "Derivado de deleitar, do latim delectare «encantar, dar prazer»."
+  },
+  {
+    "lemma": "primor",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "pɾiˈmoɾ",
+    "definition": "Perfeição e delicadeza na execução de algo",
+    "example": "O bordado da toalha era um primor de paciência.",
+    "synonyms": [
+      "perfeição",
+      "esmero",
+      "excelência"
+    ],
+    "origin": "Do latim primores «os primeiros, os principais», de primus «primeiro»."
+  },
+  {
+    "lemma": "afável",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "aˈfavew",
+    "definition": "Amável e acolhedor no trato",
+    "example": "O dono da pousada era um homem afável e conversador.",
+    "synonyms": [
+      "amável",
+      "cortês",
+      "gentil"
+    ],
+    "origin": "Do latim affabilis «a quem se pode falar», de affari «dirigir a palavra»."
+  },
+  {
+    "lemma": "altivo",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "awˈtʃivu",
+    "definition": "Que mostra orgulho e dignidade",
+    "example": "Ergueu a cabeça, altiva, e saiu sem dizer palavra.",
+    "synonyms": [
+      "orgulhoso",
+      "soberbo",
+      "brioso"
+    ],
+    "origin": "Derivado de alto, do latim altus «elevado»."
+  },
+  {
+    "lemma": "árduo",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈaɾdwu",
+    "definition": "Que exige muito esforço, difícil de vencer",
+    "example": "Foi um trabalho árduo, mas a colheita compensou.",
+    "synonyms": [
+      "difícil",
+      "penoso",
+      "trabalhoso"
+    ],
+    "origin": "Do latim arduus «alto, escarpado», daí «difícil de alcançar»."
+  },
+  {
+    "lemma": "ávido",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈavidu",
+    "definition": "Que deseja algo com intensidade",
+    "example": "As crianças, ávidas de novidades, cercaram o viajante.",
+    "synonyms": [
+      "sedento",
+      "sôfrego",
+      "ansioso"
+    ],
+    "origin": "Do latim avidus «desejoso», de avere «desejar vivamente»."
+  },
+  {
+    "lemma": "cordial",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "koɾdʒiˈaw",
+    "definition": "Afetuoso e sincero no modo de tratar",
+    "example": "Recebeu-nos com um abraço cordial e um café fresco.",
+    "synonyms": [
+      "afetuoso",
+      "caloroso",
+      "amistoso"
+    ],
+    "origin": "Do latim medieval cordialis «do coração», de cor, cordis «coração»."
+  },
+  {
+    "lemma": "formoso",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "foɾˈmozu",
+    "definition": "De bela aparência, agradável de ver",
+    "example": "Era uma tarde formosa, de céu limpo e brisa leve.",
+    "synonyms": [
+      "belo",
+      "lindo",
+      "gracioso"
+    ],
+    "origin": "Do latim formosus «bem-feito, belo», de forma «molde, beleza»."
+  },
+  {
+    "lemma": "ousadia",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "owzaˈdʒiɐ",
+    "definition": "Coragem de fazer o que muitos temem",
+    "example": "Teve a ousadia de discordar do chefe diante de todos.",
+    "synonyms": [
+      "audácia",
+      "coragem",
+      "atrevimento"
+    ],
+    "origin": "Derivado de ousado, de ousar, do latim vulgar *ausare, de audere «atrever-se»."
+  },
+  {
+    "lemma": "pudor",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "puˈdoɾ",
+    "definition": "Sentimento de reserva e de vergonha delicada",
+    "example": "Falava dos próprios sentimentos com certo pudor.",
+    "synonyms": [
+      "recato",
+      "vergonha",
+      "decoro"
+    ],
+    "origin": "Do latim pudor «vergonha, modéstia», de pudere «ter vergonha»."
+  },
+  {
+    "lemma": "saudade",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "sawˈdadʒi",
+    "definition": "Lembrança terna e dolorida de quem está ausente",
+    "example": "Morando longe, sinto saudade da comida da minha mãe.",
+    "synonyms": [
+      "nostalgia",
+      "lembrança",
+      "falta"
+    ],
+    "origin": "Do latim solitas, solitatis «solidão», pelas formas antigas soedade e soidade; a passagem a sau- deve-se talvez à influência de saúde e saudar."
+  },
+  {
+    "lemma": "sossego",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "soˈseɡu",
+    "definition": "Estado de calma, sem barulho nem preocupação",
+    "example": "No sítio, encontrava o sossego que a cidade lhe negava.",
+    "synonyms": [
+      "calma",
+      "tranquilidade",
+      "paz"
+    ],
+    "origin": "Derivado de sossegar, do latim vulgar *sessicare «assentar», de sedere «estar sentado»."
+  },
+  {
+    "lemma": "lisonja",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "liˈzõʒɐ",
+    "definition": "Elogio exagerado feito para agradar",
+    "example": "Não se deixava enganar por nenhuma lisonja dos colegas.",
+    "synonyms": [
+      "bajulação",
+      "adulação",
+      "elogio"
+    ],
+    "origin": "Do provençal antigo lauzenja, de lauzar «louvar», do latim laudare."
+  },
+  {
+    "lemma": "mágoa",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "ˈmaɡwɐ",
+    "definition": "Tristeza funda deixada por uma ofensa",
+    "example": "Guardou por anos a mágoa daquela palavra dura.",
+    "synonyms": [
+      "ressentimento",
+      "desgosto",
+      "pesar"
+    ],
+    "origin": "Do latim macula «mancha», que passou a designar a marca deixada pela dor."
+  },
+  {
+    "lemma": "enlevo",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ẽˈlevu",
+    "definition": "Encantamento que absorve por completo",
+    "example": "Ouvia a cantora com enlevo, esquecida do mundo.",
+    "synonyms": [
+      "êxtase",
+      "encanto",
+      "arroubo"
+    ],
+    "origin": "Derivado de enlevar, de en- e levar, do latim levare «erguer»."
+  },
+  {
+    "lemma": "fulgor",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "fuwˈɡoɾ",
+    "definition": "Brilho muito intenso, clarão",
+    "example": "O fulgor do sol no mar obrigava a fechar os olhos.",
+    "synonyms": [
+      "brilho",
+      "clarão",
+      "esplendor"
+    ],
+    "origin": "Do latim fulgor «relâmpago, brilho», de fulgere «brilhar»."
+  },
+  {
+    "lemma": "júbilo",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ˈʒubilu",
+    "definition": "Alegria muito grande, que transborda",
+    "example": "A cidade inteira recebeu os campeões com júbilo.",
+    "synonyms": [
+      "alegria",
+      "regozijo",
+      "exultação"
+    ],
+    "origin": "Do latim jubilum «grito de alegria», de jubilare «soltar gritos de alegria»."
+  },
+  {
+    "lemma": "lúcido",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈlusidu",
+    "definition": "Que pensa e percebe com clareza",
+    "example": "Aos noventa anos, meu avô continua lúcido e bem-humorado.",
+    "synonyms": [
+      "consciente",
+      "claro",
+      "perspicaz"
+    ],
+    "origin": "Do latim lucidus «luminoso, claro», de lux, lucis «luz»."
+  },
+  {
+    "lemma": "nítido",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈnitʃidu",
+    "definition": "Que se vê ou se entende com clareza",
+    "example": "A foto ficou tão nítida que dá para ler a placa.",
+    "synonyms": [
+      "claro",
+      "definido",
+      "límpido"
+    ],
+    "origin": "Do latim nitidus «brilhante, polido», de nitere «brilhar»."
+  },
+  {
+    "lemma": "perene",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "peˈɾeni",
+    "definition": "Que dura sempre, sem interrupção",
+    "example": "É um rio perene: nunca seca, nem na pior estiagem.",
+    "synonyms": [
+      "perpétuo",
+      "duradouro",
+      "eterno"
+    ],
+    "origin": "Do latim perennis «que dura o ano todo», de per «através» e annus «ano»."
+  },
+  {
+    "lemma": "tenaz",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "teˈnas",
+    "definition": "Que persiste sem ceder",
+    "example": "Graças a um esforço tenaz, terminou o curso trabalhando à noite.",
+    "synonyms": [
+      "persistente",
+      "obstinado",
+      "firme"
+    ],
+    "origin": "Do latim tenax, tenacis «que segura firme», de tenere «segurar»."
+  },
+  {
+    "lemma": "vasto",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈvastu",
+    "definition": "De grande extensão ou amplitude",
+    "example": "Da janela do avião via-se o vasto tapete verde da floresta.",
+    "synonyms": [
+      "amplo",
+      "extenso",
+      "imenso"
+    ],
+    "origin": "Do latim vastus «deserto, imenso»."
+  },
+  {
+    "lemma": "íntegro",
+    "level": 1,
+    "part_of_speech": "adj.",
+    "ipa": "ˈĩteɡɾu",
+    "definition": "De honestidade completa, incorruptível",
+    "example": "Todos o conheciam como um juiz íntegro e discreto.",
+    "synonyms": [
+      "honesto",
+      "reto",
+      "probo"
+    ],
+    "origin": "Do latim integer «intacto, inteiro», de in- e a raiz de tangere «tocar»."
+  },
+  {
+    "lemma": "esboçar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "ezboˈsaɾ",
+    "definition": "Traçar as primeiras linhas de um desenho ou plano",
+    "example": "Ela esboçou um sorriso e voltou ao trabalho.",
+    "synonyms": [
+      "delinear",
+      "rascunhar",
+      "traçar"
+    ],
+    "origin": "Derivado de esboço, do italiano sbozzo «primeiro desbaste de uma obra»."
+  },
+  {
+    "lemma": "ponderar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "põdeˈɾaɾ",
+    "definition": "Avaliar com calma antes de decidir",
+    "example": "Antes de aceitar o emprego, ponderou os prós e os contras.",
+    "synonyms": [
+      "avaliar",
+      "refletir",
+      "considerar"
+    ],
+    "origin": "Do latim ponderare «pesar», de pondus, ponderis «peso»."
+  },
+  {
+    "lemma": "zombar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "zõˈbaɾ",
+    "definition": "Fazer troça de alguém ou de algo",
+    "example": "Os colegas zombavam do sotaque do recém-chegado.",
+    "synonyms": [
+      "caçoar",
+      "troçar",
+      "escarnecer"
+    ],
+    "origin": "De origem incerta, talvez onomatopaica; compare-se o espanhol zumbar."
+  },
+  {
+    "lemma": "acalentar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "akalẽˈtaɾ",
+    "definition": "Embalar com carinho; nutrir uma esperança",
+    "example": "Durante anos acalentou o sonho de conhecer a Amazônia.",
+    "synonyms": [
+      "embalar",
+      "nutrir",
+      "alimentar"
+    ],
+    "origin": "De a- e calentar «aquecer», do latim calens, calentis «quente»."
+  },
+  {
+    "lemma": "murmurar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "muɾmuˈɾaɾ",
+    "definition": "Dizer em voz muito baixa",
+    "example": "Ela murmurou um agradecimento e baixou os olhos.",
+    "synonyms": [
+      "sussurrar",
+      "cochichar",
+      "segredar"
+    ],
+    "origin": "Do latim murmurare, de murmur «ruído surdo», palavra de formação onomatopaica."
+  },
+  {
+    "lemma": "hesitar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "eziˈtaɾ",
+    "definition": "Ficar indeciso antes de agir ou falar",
+    "example": "Ele hesitou um instante antes de assinar o contrato.",
+    "synonyms": [
+      "vacilar",
+      "titubear",
+      "duvidar"
+    ],
+    "origin": "Do latim haesitare «estar preso, embaraçado», frequentativo de haerere «ficar agarrado»."
+  },
+  {
+    "lemma": "devaneio",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "devaˈneju",
+    "definition": "Sonho de quem está acordado, fantasia",
+    "example": "Passava as tardes em devaneios, olhando a chuva pela janela.",
+    "synonyms": [
+      "fantasia",
+      "sonho",
+      "quimera"
+    ],
+    "origin": "Derivado de devanear, de vão, do latim vanus «vazio»."
+  },
+  {
+    "lemma": "capricho",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "kaˈpɾiʃu",
+    "definition": "Vontade súbita, sem motivo sério; também cuidado minucioso",
+    "example": "Comprou o chapéu por puro capricho, sem precisar dele.",
+    "synonyms": [
+      "veleidade",
+      "extravagância",
+      "esmero"
+    ],
+    "origin": "Do italiano capriccio «arrepio, ideia repentina», de origem discutida."
+  },
+  {
+    "lemma": "cafuné",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "kafuˈnɛ",
+    "definition": "Carinho feito coçando de leve a cabeça",
+    "example": "Deitou no colo da mãe e pediu um cafuné.",
+    "synonyms": [
+      "afago",
+      "carícia",
+      "carinho"
+    ],
+    "origin": "Palavra do português do Brasil, de origem africana, provavelmente do quimbundo; o étimo exato é discutido."
+  },
+  {
+    "lemma": "dengo",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ˈdẽɡu",
+    "definition": "Manha carinhosa de quem quer mimo",
+    "example": "A criança fez dengo para não ir dormir cedo.",
+    "synonyms": [
+      "manha",
+      "mimo",
+      "charme"
+    ],
+    "origin": "De origem controversa: é frequentemente ligado ao quicongo ndengo «doçura», mas a hipótese não é segura."
+  },
+  {
+    "lemma": "moleque",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "moˈlɛki",
+    "definition": "Menino travesso, que vive a brincar na rua",
+    "example": "O moleque subiu na mangueira antes que alguém pudesse impedir.",
+    "synonyms": [
+      "garoto",
+      "menino",
+      "traquinas"
+    ],
+    "origin": "Do quimbundo muleke «menino, rapaz»."
+  },
+  {
+    "lemma": "xodó",
+    "level": 1,
+    "part_of_speech": "s.m.",
+    "ipa": "ʃoˈdɔ",
+    "definition": "Pessoa ou coisa a que se quer com especial carinho",
+    "example": "O neto caçula é o xodó da família inteira.",
+    "synonyms": [
+      "predileto",
+      "queridinho",
+      "paixão"
+    ],
+    "origin": "Brasileirismo de origem obscura."
+  },
+  {
+    "lemma": "garoa",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "ɡaˈɾoɐ",
+    "definition": "Chuva miúda e persistente",
+    "example": "Saiu sem guarda-chuva e voltou molhado pela garoa fina.",
+    "synonyms": [
+      "chuvisco",
+      "chuvisqueiro"
+    ],
+    "origin": "Brasileirismo de origem controversa; nenhuma das hipóteses propostas é segura."
+  },
+  {
+    "lemma": "gentileza",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "ʒẽtʃiˈlezɐ",
+    "definition": "Ato ou modo amável e delicado",
+    "example": "Teve a gentileza de nos acompanhar até a estação.",
+    "synonyms": [
+      "delicadeza",
+      "cortesia",
+      "amabilidade"
+    ],
+    "origin": "Derivado de gentil, do latim gentilis «da mesma família», depois «nobre»."
+  },
+  {
+    "lemma": "quietude",
+    "level": 1,
+    "part_of_speech": "s.f.",
+    "ipa": "kjeˈtudʒi",
+    "definition": "Silêncio e paz de um lugar ou momento",
+    "example": "A quietude da madrugada só era quebrada pelos grilos.",
+    "synonyms": [
+      "sossego",
+      "silêncio",
+      "calma"
+    ],
+    "origin": "Do latim tardio quietudo, de quietus «em repouso»."
+  },
+  {
+    "lemma": "caçoar",
+    "level": 1,
+    "part_of_speech": "v.",
+    "ipa": "kasoˈaɾ",
+    "definition": "Rir de alguém por brincadeira",
+    "example": "Os primos caçoavam dele porque tinha medo de sapo.",
+    "synonyms": [
+      "zombar",
+      "troçar",
+      "gracejar"
+    ],
+    "origin": "De origem incerta."
+  }
+]

@@ -18,5 +18,9 @@
  "it": {
   "name": "Parola del giorno",
   "summary": "Una parola nuova ogni giorno, con il suo significato."
+ },
+ "ja": {
+  "name": "今日の言葉",
+  "summary": "毎日ひとつ、新しい言葉とその意味を。"
  }
 }

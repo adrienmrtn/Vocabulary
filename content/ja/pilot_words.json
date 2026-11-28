@@ -252,7 +252,7 @@
     "level": 1,
     "part_of_speech": "動",
     "ipa": "いたわる · itawaɾɯ",
-    "definition": "弱った人や苦労した人に、やさしく接して大切にする",
+    "definition": "弱った人やつらい思いをした人に、やさしく接する",
     "example": "疲れた体を労るために、今夜は早く休むことにした。",
     "synonyms": [
       "労う",
@@ -266,9 +266,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "嗜む",
@@ -307,8 +305,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "洛中がその始末であるから、羅生門の修理などは、元より誰も捨てて顧みる者がなかった。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -328,8 +326,8 @@
       "debate",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "下人は、老婆が屍骸につまづきながら、慌てふためいて逃げようとする行手を塞いで、こう罵った。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -349,8 +347,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "羅生門の楼の上へ出る、幅の広い梯子の中段に、一人の男が、猫のように身をちぢめて、息を殺しながら、上の容子を窺っていた。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -421,7 +419,7 @@
     "level": 1,
     "part_of_speech": "動",
     "ipa": "はぐくむ · haɡɯkɯmɯ",
-    "definition": "大切に守り育てる",
+    "definition": "大切に守りながら、成長を助ける",
     "example": "この町の豊かな自然が、子どもたちの感性を育んできた。",
     "synonyms": [
       "育てる",
@@ -435,9 +433,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "紡ぐ",
@@ -723,8 +719,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "そうして、それと同時に、その老婆に対するはげしい憎悪が、少しずつ動いて来た。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -764,8 +760,8 @@
       "nature",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "今この下人が、永年、使われていた主人から暇を出されたのも、この衰微の小さな余波に外ならない。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -785,8 +781,8 @@
       "emotions",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "唯、おぼろげながら、知れるのは、その中に裸の屍骸と、着物を着た屍骸とがあると云う事である。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1041,7 +1037,7 @@
     "level": 1,
     "part_of_speech": "動",
     "ipa": "ねぎらう · neɡiɾaɯ",
-    "definition": "相手の苦労や骨折りに感謝し、いたわる",
+    "definition": "相手の骨折りに感謝し、やさしい言葉をかける",
     "example": "社長は現場を回り、社員の苦労を労った。",
     "synonyms": [
       "慰労",
@@ -1055,9 +1051,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "弁える",
@@ -1433,26 +1427,6 @@
     "issues": []
   },
   {
-    "lemma": "焦燥",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "しょうそう · ɕoːsoː",
-    "definition": "思うようにならず、いらだちあせること",
-    "example": "締め切りが近づくにつれ、焦燥の色が濃くなった。",
-    "synonyms": [
-      "苛立ち",
-      "焦り"
-    ],
-    "origin": "漢語。「焦」はこげる、あせる、「燥」はかわく、いらだつ意。",
-    "topics": [
-      "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "安堵",
     "level": 2,
     "part_of_speech": "名",
@@ -1466,47 +1440,6 @@
     "origin": "漢語。「堵」は垣根で、垣の内で落ち着いて暮らす意。中世には領地の所有を認めることもいった。",
     "topics": [
       "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "感慨",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "かんがい · kaŋɡai",
-    "definition": "心に深くしみて、しみじみと思うこと",
-    "example": "二十年ぶりに母校を訪ね、深い感慨を覚えた。",
-    "synonyms": [
-      "感動",
-      "感銘"
-    ],
-    "origin": "漢語。「慨」は嘆く、心を高ぶらせる意。",
-    "topics": [
-      "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "哀愁",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "あいしゅう · aiɕɯː",
-    "definition": "そこはかとなく感じられる、もの悲しさ",
-    "example": "古い港町には、どこか哀愁が漂っている。",
-    "synonyms": [
-      "悲哀",
-      "憂愁"
-    ],
-    "origin": "漢語。「哀」はかなしい、「愁」はうれえる意。",
-    "topics": [
-      "emotions",
-      "literature"
     ],
     "quote": "",
     "quote_source": "",
@@ -1529,8 +1462,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "そうして失望すると同時に、又前の憎悪が、冷な侮蔑と一しょに、心の中へはいって来た。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1549,8 +1482,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "いや、この老婆に対すると云っては、語弊があるかも知れない。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1570,8 +1503,8 @@
       "business",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "後に残ったのは、唯、或仕事をして、それが円満に成就した時の、安らかな得意と満足とがあるばかりである。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1590,8 +1523,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "下人は、老婆の答が存外、平凡なのに失望した。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1611,8 +1544,8 @@
       "society",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "前にも書いたように、当時京都の町は一通りならず衰微していた。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1631,8 +1564,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "鴉は、勿論、門の上にある死人の肉を、啄みに来るのである。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -1651,48 +1584,6 @@
     "origin": "動詞「憂ふ（うれふ）」の連用形「うれへ」が変化した語。",
     "topics": [
       "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "謙遜",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "けんそん · keɴsoɴ",
-    "definition": "自分を低く扱い、控えめにふるまうこと",
-    "example": "褒められても謙遜するばかりで、彼は決して誇らない。",
-    "synonyms": [
-      "卑下",
-      "謙譲"
-    ],
-    "origin": "漢語。「謙」も「遜」も「へりくだる」意。",
-    "topics": [
-      "character",
-      "society"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "寛容",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "かんよう · kaɴjoː",
-    "definition": "心が広く、他人の過ちや違いを受け入れること",
-    "example": "異なる意見に対する寛容が、議論を豊かにする。",
-    "synonyms": [
-      "寛大",
-      "包容"
-    ],
-    "origin": "漢語。「寛」はひろい、ゆるやか、「容」は受け入れる意。",
-    "topics": [
-      "character",
-      "society"
     ],
     "quote": "",
     "quote_source": "",
@@ -1741,72 +1632,11 @@
     "issues": []
   },
   {
-    "lemma": "狡猾",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "こうかつ · koːkatsɯ",
-    "definition": "ずるく、悪知恵がはたらくさま",
-    "example": "狐は昔話の中で、狡猾な動物として描かれることが多い。",
-    "synonyms": [
-      "悪賢い",
-      "老獪"
-    ],
-    "origin": "漢語。「狡」も「猾」も「ずるい、悪賢い」意。",
-    "topics": [
-      "character"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "傲慢",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "ごうまん · ɡoːmaɴ",
-    "definition": "おごり高ぶって、人を見下すさま",
-    "example": "成功が続くうちに、彼の態度は傲慢になっていった。",
-    "synonyms": [
-      "尊大",
-      "高慢",
-      "横柄"
-    ],
-    "origin": "漢語。「傲」はおごる、「慢」はあなどる意。",
-    "topics": [
-      "character"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "怠惰",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "たいだ · taida",
-    "definition": "なまけて、だらしないさま",
-    "example": "休みが長すぎて、すっかり怠惰な生活に慣れてしまった。",
-    "synonyms": [
-      "怠慢",
-      "無精"
-    ],
-    "origin": "漢語。「怠」も「惰」も「なまける」意。",
-    "topics": [
-      "character"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "凡庸",
     "level": 2,
     "part_of_speech": "形動",
     "ipa": "ぼんよう · boɴjoː",
-    "definition": "すぐれた点がなく、平凡なさま",
+    "definition": "すぐれた点がなく、ありふれているさま",
     "example": "凡庸な演奏だったが、最後の一曲だけは心に残った。",
     "synonyms": [
       "平凡",
@@ -1820,9 +1650,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "稀有",
@@ -1839,27 +1667,6 @@
     "topics": [
       "science",
       "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "流暢",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "りゅうちょう · ɾjɯːtɕoː",
-    "definition": "言葉がなめらかに出て、よどみないさま",
-    "example": "彼女は三年の留学を経て、流暢なフランス語を話す。",
-    "synonyms": [
-      "滑らか",
-      "達者"
-    ],
-    "origin": "漢語。「暢」はのびやかに通る意。",
-    "topics": [
-      "persuasion",
-      "travel"
     ],
     "quote": "",
     "quote_source": "",
@@ -2053,68 +1860,6 @@
     "issues": []
   },
   {
-    "lemma": "脆弱",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "ぜいじゃく · dzeːdʑakɯ",
-    "definition": "もろくて弱いさま",
-    "example": "地震は、都市の脆弱な部分をあらわにした。",
-    "synonyms": [
-      "脆い",
-      "虚弱"
-    ],
-    "origin": "漢語。「脆」はもろい意。",
-    "topics": [
-      "science",
-      "society"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "顕著",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "けんちょ · kentɕo",
-    "definition": "はっきり目立って、いちじるしいさま",
-    "example": "薬の効果は、若い患者でとくに顕著だった。",
-    "synonyms": [
-      "明白",
-      "歴然"
-    ],
-    "origin": "漢語。「顕」はあきらか、「著」はいちじるしい意。",
-    "topics": [
-      "science",
-      "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "頻りに",
-    "level": 2,
-    "part_of_speech": "副",
-    "ipa": "しきりに · ɕikiɾiɲi",
-    "definition": "同じことが何度も繰り返されるさま。熱心に",
-    "example": "犬は外に出たがって、頻りに戸を引っかいた。",
-    "synonyms": [
-      "頻繁",
-      "何度も"
-    ],
-    "origin": "「たび重なる」意の動詞「頻る（しきる）」の連用形から。",
-    "topics": [
-      "nature"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "徐に",
     "level": 2,
     "part_of_speech": "副",
@@ -2128,26 +1873,6 @@
     "origin": "語源は定かではない。本来は「ゆっくりと」の意で、「突然」の意に使うのは誤用とされる。",
     "topics": [
       "literature"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "甚だ",
-    "level": 2,
-    "part_of_speech": "副",
-    "ipa": "はなはだ · hanahada",
-    "definition": "程度が普通をはるかに超えて。非常に",
-    "example": "突然の変更で、甚だ迷惑をしている。",
-    "synonyms": [
-      "非常に",
-      "大変"
-    ],
-    "origin": "形容詞「甚だし」と同根。上代の副詞「はだ」を強めた語とする説がある。",
-    "topics": [
-      "debate"
     ],
     "quote": "",
     "quote_source": "",
@@ -2169,27 +1894,6 @@
     "topics": [
       "literature",
       "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "畏怖",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "いふ · iɸɯ",
-    "definition": "偉大なものを前に、おそれおののくこと",
-    "example": "切り立った氷壁を前に、登山家たちは畏怖の念を抱いた。",
-    "synonyms": [
-      "畏敬",
-      "恐怖"
-    ],
-    "origin": "漢語。「畏」はおそれ敬う、「怖」はこわがる意。",
-    "topics": [
-      "emotions",
-      "nature"
     ],
     "quote": "",
     "quote_source": "",
@@ -2446,26 +2150,6 @@
     "issues": []
   },
   {
-    "lemma": "潤沢",
-    "level": 2,
-    "part_of_speech": "形動",
-    "ipa": "じゅんたく · dʑɯntakɯ",
-    "definition": "物や資金が、あり余るほど豊かなさま",
-    "example": "潤沢な資金があっても、よい作品ができるとは限らない。",
-    "synonyms": [
-      "豊富",
-      "豊か"
-    ],
-    "origin": "漢語。「潤」はうるおう、「沢」はつや、めぐみの意。",
-    "topics": [
-      "business"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "黎明",
     "level": 2,
     "part_of_speech": "名",
@@ -2532,7 +2216,7 @@
     "level": 2,
     "part_of_speech": "名",
     "ipa": "さみだれ · samidaɾe",
-    "definition": "旧暦五月ごろに降りつづく長雨。梅雨",
+    "definition": "旧暦の夏の初めに降りつづく長雨。梅雨",
     "example": "五月雨に煙る川面を、小舟が静かに下っていった。",
     "synonyms": [
       "梅雨",
@@ -2546,9 +2230,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "さざ波",
@@ -2613,27 +2295,6 @@
     "issues": []
   },
   {
-    "lemma": "風物詩",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "ふうぶつし · ɸɯːbɯtsɯɕi",
-    "definition": "その季節らしさを感じさせる物事",
-    "example": "軒先の風鈴の音は、日本の夏の風物詩だ。",
-    "synonyms": [
-      "季題",
-      "景物"
-    ],
-    "origin": "景色や季節のものを表す「風物」と「詩」から。もとは季節をうたった詩のこと。",
-    "topics": [
-      "nature",
-      "society"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "漂泊",
     "level": 2,
     "part_of_speech": "名",
@@ -2648,27 +2309,6 @@
     "topics": [
       "travel",
       "literature"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "旅情",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "りょじょう · ɾjodʑoː",
-    "definition": "よその土地を訪れたときに感じる、しみじみとした思い",
-    "example": "夜汽車の窓に映る町の灯が、旅情をかきたてた。",
-    "synonyms": [
-      "客愁",
-      "旅愁"
-    ],
-    "origin": "漢語。「旅」と、心の動きを表す「情」から。",
-    "topics": [
-      "travel",
-      "emotions"
     ],
     "quote": "",
     "quote_source": "",
@@ -2737,27 +2377,6 @@
     "issues": []
   },
   {
-    "lemma": "采配",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "さいはい · saihai",
-    "definition": "指図して人を動かすこと。指揮",
-    "example": "新しい監督の采配が当たり、チームは連勝を重ねた。",
-    "synonyms": [
-      "指揮",
-      "指図"
-    ],
-    "origin": "戦場で大将が兵を指揮するために振った、房のついた道具の名から。",
-    "topics": [
-      "business",
-      "society"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "折衝",
     "level": 2,
     "part_of_speech": "名",
@@ -2772,27 +2391,6 @@
     "topics": [
       "business",
       "persuasion"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "懸念",
-    "level": 2,
-    "part_of_speech": "名",
-    "ipa": "けねん · keneɴ",
-    "definition": "先行きがどうなるかと、心配に思うこと",
-    "example": "専門家は、感染の再拡大に懸念を示した。",
-    "synonyms": [
-      "心配",
-      "危惧"
-    ],
-    "origin": "もと仏教語で、一つのことに心をかけて離れないこと。",
-    "topics": [
-      "business",
-      "debate"
     ],
     "quote": "",
     "quote_source": "",
@@ -2940,8 +2538,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "下人は、太刀を鞘におさめて、その太刀の柄を左の手でおさえながら、冷然として、この話を聞いていた。",
+    "quote_source": "芥川龍之介『羅生門』",
     "zipf": 0,
     "issues": []
   },
@@ -3255,27 +2853,6 @@
     "issues": []
   },
   {
-    "lemma": "不遜",
-    "level": 3,
-    "part_of_speech": "形動",
-    "ipa": "ふそん · ɸɯsoɴ",
-    "definition": "思いあがって、へりくだる心がないさま",
-    "example": "若い棋士の不遜な発言が、先輩たちの怒りを買った。",
-    "synonyms": [
-      "傲慢",
-      "尊大",
-      "横柄"
-    ],
-    "origin": "漢語。「遜」はへりくだる意で、それを打ち消した語。",
-    "topics": [
-      "character"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "剣呑",
     "level": 3,
     "part_of_speech": "形動",
@@ -3310,26 +2887,6 @@
     "origin": "漢字を唐音で読んだ語で、禅宗とともに伝わったとされる。「胡」はでたらめ、「乱」はみだれる意。",
     "topics": [
       "character",
-      "society"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "猥雑",
-    "level": 3,
-    "part_of_speech": "形動",
-    "ipa": "わいざつ · waidzatsɯ",
-    "definition": "ごたごたと入り乱れ、品がないさま",
-    "example": "裏通りの猥雑なにぎわいが、かえって彼には心地よかった。",
-    "synonyms": [
-      "雑然",
-      "下品"
-    ],
-    "origin": "漢語。「猥」はみだりに入り乱れる意。",
-    "topics": [
       "society"
     ],
     "quote": "",
@@ -3633,66 +3190,6 @@
     "issues": []
   },
   {
-    "lemma": "憔悴",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "しょうすい · ɕoːsɯi",
-    "definition": "心配や疲れで、やせおとろえること",
-    "example": "看病が続き、彼女の顔には憔悴の色が濃かった。",
-    "synonyms": [
-      "衰弱",
-      "やつれ"
-    ],
-    "origin": "漢語。「憔」も「悴」も「やつれる」意。",
-    "topics": [
-      "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "懊悩",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "おうのう · oːnoː",
-    "definition": "なやみ、もだえ苦しむこと",
-    "example": "彼は進むべき道を見失い、懊悩の日々を送った。",
-    "synonyms": [
-      "苦悩",
-      "煩悶"
-    ],
-    "origin": "漢語。「懊」は深くなやむ意。",
-    "topics": [
-      "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "煩悶",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "はんもん · hammoɴ",
-    "definition": "あれこれと思いわずらい、もだえ苦しむこと",
-    "example": "青年は信仰と恋のあいだで、ひとり煩悶していた。",
-    "synonyms": [
-      "苦悶",
-      "懊悩"
-    ],
-    "origin": "漢語。「煩」はわずらう、「悶」はもだえる意。",
-    "topics": [
-      "emotions"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "恍惚",
     "level": 3,
     "part_of_speech": "名",
@@ -3727,27 +3224,6 @@
     "topics": [
       "emotions",
       "character"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "寂寞",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "せきばく · sekibakɯ",
-    "definition": "ひっそりとして、ものさびしいこと",
-    "example": "人影の絶えた冬の浜辺は、寂寞としていた。",
-    "synonyms": [
-      "寂寥",
-      "静寂"
-    ],
-    "origin": "漢語。「寂」も「寞」も「ひっそりしてさびしい」意。「じゃくまく」とも読む。",
-    "topics": [
-      "emotions",
-      "nature"
     ],
     "quote": "",
     "quote_source": "",
@@ -3963,48 +3439,6 @@
     "issues": []
   },
   {
-    "lemma": "蹂躙",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "じゅうりん · dʑɯːɾiɴ",
-    "definition": "踏みにじること。暴力や権力で侵害すること",
-    "example": "少数者の権利が蹂躙されるのを、黙って見てはいられない。",
-    "synonyms": [
-      "侵害",
-      "踏みにじる"
-    ],
-    "origin": "漢語。「蹂」も「躙」も「踏みにじる」意。",
-    "topics": [
-      "society",
-      "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "膠着",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "こうちゃく · koːtɕakɯ",
-    "definition": "状態が固まったまま、少しも動かなくなること",
-    "example": "交渉は膠着したまま、三か月が過ぎた。",
-    "synonyms": [
-      "停滞",
-      "行き詰まり"
-    ],
-    "origin": "漢語。「膠」はにかわ。にかわで付けたように動かない意。",
-    "topics": [
-      "business",
-      "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "乖離",
     "level": 3,
     "part_of_speech": "名",
@@ -4069,48 +3503,6 @@
     "issues": []
   },
   {
-    "lemma": "敷衍",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "ふえん · ɸɯeɴ",
-    "definition": "意味や趣旨を、押し広げて詳しく説明すること",
-    "example": "講師は先ほどの論点を敷衍して、具体例を挙げた。",
-    "synonyms": [
-      "詳述",
-      "展開"
-    ],
-    "origin": "漢語。「敷」はしく、「衍」は押し広げる意。",
-    "topics": [
-      "debate",
-      "science"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "収斂",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "しゅうれん · ɕɯːɾeɴ",
-    "definition": "ばらばらのものが、一つにまとまっていくこと",
-    "example": "長い議論の末に、意見は二つの案に収斂した。",
-    "synonyms": [
-      "集約",
-      "収束"
-    ],
-    "origin": "漢語。「斂」はおさめる、引き締める意。",
-    "topics": [
-      "science",
-      "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
     "lemma": "蓋然性",
     "level": 3,
     "part_of_speech": "名",
@@ -4124,27 +3516,6 @@
     "origin": "「蓋然」は「蓋（けだ）し然（しか）り」、つまり「おそらくそうだろう」の意。明治期に西洋哲学の訳語として用いられた。",
     "topics": [
       "science",
-      "debate"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "陥穽",
-    "level": 3,
-    "part_of_speech": "名",
-    "ipa": "かんせい · kaɴseː",
-    "definition": "落とし穴。また、人をおとしいれる計略",
-    "example": "うますぎる話には、思わぬ陥穽がひそんでいる。",
-    "synonyms": [
-      "罠",
-      "落とし穴"
-    ],
-    "origin": "漢語。「陥」はおちいる、「穽」は獣を捕らえる落とし穴の意。",
-    "topics": [
-      "business",
       "debate"
     ],
     "quote": "",
@@ -4271,27 +3642,6 @@
     ],
     "origin": "古くは「行き悩む」「いっぱいに広がる」の意でも用いた。語源は定かではない。",
     "topics": [
-      "society"
-    ],
-    "quote": "",
-    "quote_source": "",
-    "zipf": 0,
-    "issues": []
-  },
-  {
-    "lemma": "誹る",
-    "level": 3,
-    "part_of_speech": "動",
-    "ipa": "そしる · soɕiɾɯ",
-    "definition": "人のことを悪く言う。けなす",
-    "example": "陰で人を誹るより、面と向かって話すべきだ。",
-    "synonyms": [
-      "貶す",
-      "非難"
-    ],
-    "origin": "上代から見える語だが、語源は定かではない。「謗る」とも書く。",
-    "topics": [
-      "debate",
       "society"
     ],
     "quote": "",

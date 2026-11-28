@@ -251,18 +251,8 @@
   "葛藤": [
     "emotions"
   ],
-  "焦燥": [
-    "emotions"
-  ],
   "安堵": [
     "emotions"
-  ],
-  "感慨": [
-    "emotions"
-  ],
-  "哀愁": [
-    "emotions",
-    "literature"
   ],
   "侮蔑": [
     "emotions",
@@ -288,29 +278,12 @@
   "憂い": [
     "emotions"
   ],
-  "謙遜": [
-    "character",
-    "society"
-  ],
-  "寛容": [
-    "character",
-    "society"
-  ],
   "律儀": [
     "character"
   ],
   "老獪": [
     "character",
     "business"
-  ],
-  "狡猾": [
-    "character"
-  ],
-  "傲慢": [
-    "character"
-  ],
-  "怠惰": [
-    "character"
   ],
   "凡庸": [
     "character",
@@ -319,10 +292,6 @@
   "稀有": [
     "science",
     "debate"
-  ],
-  "流暢": [
-    "persuasion",
-    "travel"
   ],
   "饒舌": [
     "character",
@@ -357,30 +326,12 @@
   "杜撰": [
     "business"
   ],
-  "脆弱": [
-    "science",
-    "society"
-  ],
-  "顕著": [
-    "science",
-    "debate"
-  ],
-  "頻りに": [
-    "nature"
-  ],
   "徐に": [
     "literature"
-  ],
-  "甚だ": [
-    "debate"
   ],
   "あたかも": [
     "literature",
     "debate"
-  ],
-  "畏怖": [
-    "emotions",
-    "nature"
   ],
   "嗚咽": [
     "emotions"
@@ -427,9 +378,6 @@
     "business",
     "society"
   ],
-  "潤沢": [
-    "business"
-  ],
   "黎明": [
     "nature",
     "society"
@@ -456,17 +404,9 @@
     "literature",
     "emotions"
   ],
-  "風物詩": [
-    "nature",
-    "society"
-  ],
   "漂泊": [
     "travel",
     "literature"
-  ],
-  "旅情": [
-    "travel",
-    "emotions"
   ],
   "世間体": [
     "society"
@@ -478,17 +418,9 @@
     "society",
     "business"
   ],
-  "采配": [
-    "business",
-    "society"
-  ],
   "折衝": [
     "business",
     "persuasion"
-  ],
-  "懸念": [
-    "business",
-    "debate"
   ],
   "捗る": [
     "business"
@@ -571,18 +503,12 @@
     "society",
     "character"
   ],
-  "不遜": [
-    "character"
-  ],
   "剣呑": [
     "emotions",
     "society"
   ],
   "胡乱": [
     "character",
-    "society"
-  ],
-  "猥雑": [
     "society"
   ],
   "晦渋": [
@@ -637,25 +563,12 @@
   "忸怩": [
     "emotions"
   ],
-  "憔悴": [
-    "emotions"
-  ],
-  "懊悩": [
-    "emotions"
-  ],
-  "煩悶": [
-    "emotions"
-  ],
   "恍惚": [
     "emotions"
   ],
   "惻隠": [
     "emotions",
     "character"
-  ],
-  "寂寞": [
-    "emotions",
-    "nature"
   ],
   "茫漠": [
     "nature",
@@ -695,14 +608,6 @@
   "跋扈": [
     "society"
   ],
-  "蹂躙": [
-    "society",
-    "debate"
-  ],
-  "膠着": [
-    "business",
-    "debate"
-  ],
   "乖離": [
     "debate",
     "science"
@@ -715,20 +620,8 @@
     "society",
     "debate"
   ],
-  "敷衍": [
-    "debate",
-    "science"
-  ],
-  "収斂": [
-    "science",
-    "debate"
-  ],
   "蓋然性": [
     "science",
-    "debate"
-  ],
-  "陥穽": [
-    "business",
     "debate"
   ],
   "泡沫": [
@@ -752,10 +645,6 @@
     "character"
   ],
   "憚る": [
-    "society"
-  ],
-  "誹る": [
-    "debate",
     "society"
   ],
   "贖う": [
