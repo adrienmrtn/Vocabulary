@@ -27,8 +27,8 @@ struct StatsView: View {
                                 .frame(width: 52, height: 52)
                                 .clipShape(RoundedRectangle(cornerRadius: 12, style: .continuous))
                             VStack(alignment: .leading, spacing: 2) {
-                                Text("Take a test").font(.system(size: 16, weight: .semibold))
-                                Text("to see your current level").font(.system(size: 15))
+                                Text(tr("Take a test")).font(.system(size: 16, weight: .semibold))
+                                Text(tr("to see your current level")).font(.system(size: 15))
                             }
                             Spacer()
                             Image(systemName: "chevron.right")
@@ -45,7 +45,7 @@ struct StatsView: View {
                         FlameView(day: store.streak)
                             .frame(width: 72, height: 72)
                         VStack(alignment: .leading, spacing: 10) {
-                            Text("Your streak").font(.system(size: 16, weight: .semibold))
+                            Text(tr("Your streak")).font(.system(size: 16, weight: .semibold))
                             WeekRow(items: store.week)
                         }
                     }
@@ -56,12 +56,12 @@ struct StatsView: View {
                         ForEach(counters, id: \.label) { counter in
                             VStack(alignment: .leading, spacing: 6) {
                                 HStack {
-                                    Text(counter.value).font(.serif(24))
+                                    Text(tr(counter.value)).font(.serif(24))
                                     Spacer()
                                     Image(systemName: counter.symbol)
                                         .foregroundStyle(Color.brandBlue)
                                 }
-                                Text(counter.label)
+                                Text(tr(counter.label))
                                     .font(.system(size: 14))
                                     .foregroundStyle(Color.muted)
                             }
@@ -95,7 +95,7 @@ struct WeekRow: View {
         HStack(spacing: 4) {
             ForEach(Array(items.enumerated()), id: \.offset) { item in
                 VStack(spacing: 6) {
-                    Text(item.element.label)
+                    Text(tr(item.element.label))
                         .font(.system(size: 11, weight: item.element.done ? .bold : .medium))
                         .foregroundStyle(item.element.done ? Color.ink : Color.muted)
                     ZStack {
@@ -154,7 +154,7 @@ struct FlameView: View {
         }
         .aspectRatio(1, contentMode: .fit)
         .accessibilityElement(children: .ignore)
-        .accessibilityLabel("Streak flame, day \(day)")
+        .accessibilityLabel(tr("Streak flame, day %@", "\(day)"))
     }
 
     private func burning(side: CGFloat, time: Double) -> some View {

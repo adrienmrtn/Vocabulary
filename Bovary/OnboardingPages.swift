@@ -47,12 +47,12 @@ struct WelcomePage: View {
             }
             .frame(height: 300)
             .accessibilityHidden(true)
-            Text("Expand your vocabulary in 1 minute a day")
+            Text(tr("Expand your vocabulary in 1 minute a day"))
                 .font(.serif(32))
                 .multilineTextAlignment(.center)
                 .padding(.top, 34)
                 .rise(0.2)
-            Text("Learn new words with a daily habit that takes just 1 minute")
+            Text(tr("Learn new words with a daily habit that takes just 1 minute"))
                 .font(.system(size: 16))
                 .multilineTextAlignment(.center)
                 .padding(.top, 12)
@@ -78,7 +78,7 @@ private struct DayCard: View {
 
     var body: some View {
         VStack(spacing: 10) {
-            Text("WORD OF THE DAY")
+            Text(tr("WORD OF THE DAY"))
                 .font(.system(size: 11, weight: .bold))
                 .tracking(1.5)
                 .foregroundStyle(Color.brandBlue)
@@ -87,7 +87,7 @@ private struct DayCard: View {
                 .minimumScaleFactor(0.6)
                 .lineLimit(1)
             if !word.pronunciation.isEmpty {
-                Text("/\(word.pronunciation)/")
+                Text(tr("/%@/", "\(word.pronunciation)"))
                     .font(.system(size: 14))
                     .foregroundStyle(Color.muted)
             }
@@ -125,7 +125,7 @@ struct YearPage: View {
     private var squares: Int { total / 20 }
     private var perDay: String {
         let daily = Double(weekly) / 7
-        return daily < 2 ? "more than one new word" : "about \(Int(daily.rounded())) new words"
+        return daily < 2 ? tr("more than one new word") : tr("about %@ new words", "\(Int(daily.rounded()))")
     }
 
     private let columns = Array(repeating: GridItem(.fixed(16), spacing: 5), count: 13)
@@ -134,7 +134,7 @@ struct YearPage: View {
         VStack(spacing: 0) {
             ScrollView {
                 VStack(spacing: 14) {
-                    Text("In one year, you'll know")
+                    Text(tr("In one year, you'll know"))
                         .font(.serif(26))
                         .rise()
                     Text("\(min(filled * 20, total).formatted())")
@@ -142,7 +142,7 @@ struct YearPage: View {
                         .foregroundStyle(Color.brandBlue)
                         .monospacedDigit()
                         .contentTransition(.numericText())
-                    Text("more words")
+                    Text(tr("more words"))
                         .font(.serif(26))
                         .rise(0.1)
                     LazyVGrid(columns: columns, spacing: 5) {
@@ -156,8 +156,8 @@ struct YearPage: View {
                     .padding(.top, 14)
                     .accessibilityHidden(true)
                     VStack(spacing: 6) {
-                        Text("Each square is 20 words you don't know yet.")
-                        Text("That's \(perDay) every day, with your goal of \(weekly) words a week.")
+                        Text(tr("Each square is 20 words you don't know yet."))
+                        Text(tr("That's %@ every day, with your goal of %@ words a week.", "\(perDay)", "\(weekly)"))
                     }
                     .font(.system(size: 15))
                     .multilineTextAlignment(.center)
@@ -208,9 +208,9 @@ struct WidgetPage: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            Text(lockScreen
+            Text(tr(lockScreen
                  ? "Your word of the day, right on your Lock Screen"
-                 : "With widgets, you learn words without even opening the app")
+                 : "With widgets, you learn words without even opening the app"))
                 .font(.serif(26))
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 12)
@@ -286,7 +286,7 @@ private struct HomeScreenArt: View {
             LinearGradient(colors: [Color(hex: 0xCFE0FF), Color(hex: 0xFFE9DC)], startPoint: .top, endPoint: .bottom)
             VStack(spacing: 16) {
                 VStack(alignment: .leading, spacing: 4) {
-                    Text("WORD OF THE DAY")
+                    Text(tr("WORD OF THE DAY"))
                         .font(.system(size: 8, weight: .bold))
                         .tracking(1)
                         .opacity(0.8)
@@ -336,12 +336,12 @@ private struct LockScreenArt: View {
                 Image(systemName: "lock.fill")
                     .font(.system(size: 13))
                     .padding(.bottom, 6)
-                Text(Date.now.formatted(.dateTime.weekday(.wide).month(.wide).day()))
+                Text(Date.now.formatted(.dateTime.weekday(.wide).month(.wide).day().locale(Locale(identifier: Translations.language.rawValue))))
                     .font(.system(size: 12, weight: .medium))
-                Text("9:41")
+                Text(tr("9:41"))
                     .font(.system(size: 62, weight: .semibold, design: .rounded))
                 VStack(alignment: .leading, spacing: 3) {
-                    Text("WORD OF THE DAY")
+                    Text(tr("WORD OF THE DAY"))
                         .font(.system(size: 8, weight: .bold))
                         .tracking(1)
                         .opacity(0.75)
@@ -391,7 +391,7 @@ struct DeckPage: View {
 
     var body: some View {
         VStack(spacing: 0) {
-            Text("Get deeper insight into each word you learn")
+            Text(tr("Get deeper insight into each word you learn"))
                 .font(.serif(28))
                 .multilineTextAlignment(.center)
                 .padding(.horizontal, 12)
@@ -461,7 +461,7 @@ private struct DeckCard: View {
             Text(word.text)
                 .font(.serif(32))
                 .frame(maxWidth: .infinity)
-            Text("/\(word.pronunciation)/")
+            Text(tr("/%@/", "\(word.pronunciation)"))
                 .font(.system(size: 14))
                 .frame(maxWidth: .infinity)
             Text(word.definition)
@@ -507,7 +507,7 @@ private struct DeckCard: View {
     }
 
     private func label(_ text: String) -> some View {
-        Text(text)
+        Text(tr(text))
             .font(.system(size: 12))
             .foregroundStyle(Color.muted)
             .padding(.top, 8)
@@ -530,12 +530,12 @@ struct LoadingPage: View {
         VStack(spacing: 0) {
             Spacer(minLength: 12)
             FloatingArt(name: "result", size: 190)
-            Text(ready ? "Your profile is ready" : "Creating your profile")
+            Text(tr(ready ? "Your profile is ready" : "Creating your profile"))
                 .font(.serif(30))
                 .multilineTextAlignment(.center)
                 .padding(.top, 34)
                 .rise(0.15)
-            Text("\(Int(progress * 100))%")
+            Text(tr("%@%%", "\(Int(progress * 100))"))
                 .font(.serif(44))
                 .foregroundStyle(Color.brandBlue)
                 .contentTransition(.numericText())
@@ -553,7 +553,7 @@ struct LoadingPage: View {
                             .font(.system(size: 22))
                             .foregroundStyle(index < done ? Color.brandBlue : Color.line)
                             .contentTransition(.symbolEffect(.replace))
-                        Text(steps[index])
+                        Text(tr(steps[index]))
                             .font(.system(size: 16, weight: index < done ? .semibold : .regular))
                             .foregroundStyle(index <= done ? Color.ink : Color.muted)
                     }
@@ -627,9 +627,9 @@ struct NotificationStack: View {
             IconTile(character: 0, background: 0).frame(width: 38, height: 38)
             VStack(alignment: .leading, spacing: 2) {
                 HStack {
-                    Text("Bovary").font(.system(size: 13, weight: .semibold))
+                    Text(tr("Bovary")).font(.system(size: 13, weight: .semibold))
                     Spacer()
-                    Text(age).font(.system(size: 13)).foregroundStyle(Color.muted)
+                    Text(tr(age)).font(.system(size: 13)).foregroundStyle(Color.muted)
                 }
                 Text("\(word.text.capitalized) \(word.definition)")
                     .font(.system(size: 13))
@@ -733,11 +733,11 @@ struct ProfilePage: View {
                 IconTile(character: character, background: background)
                     .frame(width: 64, height: 64)
                 VStack(alignment: .leading, spacing: 2) {
-                    Text("WORD PROFILE")
+                    Text(tr("WORD PROFILE"))
                         .font(.system(size: 11, weight: .bold))
                         .tracking(1.5)
                         .opacity(0.75)
-                    Text(name.isEmpty ? "Your profile" : name)
+                    Text(tr(name.isEmpty ? "Your profile" : name))
                         .font(.serif(28))
                         .lineLimit(1)
                         .minimumScaleFactor(0.6)
@@ -751,18 +751,18 @@ struct ProfilePage: View {
                     .stroke(Color(hex: 0xFFD84A), style: StrokeStyle(lineWidth: 14, lineCap: .round))
                     .animation(.spring(response: 1.2, dampingFraction: 0.75).delay(0.3), value: phase)
                 VStack(spacing: 2) {
-                    Text(Self.levels[level])
+                    Text(tr(Self.levels[level]))
                         .font(.serif(30))
-                    Text("\(known.count) of 18 test words known")
+                    Text(tr("%@ of 18 test words known", "\(known.count)"))
                         .font(.system(size: 13))
                         .opacity(0.8)
                 }
             }
             .frame(width: 236, height: 126)
             HStack {
-                Text("Beginner")
+                Text(tr("Beginner"))
                 Spacer()
-                Text("Advanced")
+                Text(tr("Advanced"))
             }
             .font(.system(size: 11, weight: .semibold))
             .opacity(0.7)
@@ -792,11 +792,11 @@ struct ProfilePage: View {
             Image(systemName: symbol)
                 .font(.system(size: 15, weight: .semibold))
                 .foregroundStyle(Color.brandBlue)
-            Text(value)
+            Text(tr(value))
                 .font(.serif(24))
                 .lineLimit(1)
                 .minimumScaleFactor(0.6)
-            Text(label)
+            Text(tr(label))
                 .font(.system(size: 12))
                 .foregroundStyle(Color.muted)
                 .fixedSize(horizontal: false, vertical: true)
@@ -815,7 +815,7 @@ struct ProfilePage: View {
                         FillImage(name: Self.topicArt[topic] ?? "tile_topics")
                             .frame(width: 132, height: 92)
                             .overlay(alignment: .bottomLeading) {
-                                Text(topic)
+                                Text(tr(topic))
                                     .font(.system(size: 13, weight: .bold))
                                     .foregroundStyle(.white)
                                     .padding(.horizontal, 10)
@@ -839,7 +839,7 @@ struct ProfilePage: View {
                 .background(Circle().fill(Color.blueTint))
             VStack(alignment: .leading, spacing: 3) {
                 sectionTitle("Where we'll help most")
-                Text(focus.joined(separator: ", "))
+                Text(focus.map { tr($0) }.joined(separator: ", "))
                     .font(.system(size: 16, weight: .semibold))
                     .fixedSize(horizontal: false, vertical: true)
             }
@@ -869,7 +869,7 @@ struct ProfilePage: View {
     }
 
     private func sectionTitle(_ text: String) -> some View {
-        Text(text)
+        Text(tr(text))
             .font(.system(size: 13, weight: .medium))
             .foregroundStyle(Color.muted)
     }
@@ -907,11 +907,11 @@ struct GiftPage: View {
     @State private var finished = false
 
     private let ribbon = Color(hex: 0xFFD84A)
-    private let words = "We're giving you full access to Bovary, free for 3 days."
+    private let words = tr("We're giving you full access to Bovary, free for 3 days.")
         .split(separator: " ").map(String.init)
 
     private var sentence: Text {
-        words.enumerated().reduce(Text("")) { text, item in
+        words.enumerated().reduce(Text(tr(""))) { text, item in
             text + Text(item.element + " ").foregroundColor(Color.ink.opacity(item.offset < shown ? 1 : 0))
         }
     }
@@ -919,7 +919,7 @@ struct GiftPage: View {
     var body: some View {
         VStack(spacing: 0) {
             ZStack {
-                Text("We have a gift for you")
+                Text(tr("We have a gift for you"))
                     .opacity(opened ? 0 : 1)
                 sentence
                     .opacity(opened ? 1 : 0)
@@ -1020,11 +1020,11 @@ struct ReminderPage: View {
     @State private var shown = 0
     @State private var finished = false
 
-    private let words = "We'll send you a notification 1 day before your free trial ends."
+    private let words = tr("We'll send you a notification 1 day before your free trial ends.")
         .split(separator: " ").map(String.init)
 
     private var sentence: Text {
-        words.enumerated().reduce(Text("")) { text, item in
+        words.enumerated().reduce(Text(tr(""))) { text, item in
             text + Text(item.element + " ").foregroundColor(Color.ink.opacity(item.offset < shown ? 1 : 0))
         }
     }
@@ -1042,7 +1042,7 @@ struct ReminderPage: View {
             HStack(spacing: 8) {
                 Image(systemName: "checkmark.seal.fill")
                     .foregroundStyle(Color.brandBlue)
-                Text("No commitment. Cancel anytime.")
+                Text(tr("No commitment. Cancel anytime."))
                     .font(.system(size: 16, weight: .semibold))
             }
             .padding(.top, 22)
@@ -1067,6 +1067,65 @@ struct ReminderPage: View {
             withAnimation(.spring(response: 0.5, dampingFraction: 0.8)) {
                 finished = true
             }
+        }
+    }
+}
+
+// MARK: - Language
+
+/// The second page: which language the member wants to enrich. Choosing one
+/// switches the catalogue and the interface straight away.
+struct LanguagePage: View {
+    let next: () -> Void
+    @ObservedObject private var store = LanguageStore.shared
+
+    var body: some View {
+        VStack(spacing: 0) {
+            ScrollView {
+                VStack(spacing: 10) {
+                    Text(tr("Which language do you want to enrich?"))
+                        .font(.serif(28))
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 12)
+                        .padding(.bottom, 8)
+                    Text(tr("Your words and the app will be in this language."))
+                        .font(.system(size: 15))
+                        .multilineTextAlignment(.center)
+                        .padding(.bottom, 8)
+                    ForEach(AppLanguage.allCases) { language in
+                        row(language)
+                    }
+                }
+                .padding(.top, 28)
+            }
+            .scrollBounceBehavior(.basedOnSize)
+            PrimaryButton(title: "Continue", action: next)
+                .padding(.top, 8)
+        }
+        .padding(.horizontal, 16)
+        .padding(.bottom, 12)
+    }
+
+    private func row(_ language: AppLanguage) -> some View {
+        let on = store.language == language
+        return Button {
+            Haptics.select()
+            store.choose(language)
+        } label: {
+            HStack(spacing: 12) {
+                Text(language.flag).font(.system(size: 24))
+                Text(language.name).font(.system(size: 16, weight: .medium))
+                Spacer()
+                Image(systemName: on ? "largecircle.fill.circle" : "circle")
+                    .font(.system(size: 22))
+                    .foregroundStyle(on ? Color.brandBlue : Color(hex: 0x8A8390))
+            }
+            .foregroundStyle(Color.ink)
+            .padding(.leading, 20)
+            .padding(.trailing, 16)
+            .frame(height: 56)
+            .background(Capsule().fill(on ? Color.blueTint : Color.white))
+            .overlay(Capsule().strokeBorder(on ? Color.brandBlue : Color.line, lineWidth: on ? 2 : 1.5))
         }
     }
 }

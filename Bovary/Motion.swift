@@ -60,7 +60,7 @@ struct TapToContinue: View {
 
     var body: some View {
         Button(action: action) {
-            Text("Tap to continue")
+            Text(tr("Tap to continue"))
                 .font(.system(size: 16, weight: .semibold))
                 .foregroundStyle(Color.muted)
                 .frame(maxWidth: .infinity)
@@ -136,7 +136,7 @@ struct ScreenHeader<Trailing: View>: View {
 
     var body: some View {
         HStack(alignment: .center) {
-            Text(title)
+            Text(tr(title))
                 .font(.serif(34))
                 .foregroundStyle(Color.ink)
             Spacer(minLength: 8)

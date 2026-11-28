@@ -4,6 +4,8 @@ import StoreKit
 /// One page of the onboarding. The list below is the whole flow, in order.
 enum OnboardingStep {
     case welcome
+    /// Which language to learn. The catalogue and the interface follow at once.
+    case language
     /// `noneOption` adds a last row that stands for "none of the above" and clears the others.
     case choice(title: String, subtitle: String?, options: [String], multiple: Bool, noneOption: String?)
     case art(image: String, title: String)
@@ -37,6 +39,7 @@ enum OnboardingStep {
 
     static let flow: [OnboardingStep] = [
         .welcome,
+        .language,
         .art(image: "level", title: "Tailor your word recommendations"),
         .single("How old are you?", ["13 to 17", "18 to 24", "25 to 34", "35 to 44", "45 to 54", "55+"]),
         .single("Which option represents you best?", ["Female", "Male", "Other", "Prefer not to say"]),
@@ -160,6 +163,8 @@ struct OnboardingView: View {
         switch step {
         case .welcome:
             WelcomePage(next: next)
+        case .language:
+            LanguagePage(next: next)
         case let .choice(title, subtitle, options, multiple, noneOption):
             ChoicePage(title: title, image: OnboardingArt.image(for: title), subtitle: subtitle,
                        options: options + (noneOption.map { [$0] } ?? []), multiple: multiple,
@@ -168,7 +173,7 @@ struct OnboardingView: View {
             Scaffold(title: nil, cta: "Continue", next: next) {
                 VStack(spacing: 44) {
                     FloatingArt(name: image, size: 270)
-                    Text(title)
+                    Text(tr(title))
                         .font(.serif(28))
                         .multilineTextAlignment(.center)
                         .rise(0.15)
@@ -179,7 +184,7 @@ struct OnboardingView: View {
             Scaffold(title: "What do you want to be called?", cta: "Continue",
                      ctaEnabled: !name.trimmingCharacters(in: .whitespaces).isEmpty, next: next) {
                 FloatingArt(name: "onb_name", size: 120)
-                TextField("Your name", text: $name)
+                TextField(tr("Your name"), text: $name)
                     .textContentType(.givenName)
                     .submitLabel(.done)
                     .padding(.horizontal, 20)
@@ -195,7 +200,7 @@ struct OnboardingView: View {
             Scaffold(title: "Get words throughout the day", cta: "Allow and Save",
                      next: { Notifications.requestPermission(then: next) }) {
                 VStack(spacing: 18) {
-                    Text("Allow notifications to get daily words").font(.system(size: 15))
+                    Text(tr("Allow notifications to get daily words")).font(.system(size: 15))
                     NotificationStack()
                         .padding(.horizontal, 4)
                         .padding(.vertical, 8)
@@ -223,7 +228,7 @@ struct OnboardingView: View {
                     if let image = OnboardingArt.image(for: message) {
                         FloatingArt(name: image, size: 220)
                     }
-                    Text(message)
+                    Text(tr(message))
                         .font(.serif(28))
                         .multilineTextAlignment(.center)
                         .padding(.horizontal, 16)
@@ -248,7 +253,7 @@ struct OnboardingView: View {
         case .reminder:
             ReminderPage(next: next)
         case .splash:
-            Text("Welcome to Bovary")
+            Text(tr("Welcome to Bovary"))
                 .font(.serif(32))
                 .task {
                     try? await Task.sleep(nanoseconds: 1_300_000_000)
@@ -281,7 +286,7 @@ private struct Scaffold<Content: View>: View {
             ScrollView {
                 VStack(spacing: 18) {
                     if let title {
-                        Text(title)
+                        Text(tr(title))
                             .font(.serif(28))
                             .multilineTextAlignment(.center)
                             .padding(.horizontal, 12)
@@ -297,7 +302,7 @@ private struct Scaffold<Content: View>: View {
             VStack(spacing: 6) {
                 PrimaryButton(title: cta, enabled: ctaEnabled, action: next)
                 if let secondary {
-                    Button(secondary) { next() }
+                    Button(tr(secondary)) { next() }
                         .font(.system(size: 16, weight: .semibold))
                         .foregroundStyle(Color.ink)
                         .frame(height: 48)
@@ -333,18 +338,18 @@ private struct RatingPage: View {
                                 .modifier(Pop(delay: Double(star) * 0.09))
                         }
                     }
-                    .accessibilityLabel("Five stars")
+                    .accessibilityLabel(tr("Five stars"))
                     Image("mascot_rate")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 210, height: 210)
                         .modifier(Pop(delay: 0.45))
-                    Text("One tap. Two seconds. It means the world.")
+                    Text(tr("One tap. Two seconds. It means the world."))
                         .font(.serif(30))
                         .multilineTextAlignment(.center)
                         .padding(.top, 6)
                         .rise(0.55)
-                    Text("We're a small team up against big apps. Your rating helps more than you know.")
+                    Text(tr("We're a small team up against big apps. Your rating helps more than you know."))
                         .font(.system(size: 16))
                         .multilineTextAlignment(.center)
                         .padding(.top, 10)
@@ -363,7 +368,7 @@ private struct RatingPage: View {
                                             .foregroundStyle(gold)
                                     }
                                 }
-                                Text("average rating")
+                                Text(tr("average rating"))
                                     .font(.system(size: 12))
                                     .foregroundStyle(Color.muted)
                             }
@@ -373,7 +378,7 @@ private struct RatingPage: View {
                                     IconTile(character: 3, background: 3).frame(width: 36, height: 36)
                                     IconTile(character: 6, background: 7).frame(width: 36, height: 36)
                                 }
-                                Text("\(proof.users) users")
+                                Text(tr("%@ users", "\(proof.users)"))
                                     .font(.system(size: 14, weight: .semibold))
                             }
                             Image(systemName: "laurel.trailing")
@@ -383,19 +388,19 @@ private struct RatingPage: View {
                         .padding(.top, 22)
                         .rise(0.75)
 
-                        Text("What our users are saying")
+                        Text(tr("What our users are saying"))
                             .font(.system(size: 16, weight: .semibold))
                             .frame(maxWidth: .infinity, alignment: .leading)
                             .padding(.top, 26)
                             .rise(0.85)
                         ForEach(Array(proof.reviews.enumerated()), id: \.element.id) { item in
                             VStack(alignment: .leading, spacing: 8) {
-                                Text(item.element.title)
+                                Text(tr(item.element.title))
                                     .font(.system(size: 16, weight: .semibold))
-                                Text(item.element.text)
+                                Text(tr(item.element.text))
                                     .font(.system(size: 15))
                                 HStack(spacing: 6) {
-                                    Text(item.element.author)
+                                    Text(tr(item.element.author))
                                         .font(.system(size: 14, weight: .medium))
                                     HStack(spacing: 1) {
                                         ForEach(0..<5, id: \.self) { _ in
@@ -405,7 +410,7 @@ private struct RatingPage: View {
                                         }
                                     }
                                     Spacer()
-                                    Text(item.element.date)
+                                    Text(tr(item.element.date))
                                         .font(.system(size: 12))
                                         .foregroundStyle(Color.muted)
                                 }
@@ -446,10 +451,10 @@ private struct AccountPage: View {
                 IconTile(character: 1, background: 0).frame(width: 96, height: 96)
                 IconTile(character: 4, background: 3).frame(width: 96, height: 96)
             }
-            Text("Save your progress")
+            Text(tr("Save your progress"))
                 .font(.serif(30))
                 .padding(.top, 34)
-            Text("Keep your words, streak and favorites safe, and find them on all your devices.")
+            Text(tr("Keep your words, streak and favorites safe, and find them on all your devices."))
                 .font(.system(size: 16))
                 .multilineTextAlignment(.center)
                 .padding(.top, 12)
@@ -459,7 +464,7 @@ private struct AccountPage: View {
                     Haptics.tap()
                     notReady = true
                 } label: {
-                    Text("Continue with Apple")
+                    Text(tr("Continue with Apple"))
                         .font(.system(size: 17, weight: .semibold))
                         .foregroundStyle(.white)
                         .frame(maxWidth: .infinity)
@@ -470,7 +475,7 @@ private struct AccountPage: View {
                     Haptics.tap()
                     notReady = true
                 } label: {
-                    Text("Continue with Google")
+                    Text(tr("Continue with Google"))
                         .font(.system(size: 17, weight: .semibold))
                         .foregroundStyle(Color.ink)
                         .frame(maxWidth: .infinity)
@@ -478,7 +483,7 @@ private struct AccountPage: View {
                         .background(Capsule().fill(Color.white))
                         .overlay(Capsule().strokeBorder(Color.line, lineWidth: 1.5))
                 }
-                Button("Continue without an account") {
+                Button(tr("Continue without an account")) {
                     next()
                 }
                 .font(.system(size: 16, weight: .semibold))
@@ -490,10 +495,10 @@ private struct AccountPage: View {
         .padding(.bottom, 12)
         // Sign in with Apple and Google need the app identifier and the providers
         // set up first. Until then both buttons say so and the flow carries on.
-        .alert("Sign-in is not set up yet", isPresented: $notReady) {
-            Button("Continue without an account") { next() }
+        .alert(tr("Sign-in is not set up yet"), isPresented: $notReady) {
+            Button(tr("Continue without an account")) { next() }
         } message: {
-            Text("Your progress is still saved on this device.")
+            Text(tr("Your progress is still saved on this device."))
         }
     }
 }
@@ -517,14 +522,14 @@ private struct ChoicePage: View {
                         FloatingArt(name: image, size: 110)
                             .padding(.bottom, 8)
                     }
-                    Text(title)
+                    Text(tr(title))
                         .font(.serif(28))
                         .multilineTextAlignment(.center)
                         .padding(.horizontal, 12)
                         .padding(.bottom, 8)
                         .rise(0.05)
                     if let subtitle {
-                        Text(subtitle)
+                        Text(tr(subtitle))
                             .font(.system(size: 15))
                             .padding(.bottom, 8)
                     }
@@ -561,7 +566,7 @@ private struct ChoicePage: View {
             }
         } label: {
             HStack {
-                Text(options[index]).font(.system(size: 16, weight: .medium))
+                Text(tr(options[index])).font(.system(size: 16, weight: .medium))
                 Spacer()
                 Image(systemName: on ? (multiple ? "checkmark.circle.fill" : "largecircle.fill.circle") : "circle")
                     .font(.system(size: 22))
@@ -594,13 +599,13 @@ private struct StreakPage: View {
                 FlameView(day: 1, lit: phase >= 4)
                     .frame(width: 200, height: 200)
                     .reveal(phase >= 1)
-                Text("Create a consistent daily learning routine")
+                Text(tr("Create a consistent daily learning routine"))
                     .font(.serif(28))
                     .multilineTextAlignment(.center)
                     .reveal(phase >= 2)
                 VStack(spacing: 12) {
                     WeekRow(items: phase >= 4 ? WeekRow.firstDay : WeekRow.notStarted)
-                    Text("Build a streak, one day at a time").font(.system(size: 14))
+                    Text(tr("Build a streak, one day at a time")).font(.system(size: 14))
                 }
                 .padding(14)
                 .card()

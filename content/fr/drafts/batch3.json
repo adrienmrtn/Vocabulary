@@ -126,34 +126,6 @@
     "origin": "Du latin impavidus, de in- « non » et pavidus « saisi de peur »."
   },
   {
-    "lemma": "ineffable",
-    "level": 3,
-    "part_of_speech": "adj.",
-    "ipa": "inefabl",
-    "definition": "Qu'on ne peut exprimer par des mots",
-    "example": "Devant ce paysage, elle ressentit une joie ineffable.",
-    "synonyms": [
-      "indicible",
-      "inexprimable",
-      "indescriptible"
-    ],
-    "origin": "Du latin ineffabilis, de in- « non » et effari « dire, exprimer »."
-  },
-  {
-    "lemma": "irascible",
-    "level": 3,
-    "part_of_speech": "adj.",
-    "ipa": "iʁasibl",
-    "definition": "Qui se met facilement en colère",
-    "example": "Le vieux général, irascible, ne supportait aucune contradiction.",
-    "synonyms": [
-      "coléreux",
-      "irritable",
-      "emporté"
-    ],
-    "origin": "Du bas latin irascibilis, de irasci « se mettre en colère », de ira « colère »."
-  },
-  {
     "lemma": "pusillanime",
     "level": 3,
     "part_of_speech": "adj.",
@@ -587,20 +559,6 @@
     "origin": "De l'arabe turjumân « interprète », qui a aussi donné drogman."
   },
   {
-    "lemma": "vicissitude",
-    "level": 3,
-    "part_of_speech": "n. f.",
-    "ipa": "visisityd",
-    "definition": "Événement heureux ou malheureux qui marque une vie",
-    "example": "Malgré les vicissitudes de la guerre, la librairie resta ouverte.",
-    "synonyms": [
-      "aléa",
-      "épreuve",
-      "tribulation"
-    ],
-    "origin": "Du latin vicissitudo « alternance », de vicis « tour, succession »."
-  },
-  {
     "lemma": "apanage",
     "level": 3,
     "part_of_speech": "n. m.",
@@ -641,20 +599,6 @@
       "ignominie"
     ],
     "origin": "Du latin opprobrium, de ob « devant » et probrum « action honteuse »."
-  },
-  {
-    "lemma": "turpitude",
-    "level": 3,
-    "part_of_speech": "n. f.",
-    "ipa": "tyʁpityd",
-    "definition": "Conduite honteuse, bassesse morale",
-    "example": "Le journal promettait de révéler les turpitudes du financier.",
-    "synonyms": [
-      "bassesse",
-      "infamie",
-      "vilenie"
-    ],
-    "origin": "Du latin turpitudo « laideur, honte », de turpis « laid, honteux »."
   },
   {
     "lemma": "impéritie",

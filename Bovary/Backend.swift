@@ -18,10 +18,16 @@ final class Backend {
 
     private init() {}
 
-    /// Where the last downloaded catalogue is kept. Read at the next launch.
-    static var catalogCacheURL: URL {
+    /// Where the last downloaded catalogue of a language is kept. Read at the next launch.
+    static func catalogCacheURL(for language: AppLanguage) -> URL {
         let folder = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
-        return folder.appendingPathComponent("catalog.json")
+        let name = language == .english ? "catalog.json" : "catalog_\(language.rawValue).json"
+        return folder.appendingPathComponent(name)
+    }
+
+    /// The member changed language: fetch that catalogue for the next launch.
+    func languageChanged() {
+        Task { await refreshCatalog() }
     }
 
     func start() {
@@ -32,13 +38,15 @@ final class Backend {
         }
     }
 
-    /// Download the published words and keep them for the next launch.
+    /// Download the published words of the chosen language and keep them for the next launch.
     private func refreshCatalog() async {
+        let language = Translations.language
         do {
-            let data = try await client.from("catalog").select().execute().data
+            let data = try await client.from("catalog_localized").select()
+                .eq("language", value: language.rawValue).execute().data
             let words = try JSONDecoder().decode([Word].self, from: data)
             guard !words.isEmpty else { return }
-            let url = Backend.catalogCacheURL
+            let url = Backend.catalogCacheURL(for: language)
             try FileManager.default.createDirectory(at: url.deletingLastPathComponent(),
                                                     withIntermediateDirectories: true)
             try data.write(to: url, options: .atomic)

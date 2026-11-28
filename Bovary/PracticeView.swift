@@ -15,15 +15,15 @@ struct PracticeView: View {
                     ScreenHeader(title: "Practice")
                     HStack(spacing: 14) {
                         VStack(alignment: .leading, spacing: 4) {
-                            Text("What's your level?")
+                            Text(tr("What's your level?"))
                                 .font(.system(size: 17, weight: .semibold))
-                            Text("See how much you currently know")
+                            Text(tr("See how much you currently know"))
                                 .font(.system(size: 14))
                                 .foregroundStyle(Color.muted)
                             NavigationLink {
                                 GameView(mode: .shuffle, title: "Level test")
                             } label: {
-                                Text("Take free test")
+                                Text(tr("Take free test"))
                                     .font(.system(size: 14, weight: .semibold))
                                     .foregroundStyle(Color(hex: 0x0A4FDB))
                                     .padding(.horizontal, 16)
@@ -59,7 +59,7 @@ struct PracticeView: View {
                                     FillImage(name: challenge.image)
                                         .frame(height: 76)
                                         .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
-                                    Text(challenge.mode.title)
+                                    Text(tr(challenge.mode.title))
                                         .font(.system(size: 16, weight: .semibold))
                                         .foregroundStyle(Color.ink)
                                         .lineLimit(1)
@@ -77,9 +77,9 @@ struct PracticeView: View {
                     } label: {
                         HStack(spacing: 14) {
                             VStack(alignment: .leading, spacing: 4) {
-                                Text("Try Game shuffle")
+                                Text(tr("Try Game shuffle"))
                                     .font(.system(size: 17, weight: .semibold))
-                                Text(GameMode.shuffle.rule)
+                                Text(tr(GameMode.shuffle.rule))
                                     .font(.system(size: 14))
                                     .foregroundStyle(Color.muted)
                             }
@@ -117,7 +117,7 @@ struct ImageRow: View {
 
     var body: some View {
         HStack(spacing: 0) {
-            Text(title)
+            Text(tr(title))
                 .font(.system(size: 17, weight: .semibold))
                 .foregroundStyle(Color.ink)
                 .padding(.leading, 18)
