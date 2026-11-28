@@ -369,9 +369,9 @@ private struct RatingPage: View {
                             }
                             VStack(spacing: 6) {
                                 HStack(spacing: -10) {
-                                    IconTile(character: 1, background: 2).frame(width: 36, height: 36)
-                                    IconTile(character: 2, background: 3).frame(width: 36, height: 36)
-                                    IconTile(character: 5, background: 7).frame(width: 36, height: 36)
+                                    IconTile(character: 2, background: 2).frame(width: 36, height: 36)
+                                    IconTile(character: 3, background: 3).frame(width: 36, height: 36)
+                                    IconTile(character: 6, background: 7).frame(width: 36, height: 36)
                                 }
                                 Text("\(proof.users) users")
                                     .font(.system(size: 14, weight: .semibold))
@@ -442,9 +442,9 @@ private struct AccountPage: View {
         VStack(spacing: 0) {
             Spacer(minLength: 12)
             HStack(spacing: -22) {
-                IconTile(character: 1, background: 2).frame(width: 96, height: 96)
-                IconTile(character: 0, background: 1).frame(width: 96, height: 96)
-                IconTile(character: 3, background: 3).frame(width: 96, height: 96)
+                IconTile(character: 2, background: 2).frame(width: 96, height: 96)
+                IconTile(character: 1, background: 0).frame(width: 96, height: 96)
+                IconTile(character: 4, background: 3).frame(width: 96, height: 96)
             }
             Text("Save your progress")
                 .font(.serif(30))
