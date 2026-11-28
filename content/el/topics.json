@@ -1,0 +1,626 @@
+{
+  "γαλήνη": [
+    "nature",
+    "emotions"
+  ],
+  "εύθραυστος": [
+    "nature",
+    "emotions"
+  ],
+  "ακλόνητος": [
+    "character",
+    "debate"
+  ],
+  "αμείλικτος": [
+    "character"
+  ],
+  "ανέμελος": [
+    "emotions",
+    "character"
+  ],
+  "αυθόρμητος": [
+    "character"
+  ],
+  "διακριτικός": [
+    "character",
+    "society"
+  ],
+  "επιβλητικός": [
+    "character",
+    "travel"
+  ],
+  "ευάλωτος": [
+    "emotions",
+    "science"
+  ],
+  "θαρραλέος": [
+    "character"
+  ],
+  "λιτός": [
+    "character",
+    "literature"
+  ],
+  "οικείος": [
+    "society",
+    "emotions"
+  ],
+  "πρόθυμος": [
+    "character"
+  ],
+  "ραγδαίος": [
+    "nature",
+    "business"
+  ],
+  "σεμνός": [
+    "character"
+  ],
+  "τρυφερός": [
+    "emotions"
+  ],
+  "φιλόξενος": [
+    "travel",
+    "character"
+  ],
+  "ακούραστος": [
+    "character",
+    "business"
+  ],
+  "απέραντος": [
+    "nature",
+    "travel"
+  ],
+  "πολύτιμος": [
+    "business",
+    "society"
+  ],
+  "αθόρυβος": [
+    "nature",
+    "character"
+  ],
+  "διστακτικός": [
+    "character",
+    "emotions"
+  ],
+  "μεγαλόψυχος": [
+    "character"
+  ],
+  "γραφικός": [
+    "travel",
+    "nature"
+  ],
+  "νοσταλγία": [
+    "emotions",
+    "travel"
+  ],
+  "θαλπωρή": [
+    "emotions"
+  ],
+  "ευγνωμοσύνη": [
+    "emotions",
+    "society"
+  ],
+  "αξιοπρέπεια": [
+    "character",
+    "society"
+  ],
+  "σύνεση": [
+    "character",
+    "business"
+  ],
+  "φιλοδοξία": [
+    "character",
+    "business"
+  ],
+  "απόχρωση": [
+    "literature",
+    "nature"
+  ],
+  "λάμψη": [
+    "nature"
+  ],
+  "αντίκτυπος": [
+    "society",
+    "business"
+  ],
+  "δέος": [
+    "emotions"
+  ],
+  "οίκτος": [
+    "emotions"
+  ],
+  "ζήλος": [
+    "character",
+    "business"
+  ],
+  "θρύλος": [
+    "literature",
+    "society"
+  ],
+  "χάρισμα": [
+    "character"
+  ],
+  "όραμα": [
+    "business",
+    "society"
+  ],
+  "λυκόφως": [
+    "nature"
+  ],
+  "χαραυγή": [
+    "nature"
+  ],
+  "ευωδιά": [
+    "nature"
+  ],
+  "καταφύγιο": [
+    "travel",
+    "nature"
+  ],
+  "γοητεία": [
+    "character",
+    "persuasion"
+  ],
+  "πόθος": [
+    "emotions"
+  ],
+  "περιπλάνηση": [
+    "travel"
+  ],
+  "αγναντεύω": [
+    "nature",
+    "travel"
+  ],
+  "αναπολώ": [
+    "emotions",
+    "literature"
+  ],
+  "ψιθυρίζω": [
+    "society"
+  ],
+  "λαχταρώ": [
+    "emotions"
+  ],
+  "διστάζω": [
+    "character",
+    "debate"
+  ],
+  "ενθαρρύνω": [
+    "persuasion",
+    "society"
+  ],
+  "συλλογίζομαι": [
+    "debate",
+    "literature"
+  ],
+  "καμαρώνω": [
+    "emotions",
+    "society"
+  ],
+  "παρηγορώ": [
+    "emotions",
+    "persuasion"
+  ],
+  "αστράφτω": [
+    "nature"
+  ],
+  "αδιάκοπα": [
+    "nature",
+    "business"
+  ],
+  "εφήμερος": [
+    "nature",
+    "literature"
+  ],
+  "αγέρωχος": [
+    "character"
+  ],
+  "αδυσώπητος": [
+    "character",
+    "nature"
+  ],
+  "άσπιλος": [
+    "character",
+    "society"
+  ],
+  "δύσθυμος": [
+    "emotions"
+  ],
+  "ζοφερός": [
+    "emotions",
+    "nature"
+  ],
+  "ακάματος": [
+    "character",
+    "business"
+  ],
+  "αχανής": [
+    "nature",
+    "travel"
+  ],
+  "βλοσυρός": [
+    "character"
+  ],
+  "γλαφυρός": [
+    "literature",
+    "persuasion"
+  ],
+  "εύγλωττος": [
+    "persuasion",
+    "debate"
+  ],
+  "ιδιότροπος": [
+    "character"
+  ],
+  "κατηφής": [
+    "emotions"
+  ],
+  "λακωνικός": [
+    "debate",
+    "literature"
+  ],
+  "μεγαλοπρεπής": [
+    "travel",
+    "society"
+  ],
+  "πανούργος": [
+    "character",
+    "persuasion"
+  ],
+  "περίτεχνος": [
+    "literature",
+    "travel"
+  ],
+  "ράθυμος": [
+    "character"
+  ],
+  "σκυθρωπός": [
+    "emotions"
+  ],
+  "στωικός": [
+    "character",
+    "debate"
+  ],
+  "φιλάρεσκος": [
+    "character",
+    "society"
+  ],
+  "φειδωλός": [
+    "character",
+    "business"
+  ],
+  "ολιγαρκής": [
+    "character"
+  ],
+  "νηφάλιος": [
+    "debate",
+    "character"
+  ],
+  "μειλίχιος": [
+    "character"
+  ],
+  "αιθέριος": [
+    "literature",
+    "nature"
+  ],
+  "απαράμιλλος": [
+    "literature",
+    "travel"
+  ],
+  "αυθάδης": [
+    "character"
+  ],
+  "αβρός": [
+    "character",
+    "society"
+  ],
+  "καρτερία": [
+    "character"
+  ],
+  "μέριμνα": [
+    "society",
+    "emotions"
+  ],
+  "οδύνη": [
+    "emotions"
+  ],
+  "ραστώνη": [
+    "emotions",
+    "travel"
+  ],
+  "ευδαιμονία": [
+    "emotions",
+    "debate"
+  ],
+  "αμηχανία": [
+    "emotions",
+    "society"
+  ],
+  "φιλαυτία": [
+    "character"
+  ],
+  "απόγνωση": [
+    "emotions"
+  ],
+  "θάμβος": [
+    "emotions",
+    "travel"
+  ],
+  "λήθη": [
+    "literature",
+    "emotions"
+  ],
+  "νηνεμία": [
+    "nature"
+  ],
+  "σθένος": [
+    "character"
+  ],
+  "ευλάβεια": [
+    "society",
+    "emotions"
+  ],
+  "αίγλη": [
+    "society",
+    "literature"
+  ],
+  "μειδίαμα": [
+    "emotions",
+    "literature"
+  ],
+  "κατάνυξη": [
+    "emotions",
+    "society"
+  ],
+  "οιωνός": [
+    "literature",
+    "nature"
+  ],
+  "νάρκη": [
+    "science",
+    "nature"
+  ],
+  "εξυμνώ": [
+    "persuasion",
+    "literature"
+  ],
+  "θρηνώ": [
+    "emotions"
+  ],
+  "κολακεύω": [
+    "persuasion",
+    "society"
+  ],
+  "περιφρονώ": [
+    "society",
+    "emotions"
+  ],
+  "ρεμβάζω": [
+    "emotions",
+    "literature"
+  ],
+  "χλευάζω": [
+    "society",
+    "debate"
+  ],
+  "εμπνέω": [
+    "literature",
+    "persuasion"
+  ],
+  "αδημονώ": [
+    "emotions"
+  ],
+  "αφουγκράζομαι": [
+    "nature",
+    "society"
+  ],
+  "υπαινίσσομαι": [
+    "debate",
+    "persuasion"
+  ],
+  "αδαής": [
+    "science",
+    "debate"
+  ],
+  "ακραιφνής": [
+    "character",
+    "society"
+  ],
+  "αρειμάνιος": [
+    "character"
+  ],
+  "βδελυρός": [
+    "society",
+    "emotions"
+  ],
+  "εμβριθής": [
+    "science",
+    "literature"
+  ],
+  "ευήθης": [
+    "character",
+    "debate"
+  ],
+  "ευτράπελος": [
+    "literature",
+    "society"
+  ],
+  "θρασύδειλος": [
+    "character"
+  ],
+  "ιταμός": [
+    "character"
+  ],
+  "κίβδηλος": [
+    "business",
+    "society"
+  ],
+  "λάβρος": [
+    "debate",
+    "character"
+  ],
+  "μεμψίμοιρος": [
+    "character",
+    "emotions"
+  ],
+  "περιδεής": [
+    "emotions"
+  ],
+  "πολυσχιδής": [
+    "business",
+    "science"
+  ],
+  "σχοινοτενής": [
+    "debate",
+    "literature"
+  ],
+  "χαμερπής": [
+    "character"
+  ],
+  "αεικίνητος": [
+    "character",
+    "science"
+  ],
+  "ακατάβλητος": [
+    "character"
+  ],
+  "στιλπνός": [
+    "nature"
+  ],
+  "περιπαθής": [
+    "emotions",
+    "literature"
+  ],
+  "σιβυλλικός": [
+    "debate",
+    "literature"
+  ],
+  "αιδώς": [
+    "character",
+    "society"
+  ],
+  "αχλύς": [
+    "nature",
+    "literature"
+  ],
+  "ευωχία": [
+    "society"
+  ],
+  "οίηση": [
+    "character"
+  ],
+  "ολιγωρία": [
+    "business",
+    "society"
+  ],
+  "ύβρις": [
+    "literature",
+    "character"
+  ],
+  "φενάκη": [
+    "persuasion",
+    "society"
+  ],
+  "καταισχύνη": [
+    "society",
+    "emotions"
+  ],
+  "παραμυθία": [
+    "emotions"
+  ],
+  "σκώμμα": [
+    "literature",
+    "society"
+  ],
+  "τύρβη": [
+    "society"
+  ],
+  "φιλοκαλία": [
+    "literature",
+    "character"
+  ],
+  "άλγος": [
+    "emotions",
+    "science"
+  ],
+  "κλέος": [
+    "literature",
+    "society"
+  ],
+  "μένος": [
+    "emotions",
+    "nature"
+  ],
+  "όνειδος": [
+    "society"
+  ],
+  "σέλας": [
+    "science",
+    "nature"
+  ],
+  "χάρμα": [
+    "emotions",
+    "nature"
+  ],
+  "αβελτηρία": [
+    "business",
+    "character"
+  ],
+  "αγλαΐζω": [
+    "literature"
+  ],
+  "βαυκαλίζω": [
+    "persuasion"
+  ],
+  "εξευμενίζω": [
+    "persuasion",
+    "society"
+  ],
+  "θάλπω": [
+    "nature",
+    "emotions"
+  ],
+  "καγχάζω": [
+    "society",
+    "debate"
+  ],
+  "κομπάζω": [
+    "character"
+  ],
+  "λοιδορώ": [
+    "debate",
+    "society"
+  ],
+  "μυκτηρίζω": [
+    "literature",
+    "debate"
+  ],
+  "οικτίρω": [
+    "emotions"
+  ],
+  "τέρπω": [
+    "emotions",
+    "literature"
+  ],
+  "κατατρύχω": [
+    "emotions"
+  ],
+  "στηλιτεύω": [
+    "debate",
+    "society"
+  ],
+  "λυμαίνομαι": [
+    "society",
+    "business"
+  ],
+  "αφειδώς": [
+    "business",
+    "character"
+  ],
+  "αίφνης": [
+    "literature"
+  ],
+  "ενδελεχώς": [
+    "science",
+    "business"
+  ]
+}
