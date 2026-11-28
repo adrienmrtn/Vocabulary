@@ -1,0 +1,102 @@
+{
+ "ar": {
+  "name": "كلمة اليوم",
+  "summary": "كلمة جديدة كل يوم، مع معناها."
+ },
+ "cs": {
+  "name": "Slovo dne",
+  "summary": "Každý den nové slovo i s významem."
+ },
+ "da": {
+  "name": "Dagens ord",
+  "summary": "Et nyt ord hver dag, med dets betydning."
+ },
+ "de": {
+  "name": "Wort des Tages",
+  "summary": "Jeden Tag ein neues Wort, mit seiner Bedeutung."
+ },
+ "el": {
+  "name": "Λέξη της ημέρας",
+  "summary": "Μια νέα λέξη κάθε μέρα, με τη σημασία της."
+ },
+ "en": {
+  "name": "Word of the day",
+  "summary": "A new word every day, with its meaning."
+ },
+ "es": {
+  "name": "Palabra del día",
+  "summary": "Una palabra nueva cada día, con su significado."
+ },
+ "fi": {
+  "name": "Päivän sana",
+  "summary": "Uusi sana joka päivä merkityksineen."
+ },
+ "fr": {
+  "name": "Mot du jour",
+  "summary": "Un nouveau mot chaque jour, avec son sens."
+ },
+ "he": {
+  "name": "מילת היום",
+  "summary": "מילה חדשה בכל יום, עם המשמעות שלה."
+ },
+ "hr": {
+  "name": "Riječ dana",
+  "summary": "Svaki dan nova riječ, s njezinim značenjem."
+ },
+ "hu": {
+  "name": "A nap szava",
+  "summary": "Minden nap egy új szó, a jelentésével együtt."
+ },
+ "it": {
+  "name": "Parola del giorno",
+  "summary": "Una parola nuova ogni giorno, con il suo significato."
+ },
+ "ja": {
+  "name": "今日の言葉",
+  "summary": "毎日ひとつ、新しい言葉とその意味を。"
+ },
+ "nb": {
+  "name": "Dagens ord",
+  "summary": "Et nytt ord hver dag, med betydningen."
+ },
+ "nl": {
+  "name": "Woord van de dag",
+  "summary": "Elke dag een nieuw woord, met zijn betekenis."
+ },
+ "pl": {
+  "name": "Słowo dnia",
+  "summary": "Codziennie nowe słowo wraz ze znaczeniem."
+ },
+ "pt-BR": {
+  "name": "Palavra do dia",
+  "summary": "Uma palavra nova por dia, com o significado."
+ },
+ "pt-PT": {
+  "name": "Palavra do dia",
+  "summary": "Uma palavra nova todos os dias, com o seu significado."
+ },
+ "ro": {
+  "name": "Cuvântul zilei",
+  "summary": "Un cuvânt nou în fiecare zi, cu înțelesul lui."
+ },
+ "ru": {
+  "name": "Слово дня",
+  "summary": "Новое слово каждый день — вместе с его значением."
+ },
+ "sk": {
+  "name": "Slovo dňa",
+  "summary": "Každý deň nové slovo aj s významom."
+ },
+ "sl": {
+  "name": "Beseda dneva",
+  "summary": "Vsak dan nova beseda z razlago pomena."
+ },
+ "sv": {
+  "name": "Dagens ord",
+  "summary": "Ett nytt ord varje dag, med dess betydelse."
+ },
+ "tr": {
+  "name": "Günün kelimesi",
+  "summary": "Her gün yeni bir kelime, anlamıyla birlikte."
+ }
+}

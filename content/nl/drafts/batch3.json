@@ -1,0 +1,772 @@
+[
+ {
+  "lemma": "lankmoedig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "lɑŋkˈmudəx",
+  "definition": "Geduldig en toegeeflijk, traag tot toorn",
+  "example": "Lankmoedig hoorde de oude leraar het zoveelste excuus aan.",
+  "synonyms": [
+   "geduldig",
+   "verdraagzaam",
+   "toegeeflijk"
+  ],
+  "origin": "Uit lang en moed ‘gemoed’: lang van geduld. Een bijbels woord, gevormd naar Latijn longanimis."
+ },
+ {
+  "lemma": "goedertieren",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ɣudərˈtiːrən",
+  "definition": "Barmhartig en genadig, vol goedheid",
+  "example": "De goedertieren vorst schonk de opstandelingen hun vrijheid terug.",
+  "synonyms": [
+   "barmhartig",
+   "genadig",
+   "mild"
+  ],
+  "origin": "Uit Middelnederlands goeder tiere ‘van goede aard’; tiere betekende ‘aard, soort’."
+ },
+ {
+  "lemma": "hovaardig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ɦoːˈvaːrdəx",
+  "definition": "Trots en verwaand, zich boven anderen verheffend",
+  "example": "De hovaardige koopman groette zijn oude buren niet meer.",
+  "synonyms": [
+   "hoogmoedig",
+   "trots",
+   "verwaand"
+  ],
+  "origin": "Van hovaardij, uit Middelhoogduits hōchvart ‘voornaam leven, trots’ (Duits Hoffart), letterlijk ‘hoog varen’."
+ },
+ {
+  "lemma": "ootmoedig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "oːtˈmudəx",
+  "definition": "Nederig, zich klein makend tegenover een hogere",
+  "example": "Ootmoedig vroeg de dienaar vergiffenis voor zijn fout.",
+  "synonyms": [
+   "nederig",
+   "deemoedig",
+   "onderdanig"
+  ],
+  "origin": "Uit een oud woord ood ‘gemakkelijk, zacht’ en moed ‘gemoed’; al in het Oudnederlands overgeleverd."
+ },
+ {
+  "lemma": "snood",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "snoːt",
+  "definition": "Gemeen, slecht en verraderlijk",
+  "example": "Het was een snood plan om de weduwe van haar erfenis te beroven.",
+  "synonyms": [
+   "laag",
+   "gemeen",
+   "verdorven"
+  ],
+  "origin": "Middelnederlands snode ‘armzalig, gering, slecht’; verwant met Duits schnöde."
+ },
+ {
+  "lemma": "verwaten",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "vərˈʋaːtən",
+  "definition": "Aanmatigend trots, vol eigenwaan",
+  "example": "Zijn verwaten houding kostte hem uiteindelijk al zijn vrienden.",
+  "synonyms": [
+   "verwaand",
+   "aanmatigend",
+   "arrogant"
+  ],
+  "origin": "Voltooid deelwoord van Middelnederlands verwaten ‘vervloeken, in de ban doen’; uit ‘vervloekt, goddeloos’ ontstond ‘onbeschaamd trots’."
+ },
+ {
+  "lemma": "welig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ˈʋeːləx",
+  "definition": "Weelderig en krachtig groeiend",
+  "example": "Tussen de tegels tiert het onkruid welig.",
+  "synonyms": [
+   "weelderig",
+   "uitbundig",
+   "overvloedig"
+  ],
+  "origin": "Afgeleid van wel ‘goed’, net als weelde."
+ },
+ {
+  "lemma": "deerlijk",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ˈdeːrlək",
+  "definition": "Jammerlijk, op een manier die medelijden wekt",
+  "example": "Wie dacht dat het gemakkelijk zou zijn, heeft zich deerlijk vergist.",
+  "synonyms": [
+   "jammerlijk",
+   "erbarmelijk",
+   "deerniswekkend"
+  ],
+  "origin": "Van deren ‘leed doen’ met -lijk: wat deert, wat pijn doet."
+ },
+ {
+  "lemma": "schier",
+  "level": 3,
+  "part_of_speech": "bw.",
+  "ipa": "sxiːr",
+  "definition": "Bijna, zo goed als",
+  "example": "Het was een schier onmogelijke opgave om alles op tijd af te krijgen.",
+  "synonyms": [
+   "bijna",
+   "nagenoeg",
+   "vrijwel"
+  ],
+  "origin": "Middelnederlands schiere ‘spoedig, snel’; uit ‘weldra’ ontwikkelde zich ‘bijna’."
+ },
+ {
+  "lemma": "roemrucht",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ˈrumrʏxt",
+  "definition": "Wijd en zijd beroemd om grote daden",
+  "example": "In dit café speelde ooit het roemruchte elftal van 1974 kaart.",
+  "synonyms": [
+   "beroemd",
+   "vermaard",
+   "befaamd"
+  ],
+  "origin": "Uit roem en het oude rucht ‘gerucht, faam’ (vergelijk ruchtbaar)."
+ },
+ {
+  "lemma": "verbolgen",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "vərˈbɔlɣən",
+  "definition": "Hevig vertoornd, diep verontwaardigd",
+  "example": "Verbolgen verliet de wethouder de vergadering.",
+  "synonyms": [
+   "woedend",
+   "vertoornd",
+   "gebelgd"
+  ],
+  "origin": "Voltooid deelwoord van het oude verbelgen ‘boos maken’, bij belgen ‘opzwellen’: gezwollen van woede."
+ },
+ {
+  "lemma": "gemelijk",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ˈɣeːmələk",
+  "definition": "Knorrig, uit zijn humeur",
+  "example": "De gemelijke portier keek niet eens op toen we binnenkwamen.",
+  "synonyms": [
+   "knorrig",
+   "nors",
+   "humeurig"
+  ],
+  "origin": "Middelnederlands gemelijc ‘kluchtig, zonderling’, vermoedelijk bij game ‘spel, scherts’; de betekenis verschoof naar ‘nukkig, knorrig’."
+ },
+ {
+  "lemma": "wijdlopig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ʋɛitˈloːpəx",
+  "definition": "Omslachtig en te uitvoerig in woorden",
+  "example": "Zijn wijdlopige brieven besloegen zelden minder dan tien kantjes.",
+  "synonyms": [
+   "breedsprakig",
+   "omslachtig",
+   "langdradig"
+  ],
+  "origin": "Uit wijd en lopen: wat ver uitloopt; vergelijk Duits weitläufig."
+ },
+ {
+  "lemma": "luttel",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ˈlʏtəl",
+  "definition": "Klein in aantal of omvang, gering",
+  "example": "Na luttele seconden stond het hele plein blank.",
+  "synonyms": [
+   "weinig",
+   "gering",
+   "schaars"
+  ],
+  "origin": "Middelnederlands luttel ‘klein, weinig’; verwant met Engels little."
+ },
+ {
+  "lemma": "onwrikbaar",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ɔnˈvrɪkbaːr",
+  "definition": "Niet aan het wankelen te brengen",
+  "example": "Haar geloof in zijn onschuld bleef onwrikbaar.",
+  "synonyms": [
+   "onwankelbaar",
+   "vast",
+   "onverzettelijk"
+  ],
+  "origin": "Van on- en wrikken ‘heen en weer bewegen om iets los te maken’."
+ },
+ {
+  "lemma": "rampzalig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "rɑmpˈsaːləx",
+  "definition": "Vreselijk ongelukkig, door onheil getroffen",
+  "example": "De rampzalige winter van 1944 kostte duizenden stadsbewoners het leven.",
+  "synonyms": [
+   "noodlottig",
+   "ellendig",
+   "desastreus"
+  ],
+  "origin": "Van ramp met -zalig, dat hier niet ‘gelukkig’ betekent maar een oud achtervoegsel is (vergelijk armzalig en Duits -selig)."
+ },
+ {
+  "lemma": "bedremmeld",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "bəˈdrɛməlt",
+  "definition": "Verlegen en beteuterd, niet wetend wat te doen",
+  "example": "Bedremmeld stond de jongen met de gebroken vaas in zijn handen.",
+  "synonyms": [
+   "beteuterd",
+   "verlegen",
+   "beduusd"
+  ],
+  "origin": "Voltooid deelwoord van het oude bedremmelen, bij dremmelen ‘dringen, dralen’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "ontredderd",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "ɔntˈrɛdərt",
+  "definition": "Geheel in verwarring en uit het lood geslagen",
+  "example": "Ontredderd bleven de bewoners achter bij hun uitgebrande huis.",
+  "synonyms": [
+   "ontdaan",
+   "verward",
+   "radeloos"
+  ],
+  "origin": "Voltooid deelwoord van ontredderen, oorspronkelijk een scheepsterm: het tuig van een schip vernielen; bij redden ‘in orde brengen’."
+ },
+ {
+  "lemma": "doorluchtig",
+  "level": 3,
+  "part_of_speech": "bn.",
+  "ipa": "doːrˈlʏxtəx",
+  "definition": "Zeer voornaam, van hoge rang",
+  "example": "In deze zaal ontving de doorluchtige familie ooit de tsaar.",
+  "synonyms": [
+   "voornaam",
+   "verheven",
+   "illuster"
+  ],
+  "origin": "Letterlijk ‘helder stralend’, bij het oude luchten ‘lichten’; als titel een vertaling van Latijn illustris."
+ },
+ {
+  "lemma": "laven",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈlaːvən",
+  "definition": "Verkwikken met drank; de dorst lessen",
+  "example": "Bij de bron konden de wandelaars zich eindelijk laven.",
+  "synonyms": [
+   "verkwikken",
+   "lessen",
+   "verfrissen"
+  ],
+  "origin": "Middelnederlands laven; waarschijnlijk ontleend aan Latijn lavare ‘wassen’, eerst in de betekenis ‘met water verfrissen’."
+ },
+ {
+  "lemma": "lenigen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈleːnəɣən",
+  "definition": "Nood of pijn verzachten",
+  "example": "Het ingezamelde geld moest de ergste nood lenigen.",
+  "synonyms": [
+   "verzachten",
+   "verlichten",
+   "stillen"
+  ],
+  "origin": "Van lenig in de oude betekenis ‘zacht, buigzaam’: zachter maken."
+ },
+ {
+  "lemma": "delgen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈdɛlɣən",
+  "definition": "Een schuld geheel afbetalen; tenietdoen",
+  "example": "Hij werkte tien jaar om de schulden van zijn vader te delgen.",
+  "synonyms": [
+   "aflossen",
+   "afbetalen",
+   "vereffenen"
+  ],
+  "origin": "Middelnederlands deligen, delgen ‘uitwissen, vernietigen’; ontleend aan Latijn delere ‘uitwissen’ (vergelijk Duits tilgen)."
+ },
+ {
+  "lemma": "torsen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈtɔrsən",
+  "definition": "Met moeite een zware last dragen",
+  "example": "Zwetend torste hij de koffers vier trappen omhoog.",
+  "synonyms": [
+   "sjouwen",
+   "zeulen",
+   "dragen"
+  ],
+  "origin": "Middelnederlands torsen ‘opladen, inpakken’, waarschijnlijk uit Oudfrans torser, trousser ‘bundelen’."
+ },
+ {
+  "lemma": "gewagen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ɣəˈʋaːɣən",
+  "definition": "Melding maken van, vermelden",
+  "example": "De oude kronieken gewagen van een grote brand in dat jaar.",
+  "synonyms": [
+   "vermelden",
+   "reppen",
+   "noemen"
+  ],
+  "origin": "Middelnederlands gewagen ‘vermelden’; verwant met Duits erwähnen en in de verte met Latijn vox ‘stem’."
+ },
+ {
+  "lemma": "bevroeden",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "bəˈvrudən",
+  "definition": "Beseffen, vermoeden hoe iets in elkaar zit",
+  "example": "Niemand kon toen bevroeden hoe groot de gevolgen zouden zijn.",
+  "synonyms": [
+   "beseffen",
+   "vermoeden",
+   "begrijpen"
+  ],
+  "origin": "Van vroed ‘wijs, verstandig’, dat ook in vroedvrouw en vroedschap voortleeft."
+ },
+ {
+  "lemma": "gispen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈɣɪspən",
+  "definition": "Scherp berispen of afkeuren",
+  "example": "De rekenkamer gispte de minister om het zoekgeraakte dossier.",
+  "synonyms": [
+   "berispen",
+   "hekelen",
+   "laken"
+  ],
+  "origin": "In de zestiende eeuw ‘geselen’, later ‘met woorden kastijden’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "kapittelen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "kaˈpɪtələn",
+  "definition": "Streng de les lezen, berispen",
+  "example": "De trainer kapittelde zijn spelers na de slappe eerste helft.",
+  "synonyms": [
+   "berispen",
+   "vermanen",
+   "terechtwijzen"
+  ],
+  "origin": "Van kapittel, de vergadering van kloosterlingen waarin een hoofdstuk (Latijn capitulum) werd voorgelezen en overtreders werden berispt."
+ },
+ {
+  "lemma": "vermurwen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "vərˈmʏrʋən",
+  "definition": "Door aandringen week of toegeeflijk maken",
+  "example": "Zelfs haar tranen konden de strenge douanier niet vermurwen.",
+  "synonyms": [
+   "vertederen",
+   "overhalen",
+   "verzachten"
+  ],
+  "origin": "Van murw ‘zacht, week’: zacht maken."
+ },
+ {
+  "lemma": "tergen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈtɛrɣən",
+  "definition": "Opzettelijk en aanhoudend kwaad maken",
+  "example": "Hij bleef zijn zusje tergen tot ze in huilen uitbarstte.",
+  "synonyms": [
+   "sarren",
+   "tarten",
+   "treiteren"
+  ],
+  "origin": "Middelnederlands tergen ‘prikkelen, uitdagen’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "vergallen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "vərˈɣɑlən",
+  "definition": "Het plezier in iets bederven",
+  "example": "De aanhoudende regen vergalde onze hele vakantie.",
+  "synonyms": [
+   "bederven",
+   "verpesten",
+   "verzuren"
+  ],
+  "origin": "Van gal, de bittere vloeistof uit de lever: iets bitter maken."
+ },
+ {
+  "lemma": "deren",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈdeːrən",
+  "definition": "Schade of leed toebrengen",
+  "example": "Kou en regen konden de oude schaapherder niet deren.",
+  "synonyms": [
+   "schaden",
+   "hinderen",
+   "kwetsen"
+  ],
+  "origin": "Middelnederlands deren ‘schaden’, bij dere ‘leed, schade’; ook de basis van deernis en deerlijk."
+ },
+ {
+  "lemma": "betamen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "bəˈtaːmən",
+  "definition": "Passend zijn volgens de goede zeden",
+  "example": "Hij zweeg, zoals het een gast betaamt.",
+  "synonyms": [
+   "passen",
+   "horen",
+   "voegen"
+  ],
+  "origin": "Middelnederlands betamen, bij tamen ‘passen’; verwant met Duits ziemen."
+ },
+ {
+  "lemma": "beklijven",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "bəˈklɛivən",
+  "definition": "Blijvend indruk maken, in het geheugen blijven hangen",
+  "example": "Van de hele lezing is bij mij maar één zin beklijfd.",
+  "synonyms": [
+   "bijblijven",
+   "hechten",
+   "standhouden"
+  ],
+  "origin": "Van het oude klijven ‘kleven, wortel schieten’, verwant met kleven."
+ },
+ {
+  "lemma": "ontfutselen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ɔntˈfʏtsələn",
+  "definition": "Op slinkse wijze afhandig maken",
+  "example": "De journalist wist de woordvoerder het geheim te ontfutselen.",
+  "synonyms": [
+   "aftroggelen",
+   "ontlokken",
+   "afpakken"
+  ],
+  "origin": "Van ont- en futselen ‘prutsen, beuzelen’, een woord van onzekere herkomst."
+ },
+ {
+  "lemma": "verkwanselen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "vərˈkʋɑnsələn",
+  "definition": "Lichtvaardig weggeven of ver onder de waarde verkopen",
+  "example": "Ze weigerde het familiebezit voor een habbekrats te verkwanselen.",
+  "synonyms": [
+   "verpatsen",
+   "verkwisten",
+   "verspelen"
+  ],
+  "origin": "Van kwanselen ‘ruilen, sjacheren’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "kastijden",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "kɑsˈtɛidən",
+  "definition": "Streng straffen, tuchtigen",
+  "example": "De monnik kastijdde zichzelf met vasten en nachtelijk waken.",
+  "synonyms": [
+   "tuchtigen",
+   "straffen",
+   "geselen"
+  ],
+  "origin": "Via Oudfrans chastier, castier uit Latijn castigare ‘zuiveren, straffen’, bij castus ‘rein’."
+ },
+ {
+  "lemma": "bezoedelen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "bəˈzudələn",
+  "definition": "Vuil maken; iemands eer of naam schenden",
+  "example": "Het schandaal bezoedelde de goede naam van de hele familie.",
+  "synonyms": [
+   "besmeuren",
+   "bevlekken",
+   "onteren"
+  ],
+  "origin": "Van het oude zoedelen ‘morsen, vuil maken’; verwant met Duits sudeln."
+ },
+ {
+  "lemma": "honen",
+  "level": 3,
+  "part_of_speech": "ww.",
+  "ipa": "ˈɦoːnən",
+  "definition": "Op krenkende wijze bespotten",
+  "example": "De menigte bleef de verliezer honen tot hij het plein verliet.",
+  "synonyms": [
+   "bespotten",
+   "smaden",
+   "beschimpen"
+  ],
+  "origin": "Van hoon ‘smaad’, Middelnederlands hone; verwant met Duits Hohn."
+ },
+ {
+  "lemma": "toorn",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈtoːrən",
+  "definition": "Hevige, verheven woede",
+  "example": "De toorn van de koning trof het hele hof.",
+  "synonyms": [
+   "woede",
+   "gramschap",
+   "razernij"
+  ],
+  "origin": "Middelnederlands toren, torn; verwant met Duits Zorn."
+ },
+ {
+  "lemma": "gramschap",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈɣrɑmsxɑp",
+  "definition": "Plechtig woord voor grote woede",
+  "example": "In zijn gramschap smeet de oude graaf de brief in het vuur.",
+  "synonyms": [
+   "toorn",
+   "woede",
+   "verbolgenheid"
+  ],
+  "origin": "Van gram ‘boos, vertoornd’, verwant met grimmig en Duits Gram."
+ },
+ {
+  "lemma": "smaad",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "smaːt",
+  "definition": "Aantasting van iemands eer of goede naam",
+  "example": "De politicus diende een aanklacht in wegens smaad.",
+  "synonyms": [
+   "hoon",
+   "laster",
+   "belediging"
+  ],
+  "origin": "Middelnederlands smade, bij smaden ‘verachtelijk behandelen’; verwant met Duits Schmach."
+ },
+ {
+  "lemma": "blaam",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "blaːm",
+  "definition": "Smet op iemands naam, afkeuring",
+  "example": "De commissie oordeelde dat de arts geen enkele blaam trof.",
+  "synonyms": [
+   "smet",
+   "schande",
+   "verwijt"
+  ],
+  "origin": "Via Oudfrans blasme (Frans blâme) uit Latijn blasphemare ‘lasteren’, een woord van Griekse oorsprong."
+ },
+ {
+  "lemma": "faam",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "faːm",
+  "definition": "Goede naam, roem die iemand vooruitsnelt",
+  "example": "De faam van de bakker reikte tot ver buiten de stad.",
+  "synonyms": [
+   "roem",
+   "reputatie",
+   "vermaardheid"
+  ],
+  "origin": "Ontleend aan Latijn fama ‘gerucht, roep’, mogelijk via het Frans."
+ },
+ {
+  "lemma": "tooi",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "toːj",
+  "definition": "Sierlijke versiering, feestelijke opschik",
+  "example": "In hun herfstige tooi waren de beuken op hun mooist.",
+  "synonyms": [
+   "versiering",
+   "opschik",
+   "sieraad"
+  ],
+  "origin": "Van tooien ‘versieren’, Middelnederlands toyen ‘bereiden, in orde maken’; waarschijnlijk verwant met Gotisch taujan ‘maken’."
+ },
+ {
+  "lemma": "gewaad",
+  "level": 3,
+  "part_of_speech": "zn. (het)",
+  "ipa": "ɣəˈʋaːt",
+  "definition": "Lang en statig kledingstuk",
+  "example": "De priester droeg een wit gewaad met gouden borduursel.",
+  "synonyms": [
+   "kleed",
+   "mantel",
+   "dracht"
+  ],
+  "origin": "Collectief met ge- bij het oude waad ‘kleding’ (vergelijk lijkwade); verwant met Oudengels wǣd."
+ },
+ {
+  "lemma": "zwerk",
+  "level": 3,
+  "part_of_speech": "zn. (het)",
+  "ipa": "zʋɛrk",
+  "definition": "Dichterlijk woord voor de hemel met zijn drijvende wolken",
+  "example": "Donkere wolken joegen langs het zwerk boven de polder.",
+  "synonyms": [
+   "hemel",
+   "uitspansel",
+   "wolkenhemel"
+  ],
+  "origin": "Middelnederlands swerc ‘donkere wolk’; verwant met Oudsaksisch giswerk ‘duisternis’."
+ },
+ {
+  "lemma": "vernuft",
+  "level": 3,
+  "part_of_speech": "zn. (het)",
+  "ipa": "vərˈnʏft",
+  "definition": "Scherp, vindingrijk verstand",
+  "example": "Met technisch vernuft loste de ingenieur het probleem in één middag op.",
+  "synonyms": [
+   "schranderheid",
+   "vindingrijkheid",
+   "verstand"
+  ],
+  "origin": "Middelnederlands vernuft, vernunft, bij vernemen ‘waarnemen, begrijpen’; vergelijk Duits Vernunft."
+ },
+ {
+  "lemma": "drogreden",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈdrɔxreːdən",
+  "definition": "Redenering die juist lijkt maar niet klopt",
+  "example": "Dat iedereen het doet, is een bekende drogreden.",
+  "synonyms": [
+   "sofisme",
+   "schijnargument",
+   "denkfout"
+  ],
+  "origin": "Uit het oude drog ‘bedrog’ (bij bedriegen) en reden: een bedrieglijke redenering."
+ },
+ {
+  "lemma": "dwingelandij",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "dʋɪŋəlɑnˈdɛi",
+  "definition": "Willekeurige en harde overheersing",
+  "example": "Het volk kwam in opstand tegen de dwingelandij van de landvoogd.",
+  "synonyms": [
+   "tirannie",
+   "onderdrukking",
+   "despotisme"
+  ],
+  "origin": "Van dwingeland ‘tiran’, uit dwingen en land: wie het land dwingt."
+ },
+ {
+  "lemma": "willekeur",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈʋɪləkøːr",
+  "definition": "Handelen naar eigen believen, zonder regels of recht",
+  "example": "Zonder duidelijke regels zijn burgers overgeleverd aan willekeur.",
+  "synonyms": [
+   "eigenmachtigheid",
+   "wetteloosheid",
+   "grilligheid"
+  ],
+  "origin": "Uit wil en keur ‘keuze’: oorspronkelijk gewoon ‘vrije keuze’, later ‘keuze zonder regel’."
+ },
+ {
+  "lemma": "nooddruft",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈnoːdrʏft",
+  "definition": "Wat men nodig heeft om te leven; ook armoede",
+  "example": "Wat ze verdienden was nauwelijks genoeg voor hun dagelijkse nooddruft.",
+  "synonyms": [
+   "levensbehoefte",
+   "gebrek",
+   "armoede"
+  ],
+  "origin": "Uit nood en een afleiding van het oude dorven ‘nodig hebben’; vergelijk Duits Notdurft en bedürfen."
+ },
+ {
+  "lemma": "mare",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈmaːrə",
+  "definition": "Bericht of gerucht dat rondgaat",
+  "example": "De mare van zijn terugkeer verspreidde zich snel door het dorp.",
+  "synonyms": [
+   "tijding",
+   "bericht",
+   "gerucht"
+  ],
+  "origin": "Middelnederlands mare ‘bericht, roem’; verwant met vermaard en met Duits Mär en Märchen."
+ },
+ {
+  "lemma": "kommer",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈkɔmər",
+  "definition": "Zorg, verdriet en gebrek",
+  "example": "Na jaren van kommer en kwel brak eindelijk een betere tijd aan.",
+  "synonyms": [
+   "zorg",
+   "verdriet",
+   "ellende"
+  ],
+  "origin": "Middelnederlands commer ‘beslag, last, nood’; waarschijnlijk uit een Gallo-Romaans woord voor ‘versperring’ (vergelijk Frans encombrer en Duits Kummer)."
+ },
+ {
+  "lemma": "onverlaat",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈɔnvərlaːt",
+  "definition": "Schurk zonder enig geweten",
+  "example": "Een onverlaat had ’s nachts alle banden van de fietsen lekgestoken.",
+  "synonyms": [
+   "schurk",
+   "booswicht",
+   "snoodaard"
+  ],
+  "origin": "Waarschijnlijk vervormd uit ouder onvlaat ‘vuilheid, onrein mens’ (vergelijk Duits Unflat); de herkomst is niet geheel zeker."
+ },
+ {
+  "lemma": "kim",
+  "level": 3,
+  "part_of_speech": "zn. (de)",
+  "ipa": "kɪm",
+  "definition": "Horizon, de lijn waar hemel en zee elkaar raken",
+  "example": "De zon zakte langzaam achter de kim.",
+  "synonyms": [
+   "horizon",
+   "einder",
+   "gezichtseinder"
+  ],
+  "origin": "Middelnederlands kimme, eigenlijk ‘rand van een ton’ en vandaar ‘rand van het gezichtsveld’."
+ }
+]

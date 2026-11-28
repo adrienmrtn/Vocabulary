@@ -1,0 +1,617 @@
+{
+ "blag": [
+  "character"
+ ],
+ "bistar": [
+  "nature",
+  "character"
+ ],
+ "čeznuti": [
+  "emotions"
+ ],
+ "dokolica": [
+  "society"
+ ],
+ "draž": [
+  "emotions",
+  "literature"
+ ],
+ "gorljiv": [
+  "persuasion",
+  "character"
+ ],
+ "hitar": [
+  "character"
+ ],
+ "iskren": [
+  "character"
+ ],
+ "krepak": [
+  "character"
+ ],
+ "ljubak": [
+  "character",
+  "emotions"
+ ],
+ "milina": [
+  "emotions"
+ ],
+ "nehaj": [
+  "character"
+ ],
+ "odvažan": [
+  "character"
+ ],
+ "pitom": [
+  "nature",
+  "character"
+ ],
+ "plah": [
+  "character",
+  "emotions"
+ ],
+ "raskoš": [
+  "society"
+ ],
+ "smjeran": [
+  "character"
+ ],
+ "spokoj": [
+  "emotions"
+ ],
+ "tjeskoba": [
+  "emotions"
+ ],
+ "umiljat": [
+  "character"
+ ],
+ "vedar": [
+  "nature",
+  "emotions"
+ ],
+ "zanos": [
+  "emotions"
+ ],
+ "žudnja": [
+  "emotions"
+ ],
+ "brižan": [
+  "character"
+ ],
+ "dičan": [
+  "society",
+  "character"
+ ],
+ "gord": [
+  "character"
+ ],
+ "hir": [
+  "character"
+ ],
+ "jad": [
+  "emotions"
+ ],
+ "kob": [
+  "literature"
+ ],
+ "revan": [
+  "character",
+  "business"
+ ],
+ "naum": [
+  "business",
+  "persuasion"
+ ],
+ "okretan": [
+  "character"
+ ],
+ "razborit": [
+  "character",
+  "debate"
+ ],
+ "sklad": [
+  "literature",
+  "nature"
+ ],
+ "slutnja": [
+  "emotions"
+ ],
+ "stamen": [
+  "character"
+ ],
+ "strepnja": [
+  "emotions"
+ ],
+ "sućut": [
+  "emotions",
+  "society"
+ ],
+ "tegoban": [
+  "emotions"
+ ],
+ "tmuran": [
+  "nature",
+  "emotions"
+ ],
+ "trpak": [
+  "nature",
+  "emotions"
+ ],
+ "ushit": [
+  "emotions"
+ ],
+ "utjeha": [
+  "emotions"
+ ],
+ "varljiv": [
+  "persuasion",
+  "nature"
+ ],
+ "vrlina": [
+  "character"
+ ],
+ "zamaman": [
+  "persuasion"
+ ],
+ "zebnja": [
+  "emotions"
+ ],
+ "žustar": [
+  "character"
+ ],
+ "ćudljiv": [
+  "character",
+  "nature"
+ ],
+ "dosjetka": [
+  "literature",
+  "debate"
+ ],
+ "gnjev": [
+  "emotions"
+ ],
+ "potišten": [
+  "emotions"
+ ],
+ "dobrostiv": [
+  "character"
+ ],
+ "prkos": [
+  "character",
+  "emotions"
+ ],
+ "bodriti": [
+  "persuasion"
+ ],
+ "krasiti": [
+  "literature"
+ ],
+ "žamor": [
+  "society"
+ ],
+ "okrijepiti": [
+  "travel",
+  "nature"
+ ],
+ "prionuti": [
+  "business"
+ ],
+ "sjeta": [
+  "emotions",
+  "literature"
+ ],
+ "sumoran": [
+  "emotions",
+  "nature"
+ ],
+ "turoban": [
+  "emotions"
+ ],
+ "hlepjeti": [
+  "emotions"
+ ],
+ "snatriti": [
+  "emotions",
+  "literature"
+ ],
+ "krzmati": [
+  "character",
+  "debate"
+ ],
+ "iziskivati": [
+  "business"
+ ],
+ "zatomiti": [
+  "emotions"
+ ],
+ "dokučiti": [
+  "science",
+  "debate"
+ ],
+ "predmnijevati": [
+  "debate",
+  "science"
+ ],
+ "jalov": [
+  "debate",
+  "nature"
+ ],
+ "oronuo": [
+  "travel"
+ ],
+ "jedak": [
+  "debate",
+  "character"
+ ],
+ "kivan": [
+  "emotions"
+ ],
+ "mrzovoljan": [
+  "character",
+  "emotions"
+ ],
+ "nesmiljen": [
+  "character",
+  "business"
+ ],
+ "opor": [
+  "character",
+  "nature"
+ ],
+ "bahat": [
+  "character",
+  "society"
+ ],
+ "podmukao": [
+  "character"
+ ],
+ "prijetvoran": [
+  "character",
+  "persuasion"
+ ],
+ "licemjeran": [
+  "character",
+  "society"
+ ],
+ "nepokolebljiv": [
+  "character",
+  "persuasion"
+ ],
+ "postojan": [
+  "character",
+  "science"
+ ],
+ "pronicav": [
+  "character",
+  "debate"
+ ],
+ "oštrouman": [
+  "character",
+  "debate"
+ ],
+ "dovitljiv": [
+  "character",
+  "business"
+ ],
+ "rječit": [
+  "persuasion",
+  "debate"
+ ],
+ "jezgrovit": [
+  "literature",
+  "debate"
+ ],
+ "dosljedan": [
+  "character",
+  "debate"
+ ],
+ "ustrajan": [
+  "character",
+  "business"
+ ],
+ "pomnja": [
+  "business",
+  "science"
+ ],
+ "nakana": [
+  "persuasion",
+  "business"
+ ],
+ "zabluda": [
+  "debate",
+  "science"
+ ],
+ "obmana": [
+  "persuasion"
+ ],
+ "opsjena": [
+  "persuasion",
+  "literature"
+ ],
+ "pomutnja": [
+  "society"
+ ],
+ "metež": [
+  "society",
+  "travel"
+ ],
+ "zavjet": [
+  "society",
+  "literature"
+ ],
+ "pokora": [
+  "society"
+ ],
+ "iskon": [
+  "literature",
+  "science"
+ ],
+ "usud": [
+  "literature"
+ ],
+ "bezdan": [
+  "nature",
+  "literature"
+ ],
+ "pučina": [
+  "nature",
+  "travel"
+ ],
+ "suton": [
+  "nature"
+ ],
+ "praskozorje": [
+  "nature"
+ ],
+ "sumaglica": [
+  "nature"
+ ],
+ "žubor": [
+  "nature"
+ ],
+ "milozvučan": [
+  "literature"
+ ],
+ "dojmljiv": [
+  "persuasion",
+  "literature"
+ ],
+ "zamjetan": [
+  "science",
+  "business"
+ ],
+ "zagonetan": [
+  "literature"
+ ],
+ "tlapnja": [
+  "literature",
+  "emotions"
+ ],
+ "zdvojan": [
+  "emotions"
+ ],
+ "shrvan": [
+  "emotions"
+ ],
+ "ganuće": [
+  "emotions"
+ ],
+ "znamen": [
+  "literature",
+  "society"
+ ],
+ "pregnuće": [
+  "business"
+ ],
+ "zazor": [
+  "emotions",
+  "society"
+ ],
+ "mučaljiv": [
+  "character"
+ ],
+ "obazriv": [
+  "character",
+  "business"
+ ],
+ "bjelodan": [
+  "debate"
+ ],
+ "hiniti": [
+  "character",
+  "persuasion"
+ ],
+ "tašt": [
+  "character"
+ ],
+ "lakrdija": [
+  "society",
+  "literature"
+ ],
+ "bešćutan": [
+  "character"
+ ],
+ "zlosutan": [
+  "literature",
+  "emotions"
+ ],
+ "nujan": [
+  "emotions"
+ ],
+ "zanovijetati": [
+  "character"
+ ],
+ "cjepidlaka": [
+  "character",
+  "debate"
+ ],
+ "naklapati": [
+  "debate"
+ ],
+ "zloguk": [
+  "literature",
+  "debate"
+ ],
+ "blagoglagoljiv": [
+  "persuasion",
+  "literature"
+ ],
+ "plandovati": [
+  "nature"
+ ],
+ "ljuven": [
+  "literature",
+  "emotions"
+ ],
+ "gizdav": [
+  "character",
+  "literature"
+ ],
+ "ures": [
+  "literature"
+ ],
+ "perivoj": [
+  "nature",
+  "travel"
+ ],
+ "zdenac": [
+  "nature",
+  "travel"
+ ],
+ "vrutak": [
+  "nature"
+ ],
+ "žal": [
+  "nature",
+  "travel"
+ ],
+ "usplahiren": [
+  "emotions"
+ ],
+ "ojađen": [
+  "emotions"
+ ],
+ "čedan": [
+  "character"
+ ],
+ "bogobojazan": [
+  "society",
+  "character"
+ ],
+ "zadužbina": [
+  "society"
+ ],
+ "samozatajan": [
+  "character"
+ ],
+ "samoprijegor": [
+  "character",
+  "society"
+ ],
+ "veleban": [
+  "literature",
+  "travel"
+ ],
+ "uznosit": [
+  "character"
+ ],
+ "bremenit": [
+  "literature",
+  "society"
+ ],
+ "bespuće": [
+  "travel",
+  "nature"
+ ],
+ "krivovjerje": [
+  "society",
+  "debate"
+ ],
+ "mnijenje": [
+  "debate",
+  "society"
+ ],
+ "umovati": [
+  "debate",
+  "science"
+ ],
+ "krepost": [
+  "character",
+  "society"
+ ],
+ "poklisar": [
+  "society",
+  "travel"
+ ],
+ "vlastelin": [
+  "society"
+ ],
+ "dažd": [
+  "nature",
+  "literature"
+ ],
+ "ruho": [
+  "society",
+  "literature"
+ ],
+ "ljetopis": [
+  "literature",
+  "science"
+ ],
+ "knjigoljubac": [
+  "literature"
+ ],
+ "zvjezdoznanac": [
+  "science"
+ ],
+ "mudroslovlje": [
+  "science",
+  "literature"
+ ],
+ "raspikuća": [
+  "character",
+  "business"
+ ],
+ "vucibatina": [
+  "character",
+  "society"
+ ],
+ "probisvijet": [
+  "character",
+  "travel"
+ ],
+ "jogunast": [
+  "character"
+ ],
+ "ćudoredan": [
+  "society",
+  "character"
+ ],
+ "sunovrat": [
+  "business",
+  "literature"
+ ],
+ "bunilo": [
+  "emotions",
+  "science"
+ ],
+ "uzdanica": [
+  "society",
+  "business"
+ ],
+ "razgaliti": [
+  "emotions"
+ ],
+ "sustati": [
+  "travel",
+  "nature"
+ ],
+ "malaksati": [
+  "nature",
+  "science"
+ ],
+ "bdjeti": [
+  "society",
+  "emotions"
+ ]
+}

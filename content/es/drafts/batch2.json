@@ -1,0 +1,870 @@
+[
+  {
+    "lemma": "efímero",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "eˈfimeɾo",
+    "definition": "Que dura muy poco tiempo",
+    "example": "La fama de aquel cantante fue tan intensa como efímera.",
+    "synonyms": [
+      "fugaz",
+      "pasajero",
+      "breve"
+    ],
+    "origin": "Del griego ephḗmeros «de un solo día», de epí «sobre» y hēméra «día»."
+  },
+  {
+    "lemma": "desasosiego",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "desasoˈsjeɣo",
+    "definition": "Inquietud que no deja descansar el ánimo",
+    "example": "La falta de noticias le producía un desasosiego creciente.",
+    "synonyms": [
+      "inquietud",
+      "intranquilidad",
+      "zozobra"
+    ],
+    "origin": "De desasosegar, de des- y sosegar, este del latín vulgar *sessicare «asentar»."
+  },
+  {
+    "lemma": "zozobra",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "θoˈθoβɾa",
+    "definition": "Angustia de quien teme un mal cercano",
+    "example": "Pasaron la noche en zozobra, pendientes del teléfono.",
+    "synonyms": [
+      "inquietud",
+      "angustia",
+      "congoja"
+    ],
+    "origin": "De zozobrar, del catalán sotsobrar «volcar», de sots «debajo» y sobre «encima»: lo que le ocurre a la nave que da la vuelta."
+  },
+  {
+    "lemma": "huraño",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "uˈɾaɲo",
+    "definition": "Que rehúye el trato con la gente",
+    "example": "El viejo farero era huraño y apenas bajaba al pueblo.",
+    "synonyms": [
+      "arisco",
+      "esquivo",
+      "insociable"
+    ],
+    "origin": "Del latín foraneus «forastero», con influjo de hurón."
+  },
+  {
+    "lemma": "hosco",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈosko",
+    "definition": "De gesto ceñudo y trato áspero",
+    "example": "Nos recibió con un silencio hosco y sin levantar la vista.",
+    "synonyms": [
+      "ceñudo",
+      "áspero",
+      "adusto"
+    ],
+    "origin": "Del latín fuscus «oscuro»: primero se dijo del color moreno muy oscuro."
+  },
+  {
+    "lemma": "arisco",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "aˈɾisko",
+    "definition": "Áspero y difícil de tratar o de acariciar",
+    "example": "La gata, arisca al principio, acabó durmiendo en su regazo.",
+    "synonyms": [
+      "huraño",
+      "esquivo",
+      "bravío"
+    ],
+    "origin": "De origen incierto."
+  },
+  {
+    "lemma": "esquivo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "esˈkiβo",
+    "definition": "Que evita el trato o se resiste a ser alcanzado",
+    "example": "El éxito le fue esquivo durante más de veinte años.",
+    "synonyms": [
+      "huidizo",
+      "arisco",
+      "huraño"
+    ],
+    "origin": "De origen germánico; se relaciona con el gótico *skiuhs y con el alemán scheu «tímido»."
+  },
+  {
+    "lemma": "socarrón",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "sokaˈron",
+    "definition": "Que se burla con disimulo y fingida seriedad",
+    "example": "Con su tono socarrón, nunca sabías si hablaba en serio.",
+    "synonyms": [
+      "burlón",
+      "irónico",
+      "guasón"
+    ],
+    "origin": "De socarrar «quemar por encima», voz de origen vasco: la burla que chamusca sin llegar a quemar."
+  },
+  {
+    "lemma": "mordaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "moɾˈðaθ",
+    "definition": "Que critica con ironía aguda e hiriente",
+    "example": "Publicó una reseña mordaz que nadie en el teatro olvidó.",
+    "synonyms": [
+      "cáustico",
+      "incisivo",
+      "sarcástico"
+    ],
+    "origin": "Del latín mordax, mordacis «que muerde», de mordere «morder»."
+  },
+  {
+    "lemma": "locuaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "loˈkwaθ",
+    "definition": "Que habla mucho y con facilidad",
+    "example": "El taxista, locuaz, nos contó su vida entera en diez minutos.",
+    "synonyms": [
+      "hablador",
+      "parlanchín",
+      "charlatán"
+    ],
+    "origin": "Del latín loquax, loquacis, de loqui «hablar»."
+  },
+  {
+    "lemma": "ufano",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "uˈfano",
+    "definition": "Satisfecho y orgulloso de sí o de algo suyo",
+    "example": "Volvió ufano del mercado con el mejor pescado del día.",
+    "synonyms": [
+      "orgulloso",
+      "satisfecho",
+      "engreído"
+    ],
+    "origin": "De origen discutido; suele relacionarse con el gótico ufjo «abundancia, exceso», quizá a través del occitano."
+  },
+  {
+    "lemma": "jactarse",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "xakˈtaɾse",
+    "definition": "Presumir en exceso de méritos propios",
+    "example": "Se jactaba de no haber leído nunca un manual de instrucciones.",
+    "synonyms": [
+      "presumir",
+      "alardear",
+      "vanagloriarse"
+    ],
+    "origin": "Del latín iactare «lanzar, agitar» y, en sentido figurado, «alardear», frecuentativo de iacere «arrojar»."
+  },
+  {
+    "lemma": "pundonor",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "pundoˈnoɾ",
+    "definition": "Sentimiento que impide faltar a la propia honra",
+    "example": "Por pundonor, terminó la carrera aunque llegó la última.",
+    "synonyms": [
+      "honra",
+      "dignidad",
+      "orgullo"
+    ],
+    "origin": "Del catalán punt d'honor «punto de honor»."
+  },
+  {
+    "lemma": "recato",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "reˈkato",
+    "definition": "Reserva y modestia en la conducta",
+    "example": "Hablaba de su fortuna con recato, casi con vergüenza.",
+    "synonyms": [
+      "pudor",
+      "modestia",
+      "decoro"
+    ],
+    "origin": "De recatar, de re- y catar «mirar», del latín captare: mirar con cautela antes de obrar."
+  },
+  {
+    "lemma": "tertulia",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "teɾˈtulja",
+    "definition": "Reunión habitual de personas para conversar",
+    "example": "Cada jueves se reúne la tertulia del café para hablar de libros.",
+    "synonyms": [
+      "reunión",
+      "velada",
+      "charla"
+    ],
+    "origin": "De origen incierto. Una explicación tradicional, no demostrada, lo relaciona con los comentarios sobre Tertuliano en círculos cultos del siglo XVII."
+  },
+  {
+    "lemma": "ahínco",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "aˈiŋko",
+    "definition": "Empeño grande con que se hace o se pide algo",
+    "example": "Estudió con ahínco hasta dominar la lengua en un año.",
+    "synonyms": [
+      "tesón",
+      "empeño",
+      "afán"
+    ],
+    "origin": "De ahincar, de a- e hincar «clavar», del latín vulgar *figicare, derivado de figere «fijar»."
+  },
+  {
+    "lemma": "denuedo",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "deˈnweðo",
+    "definition": "Valor y esfuerzo decidido ante la dificultad",
+    "example": "Los bomberos lucharon con denuedo contra el incendio toda la noche.",
+    "synonyms": [
+      "valor",
+      "brío",
+      "intrepidez"
+    ],
+    "origin": "De denodarse, del latín denotare se «darse a conocer, señalarse»."
+  },
+  {
+    "lemma": "tesón",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "teˈson",
+    "definition": "Firmeza constante para lograr un propósito",
+    "example": "Con tesón y paciencia levantó la empresa desde cero.",
+    "synonyms": [
+      "constancia",
+      "perseverancia",
+      "empeño"
+    ],
+    "origin": "Del latín tensio, tensionis «tensión», de tendere «estirar»."
+  },
+  {
+    "lemma": "albedrío",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "alβeˈðɾio",
+    "definition": "Libertad de decidir por uno mismo",
+    "example": "Dejó la elección al albedrío de cada uno de sus hijos.",
+    "synonyms": [
+      "voluntad",
+      "arbitrio",
+      "libertad"
+    ],
+    "origin": "Del latín arbitrium «juicio, decisión», de arbiter «juez»."
+  },
+  {
+    "lemma": "encrucijada",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "eŋkɾuθiˈxaða",
+    "definition": "Cruce de caminos o momento de decisión difícil",
+    "example": "La empresa está en una encrucijada: crecer o seguir siendo familiar.",
+    "synonyms": [
+      "cruce",
+      "dilema",
+      "disyuntiva"
+    ],
+    "origin": "De en- y el antiguo crucijada, derivado de cruz, del latín crux."
+  },
+  {
+    "lemma": "soslayar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "soslaˈʝaɾ",
+    "definition": "Pasar por alto una dificultad evitando afrontarla",
+    "example": "El ministro soslayó la pregunta y habló de otra cosa.",
+    "synonyms": [
+      "eludir",
+      "esquivar",
+      "evitar"
+    ],
+    "origin": "De soslayo «oblicuamente», antes deslayo, que se cree tomado del francés antiguo d'eslais «con ímpetu»; origen no del todo seguro."
+  },
+  {
+    "lemma": "zaherir",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "θaeˈɾiɾ",
+    "definition": "Herir a alguien con palabras de burla o reproche",
+    "example": "Le gustaba zaherir a sus rivales con comentarios envenenados.",
+    "synonyms": [
+      "mortificar",
+      "escarnecer",
+      "humillar"
+    ],
+    "origin": "Metátesis del antiguo façerir, de faz «cara» y herir: echar algo en cara."
+  },
+  {
+    "lemma": "escarnio",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "esˈkaɾnjo",
+    "definition": "Burla cruel hecha para humillar",
+    "example": "Fue expuesto al escarnio público por un error sin importancia.",
+    "synonyms": [
+      "burla",
+      "mofa",
+      "befa"
+    ],
+    "origin": "Del antiguo verbo escarnir, del germánico *skernjan «burlarse»."
+  },
+  {
+    "lemma": "afrenta",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "aˈfɾenta",
+    "definition": "Ofensa grave que deshonra públicamente",
+    "example": "Consideró una afrenta que dudaran de su palabra ante todos.",
+    "synonyms": [
+      "agravio",
+      "ultraje",
+      "deshonra"
+    ],
+    "origin": "Del antiguo afruenta, de afrontar, latín vulgar *affrontare, derivado de frons «frente»: dar en la cara."
+  },
+  {
+    "lemma": "subsanar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "suβsaˈnaɾ",
+    "definition": "Reparar un defecto o remediar una falta",
+    "example": "Dispone de diez días para subsanar los errores del formulario.",
+    "synonyms": [
+      "remediar",
+      "corregir",
+      "reparar"
+    ],
+    "origin": "De sub- y sanar, del latín sanare «curar»."
+  },
+  {
+    "lemma": "mermar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "meɾˈmaɾ",
+    "definition": "Reducir o perder parte de algo",
+    "example": "Las bajas mermaron al equipo antes de la final.",
+    "synonyms": [
+      "disminuir",
+      "reducir",
+      "menguar"
+    ],
+    "origin": "Del latín vulgar minimare «reducir al mínimo», de minimus «el más pequeño»."
+  },
+  {
+    "lemma": "medrar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "meˈðɾaɾ",
+    "definition": "Prosperar o crecer, a veces sin escrúpulos",
+    "example": "Medró en la empresa a la sombra de un jefe poderoso.",
+    "synonyms": [
+      "prosperar",
+      "crecer",
+      "progresar"
+    ],
+    "origin": "Del latín meliorare «mejorar», de melior «mejor»."
+  },
+  {
+    "lemma": "escudriñar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "eskuðɾiˈɲaɾ",
+    "definition": "Examinar algo con mucha atención y detalle",
+    "example": "Escudriñaba el horizonte en busca de alguna vela.",
+    "synonyms": [
+      "escrutar",
+      "examinar",
+      "rebuscar"
+    ],
+    "origin": "Del antiguo escrudiñar, latín vulgar *scrutiniare, de scrutinium «examen», de scrutari «registrar»."
+  },
+  {
+    "lemma": "dilucidar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "diluθiˈðaɾ",
+    "definition": "Aclarar un asunto confuso o discutido",
+    "example": "Un comité independiente deberá dilucidar qué ocurrió aquella noche.",
+    "synonyms": [
+      "aclarar",
+      "esclarecer",
+      "elucidar"
+    ],
+    "origin": "Del latín dilucidare «aclarar», de dilucidus «claro, luminoso»."
+  },
+  {
+    "lemma": "desentrañar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "desentɾaˈɲaɾ",
+    "definition": "Llegar al fondo de algo oculto o difícil",
+    "example": "Tardaron décadas en desentrañar el funcionamiento de aquella proteína.",
+    "synonyms": [
+      "descifrar",
+      "resolver",
+      "averiguar"
+    ],
+    "origin": "De des- y entraña, del latín interanea «intestinos»: literalmente, sacar las vísceras."
+  },
+  {
+    "lemma": "vaticinar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "batiθiˈnaɾ",
+    "definition": "Anunciar lo que sucederá en el futuro",
+    "example": "Nadie vaticinaba una victoria tan amplia.",
+    "synonyms": [
+      "predecir",
+      "pronosticar",
+      "augurar"
+    ],
+    "origin": "Del latín vaticinari, de vates «adivino, profeta» y canere «cantar»."
+  },
+  {
+    "lemma": "yermo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈʝeɾmo",
+    "definition": "Sin cultivo, sin vida, deshabitado",
+    "example": "Atravesaron un valle yermo donde no crecía ni un arbusto.",
+    "synonyms": [
+      "estéril",
+      "baldío",
+      "desierto"
+    ],
+    "origin": "Del latín tardío eremus, y este del griego érēmos «desierto, solitario», la misma raíz de ermitaño."
+  },
+  {
+    "lemma": "páramo",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "ˈpaɾamo",
+    "definition": "Terreno alto, raso y expuesto al viento",
+    "example": "El viento barría el páramo sin encontrar un solo árbol.",
+    "synonyms": [
+      "meseta",
+      "estepa",
+      "erial"
+    ],
+    "origin": "Del latín paramus, voz hispánica de origen prerromano."
+  },
+  {
+    "lemma": "remanso",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "reˈmanso",
+    "definition": "Lugar donde el agua, o la vida, se aquieta",
+    "example": "El jardín del convento es un remanso de paz en plena ciudad.",
+    "synonyms": [
+      "refugio",
+      "oasis",
+      "poza"
+    ],
+    "origin": "Del latín remansum, participio de remanere «quedarse, detenerse»."
+  },
+  {
+    "lemma": "vendaval",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "bendaˈβal",
+    "definition": "Viento muy fuerte que no llega a temporal",
+    "example": "El vendaval arrancó las tejas del cobertizo.",
+    "synonyms": [
+      "ventarrón",
+      "huracán",
+      "ventolera"
+    ],
+    "origin": "Del francés vent d'aval «viento de abajo», es decir, del oeste."
+  },
+  {
+    "lemma": "bochorno",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "boˈtʃoɾno",
+    "definition": "Calor sofocante, o vergüenza que enciende la cara",
+    "example": "El bochorno de agosto vaciaba las calles a mediodía.",
+    "synonyms": [
+      "sofoco",
+      "calor",
+      "sonrojo"
+    ],
+    "origin": "Del latín vulturnus, nombre de un viento cálido del sudeste."
+  },
+  {
+    "lemma": "desvarío",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "desβaˈɾio",
+    "definition": "Dicho o hecho fuera de toda razón",
+    "example": "Atribuyeron sus palabras a los desvaríos de la fiebre.",
+    "synonyms": [
+      "delirio",
+      "disparate",
+      "locura"
+    ],
+    "origin": "De desvariar, de des- y variar, del latín variare."
+  },
+  {
+    "lemma": "quimera",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "kiˈmeɾa",
+    "definition": "Ilusión que se toma por posible sin serlo",
+    "example": "Vivir de la poesía le parecía a su padre una quimera.",
+    "synonyms": [
+      "ilusión",
+      "utopía",
+      "fantasía"
+    ],
+    "origin": "Del latín chimaera, y este del griego khímaira, monstruo fabuloso con cabeza de león, cuerpo de cabra y cola de serpiente."
+  },
+  {
+    "lemma": "patraña",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "paˈtɾaɲa",
+    "definition": "Historia completamente inventada que se cuenta como cierta",
+    "example": "Todo aquello del tesoro enterrado resultó ser una patraña.",
+    "synonyms": [
+      "embuste",
+      "mentira",
+      "invención"
+    ],
+    "origin": "Del antiguo pastraña, probablemente del latín vulgar *pastoranea «cuentos de pastores»."
+  },
+  {
+    "lemma": "ardid",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "aɾˈðið",
+    "definition": "Medio hábil y engañoso para lograr un fin",
+    "example": "Usó el ardid de fingirse enfermo para no declarar.",
+    "synonyms": [
+      "treta",
+      "artimaña",
+      "estratagema"
+    ],
+    "origin": "Del catalán ardit «empresa guerrera, estratagema», de origen germánico y emparentado con el francés hardi «atrevido»."
+  },
+  {
+    "lemma": "embaucar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "embau̯ˈkaɾ",
+    "definition": "Engañar a alguien abusando de su ingenuidad",
+    "example": "Embaucó a media ciudad con la promesa de intereses fabulosos.",
+    "synonyms": [
+      "engañar",
+      "engatusar",
+      "timar"
+    ],
+    "origin": "Del antiguo embabucar; se cree formado sobre la raíz expresiva bab-, la misma de baba y babieca, con la idea de atontar."
+  },
+  {
+    "lemma": "ensalzar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ensalˈθaɾ",
+    "definition": "Alabar mucho los méritos de alguien o algo",
+    "example": "La crítica ensalzó la película por su fotografía.",
+    "synonyms": [
+      "alabar",
+      "elogiar",
+      "enaltecer"
+    ],
+    "origin": "Del latín vulgar *exaltiare, variante de exaltare «elevar», de altus «alto»."
+  },
+  {
+    "lemma": "improperio",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "impɾoˈpeɾjo",
+    "definition": "Insulto grave dicho para ofender",
+    "example": "Bajó del coche lanzando improperios contra el otro conductor.",
+    "synonyms": [
+      "insulto",
+      "injuria",
+      "denuesto"
+    ],
+    "origin": "Del latín tardío improperium «reproche», de improperare «echar en cara»."
+  },
+  {
+    "lemma": "algarabía",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "alɣaɾaˈβia",
+    "definition": "Griterío alegre y confuso de muchas voces",
+    "example": "La algarabía de los niños llenaba el patio a la hora del recreo.",
+    "synonyms": [
+      "bullicio",
+      "griterío",
+      "alboroto"
+    ],
+    "origin": "Del árabe hispánico al‘arabíyya «la lengua árabe», que a los cristianos les sonaba a ruido incomprensible."
+  },
+  {
+    "lemma": "caudal",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "kau̯ˈðal",
+    "definition": "Cantidad de agua que lleva un río, o de bienes que se poseen",
+    "example": "El deshielo duplicó el caudal del río en una semana.",
+    "synonyms": [
+      "flujo",
+      "hacienda",
+      "fortuna"
+    ],
+    "origin": "Del latín capitalis «principal», de caput «cabeza»; es la misma palabra que capital, por vía popular."
+  },
+  {
+    "lemma": "escatimar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "eskatiˈmaɾ",
+    "definition": "Dar lo menos posible de algo",
+    "example": "No escatimó esfuerzos para sacar adelante a sus hijos.",
+    "synonyms": [
+      "regatear",
+      "ahorrar",
+      "cicatear"
+    ],
+    "origin": "De origen incierto, quizá del gótico *skattjan «evaluar, calcular»."
+  },
+  {
+    "lemma": "dadivoso",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "daðiˈβoso",
+    "definition": "Inclinado a dar con generosidad",
+    "example": "Era dadivoso con su tiempo: siempre tenía una hora para quien la pidiera.",
+    "synonyms": [
+      "generoso",
+      "desprendido",
+      "espléndido"
+    ],
+    "origin": "De dádiva, del latín tardío dativa, plural de dativum «donativo», de dare «dar»."
+  },
+  {
+    "lemma": "cabal",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "kaˈβal",
+    "definition": "Completo, exacto, o de conducta íntegra",
+    "example": "Todos lo tenían por un hombre cabal, incapaz de un engaño.",
+    "synonyms": [
+      "íntegro",
+      "honrado",
+      "completo"
+    ],
+    "origin": "De cabo «extremo, fin», del latín caput: lo que llega hasta su término."
+  },
+  {
+    "lemma": "cursi",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈkuɾsi",
+    "definition": "Que pretende ser fino y resulta ridículo",
+    "example": "Le escribió una dedicatoria tan cursi que ella no pudo contener la risa.",
+    "synonyms": [
+      "ridículo",
+      "remilgado",
+      "afectado"
+    ],
+    "origin": "De origen discutido. Se difundió en la Andalucía del siglo XIX; ninguna de las explicaciones propuestas está demostrada."
+  },
+  {
+    "lemma": "nimio",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈnimjo",
+    "definition": "Sin importancia, insignificante",
+    "example": "Discutieron durante horas por un detalle nimio del contrato.",
+    "synonyms": [
+      "insignificante",
+      "trivial",
+      "menudo"
+    ],
+    "origin": "Del latín nimius «excesivo»; en español se interpretó al revés y acabó significando lo contrario."
+  },
+  {
+    "lemma": "recóndito",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "reˈkondito",
+    "definition": "Muy escondido y apartado",
+    "example": "Guardaba las cartas en el rincón más recóndito del desván.",
+    "synonyms": [
+      "oculto",
+      "escondido",
+      "secreto"
+    ],
+    "origin": "Del latín reconditus «escondido», participio de recondere «ocultar»."
+  },
+  {
+    "lemma": "fugaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "fuˈɣaθ",
+    "definition": "Que pasa y desaparece con gran rapidez",
+    "example": "Tuvieron un encuentro fugaz en el andén antes de que saliera el tren.",
+    "synonyms": [
+      "breve",
+      "efímero",
+      "pasajero"
+    ],
+    "origin": "Del latín fugax, fugacis «que huye», de fugere «huir»."
+  },
+  {
+    "lemma": "bisoño",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "biˈsoɲo",
+    "definition": "Nuevo e inexperto en un oficio",
+    "example": "El portero, todavía bisoño, cometió un error de principiante.",
+    "synonyms": [
+      "novato",
+      "inexperto",
+      "principiante"
+    ],
+    "origin": "Del italiano bisogno «necesidad»: así llamaban en el siglo XVI a los soldados españoles recién llegados a Italia, que pedían con esa palabra."
+  },
+  {
+    "lemma": "avezado",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "aβeˈθaðo",
+    "definition": "Acostumbrado y experto por la mucha práctica",
+    "example": "Una montañera avezada sabe cuándo hay que darse la vuelta.",
+    "synonyms": [
+      "experimentado",
+      "curtido",
+      "ducho"
+    ],
+    "origin": "De avezar, de a- y vezo «costumbre», del latín vitium."
+  },
+  {
+    "lemma": "inquina",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "iŋˈkina",
+    "definition": "Antipatía persistente hacia alguien",
+    "example": "Le tenía inquina desde aquel ascenso que creía merecer.",
+    "synonyms": [
+      "ojeriza",
+      "tirria",
+      "aversión"
+    ],
+    "origin": "De origen incierto; se ha relacionado con el latín inquinare «manchar, corromper»."
+  },
+  {
+    "lemma": "saña",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "ˈsaɲa",
+    "definition": "Furia cruel con que se ataca o se castiga",
+    "example": "La prensa se ensañó con él, y con especial saña tras su dimisión.",
+    "synonyms": [
+      "crueldad",
+      "furia",
+      "encono"
+    ],
+    "origin": "De origen incierto; se ha propuesto el latín insania «locura furiosa»."
+  },
+  {
+    "lemma": "arrebato",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "areˈβato",
+    "definition": "Impulso súbito y violento de un sentimiento",
+    "example": "En un arrebato de ira rompió la carta sin leerla.",
+    "synonyms": [
+      "arranque",
+      "ímpetu",
+      "rapto"
+    ],
+    "origin": "De arrebatar, formado sobre rebato «ataque por sorpresa», voz de origen árabe (ribāṭ)."
+  },
+  {
+    "lemma": "enardecer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "enaɾðeˈθeɾ",
+    "definition": "Encender los ánimos o avivar una pasión",
+    "example": "El discurso enardeció a la multitud reunida en la plaza.",
+    "synonyms": [
+      "inflamar",
+      "excitar",
+      "avivar"
+    ],
+    "origin": "Del latín inardescere «inflamarse», de ardere «arder»."
+  },
+  {
+    "lemma": "pusilánime",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "pusiˈlanime",
+    "definition": "Falto de ánimo para afrontar riesgos o decisiones",
+    "example": "Un jefe pusilánime jamás defenderá a su equipo.",
+    "synonyms": [
+      "cobarde",
+      "apocado",
+      "medroso"
+    ],
+    "origin": "Del latín pusillanimis, de pusillus «muy pequeño» y animus «ánimo»."
+  },
+  {
+    "lemma": "embelesar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "embeleˈsaɾ",
+    "definition": "Cautivar los sentidos hasta suspender el ánimo",
+    "example": "La voz de la soprano embelesó al público desde la primera nota.",
+    "synonyms": [
+      "arrobar",
+      "fascinar",
+      "hechizar"
+    ],
+    "origin": "De en- y belesa, planta de efecto narcótico que se usaba para aturdir a los peces."
+  },
+  {
+    "lemma": "desidia",
+    "level": 2,
+    "part_of_speech": "s. f.",
+    "ipa": "deˈsiðja",
+    "definition": "Dejadez y falta de cuidado por pereza",
+    "example": "El edificio se vino abajo por pura desidia de sus dueños.",
+    "synonyms": [
+      "dejadez",
+      "negligencia",
+      "abandono"
+    ],
+    "origin": "Del latín desidia «pereza», de desidere «estar sentado, ocioso»."
+  },
+  {
+    "lemma": "menoscabo",
+    "level": 2,
+    "part_of_speech": "s. m.",
+    "ipa": "menosˈkaβo",
+    "definition": "Daño que reduce el valor o la honra de algo",
+    "example": "Aceptó el cargo sin menoscabo de su independencia.",
+    "synonyms": [
+      "perjuicio",
+      "deterioro",
+      "detrimento"
+    ],
+    "origin": "De menoscabar, compuesto de menos y un derivado de cabo, del latín caput «cabeza, extremo»."
+  }
+]

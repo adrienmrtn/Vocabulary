@@ -1,0 +1,580 @@
+{
+ "stillsam": [
+  "emotions",
+  "character"
+ ],
+ "ödmjuk": [
+  "character"
+ ],
+ "varsam": [
+  "character"
+ ],
+ "trofast": [
+  "character"
+ ],
+ "ljuv": [
+  "emotions",
+  "nature"
+ ],
+ "dyster": [
+  "emotions"
+ ],
+ "karg": [
+  "nature",
+  "character"
+ ],
+ "vansklig": [
+  "debate",
+  "business"
+ ],
+ "saklig": [
+  "debate",
+  "business"
+ ],
+ "lågmäld": [
+  "character"
+ ],
+ "rofylld": [
+  "emotions",
+  "nature"
+ ],
+ "egensinnig": [
+  "character"
+ ],
+ "frikostig": [
+  "character",
+  "society"
+ ],
+ "uppriktig": [
+  "character"
+ ],
+ "skör": [
+  "nature",
+  "emotions"
+ ],
+ "högtidlig": [
+  "society"
+ ],
+ "målmedveten": [
+  "character",
+  "business"
+ ],
+ "ihärdig": [
+  "character"
+ ],
+ "godtrogen": [
+  "character"
+ ],
+ "tankfull": [
+  "emotions"
+ ],
+ "yrvaken": [
+  "emotions"
+ ],
+ "påpasslig": [
+  "character",
+  "business"
+ ],
+ "vemod": [
+  "emotions"
+ ],
+ "längtan": [
+  "emotions"
+ ],
+ "skymning": [
+  "nature"
+ ],
+ "gryning": [
+  "nature"
+ ],
+ "glänta": [
+  "nature"
+ ],
+ "dunkel": [
+  "nature",
+  "literature"
+ ],
+ "tillit": [
+  "emotions",
+  "society"
+ ],
+ "högmod": [
+  "character"
+ ],
+ "omsorg": [
+  "society",
+  "character"
+ ],
+ "eftertanke": [
+  "debate"
+ ],
+ "svek": [
+  "society",
+  "emotions"
+ ],
+ "sorl": [
+  "nature",
+  "society"
+ ],
+ "bryderi": [
+  "emotions"
+ ],
+ "huvudbry": [
+  "emotions"
+ ],
+ "lynne": [
+  "character"
+ ],
+ "nyck": [
+  "character"
+ ],
+ "tvekan": [
+  "emotions",
+  "debate"
+ ],
+ "skimmer": [
+  "nature"
+ ],
+ "tålamod": [
+  "character"
+ ],
+ "skönja": [
+  "nature"
+ ],
+ "dröja": [
+  "emotions"
+ ],
+ "grubbla": [
+  "emotions"
+ ],
+ "sträva": [
+  "business",
+  "character"
+ ],
+ "förmå": [
+  "persuasion"
+ ],
+ "trösta": [
+  "emotions"
+ ],
+ "värna": [
+  "society",
+  "nature"
+ ],
+ "mildra": [
+  "emotions",
+  "persuasion"
+ ],
+ "unna": [
+  "emotions",
+  "character"
+ ],
+ "skymta": [
+  "nature"
+ ],
+ "strosa": [
+  "travel"
+ ],
+ "tjusa": [
+  "emotions",
+  "persuasion"
+ ],
+ "häpna": [
+  "emotions"
+ ],
+ "skänka": [
+  "society"
+ ],
+ "omsider": [
+  "literature"
+ ],
+ "stundom": [
+  "literature"
+ ],
+ "måhända": [
+  "literature",
+  "debate"
+ ],
+ "förgänglig": [
+  "literature",
+  "nature"
+ ],
+ "obeveklig": [
+  "character"
+ ],
+ "andäktig": [
+  "emotions",
+  "society"
+ ],
+ "fager": [
+  "literature"
+ ],
+ "försagd": [
+  "character",
+  "emotions"
+ ],
+ "ståndaktig": [
+  "character"
+ ],
+ "vankelmodig": [
+  "character"
+ ],
+ "högdragen": [
+  "character"
+ ],
+ "förnäm": [
+  "society"
+ ],
+ "snarstucken": [
+  "character"
+ ],
+ "missmodig": [
+  "emotions"
+ ],
+ "oförvägen": [
+  "character"
+ ],
+ "ymnig": [
+  "nature"
+ ],
+ "ödslig": [
+  "nature",
+  "emotions"
+ ],
+ "trolsk": [
+  "literature",
+  "nature"
+ ],
+ "bitterljuv": [
+  "emotions"
+ ],
+ "förstulen": [
+  "character"
+ ],
+ "vresig": [
+  "character"
+ ],
+ "sävlig": [
+  "character"
+ ],
+ "lömsk": [
+  "character"
+ ],
+ "flyktig": [
+  "nature",
+  "science"
+ ],
+ "finkänslig": [
+  "character"
+ ],
+ "frimodig": [
+  "character"
+ ],
+ "omutlig": [
+  "society",
+  "character"
+ ],
+ "förtegen": [
+  "character"
+ ],
+ "anlete": [
+  "literature"
+ ],
+ "åtrå": [
+  "emotions"
+ ],
+ "fåfänga": [
+  "character"
+ ],
+ "lättja": [
+  "character"
+ ],
+ "tillförsikt": [
+  "emotions"
+ ],
+ "bävan": [
+  "emotions"
+ ],
+ "hänförelse": [
+  "emotions"
+ ],
+ "svårmod": [
+  "emotions"
+ ],
+ "övermod": [
+  "character"
+ ],
+ "samförstånd": [
+  "society",
+  "business"
+ ],
+ "förtröstan": [
+  "emotions"
+ ],
+ "eftermäle": [
+  "society",
+  "literature"
+ ],
+ "irrfärd": [
+  "travel",
+  "literature"
+ ],
+ "töcken": [
+  "nature"
+ ],
+ "vånda": [
+  "emotions"
+ ],
+ "fröjd": [
+  "emotions"
+ ],
+ "häpnad": [
+  "emotions"
+ ],
+ "förnimma": [
+  "science",
+  "emotions"
+ ],
+ "försmå": [
+  "emotions",
+  "character"
+ ],
+ "ödsla": [
+  "business"
+ ],
+ "begrunda": [
+  "debate"
+ ],
+ "förkunna": [
+  "persuasion",
+  "society"
+ ],
+ "vedergälla": [
+  "society"
+ ],
+ "besinna": [
+  "debate",
+  "emotions"
+ ],
+ "förtälja": [
+  "literature"
+ ],
+ "vederkvicka": [
+  "nature",
+  "emotions"
+ ],
+ "utröna": [
+  "science"
+ ],
+ "framhärda": [
+  "debate",
+  "persuasion"
+ ],
+ "bedyra": [
+  "persuasion"
+ ],
+ "förebrå": [
+  "debate",
+  "emotions"
+ ],
+ "blidka": [
+  "persuasion"
+ ],
+ "tillika": [
+  "debate"
+ ],
+ "efemär": [
+  "literature",
+  "science"
+ ],
+ "lakonisk": [
+  "debate",
+  "literature"
+ ],
+ "förmäten": [
+  "character"
+ ],
+ "fåvitsk": [
+  "character",
+  "literature"
+ ],
+ "snöd": [
+  "character",
+  "society"
+ ],
+ "beskäftig": [
+  "character"
+ ],
+ "illmarig": [
+  "character"
+ ],
+ "durkdriven": [
+  "business",
+  "character"
+ ],
+ "huld": [
+  "literature"
+ ],
+ "gängse": [
+  "society",
+  "debate"
+ ],
+ "ödesdiger": [
+  "literature",
+  "society"
+ ],
+ "fryntlig": [
+  "character"
+ ],
+ "förnumstig": [
+  "character"
+ ],
+ "vederhäftig": [
+  "business",
+  "debate"
+ ],
+ "bångstyrig": [
+  "character"
+ ],
+ "illfundig": [
+  "character"
+ ],
+ "munvig": [
+  "debate",
+  "persuasion"
+ ],
+ "storvulen": [
+  "literature",
+  "business"
+ ],
+ "grannlaga": [
+  "society",
+  "character"
+ ],
+ "valhänt": [
+  "character"
+ ],
+ "okonstlad": [
+  "character"
+ ],
+ "trätgirig": [
+  "character",
+  "debate"
+ ],
+ "hugskott": [
+  "character"
+ ],
+ "spörsmål": [
+  "debate"
+ ],
+ "vederdeloman": [
+  "debate",
+  "society"
+ ],
+ "bråddjup": [
+  "nature"
+ ],
+ "hägring": [
+  "nature",
+  "travel"
+ ],
+ "fägring": [
+  "nature",
+  "literature"
+ ],
+ "vedermöda": [
+  "travel"
+ ],
+ "lisa": [
+  "emotions"
+ ],
+ "näpst": [
+  "society"
+ ],
+ "snille": [
+  "science",
+  "literature"
+ ],
+ "envig": [
+  "literature",
+  "society"
+ ],
+ "klenod": [
+  "society",
+  "literature"
+ ],
+ "gunst": [
+  "society"
+ ],
+ "järtecken": [
+  "literature",
+  "society"
+ ],
+ "svada": [
+  "persuasion"
+ ],
+ "trångmål": [
+  "business"
+ ],
+ "nesa": [
+  "society",
+  "emotions"
+ ],
+ "dväljas": [
+  "literature",
+  "nature"
+ ],
+ "hugsvala": [
+  "emotions"
+ ],
+ "förtörna": [
+  "emotions"
+ ],
+ "yvas": [
+  "character"
+ ],
+ "dryfta": [
+  "debate"
+ ],
+ "rannsaka": [
+  "debate",
+  "society"
+ ],
+ "undfägna": [
+  "society",
+  "travel"
+ ],
+ "hemfalla": [
+  "character",
+  "society"
+ ],
+ "beveka": [
+  "persuasion"
+ ],
+ "vanhelga": [
+  "society"
+ ],
+ "förgäta": [
+  "literature"
+ ],
+ "föresväva": [
+  "literature",
+  "emotions"
+ ],
+ "begabba": [
+  "debate",
+  "society"
+ ],
+ "allenast": [
+  "literature"
+ ],
+ "ingalunda": [
+  "debate"
+ ],
+ "tillförne": [
+  "literature"
+ ],
+ "städse": [
+  "literature"
+ ]
+}

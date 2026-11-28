@@ -1,0 +1,603 @@
+{
+ "נדיב": [
+  "character"
+ ],
+ "צנוע": [
+  "character"
+ ],
+ "עקשן": [
+  "character"
+ ],
+ "חמלה": [
+  "emotions"
+ ],
+ "געגוע": [
+  "emotions"
+ ],
+ "שלווה": [
+  "emotions"
+ ],
+ "תבונה": [
+  "character"
+ ],
+ "נחוש": [
+  "character"
+ ],
+ "עדין": [
+  "character"
+ ],
+ "אמיץ": [
+  "character"
+ ],
+ "נבון": [
+  "character"
+ ],
+ "תמים": [
+  "character"
+ ],
+ "חינני": [
+  "character"
+ ],
+ "להט": [
+  "emotions",
+  "persuasion"
+ ],
+ "הוקיר": [
+  "emotions",
+  "society"
+ ],
+ "התמיד": [
+  "character"
+ ],
+ "שקדן": [
+  "character"
+ ],
+ "רעות": [
+  "society",
+  "emotions"
+ ],
+ "נועם": [
+  "character"
+ ],
+ "חדווה": [
+  "emotions"
+ ],
+ "דממה": [
+  "nature"
+ ],
+ "הפציר": [
+  "persuasion"
+ ],
+ "תעוזה": [
+  "character",
+  "business"
+ ],
+ "נינוח": [
+  "emotions"
+ ],
+ "מופלא": [
+  "nature",
+  "emotions"
+ ],
+ "זוהר": [
+  "nature"
+ ],
+ "חרוץ": [
+  "character",
+  "business"
+ ],
+ "איתן": [
+  "character",
+  "nature"
+ ],
+ "נימוס": [
+  "society"
+ ],
+ "אדיב": [
+  "society",
+  "character"
+ ],
+ "קסם": [
+  "emotions"
+ ],
+ "תקווה": [
+  "emotions"
+ ],
+ "חיוני": [
+  "science"
+ ],
+ "נדיר": [
+  "nature",
+  "science"
+ ],
+ "שגרה": [
+  "society"
+ ],
+ "פשר": [
+  "literature",
+  "debate"
+ ],
+ "מרץ": [
+  "character",
+  "business"
+ ],
+ "סקרן": [
+  "character",
+  "science"
+ ],
+ "ותרן": [
+  "character"
+ ],
+ "צלול": [
+  "nature"
+ ],
+ "רענן": [
+  "nature"
+ ],
+ "נאמן": [
+  "character"
+ ],
+ "הרהר": [
+  "emotions"
+ ],
+ "התפעל": [
+  "emotions"
+ ],
+ "נחת": [
+  "emotions"
+ ],
+ "שנון": [
+  "character",
+  "debate"
+ ],
+ "חביב": [
+  "character"
+ ],
+ "מסור": [
+  "character"
+ ],
+ "עליז": [
+  "emotions"
+ ],
+ "השראה": [
+  "literature"
+ ],
+ "מעוף": [
+  "business",
+  "character"
+ ],
+ "חזון": [
+  "business",
+  "society"
+ ],
+ "יוזמה": [
+  "business"
+ ],
+ "הגינות": [
+  "character",
+  "society"
+ ],
+ "פיוס": [
+  "persuasion",
+  "society"
+ ],
+ "אחווה": [
+  "society"
+ ],
+ "כיסופים": [
+  "emotions",
+  "literature"
+ ],
+ "ערגה": [
+  "emotions",
+  "literature"
+ ],
+ "דמדומים": [
+  "nature"
+ ],
+ "מליצה": [
+  "literature",
+  "persuasion"
+ ],
+ "נשגב": [
+  "literature",
+  "nature"
+ ],
+ "נאצל": [
+  "character"
+ ],
+ "יהיר": [
+  "character"
+ ],
+ "שחצן": [
+  "character"
+ ],
+ "ערמומי": [
+  "character"
+ ],
+ "קפדן": [
+  "character"
+ ],
+ "פזיז": [
+  "character"
+ ],
+ "נמהר": [
+  "character"
+ ],
+ "מתון": [
+  "character",
+  "debate"
+ ],
+ "שקול": [
+  "character",
+  "business"
+ ],
+ "נחרץ": [
+  "debate"
+ ],
+ "עמום": [
+  "debate",
+  "literature"
+ ],
+ "מעורפל": [
+  "debate"
+ ],
+ "סוגיה": [
+  "debate"
+ ],
+ "פולמוס": [
+  "debate"
+ ],
+ "סנגור": [
+  "debate",
+  "society"
+ ],
+ "קטרוג": [
+  "debate"
+ ],
+ "הדיוט": [
+  "society",
+  "science"
+ ],
+ "פרהסיה": [
+  "society"
+ ],
+ "אכסניה": [
+  "travel",
+  "literature"
+ ],
+ "סלד": [
+  "emotions"
+ ],
+ "כמה": [
+  "emotions"
+ ],
+ "התרפק": [
+  "emotions"
+ ],
+ "השתאה": [
+  "emotions"
+ ],
+ "הפליג": [
+  "travel"
+ ],
+ "העפיל": [
+  "travel",
+  "nature"
+ ],
+ "חמקמק": [
+  "character",
+  "debate"
+ ],
+ "ערטילאי": [
+  "debate",
+  "science"
+ ],
+ "מוחשי": [
+  "science",
+  "debate"
+ ],
+ "זניח": [
+  "business",
+  "science"
+ ],
+ "יאה": [
+  "society"
+ ],
+ "נלוז": [
+  "character",
+  "society"
+ ],
+ "שפל": [
+  "character"
+ ],
+ "נבזי": [
+  "character"
+ ],
+ "חנופה": [
+  "persuasion",
+  "society"
+ ],
+ "התרפס": [
+  "persuasion",
+  "society"
+ ],
+ "לגלג": [
+  "society",
+  "emotions"
+ ],
+ "התריס": [
+  "debate"
+ ],
+ "הוקיע": [
+  "society",
+  "debate"
+ ],
+ "הלין": [
+  "society",
+  "debate"
+ ],
+ "גמול": [
+  "society",
+  "business"
+ ],
+ "יוקרה": [
+  "society",
+  "business"
+ ],
+ "מוניטין": [
+  "business",
+  "society"
+ ],
+ "תדמית": [
+  "business",
+  "society"
+ ],
+ "תמורה": [
+  "society",
+  "business"
+ ],
+ "מפנה": [
+  "society",
+  "literature"
+ ],
+ "מכלול": [
+  "science",
+  "debate"
+ ],
+ "זיקה": [
+  "society",
+  "literature"
+ ],
+ "נסיבות": [
+  "society",
+  "debate"
+ ],
+ "צחות": [
+  "literature",
+  "persuasion"
+ ],
+ "נהרה": [
+  "emotions",
+  "nature"
+ ],
+ "רחש": [
+  "nature"
+ ],
+ "אוושה": [
+  "nature"
+ ],
+ "סגריר": [
+  "nature"
+ ],
+ "צינה": [
+  "nature"
+ ],
+ "אספקלריה": [
+  "literature"
+ ],
+ "אפיקורוס": [
+  "society",
+  "debate"
+ ],
+ "אפוטרופוס": [
+  "society"
+ ],
+ "אנדרלמוסיה": [
+  "society"
+ ],
+ "פרוזדור": [
+  "society",
+  "travel"
+ ],
+ "קונדס": [
+  "character"
+ ],
+ "למדן": [
+  "society",
+  "literature"
+ ],
+ "מופלג": [
+  "character"
+ ],
+ "נהיר": [
+  "debate",
+  "science"
+ ],
+ "נכלולי": [
+  "character"
+ ],
+ "נואל": [
+  "character"
+ ],
+ "נבער": [
+  "character"
+ ],
+ "מפוכח": [
+  "character",
+  "business"
+ ],
+ "קודר": [
+  "emotions",
+  "nature"
+ ],
+ "עגמומי": [
+  "emotions"
+ ],
+ "תוגה": [
+  "emotions",
+  "literature"
+ ],
+ "חידלון": [
+  "emotions",
+  "literature"
+ ],
+ "כיליון": [
+  "nature",
+  "science"
+ ],
+ "משובה": [
+  "character"
+ ],
+ "הוללות": [
+  "society",
+  "character"
+ ],
+ "פרישות": [
+  "society",
+  "character"
+ ],
+ "סגפן": [
+  "character",
+  "society"
+ ],
+ "אמתלה": [
+  "persuasion",
+  "debate"
+ ],
+ "תואנה": [
+  "debate",
+  "persuasion"
+ ],
+ "אצטלה": [
+  "society",
+  "persuasion"
+ ],
+ "גושפנקה": [
+  "business",
+  "society"
+ ],
+ "אפרכסת": [
+  "science",
+  "society"
+ ],
+ "קתדרה": [
+  "science",
+  "society"
+ ],
+ "אסמכתה": [
+  "debate",
+  "science"
+ ],
+ "בדיעבד": [
+  "debate"
+ ],
+ "לכתחילה": [
+  "debate"
+ ],
+ "אדרבה": [
+  "debate"
+ ],
+ "לאלתר": [
+  "business",
+  "society"
+ ],
+ "כביכול": [
+  "debate"
+ ],
+ "דווקני": [
+  "character",
+  "debate"
+ ],
+ "קנטרן": [
+  "character"
+ ],
+ "טרחן": [
+  "character"
+ ],
+ "צייקן": [
+  "character"
+ ],
+ "כילי": [
+  "character",
+  "literature"
+ ],
+ "חרחר": [
+  "society",
+  "debate"
+ ],
+ "הסכית": [
+  "literature"
+ ],
+ "קרתני": [
+  "society",
+  "travel"
+ ],
+ "מהוקצע": [
+  "literature",
+  "business"
+ ],
+ "מסואב": [
+  "society"
+ ],
+ "מופרך": [
+  "debate",
+  "science"
+ ],
+ "נפתל": [
+  "travel",
+  "character"
+ ],
+ "לאות": [
+  "emotions",
+  "science"
+ ],
+ "שממון": [
+  "emotions"
+ ],
+ "עלטה": [
+  "nature"
+ ],
+ "נשייה": [
+  "literature"
+ ],
+ "צוהר": [
+  "literature",
+  "travel"
+ ],
+ "אשנב": [
+  "society"
+ ],
+ "מזור": [
+  "science",
+  "emotions"
+ ],
+ "נופך": [
+  "literature"
+ ],
+ "עדנה": [
+  "emotions"
+ ],
+ "בלהה": [
+  "emotions"
+ ],
+ "חזיז": [
+  "nature"
+ ],
+ "אגל": [
+  "nature"
+ ],
+ "מרבד": [
+  "nature"
+ ]
+}

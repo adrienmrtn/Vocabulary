@@ -1,0 +1,592 @@
+{
+  "vlídný": [
+    "character"
+  ],
+  "něžný": [
+    "emotions"
+  ],
+  "bystrý": [
+    "character"
+  ],
+  "hbitý": [
+    "character",
+    "nature"
+  ],
+  "statečný": [
+    "character"
+  ],
+  "skromný": [
+    "character"
+  ],
+  "laskavý": [
+    "character",
+    "emotions"
+  ],
+  "líbezný": [
+    "emotions",
+    "literature"
+  ],
+  "malebný": [
+    "nature",
+    "travel"
+  ],
+  "poctivý": [
+    "character",
+    "business"
+  ],
+  "lehkovážný": [
+    "character"
+  ],
+  "vznešený": [
+    "society",
+    "character"
+  ],
+  "důvtipný": [
+    "character"
+  ],
+  "rozpačitý": [
+    "emotions"
+  ],
+  "lhostejný": [
+    "emotions",
+    "character"
+  ],
+  "úchvatný": [
+    "emotions",
+    "travel"
+  ],
+  "půvabný": [
+    "character",
+    "literature"
+  ],
+  "křehký": [
+    "nature",
+    "emotions"
+  ],
+  "plachý": [
+    "character",
+    "nature"
+  ],
+  "hrdý": [
+    "character",
+    "emotions"
+  ],
+  "zvídavý": [
+    "character",
+    "science"
+  ],
+  "bezstarostný": [
+    "emotions"
+  ],
+  "velkorysý": [
+    "character",
+    "business"
+  ],
+  "upřímný": [
+    "character"
+  ],
+  "rozvážný": [
+    "character"
+  ],
+  "důstojný": [
+    "character",
+    "society"
+  ],
+  "neposedný": [
+    "character"
+  ],
+  "tajemný": [
+    "literature"
+  ],
+  "vytrvalý": [
+    "character"
+  ],
+  "toužit": [
+    "emotions"
+  ],
+  "váhat": [
+    "character"
+  ],
+  "bloumat": [
+    "travel"
+  ],
+  "rozjímat": [
+    "emotions",
+    "literature"
+  ],
+  "hýčkat": [
+    "emotions"
+  ],
+  "lichotit": [
+    "persuasion"
+  ],
+  "vzdorovat": [
+    "character",
+    "debate"
+  ],
+  "tušit": [
+    "emotions"
+  ],
+  "klábosit": [
+    "society"
+  ],
+  "hloubat": [
+    "science"
+  ],
+  "dumat": [
+    "emotions",
+    "literature"
+  ],
+  "ztvárnit": [
+    "literature"
+  ],
+  "úsvit": [
+    "nature"
+  ],
+  "soumrak": [
+    "nature",
+    "literature"
+  ],
+  "stesk": [
+    "emotions"
+  ],
+  "odvaha": [
+    "character"
+  ],
+  "vášeň": [
+    "emotions"
+  ],
+  "útěcha": [
+    "emotions"
+  ],
+  "píle": [
+    "character",
+    "business"
+  ],
+  "lítost": [
+    "emotions"
+  ],
+  "šero": [
+    "nature"
+  ],
+  "vánek": [
+    "nature"
+  ],
+  "zákoutí": [
+    "travel",
+    "nature"
+  ],
+  "rozkoš": [
+    "emotions"
+  ],
+  "úžas": [
+    "emotions"
+  ],
+  "náruč": [
+    "emotions"
+  ],
+  "pouť": [
+    "travel"
+  ],
+  "zvolna": [
+    "nature"
+  ],
+  "pomíjivý": [
+    "literature",
+    "nature"
+  ],
+  "malicherný": [
+    "character"
+  ],
+  "úlisný": [
+    "character",
+    "persuasion"
+  ],
+  "prostořeký": [
+    "character",
+    "society"
+  ],
+  "bodrý": [
+    "character"
+  ],
+  "rozpustilý": [
+    "character"
+  ],
+  "strohý": [
+    "character"
+  ],
+  "ledabylý": [
+    "character",
+    "business"
+  ],
+  "jízlivý": [
+    "character",
+    "debate"
+  ],
+  "nedůtklivý": [
+    "character"
+  ],
+  "potměšilý": [
+    "character"
+  ],
+  "zarputilý": [
+    "character",
+    "debate"
+  ],
+  "neochvějný": [
+    "character"
+  ],
+  "vratký": [
+    "nature",
+    "business"
+  ],
+  "ryzí": [
+    "character",
+    "science"
+  ],
+  "tklivý": [
+    "emotions",
+    "literature"
+  ],
+  "lstivý": [
+    "character",
+    "persuasion"
+  ],
+  "liknavý": [
+    "character",
+    "business"
+  ],
+  "marnivý": [
+    "character",
+    "society"
+  ],
+  "nabubřelý": [
+    "character",
+    "persuasion"
+  ],
+  "okázalý": [
+    "society"
+  ],
+  "ošemetný": [
+    "business",
+    "society"
+  ],
+  "shovívavý": [
+    "character"
+  ],
+  "uštěpačný": [
+    "character",
+    "debate"
+  ],
+  "všetečný": [
+    "character"
+  ],
+  "bezelstný": [
+    "character"
+  ],
+  "zádumčivý": [
+    "emotions"
+  ],
+  "pošetilý": [
+    "character"
+  ],
+  "šibalský": [
+    "character"
+  ],
+  "brojit": [
+    "debate",
+    "society"
+  ],
+  "horlit": [
+    "debate",
+    "persuasion"
+  ],
+  "velebit": [
+    "persuasion",
+    "literature"
+  ],
+  "spílat": [
+    "debate",
+    "society"
+  ],
+  "rmoutit": [
+    "emotions"
+  ],
+  "ukojit": [
+    "emotions"
+  ],
+  "lpět": [
+    "character",
+    "emotions"
+  ],
+  "zdolat": [
+    "travel",
+    "character"
+  ],
+  "hýřit": [
+    "society",
+    "nature"
+  ],
+  "konejšit": [
+    "emotions"
+  ],
+  "chlácholit": [
+    "emotions",
+    "persuasion"
+  ],
+  "reptat": [
+    "debate",
+    "society"
+  ],
+  "otálet": [
+    "character",
+    "business"
+  ],
+  "vábit": [
+    "persuasion"
+  ],
+  "žadonit": [
+    "persuasion"
+  ],
+  "kárat": [
+    "society"
+  ],
+  "úklad": [
+    "society"
+  ],
+  "vrtoch": [
+    "character"
+  ],
+  "zášť": [
+    "emotions",
+    "society"
+  ],
+  "zvůle": [
+    "society"
+  ],
+  "libůstka": [
+    "character"
+  ],
+  "odkaz": [
+    "society",
+    "literature"
+  ],
+  "žal": [
+    "emotions"
+  ],
+  "tíseň": [
+    "emotions",
+    "business"
+  ],
+  "rozbřesk": [
+    "nature"
+  ],
+  "přelud": [
+    "science",
+    "literature"
+  ],
+  "újma": [
+    "business",
+    "society"
+  ],
+  "podobenství": [
+    "literature"
+  ],
+  "úděl": [
+    "literature",
+    "society"
+  ],
+  "bázeň": [
+    "emotions"
+  ],
+  "klam": [
+    "persuasion",
+    "science"
+  ],
+  "pokora": [
+    "character"
+  ],
+  "vděk": [
+    "emotions",
+    "society"
+  ],
+  "rozmar": [
+    "character"
+  ],
+  "ostych": [
+    "emotions",
+    "character"
+  ],
+  "chrabrý": [
+    "character",
+    "literature"
+  ],
+  "sličný": [
+    "literature"
+  ],
+  "vetchý": [
+    "nature",
+    "literature"
+  ],
+  "rozšafný": [
+    "character"
+  ],
+  "spanilý": [
+    "literature"
+  ],
+  "sirý": [
+    "emotions",
+    "literature"
+  ],
+  "vezdejší": [
+    "society",
+    "literature"
+  ],
+  "sveřepý": [
+    "character"
+  ],
+  "lačný": [
+    "emotions"
+  ],
+  "blahovolný": [
+    "character",
+    "society"
+  ],
+  "slovutný": [
+    "society"
+  ],
+  "bohulibý": [
+    "society"
+  ],
+  "brunátný": [
+    "nature"
+  ],
+  "prchlivý": [
+    "character",
+    "emotions"
+  ],
+  "třímat": [
+    "literature"
+  ],
+  "želet": [
+    "emotions"
+  ],
+  "prahnout": [
+    "emotions"
+  ],
+  "bažit": [
+    "emotions"
+  ],
+  "čpět": [
+    "nature",
+    "science"
+  ],
+  "skomírat": [
+    "nature",
+    "business"
+  ],
+  "znesvětit": [
+    "society"
+  ],
+  "dlít": [
+    "travel",
+    "literature"
+  ],
+  "snovat": [
+    "persuasion",
+    "society"
+  ],
+  "tkvět": [
+    "debate",
+    "science"
+  ],
+  "planout": [
+    "nature",
+    "emotions"
+  ],
+  "jinotaj": [
+    "literature"
+  ],
+  "šalba": [
+    "persuasion",
+    "science"
+  ],
+  "strast": [
+    "emotions"
+  ],
+  "slast": [
+    "emotions"
+  ],
+  "zmar": [
+    "society",
+    "literature"
+  ],
+  "břímě": [
+    "emotions",
+    "society"
+  ],
+  "ortel": [
+    "society"
+  ],
+  "luna": [
+    "nature",
+    "literature"
+  ],
+  "skon": [
+    "literature"
+  ],
+  "sudba": [
+    "literature"
+  ],
+  "vesna": [
+    "nature",
+    "literature"
+  ],
+  "jitřenka": [
+    "nature",
+    "literature"
+  ],
+  "červánky": [
+    "nature"
+  ],
+  "mrákota": [
+    "science",
+    "emotions"
+  ],
+  "hvozd": [
+    "nature"
+  ],
+  "oř": [
+    "literature"
+  ],
+  "rek": [
+    "literature"
+  ],
+  "kmet": [
+    "society",
+    "literature"
+  ],
+  "choť": [
+    "society"
+  ],
+  "kratochvíle": [
+    "society"
+  ],
+  "hodokvas": [
+    "society"
+  ],
+  "jho": [
+    "society"
+  ],
+  "žalář": [
+    "society"
+  ],
+  "ostrovtip": [
+    "debate",
+    "character"
+  ],
+  "skvost": [
+    "literature",
+    "travel"
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "وديع": [
+    "character"
+  ],
+  "نبيل": [
+    "character"
+  ],
+  "شامخ": [
+    "nature",
+    "character"
+  ],
+  "باسل": [
+    "character"
+  ],
+  "رصين": [
+    "character",
+    "debate"
+  ],
+  "فطن": [
+    "character"
+  ],
+  "جسور": [
+    "character",
+    "business"
+  ],
+  "أنيق": [
+    "society"
+  ],
+  "عريق": [
+    "society"
+  ],
+  "خلاب": [
+    "nature",
+    "travel"
+  ],
+  "فسيح": [
+    "nature",
+    "travel"
+  ],
+  "ضئيل": [
+    "business",
+    "science"
+  ],
+  "وجيز": [
+    "literature",
+    "persuasion"
+  ],
+  "عذب": [
+    "nature",
+    "literature"
+  ],
+  "يانع": [
+    "nature"
+  ],
+  "سخي": [
+    "character"
+  ],
+  "حصيف": [
+    "character",
+    "debate"
+  ],
+  "لبق": [
+    "character",
+    "society"
+  ],
+  "طموح": [
+    "character",
+    "business"
+  ],
+  "دؤوب": [
+    "character",
+    "business"
+  ],
+  "زهيد": [
+    "business"
+  ],
+  "وارف": [
+    "nature"
+  ],
+  "تأمل": [
+    "emotions",
+    "literature"
+  ],
+  "ازدهر": [
+    "business",
+    "nature"
+  ],
+  "أصغى": [
+    "persuasion",
+    "society"
+  ],
+  "تلاشى": [
+    "nature",
+    "science"
+  ],
+  "همس": [
+    "emotions",
+    "society"
+  ],
+  "أومأ": [
+    "society"
+  ],
+  "ارتبك": [
+    "emotions"
+  ],
+  "تباهى": [
+    "character",
+    "society"
+  ],
+  "تريث": [
+    "business",
+    "character"
+  ],
+  "أضنى": [
+    "emotions"
+  ],
+  "تألق": [
+    "nature",
+    "society"
+  ],
+  "اكترث": [
+    "emotions",
+    "society"
+  ],
+  "عانق": [
+    "emotions"
+  ],
+  "تذمر": [
+    "emotions",
+    "society"
+  ],
+  "شغف": [
+    "emotions"
+  ],
+  "حنين": [
+    "emotions"
+  ],
+  "سكينة": [
+    "emotions"
+  ],
+  "وئام": [
+    "society"
+  ],
+  "بهجة": [
+    "emotions"
+  ],
+  "ألفة": [
+    "emotions",
+    "society"
+  ],
+  "هيبة": [
+    "character",
+    "society"
+  ],
+  "دهشة": [
+    "emotions"
+  ],
+  "لهفة": [
+    "emotions"
+  ],
+  "نسيم": [
+    "nature"
+  ],
+  "أريج": [
+    "nature"
+  ],
+  "ضياء": [
+    "nature"
+  ],
+  "شفق": [
+    "nature"
+  ],
+  "ندى": [
+    "nature"
+  ],
+  "صدى": [
+    "nature",
+    "science"
+  ],
+  "عبير": [
+    "nature"
+  ],
+  "مأزق": [
+    "debate",
+    "society"
+  ],
+  "ذريعة": [
+    "debate",
+    "persuasion"
+  ],
+  "رونق": [
+    "literature"
+  ],
+  "عنفوان": [
+    "character",
+    "nature"
+  ],
+  "وهلة": [
+    "society"
+  ],
+  "هنيهة": [
+    "society"
+  ],
+  "سرمدي": [
+    "literature",
+    "science"
+  ],
+  "دمث": [
+    "character"
+  ],
+  "لوذعي": [
+    "character",
+    "literature"
+  ],
+  "أريب": [
+    "character",
+    "debate"
+  ],
+  "جهبذ": [
+    "science",
+    "literature"
+  ],
+  "جزل": [
+    "literature",
+    "persuasion"
+  ],
+  "فذ": [
+    "character"
+  ],
+  "مرهف": [
+    "emotions",
+    "literature"
+  ],
+  "سقيم": [
+    "debate",
+    "science"
+  ],
+  "واجم": [
+    "emotions"
+  ],
+  "نزق": [
+    "character"
+  ],
+  "أشم": [
+    "character"
+  ],
+  "غض": [
+    "nature"
+  ],
+  "ناصع": [
+    "nature",
+    "debate"
+  ],
+  "حالك": [
+    "nature"
+  ],
+  "آسر": [
+    "emotions",
+    "travel"
+  ],
+  "عصي": [
+    "science",
+    "character"
+  ],
+  "باذخ": [
+    "society"
+  ],
+  "فاتر": [
+    "emotions",
+    "society"
+  ],
+  "استشف": [
+    "debate",
+    "literature"
+  ],
+  "تبدد": [
+    "emotions",
+    "nature"
+  ],
+  "ترنح": [
+    "society"
+  ],
+  "توجس": [
+    "emotions"
+  ],
+  "استطرد": [
+    "literature",
+    "debate"
+  ],
+  "أطنب": [
+    "literature",
+    "persuasion"
+  ],
+  "تقاعس": [
+    "character",
+    "society"
+  ],
+  "اضمحل": [
+    "science",
+    "society"
+  ],
+  "ناهز": [
+    "society"
+  ],
+  "تجشم": [
+    "travel",
+    "character"
+  ],
+  "أفضى": [
+    "travel",
+    "debate"
+  ],
+  "تواتر": [
+    "society",
+    "science"
+  ],
+  "استنكف": [
+    "character"
+  ],
+  "سبر": [
+    "science"
+  ],
+  "راود": [
+    "emotions",
+    "persuasion"
+  ],
+  "أجج": [
+    "nature",
+    "persuasion"
+  ],
+  "هيام": [
+    "emotions",
+    "literature"
+  ],
+  "وله": [
+    "emotions"
+  ],
+  "شجن": [
+    "emotions",
+    "literature"
+  ],
+  "لوعة": [
+    "emotions"
+  ],
+  "كمد": [
+    "emotions"
+  ],
+  "جلد": [
+    "character"
+  ],
+  "سجية": [
+    "character"
+  ],
+  "شكيمة": [
+    "character"
+  ],
+  "نخوة": [
+    "character",
+    "society"
+  ],
+  "وجل": [
+    "emotions"
+  ],
+  "أوج": [
+    "science",
+    "business"
+  ],
+  "سديم": [
+    "science",
+    "nature"
+  ],
+  "غسق": [
+    "nature"
+  ],
+  "هجير": [
+    "nature",
+    "travel"
+  ],
+  "يباب": [
+    "nature",
+    "literature"
+  ],
+  "لجة": [
+    "nature"
+  ],
+  "ثلة": [
+    "society"
+  ],
+  "ديدن": [
+    "character"
+  ],
+  "جلبة": [
+    "society"
+  ],
+  "طلاوة": [
+    "literature"
+  ],
+  "كنه": [
+    "science",
+    "debate"
+  ],
+  "رويدا": [
+    "travel"
+  ],
+  "قاطبة": [
+    "society"
+  ],
+  "سميدع": [
+    "character",
+    "literature"
+  ],
+  "غطريف": [
+    "character",
+    "literature"
+  ],
+  "صنديد": [
+    "character",
+    "literature"
+  ],
+  "هصور": [
+    "nature",
+    "character"
+  ],
+  "فدم": [
+    "character"
+  ],
+  "أرعن": [
+    "character"
+  ],
+  "سادر": [
+    "character"
+  ],
+  "كليل": [
+    "emotions",
+    "science"
+  ],
+  "أبلج": [
+    "debate"
+  ],
+  "لجب": [
+    "literature",
+    "society"
+  ],
+  "عرمرم": [
+    "literature",
+    "society"
+  ],
+  "مدلهم": [
+    "nature",
+    "literature"
+  ],
+  "سجسج": [
+    "nature"
+  ],
+  "أغر": [
+    "literature",
+    "society"
+  ],
+  "شعشعاني": [
+    "nature",
+    "literature"
+  ],
+  "مكفهر": [
+    "emotions",
+    "nature"
+  ],
+  "عتيد": [
+    "society",
+    "debate"
+  ],
+  "ضليع": [
+    "science",
+    "character"
+  ],
+  "أثيل": [
+    "society",
+    "literature"
+  ],
+  "زمهرير": [
+    "nature"
+  ],
+  "حيزبون": [
+    "literature",
+    "character"
+  ],
+  "أرومة": [
+    "society",
+    "nature"
+  ],
+  "سويداء": [
+    "emotions",
+    "literature"
+  ],
+  "مهجة": [
+    "emotions",
+    "literature"
+  ],
+  "حشاشة": [
+    "emotions",
+    "science"
+  ],
+  "صبابة": [
+    "emotions",
+    "literature"
+  ],
+  "جوى": [
+    "emotions",
+    "literature"
+  ],
+  "لأواء": [
+    "society"
+  ],
+  "شأفة": [
+    "society",
+    "debate"
+  ],
+  "ديجور": [
+    "nature",
+    "literature"
+  ],
+  "هزيع": [
+    "nature",
+    "literature"
+  ],
+  "سجف": [
+    "literature"
+  ],
+  "غيهب": [
+    "nature",
+    "literature"
+  ],
+  "نبراس": [
+    "literature",
+    "science"
+  ],
+  "كرى": [
+    "nature",
+    "literature"
+  ],
+  "وسن": [
+    "nature",
+    "literature"
+  ],
+  "أتون": [
+    "nature",
+    "society"
+  ],
+  "شنشنة": [
+    "character"
+  ],
+  "سؤدد": [
+    "society",
+    "character"
+  ],
+  "ثمالة": [
+    "literature"
+  ],
+  "صهوة": [
+    "travel",
+    "nature"
+  ],
+  "جذوة": [
+    "nature",
+    "emotions"
+  ],
+  "بلقع": [
+    "nature",
+    "travel"
+  ],
+  "لظى": [
+    "nature"
+  ],
+  "خضم": [
+    "nature",
+    "society"
+  ],
+  "اشرأب": [
+    "society"
+  ],
+  "احرنجم": [
+    "society"
+  ],
+  "اقشعر": [
+    "emotions"
+  ],
+  "تلكأ": [
+    "character",
+    "business"
+  ],
+  "حملق": [
+    "emotions"
+  ],
+  "تبختر": [
+    "character"
+  ],
+  "أرغى": [
+    "emotions"
+  ],
+  "هذرم": [
+    "literature"
+  ],
+  "نبس": [
+    "society"
+  ],
+  "استمرأ": [
+    "character"
+  ],
+  "تجهم": [
+    "emotions"
+  ],
+  "أزف": [
+    "travel"
+  ],
+  "تضوع": [
+    "nature"
+  ],
+  "دلف": [
+    "travel"
+  ],
+  "تمطى": [
+    "nature"
+  ],
+  "أجهش": [
+    "emotions"
+  ],
+  "طرا": [
+    "society"
+  ]
+}

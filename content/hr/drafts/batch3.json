@@ -1,0 +1,770 @@
+[
+ {
+  "lemma": "bjelodan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "bjeˈlodan",
+  "definition": "Posve očit, jasan kao dan",
+  "example": "Bjelodano je da bez novih ulaganja tvornica neće preživjeti.",
+  "synonyms": [
+   "očit",
+   "očigledan",
+   "nedvojben"
+  ],
+  "origin": "Složenica od bijel i dan: «jasan kao bijeli dan»."
+ },
+ {
+  "lemma": "hiniti",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "ˈxiniti",
+  "definition": "Pretvarati se, glumiti nešto čega nema",
+  "example": "Hinio je ravnodušnost, a zapravo je jedva čekao odgovor.",
+  "synonyms": [
+   "glumiti",
+   "simulirati"
+  ],
+  "origin": "Stara riječ s usporednicama u drugim slavenskim jezicima (slovenski hiniti «varati»); daljnje podrijetlo nije pouzdano utvrđeno."
+ },
+ {
+  "lemma": "tašt",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "taʃt",
+  "definition": "Koji previše drži do sebe i svojeg izgleda; isprazan",
+  "example": "Tašt glumac nije podnosio ni najblažu kritiku.",
+  "synonyms": [
+   "umišljen",
+   "isprazan",
+   "sujetan"
+  ],
+  "origin": "Od praslavenskoga *tъščь «prazan» (usp. natašte «na prazan želudac»)."
+ },
+ {
+  "lemma": "lakrdija",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "laˈkr̩dija",
+  "definition": "Neozbiljna predstava ili postupak koji izaziva podsmijeh",
+  "example": "Sjednica se pretvorila u lakrdiju kojoj su se smijali i novinari.",
+  "synonyms": [
+   "farsa",
+   "komedija",
+   "sprdnja"
+  ],
+  "origin": "Iz turskoga lakırdı «riječ, razgovor, brbljanje»."
+ },
+ {
+  "lemma": "bešćutan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈbeʃtɕutan",
+  "definition": "Koji ne osjeća tuđu bol",
+  "example": "Bešćutan odgovor ureda dodatno je povrijedio obitelj.",
+  "synonyms": [
+   "bezosjećajan",
+   "hladan",
+   "okrutan"
+  ],
+  "origin": "Od bez i ćutjeti «osjećati» (praslavenski *ťutiti)."
+ },
+ {
+  "lemma": "zlosutan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈzlosutan",
+  "definition": "Koji nagovješćuje nesreću",
+  "example": "Zlosutna tišina zavladala je nakon što su se ugasila svjetla.",
+  "synonyms": [
+   "zloslutan",
+   "zlokoban",
+   "prijeteći"
+  ],
+  "origin": "Složenica od zao i slutiti, s pojednostavnjenom suglasničkom skupinom (zloslutan → zlosutan)."
+ },
+ {
+  "lemma": "nujan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈnujan",
+  "definition": "Tužan i klonuo, bez volje",
+  "example": "Nujan pas ležao je pred vratima otkako je gazda otputovao.",
+  "synonyms": [
+   "snužden",
+   "sjetan",
+   "potišten"
+  ],
+  "origin": "Vjerojatno od istoga korijena kao nužda i snužditi se; pojedinosti nisu sigurne."
+ },
+ {
+  "lemma": "zanovijetati",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "zanoˈʋjeːtati",
+  "definition": "Dosađivati stalnim prigovorima i sitničavim zahtjevima",
+  "example": "Prestani zanovijetati oko svake sitnice i pusti me da radim.",
+  "synonyms": [
+   "prigovarati",
+   "gunđati",
+   "cjepidlačiti"
+  ],
+  "origin": "Podrijetlo nije sigurno; povezuje se s korijenom *vět- «govoriti» (kao u savjet i zavjet)."
+ },
+ {
+  "lemma": "cjepidlaka",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "tsjeˈpidlaka",
+  "definition": "Osoba koja pretjerano pazi na sitnice",
+  "example": "Naš lektor je prava cjepidlaka, ali mu ništa ne promakne.",
+  "synonyms": [
+   "sitničar",
+   "pedant",
+   "zakeralo"
+  ],
+  "origin": "Složenica od cijepati i dlaka: «onaj koji cijepa dlaku»; vjerojatno prevedenica prema njemačkom Haarspalter."
+ },
+ {
+  "lemma": "naklapati",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "naˈklapati",
+  "definition": "Dugo i isprazno govoriti",
+  "example": "Sat vremena naklapali su o politici, a ništa nisu zaključili.",
+  "synonyms": [
+   "blebetati",
+   "brbljati",
+   "trabunjati"
+  ],
+  "origin": "Od na- i klapati, vjerojatno zvukoopisnoga glagola (usp. klepetati)."
+ },
+ {
+  "lemma": "zloguk",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈzloɡuk",
+  "definition": "Koji predviđa i najavljuje samo nesreću",
+  "example": "Zloguki proroci opet najavljuju propast gospodarstva.",
+  "synonyms": [
+   "zloslutan",
+   "zlokoban",
+   "crnogled"
+  ],
+  "origin": "Složenica od zao i gukati: prema ptici čije se glasanje smatralo najavom nesreće."
+ },
+ {
+  "lemma": "blagoglagoljiv",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "blaɡoɡlaˈɡoʎiʋ",
+  "definition": "Koji govori opširno i kićeno, često bez mjere",
+  "example": "Blagoglagoljiv domaćin držao je zdravicu punih dvadeset minuta.",
+  "synonyms": [
+   "rječit",
+   "brbljav",
+   "govorljiv"
+  ],
+  "origin": "Složenica od blag i glagoljati «govoriti» (crkvenoslavenski glagolati, od glagolъ «riječ»)."
+ },
+ {
+  "lemma": "plandovati",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "planˈdoʋati",
+  "definition": "Odmarati se u hladu; ljenčariti",
+  "example": "Ovce su plandovale pod starim hrastom dok je sunce žeglo.",
+  "synonyms": [
+   "ljenčariti",
+   "ladovati",
+   "odmarati"
+  ],
+  "origin": "Vjerojatno u vezi s pladne «podne» (praslavenski *polъ dьne): izvorno, o stoci, «provoditi podne u hladu»."
+ },
+ {
+  "lemma": "ljuven",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈʎuʋen",
+  "definition": "Koji se odnosi na ljubav (pjesnički)",
+  "example": "Trubaduri su ljuvene stihove pjevali pod prozorima.",
+  "synonyms": [
+   "ljubavni",
+   "zaljubljen",
+   "nježan"
+  ],
+  "origin": "Od starijega ljubven, s gubitkom glasa b; riječ je obilježila staru dubrovačku i dalmatinsku ljubavnu liriku."
+ },
+ {
+  "lemma": "gizdav",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈɡizdaʋ",
+  "definition": "Kićeno lijep, dotjeran i ponosan na izgled",
+  "example": "Gizdav momak u narodnoj nošnji predvodio je svatove.",
+  "synonyms": [
+   "kićen",
+   "dotjeran",
+   "naočit"
+  ],
+  "origin": "Od imenice gizda «ukras, ponos», riječi nesigurna podrijetla."
+ },
+ {
+  "lemma": "ures",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈures",
+  "definition": "Ono što krasi i uljepšava",
+  "example": "Jedini ures sobe bila je vaza s poljskim cvijećem.",
+  "synonyms": [
+   "ukras",
+   "nakit",
+   "kras"
+  ],
+  "origin": "Od glagola uresiti, od u- i resiti «kititi», vjerojatno u vezi s resa."
+ },
+ {
+  "lemma": "perivoj",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈperiʋoj",
+  "definition": "Velik, njegovan park uz dvorac ili u gradu",
+  "example": "Nedjeljom su šetali perivojem i hranili labudove.",
+  "synonyms": [
+   "park",
+   "vrt"
+  ],
+  "origin": "Iz grčkoga peribólion «ograđen prostor, vrt», vjerojatno romanskim posredstvom na jadranskoj obali."
+ },
+ {
+  "lemma": "zdenac",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈzdenats",
+  "definition": "Bunar; izvor vode obzidan kamenom",
+  "example": "Na sredini trga stoji kameni zdenac iz petnaestog stoljeća.",
+  "synonyms": [
+   "bunar",
+   "studenac",
+   "vrelo"
+  ],
+  "origin": "Od praslavenskoga *studenьcь «hladan izvor», od *studenъ «hladan»; glasovnim promjenama stud- je dalo zd-."
+ },
+ {
+  "lemma": "vrutak",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈʋrutak",
+  "definition": "Jak izvor koji izbija iz zemlje",
+  "example": "Ispod stijene izbija vrutak ledene vode.",
+  "synonyms": [
+   "vrelo",
+   "izvor",
+   "vrulja"
+  ],
+  "origin": "Od glagola vreti (praslavenski *vьrěti «ključati, izvirati»), istoga korijena kao vrelo i izvor."
+ },
+ {
+  "lemma": "žal",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ʒal",
+  "definition": "Obala prekrivena pijeskom ili oblucima",
+  "example": "Bosi su hodali po žalu i skupljali školjke.",
+  "synonyms": [
+   "plaža",
+   "obala",
+   "igalo"
+  ],
+  "origin": "Obično se smatra riječju staroga balkanskog podrijetla, srodnom s albanskim zall «riječni pijesak, šljunak»."
+ },
+ {
+  "lemma": "usplahiren",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "usplaˈxiren",
+  "definition": "Uznemiren i smeten od straha ili žurbe",
+  "example": "Usplahirena putnica tražila je izgubljenu putovnicu po svim džepovima.",
+  "synonyms": [
+   "uzrujan",
+   "uspaničen",
+   "smeten"
+  ],
+  "origin": "Od glagola usplahiriti se, od plah (praslavenski *polxъ «strah»)."
+ },
+ {
+  "lemma": "ojađen",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈojadʑen",
+  "definition": "Ispunjen tugom i gorčinom zbog nepravde",
+  "example": "Ojađeni stanari napisali su pismo gradonačelniku.",
+  "synonyms": [
+   "ogorčen",
+   "ožalošćen",
+   "povrijeđen"
+  ],
+  "origin": "Od glagola ojaditi, od jad (praslavenski *ědъ «otrov, gorčina»)."
+ },
+ {
+  "lemma": "čedan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈtʃedan",
+  "definition": "Skroman, stidljiv i neporočan",
+  "example": "Čedan osmijeh skrivao je vrlo oštar um.",
+  "synonyms": [
+   "skroman",
+   "nevin",
+   "smjeran"
+  ],
+  "origin": "Od čedo «dijete» (praslavenski *čędo); izvorno «poput djeteta»."
+ },
+ {
+  "lemma": "bogobojazan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "boɡoˈbojazan",
+  "definition": "Koji živi u strahopoštovanju pred Bogom",
+  "example": "Bogobojazan starac nije propustio nijednu nedjeljnu misu.",
+  "synonyms": [
+   "pobožan",
+   "vjeran",
+   "smjeran"
+  ],
+  "origin": "Složenica od Bog i bojazan «strah», crkvenoslavenskoga postanja."
+ },
+ {
+  "lemma": "zadužbina",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈzaduʒbina",
+  "definition": "Ustanova ili građevina podignuta kao trajan dar zajednici",
+  "example": "Knjižnica je zadužbina trgovca koji nije imao nasljednika.",
+  "synonyms": [
+   "zaklada",
+   "fundacija",
+   "dar"
+  ],
+  "origin": "Od izraza za dušu: ono što je podignuto «za dušu», tj. za spas duše darovatelja."
+ },
+ {
+  "lemma": "samozatajan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "samoˈzatajan",
+  "definition": "Koji radi mnogo, a sebe ne ističe",
+  "example": "Samozatajna znanstvenica saznala je za nagradu iz novina.",
+  "synonyms": [
+   "skroman",
+   "nenametljiv",
+   "povučen"
+  ],
+  "origin": "Složenica od sam i zatajiti (od tajiti, praslavenski *tajiti «skrivati»)."
+ },
+ {
+  "lemma": "samoprijegor",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "samoˈprjeːɡor",
+  "definition": "Odricanje od vlastite koristi radi drugih ili cilja",
+  "example": "Sa samoprijegorom je njegovala bolesnu sestru punih deset godina.",
+  "synonyms": [
+   "požrtvovnost",
+   "nesebičnost",
+   "odricanje"
+  ],
+  "origin": "Složenica od sam i prijegor, od pregorjeti «preboljeti, odreći se» (od gorjeti)."
+ },
+ {
+  "lemma": "veleban",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "ˈʋeleban",
+  "definition": "Veličanstven, golem i dostojanstven",
+  "example": "Veleban pogled s vidikovca ostavio ih je bez riječi.",
+  "synonyms": [
+   "veličanstven",
+   "grandiozan",
+   "uzvišen"
+  ],
+  "origin": "Od praslavenskoga korijena *vel- «velik»; tvorba drugoga dijela nije posve jasna."
+ },
+ {
+  "lemma": "uznosit",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "uzˈnosit",
+  "definition": "Ponosan i uzvišen, katkad i ohol",
+  "example": "Uznosit hod pobjednice pratili su pogledi cijele dvorane.",
+  "synonyms": [
+   "ponosit",
+   "gord",
+   "uzvišen"
+  ],
+  "origin": "Od glagola uznositi (se), od uz- i nositi; doslovno «koji se nosi visoko»."
+ },
+ {
+  "lemma": "bremenit",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "breˈmenit",
+  "definition": "Opterećen, pun nečega teškog ili važnog",
+  "example": "Bilo je to desetljeće bremenito sukobima i velikim nadama.",
+  "synonyms": [
+   "opterećen",
+   "pun",
+   "nabijen"
+  ],
+  "origin": "Od breme «teret» (praslavenski *bermę, od *bьrati «nositi»)."
+ },
+ {
+  "lemma": "bespuće",
+  "level": 3,
+  "part_of_speech": "im. s.",
+  "ipa": "ˈbesputɕe",
+  "definition": "Kraj bez cesta i staza; stanje bez izlaza",
+  "example": "Danima su lutali bespućem dok nisu ugledali dim iz dimnjaka.",
+  "synonyms": [
+   "pustoš",
+   "divljina",
+   "bezizlaznost"
+  ],
+  "origin": "Od bez i put (praslavenski *pǫtь)."
+ },
+ {
+  "lemma": "krivovjerje",
+  "level": 3,
+  "part_of_speech": "im. s.",
+  "ipa": "kriˈʋoʋjerje",
+  "definition": "Učenje protivno službenom nauku crkve",
+  "example": "Zbog krivovjerja je protjeran iz grada, a knjige su mu spaljene.",
+  "synonyms": [
+   "hereza",
+   "otpadništvo",
+   "raskol"
+  ],
+  "origin": "Složenica od kriv (praslavenski *krivъ) i vjera (praslavenski *věra)."
+ },
+ {
+  "lemma": "mnijenje",
+  "level": 3,
+  "part_of_speech": "im. s.",
+  "ipa": "ˈmnjeːɲe",
+  "definition": "Mišljenje, sud o nečemu",
+  "example": "Javno mnijenje naglo se okrenulo protiv ministra.",
+  "synonyms": [
+   "mišljenje",
+   "sud",
+   "stav"
+  ],
+  "origin": "Od glagola mnijeti «misliti», praslavenski *mьněti."
+ },
+ {
+  "lemma": "umovati",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "uˈmoʋati",
+  "definition": "Dugo i duboko razmišljati, često bez praktične svrhe",
+  "example": "Dok su drugi umovali o uzrocima, ona je već popravila kvar.",
+  "synonyms": [
+   "mudrovati",
+   "razmišljati",
+   "mozgati"
+  ],
+  "origin": "Od um, praslavenski *umъ «razum»."
+ },
+ {
+  "lemma": "krepost",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈkrepost",
+  "definition": "Moralna čvrstoća i čestitost",
+  "example": "Stari su pisci krepost smatrali najvećim ukrasom vladara.",
+  "synonyms": [
+   "vrlina",
+   "čestitost",
+   "neporočnost"
+  ],
+  "origin": "Od praslavenskoga *krěpostь «snaga», od *krěpъ «čvrst»; značenje «vrlina» razvilo se prema latinskom virtus."
+ },
+ {
+  "lemma": "poklisar",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈpoklisar",
+  "definition": "Izaslanik, diplomatski predstavnik (starinski)",
+  "example": "Dubrovački poklisari nosili su danak sultanu u Carigrad.",
+  "synonyms": [
+   "izaslanik",
+   "veleposlanik",
+   "glasnik"
+  ],
+  "origin": "Iz grčkoga apokrisiários «izaslanik», preuzeto u srednjem vijeku."
+ },
+ {
+  "lemma": "vlastelin",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ʋlaˈstelin",
+  "definition": "Plemić, pripadnik vladajućeg staleža",
+  "example": "Dubrovački vlastelin nije smio trgovati bez dopuštenja Vijeća.",
+  "synonyms": [
+   "plemić",
+   "velikaš",
+   "gospar"
+  ],
+  "origin": "Od vlast, praslavenski *volstь «vladanje», od *volděti «vladati»."
+ },
+ {
+  "lemma": "dažd",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "daʒd",
+  "definition": "Kiša (pjesnički i dijalektno)",
+  "example": "Sitan dažd rominjao je cijelu noć po crijepu.",
+  "synonyms": [
+   "kiša",
+   "pljusak",
+   "oborina"
+  ],
+  "origin": "Od praslavenskoga *dъždžь «kiša»; u standardnom jeziku potisnula ga je riječ kiša."
+ },
+ {
+  "lemma": "ruho",
+  "level": 3,
+  "part_of_speech": "im. s.",
+  "ipa": "ˈruxo",
+  "definition": "Odjeća, osobito svečana",
+  "example": "Grad je za blagdane obukao svečano ruho.",
+  "synonyms": [
+   "odjeća",
+   "odora",
+   "nošnja"
+  ],
+  "origin": "Od praslavenskoga *ruxo «odjeća, pokretna imovina», u vezi s *rušiti «pokretati»."
+ },
+ {
+  "lemma": "ljetopis",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈʎetopis",
+  "definition": "Zapis događaja poredanih po godinama",
+  "example": "Samostanski ljetopis bilježi potres koji je srušio zvonik.",
+  "synonyms": [
+   "kronika",
+   "anali",
+   "godišnjak"
+  ],
+  "origin": "Složenica od ljeto u starom značenju «godina» i pisati; tvorbom odgovara grčkomu chronographía."
+ },
+ {
+  "lemma": "knjigoljubac",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "kɲiˈɡoʎubats",
+  "definition": "Strastven ljubitelj knjiga",
+  "example": "Pravi knjigoljubac ne izlazi iz antikvarijata praznih ruku.",
+  "synonyms": [
+   "bibliofil",
+   "čitatelj",
+   "knjigoljub"
+  ],
+  "origin": "Složenica od knjiga i ljubiti; tvorbom odgovara internacionalizmu bibliofil, od grčkih riječi za knjigu i ljubav."
+ },
+ {
+  "lemma": "zvjezdoznanac",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "zʋjezˈdoznanats",
+  "definition": "Onaj koji proučava nebeska tijela (starinski)",
+  "example": "Dvorski zvjezdoznanac predvidio je pomrčinu na dan krunidbe.",
+  "synonyms": [
+   "astronom",
+   "zvjezdar",
+   "astrolog"
+  ],
+  "origin": "Složenica od zvijezda i znati, načinjena kao domaća zamjena za grčku riječ astronom."
+ },
+ {
+  "lemma": "mudroslovlje",
+  "level": 3,
+  "part_of_speech": "im. s.",
+  "ipa": "muˈdrosloʋʎe",
+  "definition": "Filozofija, ljubav prema mudrosti (starinski)",
+  "example": "U starim gimnazijama mudroslovlje se učilo uz latinski i grčki.",
+  "synonyms": [
+   "filozofija",
+   "umovanje",
+   "mudrost"
+  ],
+  "origin": "Složenica od mudar i slovo «riječ», skovana kao domaća zamjena za grčku riječ filozofija."
+ },
+ {
+  "lemma": "raspikuća",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "raˈspikutɕa",
+  "definition": "Osoba koja nepromišljeno troši imetak",
+  "example": "Stric raspikuća prodao je i vinograd da plati kartaške dugove.",
+  "synonyms": [
+   "rasipnik",
+   "rastrošnik",
+   "razmetnik"
+  ],
+  "origin": "Složenica od raspi (zapovjedni oblik glagola rasuti) i kuća: «onaj koji rasipa kuću»."
+ },
+ {
+  "lemma": "vucibatina",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "ʋutsiˈbatina",
+  "definition": "Besposličar i propalica bez stalna posla",
+  "example": "Otac se bojao da će mu sin postati vucibatina po gradskim krčmama.",
+  "synonyms": [
+   "propalica",
+   "skitnica",
+   "probisvijet"
+  ],
+  "origin": "Složenica od vuci (zapovjedni oblik glagola vući) i batina: «onaj koji vuče batinu», tj. skita se sa štapom."
+ },
+ {
+  "lemma": "probisvijet",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈprobisʋjeːt",
+  "definition": "Skitnica i pustolov sumnjiva poštenja",
+  "example": "Probisvijet se predstavljao kao grof i mjesecima živio na tuđi račun.",
+  "synonyms": [
+   "pustolov",
+   "skitnica",
+   "vucibatina"
+  ],
+  "origin": "Složenica od probiti i svijet: «onaj koji se probija svijetom»."
+ },
+ {
+  "lemma": "jogunast",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "joˈɡunast",
+  "definition": "Tvrdoglav i neposlušan, sklon prkosu",
+  "example": "Jogunast konj nije dao da ga itko osedla.",
+  "synonyms": [
+   "tvrdoglav",
+   "svojeglav",
+   "prkosan"
+  ],
+  "origin": "Od jogun «tvrdoglavac», iz turskoga yoğun «gust, zbijen, grub»."
+ },
+ {
+  "lemma": "ćudoredan",
+  "level": 3,
+  "part_of_speech": "prid.",
+  "ipa": "tɕuˈdoredan",
+  "definition": "Koji je u skladu s moralom",
+  "example": "Roman su tadašnji kritičari proglasili nedovoljno ćudorednim.",
+  "synonyms": [
+   "moralan",
+   "krepostan",
+   "čestit"
+  ],
+  "origin": "Složenica od ćud «narav» i red, skovana kao domaća zamjena za riječ moralan."
+ },
+ {
+  "lemma": "sunovrat",
+  "level": 3,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈsunoʋrat",
+  "definition": "Nagao pad naglavce; potpuna propast",
+  "example": "Loše odluke uprave gurnule su tvrtku u sunovrat.",
+  "synonyms": [
+   "strmoglav",
+   "propast",
+   "slom"
+  ],
+  "origin": "Od glagola sunovratiti (se) «pasti naglavce», od sunuti «jurnuti» i vrat."
+ },
+ {
+  "lemma": "bunilo",
+  "level": 3,
+  "part_of_speech": "im. s.",
+  "ipa": "buˈnilo",
+  "definition": "Stanje pomućene svijesti u groznici",
+  "example": "U bunilu je dozivao imena ljudi koje nitko nije poznavao.",
+  "synonyms": [
+   "delirij",
+   "groznica",
+   "tlapnja"
+  ],
+  "origin": "Od glagola buncati «govoriti u groznici», vjerojatno zvukoopisnoga postanja."
+ },
+ {
+  "lemma": "uzdanica",
+  "level": 3,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈuzdanitsa",
+  "definition": "Osoba u koju se polaže najveća nada",
+  "example": "Mlada vratarka postala je uzdanica cijele momčadi.",
+  "synonyms": [
+   "nada",
+   "oslonac",
+   "potpora"
+  ],
+  "origin": "Od glagola uzdati se «pouzdavati se», vjerojatno od uz- i dati; doslovno «predati se komu u ruke»."
+ },
+ {
+  "lemma": "razgaliti",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "razˈɡaliti",
+  "definition": "Razvedriti, oraspoložiti; također razotkriti",
+  "example": "Prva proljetna šetnja razgalila mu je dušu.",
+  "synonyms": [
+   "razvedriti",
+   "obradovati",
+   "razveseliti"
+  ],
+  "origin": "Od raz- i galiti «razvedravati, otkrivati»; daljnje podrijetlo nije sigurno."
+ },
+ {
+  "lemma": "sustati",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "ˈsustati",
+  "definition": "Klonuti od umora, izgubiti snagu",
+  "example": "Pred samim vrhom konji su sustali i morali smo se zaustaviti.",
+  "synonyms": [
+   "klonuti",
+   "malaksati",
+   "iznemoći"
+  ],
+  "origin": "Vjerojatno od s- i ustati u starijem značenju «stati, zaustaviti se» (usp. ruski ustat' «umoriti se»)."
+ },
+ {
+  "lemma": "malaksati",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "maˈlaksati",
+  "definition": "Postupno gubiti snagu, slabjeti",
+  "example": "Vjetar je pred večer malaksao i jedra su se objesila.",
+  "synonyms": [
+   "slabjeti",
+   "klonuti",
+   "sustati"
+  ],
+  "origin": "Iz grčkoga, od malakós «mek, slab» (glagol malakízō), preuzeto u srednjem vijeku."
+ },
+ {
+  "lemma": "bdjeti",
+  "level": 3,
+  "part_of_speech": "gl.",
+  "ipa": "ˈbdjeti",
+  "definition": "Ostati budan i pozorno paziti",
+  "example": "Cijelu je noć bdjela uz postelju bolesnog djeteta.",
+  "synonyms": [
+   "stražariti",
+   "paziti",
+   "probdjeti"
+  ],
+  "origin": "Od praslavenskoga *bъděti «biti budan», istoga korijena kao buditi i bodar."
+ }
+]

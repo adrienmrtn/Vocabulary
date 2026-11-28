@@ -1,0 +1,430 @@
+{
+  "yndig": {
+    "quote": "Mange yndige Smaabørn fik de, alle sammen Piger, hvorfor de omsider maatte anskaffe sig en Lærerinde.",
+    "source": "Gustav Wied, Slægten"
+  },
+  "varsom": {
+    "quote": "Bogen kom ud, og anmælderne tog med varsom hånd på det lille, forknytte opus.",
+    "source": "Knud Hjortø, Støv og Stjærner"
+  },
+  "munter": {
+    "quote": "Nej, lille Aage havde været fuldkommen rask og lige saa kvik og munter, som han plejede.",
+    "source": "Vilhelm Østergaard, Et Ægteskabs Historie"
+  },
+  "gavmild": {
+    "quote": "Min Elskede, siger Hyrden, er hastig og gavmild som en fremspringende Kilde.",
+    "source": "Peter Nansen, Maria"
+  },
+  "ydmyg": {
+    "quote": "Jeg føler mig saa ubeskrivelig lykkelig, men tillige saa ydmyg derved.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "trofast": {
+    "quote": "Jeg var virkelig en trofast Sjæl, og i Stilhed mere ydmyg, end jeg saae ud til.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "djærv": {
+    "quote": "Min Farbroder var en begavet og forholdsvis dannet Mand, djærv og morsom.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "sirlig": {
+    "quote": "Hun løftede sirligt op i Skørterne og begyndte at synge en lille munter Melodi og dansede dertil.",
+    "source": "Gustav Wied, Fædrene æde Druer"
+  },
+  "frodig": {
+    "quote": "Du har intet mistet, thi i dit svækkede Legeme bor Sjælen, frodig som nyskabt Jord.",
+    "source": "Ludvig Mylius-Erichsen, Isblink"
+  },
+  "sælsom": {
+    "quote": "Altid var her sælsomme Ting at høre og se.",
+    "source": "Peter Nansen, Guds Fred"
+  },
+  "dunkel": {
+    "quote": "Snart vil den dunkle Skumring gaa bort og Vintermulmet staa rugende sort.",
+    "source": "Ludvig Mylius-Erichsen, Isblink"
+  },
+  "tavs": {
+    "quote": "Konferensraaden blev siddende tavs, grundende som den, der har levet længe.",
+    "source": "Herman Bang, Ludvigsbakke"
+  },
+  "stilfærdig": {
+    "quote": "Det er stilfærdigt glade piger, som man gærne træffer i landets højskolehjem.",
+    "source": "Knud Hjortø, Støv og Stjærner"
+  },
+  "lunefuld": {
+    "quote": "Kærlighed er lunefuld, vilkaarlig, op og ned—skal være det.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "sorgløs": {
+    "quote": "Stemmen var barsk og fremmed, kun i Blikket var der endnu noget sorgløst.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "forsagt": {
+    "quote": "O, om Hjærtet, saa forsagt, brast ved hvad du spaar mig!",
+    "source": "Jeppe Aakjær, Samlede Værker"
+  },
+  "højtidelig": {
+    "quote": "Hvor der maatte være højtideligt og stille i den Kirke.",
+    "source": "Herman Bang, Haabløse Slægter"
+  },
+  "veltalende": {
+    "quote": "Saa veltalende jeg var i den lærde Kreds, saa kjedsommelig var jeg i en Selskabsleg.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "skrøbelig": {
+    "quote": "Gelænderet var skrøbeligt og blev aldrig sat i Stand.",
+    "source": "Herman Bang, Det hvide Hus"
+  },
+  "uforfærdet": {
+    "quote": "Olaug blev uforfærdet staaende og maalte Fjenden med flammende Øine.",
+    "source": "Carit Etlar, Bjørneæt"
+  },
+  "nænsom": {
+    "quote": "Ida gav de tre Gamle Mad, hun havde en egen, nænsom Maade at løfte dem op i Sengen.",
+    "source": "Herman Bang, Ludvigsbakke"
+  },
+  "yndefuld": {
+    "quote": "Hun stod mellem os Børn, der legede om hende, med et let Sjal yndefuldt draperet om Skuldrene.",
+    "source": "Peter Nansen, Guds Fred"
+  },
+  "frejdig": {
+    "quote": "Men nu, da Skridtet er gjort, føler jeg mig let og frejdig til Mode.",
+    "source": "Vilhelm Østergaard, Et Ægteskabs Historie"
+  },
+  "kæk": {
+    "quote": "Hendes Øjne var mørkeblaa og spillede i et lille kækt, næsten fripostigt Ansigt.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "mild": {
+    "quote": "Fruen var lidt stille af sig, men det gjorde altid godt at se hendes milde Ansigt.",
+    "source": "Herman Bang, Ved Vejen"
+  },
+  "ane": {
+    "quote": "Kun saa meget anede de allesammen, at nu skulde de miste ham.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "skue": {
+    "quote": "Jeg skuer tilbage og ser et Foraarsland i milde, bløde, sarte, lette Farver.",
+    "source": "Peter Nansen, Maria"
+  },
+  "dvæle": {
+    "quote": "Katinka vidste ikke, at hendes Hænder i Legen dvælede i hans og slap dem tøvende.",
+    "source": "Herman Bang, Ved Vejen"
+  },
+  "gruble": {
+    "quote": "Jeg grublede og grublede, men jo mere jeg grublede, des umuligere var det for mig at komme til nogen Afgjørelse.",
+    "source": "Henrik Scharling, Ved Nytaarstid i Nøddebo Præstegaard"
+  },
+  "nynne": {
+    "quote": "Hun vidste det knap selv, men mens hun spillede, begyndte hun at nynne svagt.",
+    "source": "Herman Bang, Fædra"
+  },
+  "tøve": {
+    "quote": "Nu staar du ved Maalet, og nu tøver du med at gribe til.",
+    "source": "Palle Rosenkrantz, Hvad Skovsøen gemte"
+  },
+  "lokke": {
+    "quote": "Hun havde lokket for ham, og hun havde skammet ham ud; men lige meget hjalp det.",
+    "source": "Gustav Wied, Slægten"
+  },
+  "værne": {
+    "quote": "Hendes egen Erfaring bandt hende til denne Uberørthed, som hun ønskede at værne om.",
+    "source": "Herman Bang, Fædra"
+  },
+  "fryde": {
+    "quote": "Og hun vidste, at hun løi, og hun frydede sig derover.",
+    "source": "Herman Bang, Fædra"
+  },
+  "sukke": {
+    "quote": "De kjender ikke til at længes og sukke og drømme, de kjender kun til at besidde.",
+    "source": "Richard Kaufmann, Fra det moderne Frankrig"
+  },
+  "flakke": {
+    "quote": "Ubevægelig stirrede han hen, hvor Løverne flakkede uroligt rundt; de skubbede sig op ad hinanden med korte Brøl.",
+    "source": "Herman Bang, Excentriske Noveller"
+  },
+  "hviske": {
+    "quote": "»Frels mig,« hviskede hun, »om du elsker mig, som du siger, frels mig, om du kan.«",
+    "source": "Palle Rosenkrantz, Hvad Skovsøen gemte"
+  },
+  "sysle": {
+    "quote": "Fru von Eichbaum syslede længe endnu, før hun slukkede og gik ind.",
+    "source": "Herman Bang, Ludvigsbakke"
+  },
+  "skænke": {
+    "quote": "Lidt efter lidt begyndte han endogsaa at skænke ham en vis Fortrolighed.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "trøste": {
+    "quote": "Jeg taug og trøstede mig med den gode Bevidsthed, at jeg havde gjort, hvad jeg kunde.",
+    "source": "Henrik Scharling, Ved Nytaarstid i Nøddebo Præstegaard"
+  },
+  "pusle": {
+    "quote": "Niels gik fra og til og puslede paa Gaarden og fordybede sig i Erindringer om den gamle.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "længsel": {
+    "quote": "Men tilsidst blev Længslen ham dog for stærk, og han kunde ikke længere modstaae.",
+    "source": "Henrik Scharling, Ved Nytaarstid i Nøddebo Præstegaard"
+  },
+  "tusmørke": {
+    "quote": "De havde siddet længe stille i Tusmørket uden at tale.",
+    "source": "Sophie Breum, Hyld og Humle"
+  },
+  "skumring": {
+    "quote": "Naar Skumringen omsider faldt paa, blev der saa lydt over den vide Jord.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "anelse": {
+    "quote": "Mig vil det nok gaa galt, tænkte han fuld af bange Anelser.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "dyd": {
+    "quote": "Alverden skilter med Dyd, men hvor er dens Fraser afblegede!",
+    "source": "Ludvig Mylius-Erichsen, Isblink"
+  },
+  "sind": {
+    "quote": "Hans sind, der i flere år havde været tomt og koldt, blev følsomt og levende.",
+    "source": "Knud Hjortø, Støv og Stjærner"
+  },
+  "iver": {
+    "quote": "Fodboldspillet trak længe ud og spilledes med stor Iver.",
+    "source": "Knud Rasmussen, Under Nordenvindens Svøbe"
+  },
+  "glans": {
+    "quote": "Det er passeret idag, og dog har det allerede gamle Minders vage Glans over sig.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "pragt": {
+    "quote": "Og jeg har vidst, at der vilde komme det Øjeblik, før eller senere, hvor Pragten falmede.",
+    "source": "Peter Nansen, Guds Fred"
+  },
+  "eftertanke": {
+    "quote": "Men en Smule Eftertanke sagde ham, at han intet vilde kunne udrette.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "hengivenhed": {
+    "quote": "Christiane har siden dyrket mig med en urokkelig Hengivenhed.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "underfundig": {
+    "quote": "Jeg sidder og bryder mit Hoved med, hvad det vel skal blive til, og Grethe, der ser min Forundring, smiler underfundigt.",
+    "source": "Peter Nansen, Guds Fred"
+  },
+  "sagtmodig": {
+    "quote": "Men hun kan ikke fatte, at jeg vil have, en Kvinde skal være sagtmodig.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "bedaget": {
+    "quote": "»Ret sagt, Klokker,« sagde den bedagede Foged og sendte ham et skarpt Blik under de kraftige Bryn.",
+    "source": "Carit Etlar, Bjørneæt"
+  },
+  "behændig": {
+    "quote": "Han var en lille Mand paa et halvhundrede Aar—hurtig i sine Bevægelser og behændig i sin Tale.",
+    "source": "Knud Rasmussen, Under Nordenvindens Svøbe"
+  },
+  "letsindig": {
+    "quote": "For han var det flittige og samvittighedsfulde Element, jeg det letsindige og dovne.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "skælmsk": {
+    "quote": "De kom med skælmske Hentydninger og elskværdige Næsvisheder.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "spodsk": {
+    "quote": "Jeg sér ham endnu staa foran mig og med høfligt spodske Ord byde mig Farvel.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "tungsindig": {
+    "quote": "William saa op og traf et Par mørke, tungsindige Øjne, som saá ned imod ham.",
+    "source": "Herman Bang, Haabløse Slægter"
+  },
+  "undselig": {
+    "quote": "Men Per blev undselig og kunde ikke faa sig til at møde hans Øjne.",
+    "source": "Henrik Pontoppidan, Lykke-Per"
+  },
+  "fortørnet": {
+    "quote": "Da var min Langmodighed forbi, og jeg talte til Maria som en bedrøvet og fortørnet Profet til et frafaldent Folk.",
+    "source": "Peter Nansen, Maria"
+  },
+  "ærbar": {
+    "quote": "Ellers kendte ingen hende, og ingen frittede, naar hun ærbart gik sin Gang til Brønden eller til Kirken.",
+    "source": "Sophie Breum, Hyld og Humle"
+  },
+  "frimodig": {
+    "quote": "Det varer dog ikke længe, før Børnene frimodigt giver sig hen i Fryd.",
+    "source": "Peter Nansen, Guds Fred"
+  },
+  "uanselig": {
+    "quote": "Dette er en meget vidtrækkende Forskjel; vi er det lille Folk og vort Sprog ukjendt og uanseligt.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "formastelig": {
+    "quote": "Men mit Hjærte svor skaanselsløs Hævn over den formastelige Bejler.",
+    "source": "Peter Nansen, Maria"
+  },
+  "dølge": {
+    "quote": "Han vilde intet dølge: der vilde blive nogen Indskrænkning i Tallet af de Arbejdere, som herefter kunde anvendes.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "spejde": {
+    "quote": "Hun sad nu og spejdede nysgærrigt rundt i Salen, som om der var noget bestemt, hun søgte efter.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "smægte": {
+    "quote": "Christiane bifaldt min heroiske Beslutning, men græd af Medlidenhed med min forgæves smægtende Hyrde.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "hige": {
+    "quote": "Jeg er saa rastløs, sagde han, jeg higer altid efter de store Opgaver, der foreligge.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "væmmes": {
+    "quote": "Jeg væmmes, naar jeg husker Polarforskere skrifte, at de tilsidst slet intet havde at sige hinanden.",
+    "source": "Ludvig Mylius-Erichsen, Isblink"
+  },
+  "ymte": {
+    "quote": "Der ymtedes om Utroskab fra hans Side, og saa vidt jeg veed, har hans Hustru ved Skilsmissen gjort dette gjældende.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "ægge": {
+    "quote": "Nina var under hans Vredesudbrud bestandig rolig, og denne Ro æggede William, opirrede ham yderligere.",
+    "source": "Herman Bang, Haabløse Slægter"
+  },
+  "vemod": {
+    "quote": "Den tørre Træthed løser sig op i mildt Vemod, i en stille sagtmodig Længsel.",
+    "source": "Peter Nansen, Maria"
+  },
+  "mismod": {
+    "quote": "Hans Tungsind og Mismod vilde kaste dunkle Skygger over de Stuer, i hvilke han færdedes.",
+    "source": "Gustav Wied, Slægten"
+  },
+  "harme": {
+    "quote": "Naar hendes Harme tændtes, saa hun ud, som om hun blev pustet op indvendig fra.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "hovmod": {
+    "quote": "Mine Øjne, der indbildte sig at være saa skarptskuende og kloge, blindedes af Hovmod.",
+    "source": "Peter Nansen, Maria"
+  },
+  "andagt": {
+    "quote": "Længe stod han med sine Øjne fæstede paa det stille Hoved som sunken hen i en smertelig Andagt.",
+    "source": "Herman Bang, Tine"
+  },
+  "attrå": {
+    "quote": "Men langsomt slukkedes denne en Tid lang blussende Attraa, som døde uden at være tilfredsstillet.",
+    "source": "Herman Bang, Haabløse Slægter"
+  },
+  "anger": {
+    "quote": "Gud græder ofte fra den høje Sky i Anger over, at han skabte den.",
+    "source": "Jeppe Aakjær, Samlede Værker"
+  },
+  "rænke": {
+    "quote": "Men heller en Kamp med et aabent Visir, end Rænker i Løn og en Kamp paa Papir.",
+    "source": "Herman Bang, Tine"
+  },
+  "møje": {
+    "quote": "Mikkel havde Møje med at faa sit Vejr, han strøg sig atter og atter over Ansigtet.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "ærefrygt": {
+    "quote": "Hun kunde standse op midt i sit Arbejde ved Middagsbordet for at glo paa ham lam af Ærefrygt.",
+    "source": "Gustav Wied, Fædrene æde Druer"
+  },
+  "blaseret": {
+    "quote": "Adam og Eva kunde lade sig friste af et Æble, siden er Menneskene blevne mere blaserede.",
+    "source": "Richard Kaufmann, Fra det moderne Frankrig"
+  },
+  "ufortrøden": {
+    "quote": "Hun gyste ved at høre det, men ufortrøden var hun i sine Spørgsmaal.",
+    "source": "Gustav Wied, Slægten"
+  },
+  "uforgængelig": {
+    "quote": "Indtil for faa Aar siden troede jeg at eje kun tre klare og uforgængelige Erindringer fra denne min første Tid.",
+    "source": "Herman Bang, Tine"
+  },
+  "nidkær": {
+    "quote": "For Hr. Esben var kendt som en nidkær Herre med en haard Haand.",
+    "source": "Peter Nansen, Guds Fred"
+  },
+  "ørkesløs": {
+    "quote": "Om Dagen lammer den al min Ævne, saa jeg timevis sidder ørkesløs og stirrer tomt frem for mig.",
+    "source": "Peter Nansen, Maria"
+  },
+  "ypperlig": {
+    "quote": "Hun var i ypperligt Humør og lo og pludrede løs med Munden fuld af Kage.",
+    "source": "Albert Gnudtzmann, Det stille Vand"
+  },
+  "tilforladelig": {
+    "quote": "Det gjorde godt at genkalde sig det,—der var noget virkeligt og tilforladeligt i det, noget, som ikke helt kunde forsvinde og blive til ingen Ting.",
+    "source": "Sophie Breum, Hyld og Humle"
+  },
+  "idel": {
+    "quote": "Som han var idel dyb Alvor og dyb Følelse, lagde han begge Dele i sit Studium.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "fager": {
+    "quote": "Hun døde som en fager Blomst, der knækkes.",
+    "source": "Herman Bang, Det hvide Hus"
+  },
+  "dorsk": {
+    "quote": "Værelsets Uhygge og den dorske Stilhed, der herskede omkring ham, blev tilsidst helt utaalelig.",
+    "source": "Vilhelm Østergaard, Et Ægteskabs Historie"
+  },
+  "skinsyg": {
+    "quote": "For at være skinsyg, synes jeg, maatte man sammenligne sig med de andre.",
+    "source": "Herman Bang, Det graa Hus"
+  },
+  "skæbnesvanger": {
+    "quote": "Men det kunde blive skæbnesvangert at færdes her i skødesløs Tryghed.",
+    "source": "Ludvig Mylius-Erichsen, Strandingshistorier"
+  },
+  "vankundig": {
+    "quote": "Maria, Du hulde, træd frem og forkynd disse Vankundige Kærlighedens Lære.",
+    "source": "Peter Nansen, Maria"
+  },
+  "salvelsesfuld": {
+    "quote": "Ingen kunde tale saa videnskabeligt om Boldtspil og Hundedressur eller saa salvelsesfuldt om Finter og Parader.",
+    "source": "J.P. Jacobsen, Fru Marie Grubbe"
+  },
+  "forskertse": {
+    "quote": "Hvis Du saá mig i disse Dage, vilde jeg ganske forskertse den Smule godt Indtryk, jeg hidtil har gjort paa Dig.",
+    "source": "Peter Nansen, Julies Dagbog"
+  },
+  "vederfares": {
+    "quote": "Mikkel havde jo aldrig ladet Livet vederfares Retfærdighed, fordi han hele sit Liv igennem aldrig havde villet dø.",
+    "source": "Johannes V. Jensen, Kongens Fald"
+  },
+  "armod": {
+    "quote": "Omgivet af en saa nedslaaende Armod og med en saa glædeløs Barndom bag sig—hvor kunde han da blive andet end en Lykkejæger?",
+    "source": "Henrik Pontoppidan, Lykke-Per"
+  },
+  "avind": {
+    "quote": "Nu kan jeg begribe, hvorfor De vilde min stakkels Meerskumspibe tillivs i Formiddags, det var af pure Nag og Avind.",
+    "source": "Henrik Scharling, Ved Nytaarstid i Nøddebo Præstegaard"
+  },
+  "frænde": {
+    "quote": "»Frænde er nok her Frænde værst, mærker jeg,« sagde Mølleren mørk og forknyt.",
+    "source": "Carit Etlar, Bjørneæt"
+  },
+  "gemyt": {
+    "quote": "Hans sangvinske Gemyt lod ham endnu for det meste se Sagerne fra den lyseste Side.",
+    "source": "Vilhelm Østergaard, Et Ægteskabs Historie"
+  },
+  "tvedragt": {
+    "quote": "Aanden fra de store Minder laa over Staden, værnende og samlende; Splid og Tvedragt, Mistillid og Tvivl gik op i de vidt lysende Luer fra Byens lave Træhuse.",
+    "source": "Carit Etlar, Bjørneæt"
+  },
+  "ælde": {
+    "quote": "Solen skinnede ind gennem de smaa Ruder, der lyste grønne og brungule af Ælde.",
+    "source": "Gustav Wied, Slægten"
+  },
+  "pebersvend": {
+    "quote": "Siden blev han en gammel sygelig Pebersvend, tungt at sige, hans Liv har været ulykkeligt.",
+    "source": "Johannes Fibiger, Mit Liv og Levned"
+  },
+  "tilskikkelse": {
+    "quote": "Mildt og stille tog hun fat og sagde ham mange gode og dulmende Ord om sin egen rolige Maade at bære Livet og dets Tilskikkelser paa.",
+    "source": "Gustav Wied, Fædrene æde Druer"
+  }
+}

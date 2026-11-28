@@ -8,7 +8,8 @@ import SwiftUI
 /// the first word of the app's daily feed, so it needs nothing from the app.
 ///
 /// It cannot read the language chosen in the app, so it follows the device:
-/// French words (`words_fr.json`) on a device set to French, English otherwise.
+/// the words of the device's language when the app teaches it
+/// (`words_<code>.json`), English otherwise.
 
 struct DayWord: Decodable {
     let lemma: String
@@ -26,24 +27,44 @@ struct DayWord: Decodable {
 }
 
 enum WidgetCatalog {
-    static let french = (Locale.preferredLanguages.first ?? "en").hasPrefix("fr")
+    /// The widget's name and description per language (`texts.json`, written by
+    /// `content/build_catalog.py` from the app's interface texts).
+    private static let texts: [String: [String: String]] = {
+        guard let url = Bundle.main.url(forResource: "texts", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let texts = try? JSONDecoder().decode([String: [String: String]].self, from: data) else {
+            return [:]
+        }
+        return texts
+    }()
 
-    static let heading: String = french ? "MOT DU JOUR" : "WORD OF THE DAY"
-    static let displayName: String = french ? "Mot du jour" : "Word of the day"
-    static let summary: String = french
-        ? "Un nouveau mot chaque jour, avec son sens."
-        : "A new word every day, with its meaning."
+    /// The device's language when the app teaches it, English otherwise.
+    static let language: String = {
+        let preferred = Locale.preferredLanguages.first ?? "en"
+        var code = String(preferred.prefix(2))
+        if code == "pt" {
+            code = preferred.contains("PT") ? "pt-PT" : "pt-BR"
+        } else if code == "no" || code == "nn" {
+            code = "nb"
+        } else if code == "iw" {
+            code = "he"
+        }
+        return texts[code] == nil ? "en" : code
+    }()
+
+    static let displayName: String = texts[language]?["name"] ?? "Word of the day"
+    static let heading: String = displayName.uppercased()
+    static let summary: String = texts[language]?["summary"] ?? "A new word every day, with its meaning."
 
     static let all: [DayWord] = {
-        guard let url = Bundle.main.url(forResource: french ? "words_fr" : "words", withExtension: "json"),
+        guard let url = Bundle.main.url(forResource: language == "en" ? "words" : "words_\(language)",
+                                        withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let words = try? JSONDecoder().decode([DayWord].self, from: data) else { return [] }
         return words
     }()
 
-    static let fallback = french
-        ? DayWord(lemma: "éphémère", partOfSpeech: "adj.", definition: "Qui ne dure que très peu de temps")
-        : DayWord(lemma: "ephemeral", partOfSpeech: "adj.", definition: "Lasting for a very short time")
+    static let fallback = DayWord(lemma: "ephemeral", partOfSpeech: "adj.", definition: "Lasting for a very short time")
 
     static func word(on date: Date) -> DayWord {
         guard !all.isEmpty else { return fallback }

@@ -1,0 +1,781 @@
+[
+  {
+    "lemma": "merencório",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "mɨɾẽˈkɔɾju",
+    "definition": "Melancólico e tristonho, em linguagem literária",
+    "example": "Tinha o ar merencório de quem perdeu o último comboio.",
+    "synonyms": [
+      "melancólico",
+      "triste",
+      "tristonho"
+    ],
+    "origin": "Alteração popular de melancólico, do grego melankholia «bílis negra»."
+  },
+  {
+    "lemma": "macambúzio",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "mɐkɐ̃ˈbuzju",
+    "definition": "Triste e calado, de mau humor",
+    "example": "Anda macambúzio desde que o clube desceu de divisão.",
+    "synonyms": [
+      "sorumbático",
+      "carrancudo",
+      "tristonho"
+    ],
+    "origin": "Origem obscura."
+  },
+  {
+    "lemma": "inefável",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "inɨˈfavɛl",
+    "definition": "Que não se pode exprimir por palavras",
+    "example": "Sentiu uma alegria inefável ao ver a filha nascer.",
+    "synonyms": [
+      "indizível",
+      "inexprimível",
+      "indescritível"
+    ],
+    "origin": "Do latim ineffabilis, de in- e effari «dizer»."
+  },
+  {
+    "lemma": "inexorável",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "inizuˈɾavɛl",
+    "definition": "Que não cede a pedidos; impossível de travar",
+    "example": "O avanço inexorável do mar ameaça as casas da praia.",
+    "synonyms": [
+      "implacável",
+      "inflexível",
+      "inabalável"
+    ],
+    "origin": "Do latim inexorabilis, de exorare «vencer com súplicas»."
+  },
+  {
+    "lemma": "diáfano",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈdjafɐnu",
+    "definition": "Que deixa passar a luz; muito delicado",
+    "example": "Uma cortina diáfana filtrava a luz da manhã.",
+    "synonyms": [
+      "translúcido",
+      "transparente",
+      "ténue"
+    ],
+    "origin": "Do grego diaphanês «transparente», de dia «através» e phainein «mostrar»."
+  },
+  {
+    "lemma": "pusilânime",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "puziˈlɐnimɨ",
+    "definition": "Fraco de ânimo, sem coragem para decidir",
+    "example": "Foi pusilânime: viu a injustiça e não disse uma palavra.",
+    "synonyms": [
+      "cobarde",
+      "medroso",
+      "tímido"
+    ],
+    "origin": "Do latim pusillanimis, de pusillus «muito pequeno» e animus «ânimo»."
+  },
+  {
+    "lemma": "sibilino",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "sibiˈlinu",
+    "definition": "Enigmático, de sentido difícil de decifrar",
+    "example": "Respondeu com uma frase sibilina que ninguém entendeu.",
+    "synonyms": [
+      "enigmático",
+      "obscuro",
+      "misterioso"
+    ],
+    "origin": "Do latim sibyllinus, de Sibylla, a profetisa que falava por enigmas."
+  },
+  {
+    "lemma": "fátuo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈfatwu",
+    "definition": "Vaidoso sem razão; passageiro e sem substância",
+    "example": "Deixou-se levar por um entusiasmo fátuo, que durou uma semana.",
+    "synonyms": [
+      "presunçoso",
+      "vão",
+      "fútil"
+    ],
+    "origin": "Do latim fatuus «tolo, insensato»."
+  },
+  {
+    "lemma": "ínclito",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈĩklitu",
+    "definition": "Ilustre, célebre pelos seus méritos",
+    "example": "Camões chamou «ínclita geração» aos filhos de D. João I.",
+    "synonyms": [
+      "ilustre",
+      "egrégio",
+      "famoso"
+    ],
+    "origin": "Do latim inclitus «célebre», da mesma raiz de cluere «ter fama»."
+  },
+  {
+    "lemma": "hirsuto",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "iɾˈsutu",
+    "definition": "De pelos longos, duros e espetados",
+    "example": "Um cão hirsuto guardava a entrada do monte.",
+    "synonyms": [
+      "peludo",
+      "eriçado",
+      "cabeludo"
+    ],
+    "origin": "Do latim hirsutus «eriçado»."
+  },
+  {
+    "lemma": "lídimo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈliðimu",
+    "definition": "Legítimo e autêntico, sem mistura",
+    "example": "É um lídimo representante da escola de pintura do Porto.",
+    "synonyms": [
+      "legítimo",
+      "genuíno",
+      "autêntico"
+    ],
+    "origin": "Do latim legitimus «conforme à lei», por via popular."
+  },
+  {
+    "lemma": "bisonho",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "biˈzoɲu",
+    "definition": "Inexperiente e acanhado",
+    "example": "O recruta bisonho mal sabia marchar.",
+    "synonyms": [
+      "inexperiente",
+      "novato",
+      "tímido"
+    ],
+    "origin": "Do italiano bisogno «necessidade», alcunha dos recrutas espanhóis mal equipados na Itália do século XVI, pelo espanhol bisoño."
+  },
+  {
+    "lemma": "sáfaro",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈsafɐɾu",
+    "definition": "Estéril, que nada produz; agreste",
+    "example": "Era uma terra sáfara, onde só cresciam giestas.",
+    "synonyms": [
+      "estéril",
+      "árido",
+      "inculto"
+    ],
+    "origin": "Provavelmente do árabe sahra «deserto»."
+  },
+  {
+    "lemma": "ignóbil",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "iɣˈnɔbil",
+    "definition": "Sem nobreza de carácter; vil",
+    "example": "Abandonar os animais na estrada é um ato ignóbil.",
+    "synonyms": [
+      "vil",
+      "desprezível",
+      "abjeto"
+    ],
+    "origin": "Do latim ignobilis «desconhecido, de baixa origem», de in- e nobilis."
+  },
+  {
+    "lemma": "vetusto",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "vɨˈtuʃtu",
+    "definition": "Muito antigo e por isso respeitável",
+    "example": "A vetusta biblioteca da universidade atrai milhares de visitantes.",
+    "synonyms": [
+      "antigo",
+      "arcaico",
+      "venerando"
+    ],
+    "origin": "Do latim vetustus, de vetus «velho»."
+  },
+  {
+    "lemma": "nefando",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "nɨˈfɐ̃du",
+    "definition": "Tão abominável que nem se deve dizer",
+    "example": "O tribunal julgou os autores daquele crime nefando.",
+    "synonyms": [
+      "abominável",
+      "execrável",
+      "infame"
+    ],
+    "origin": "Do latim nefandus «que não se deve dizer», de ne- e fari «falar»."
+  },
+  {
+    "lemma": "lauto",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈlawtu",
+    "definition": "Abundante e magnífico, sobretudo numa refeição",
+    "example": "Depois de um lauto almoço, ninguém quis sobremesa.",
+    "synonyms": [
+      "farto",
+      "opulento",
+      "sumptuoso"
+    ],
+    "origin": "Do latim lautus «lavado», daí «elegante, sumptuoso»."
+  },
+  {
+    "lemma": "conspícuo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "kõʃˈpikwu",
+    "definition": "Que se nota bem; ilustre",
+    "example": "Ocupava um lugar conspícuo na vida cultural da cidade.",
+    "synonyms": [
+      "notável",
+      "visível",
+      "distinto"
+    ],
+    "origin": "Do latim conspicuus «visível», de conspicere «avistar»."
+  },
+  {
+    "lemma": "ubérrimo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "uˈbɛʁimu",
+    "definition": "Extremamente fértil ou abundante",
+    "example": "As terras ubérrimas da lezíria dão duas colheitas por ano.",
+    "synonyms": [
+      "fertilíssimo",
+      "fecundo",
+      "abundante"
+    ],
+    "origin": "Do latim uberrimus, superlativo de uber «fértil»."
+  },
+  {
+    "lemma": "melífluo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "mɨˈliflwu",
+    "definition": "De doçura excessiva, que soa a mel",
+    "example": "Falava num tom melífluo que escondia más intenções.",
+    "synonyms": [
+      "doce",
+      "suave",
+      "adocicado"
+    ],
+    "origin": "Do latim mellifluus, de mel «mel» e fluere «correr»."
+  },
+  {
+    "lemma": "iracundo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "iɾɐˈkũdu",
+    "definition": "Muito inclinado à cólera",
+    "example": "O árbitro, iracundo, expulsou o treinador do banco.",
+    "synonyms": [
+      "irascível",
+      "colérico",
+      "furioso"
+    ],
+    "origin": "Do latim iracundus, de ira «ira»."
+  },
+  {
+    "lemma": "nédio",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈnɛðju",
+    "definition": "Gordo e de pele lustrosa",
+    "example": "Um gato nédio dormia ao sol no parapeito.",
+    "synonyms": [
+      "gordo",
+      "lustroso",
+      "anafado"
+    ],
+    "origin": "Do latim nitidus «brilhante»."
+  },
+  {
+    "lemma": "lhano",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈʎɐnu",
+    "definition": "Franco e simples no trato",
+    "example": "Era um homem lhano, que recebia toda a gente da mesma maneira.",
+    "synonyms": [
+      "afável",
+      "sincero",
+      "despretensioso"
+    ],
+    "origin": "Do espanhol llano, do latim planus «plano»."
+  },
+  {
+    "lemma": "plangente",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "plɐ̃ˈʒẽtɨ",
+    "definition": "Que soa como um lamento triste",
+    "example": "Ouvia-se ao longe a guitarra plangente de um fadista.",
+    "synonyms": [
+      "lamentoso",
+      "choroso",
+      "lastimoso"
+    ],
+    "origin": "Do latim plangens, -entis, de plangere «bater no peito, lamentar-se»."
+  },
+  {
+    "lemma": "obnubilar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɔbnubiˈlaɾ",
+    "definition": "Obscurecer o entendimento ou a visão",
+    "example": "A raiva obnubilou-lhe o juízo e disse o que não devia.",
+    "synonyms": [
+      "obscurecer",
+      "toldar",
+      "enevoar"
+    ],
+    "origin": "Do latim obnubilare «cobrir de nuvens», de nubes «nuvem»."
+  },
+  {
+    "lemma": "soçobrar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "susuˈbɾaɾ",
+    "definition": "Naufragar; perder o ânimo e deixar-se vencer",
+    "example": "O pequeno barco soçobrou à entrada da barra.",
+    "synonyms": [
+      "naufragar",
+      "afundar",
+      "sucumbir"
+    ],
+    "origin": "Do espanhol zozobrar, do catalão sotsobre «de baixo para cima»."
+  },
+  {
+    "lemma": "tresandar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "tɾɨzɐ̃ˈdaɾ",
+    "definition": "Cheirar muito mal",
+    "example": "A cave tresandava a mofo e a vinho azedo.",
+    "synonyms": [
+      "feder",
+      "empestar"
+    ],
+    "origin": "De tres- (do latim trans) + andar: primeiro «fazer andar para trás, transtornar»."
+  },
+  {
+    "lemma": "espairecer",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɨʃpajɾɨˈseɾ",
+    "definition": "Distrair o espírito para aliviar preocupações",
+    "example": "Foi dar uma volta à beira-rio para espairecer.",
+    "synonyms": [
+      "distrair",
+      "arejar",
+      "recrear"
+    ],
+    "origin": "Origem incerta."
+  },
+  {
+    "lemma": "prevaricar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "pɾɨvɐɾiˈkaɾ",
+    "definition": "Faltar ao dever, sobretudo num cargo público",
+    "example": "O juiz foi acusado de prevaricar para favorecer um amigo.",
+    "synonyms": [
+      "transgredir",
+      "delinquir"
+    ],
+    "origin": "Do latim praevaricari «andar de pernas tortas, desviar-se do caminho», de varus «torto»."
+  },
+  {
+    "lemma": "coonestar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "kwunɨʃˈtaɾ",
+    "definition": "Dar aparência de honesto ao que não é",
+    "example": "Usou a caridade para coonestar um negócio pouco limpo.",
+    "synonyms": [
+      "legitimar",
+      "disfarçar",
+      "justificar"
+    ],
+    "origin": "Do latim cohonestare «honrar», de honestus."
+  },
+  {
+    "lemma": "exprobrar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɐjʃpɾuˈbɾaɾ",
+    "definition": "Censurar com dureza, lançar em rosto",
+    "example": "Exprobrou ao filho a ingratidão com que tratava os avós.",
+    "synonyms": [
+      "censurar",
+      "repreender",
+      "criticar"
+    ],
+    "origin": "Do latim exprobrare, de probrum «ação vergonhosa»."
+  },
+  {
+    "lemma": "procrastinar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "pɾukɾɐʃtiˈnaɾ",
+    "definition": "Deixar para depois o que se deve fazer",
+    "example": "Procrastinou tanto que entregou a tese no último minuto.",
+    "synonyms": [
+      "adiar",
+      "protelar",
+      "delongar"
+    ],
+    "origin": "Do latim procrastinare, de pro «para» e crastinus «de amanhã»."
+  },
+  {
+    "lemma": "bruxulear",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "bɾuʃuˈljaɾ",
+    "definition": "Tremer a chama, brilhando fracamente",
+    "example": "Uma vela bruxuleava no canto da capela.",
+    "synonyms": [
+      "tremeluzir",
+      "oscilar",
+      "cintilar"
+    ],
+    "origin": "Origem incerta; costuma ser aproximado do espanhol brujulear."
+  },
+  {
+    "lemma": "espezinhar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɨʃpɨziˈɲaɾ",
+    "definition": "Calcar aos pés; humilhar",
+    "example": "Ninguém tem o direito de espezinhar a dignidade dos outros.",
+    "synonyms": [
+      "calcar",
+      "humilhar",
+      "pisar"
+    ],
+    "origin": "De es- + pezinho, diminutivo de pé, + -ar."
+  },
+  {
+    "lemma": "tartamudear",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "tɐɾtɐmuˈðjaɾ",
+    "definition": "Falar com dificuldade, repetindo sílabas",
+    "example": "Apanhado em falta, tartamudeou uma desculpa qualquer.",
+    "synonyms": [
+      "gaguejar",
+      "balbuciar",
+      "titubear"
+    ],
+    "origin": "De tartamudo, formado de mudo e de um elemento onomatopaico tarta-."
+  },
+  {
+    "lemma": "acrisolar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ɐkɾizuˈlaɾ",
+    "definition": "Purificar, apurar pela provação",
+    "example": "As dificuldades acrisolaram a amizade entre os dois.",
+    "synonyms": [
+      "purificar",
+      "apurar",
+      "depurar"
+    ],
+    "origin": "De crisol «cadinho», palavra vinda do espanhol."
+  },
+  {
+    "lemma": "increpar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ĩkɾɨˈpaɾ",
+    "definition": "Repreender com palavras ásperas",
+    "example": "A vizinha increpou os rapazes por terem partido o vidro.",
+    "synonyms": [
+      "repreender",
+      "censurar",
+      "admoestar"
+    ],
+    "origin": "Do latim increpare «fazer ruído, censurar»."
+  },
+  {
+    "lemma": "ensimesmar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ẽsimɨʒˈmaɾ",
+    "definition": "Fechar-se nos próprios pensamentos",
+    "example": "Desde a mudança de escola, o rapaz ensimesmou-se e pouco fala.",
+    "synonyms": [
+      "abstrair",
+      "recolher",
+      "concentrar"
+    ],
+    "origin": "De em + si + mesmo, a exemplo do espanhol ensimismarse."
+  },
+  {
+    "lemma": "pundonor",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "pũduˈnoɾ",
+    "definition": "Sentimento vivo da própria honra",
+    "example": "Por pundonor, recusou o prémio que julgava não merecer.",
+    "synonyms": [
+      "brio",
+      "dignidade",
+      "honra"
+    ],
+    "origin": "Do espanhol pundonor, do catalão punt d'honor «ponto de honra»."
+  },
+  {
+    "lemma": "idiossincrasia",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "idjusĩkɾɐˈziɐ",
+    "definition": "Maneira de ser própria de cada pessoa",
+    "example": "Cada escritor tem as suas idiossincrasias à hora de trabalhar.",
+    "synonyms": [
+      "peculiaridade",
+      "temperamento",
+      "particularidade"
+    ],
+    "origin": "Do grego idiosynkrasia «temperamento particular», de idios «próprio» e synkrasis «mistura»."
+  },
+  {
+    "lemma": "beneplácito",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "bɨnɨˈplasitu",
+    "definition": "Aprovação dada por quem tem autoridade",
+    "example": "O projeto avançou com o beneplácito da câmara municipal.",
+    "synonyms": [
+      "aprovação",
+      "consentimento",
+      "aval"
+    ],
+    "origin": "Do latim bene placitum «o que bem agrada»."
+  },
+  {
+    "lemma": "panaceia",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "pɐnɐˈsɐjɐ",
+    "definition": "Remédio que supostamente tudo cura",
+    "example": "A tecnologia não é uma panaceia para os problemas da escola.",
+    "synonyms": [
+      "remédio",
+      "solução"
+    ],
+    "origin": "Do grego panakeia, de pan «tudo» e akos «remédio», pelo latim panacea."
+  },
+  {
+    "lemma": "prosápia",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "pɾuˈzapjɐ",
+    "definition": "Linhagem; orgulho vaidoso de quem se julga importante",
+    "example": "Falava da família com uma prosápia que irritava toda a gente.",
+    "synonyms": [
+      "linhagem",
+      "vaidade",
+      "jactância"
+    ],
+    "origin": "Do latim prosapia «linhagem»."
+  },
+  {
+    "lemma": "opróbrio",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "ɔˈpɾɔbɾju",
+    "definition": "Vergonha pública, desonra extrema",
+    "example": "O escândalo cobriu de opróbrio toda a direção do clube.",
+    "synonyms": [
+      "desonra",
+      "ignomínia",
+      "vexame"
+    ],
+    "origin": "Do latim opprobrium, de probrum «ação vergonhosa»."
+  },
+  {
+    "lemma": "vitupério",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "vituˈpɛɾju",
+    "definition": "Insulto ou censura muito dura",
+    "example": "Saiu do debate debaixo de uma chuva de vitupérios.",
+    "synonyms": [
+      "insulto",
+      "injúria",
+      "afronta"
+    ],
+    "origin": "Do latim vituperium, de vituperare «censurar»."
+  },
+  {
+    "lemma": "acrimónia",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "ɐkɾiˈmɔnjɐ",
+    "definition": "Aspereza no modo de falar ou tratar",
+    "example": "Discutiram a herança com uma acrimónia que surpreendeu os amigos.",
+    "synonyms": [
+      "aspereza",
+      "azedume",
+      "mordacidade"
+    ],
+    "origin": "Do latim acrimonia, de acer «agudo, azedo»."
+  },
+  {
+    "lemma": "lucubração",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "lukubɾɐˈsɐ̃w",
+    "definition": "Trabalho intelectual longo, feito pela noite dentro",
+    "example": "O ensaio é fruto de anos de lucubrações solitárias.",
+    "synonyms": [
+      "meditação",
+      "vigília",
+      "cogitação"
+    ],
+    "origin": "Do latim lucubratio, de lucubrare «trabalhar à luz da candeia»."
+  },
+  {
+    "lemma": "labéu",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "lɐˈbɛw",
+    "definition": "Mancha na reputação",
+    "example": "Nunca conseguiu livrar-se do labéu de traidor.",
+    "synonyms": [
+      "mácula",
+      "desonra",
+      "estigma"
+    ],
+    "origin": "Ligado ao latim labes «queda, mancha»; a formação exata é pouco clara."
+  },
+  {
+    "lemma": "estro",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "ˈɛʃtɾu",
+    "definition": "Inspiração criadora do poeta ou do artista",
+    "example": "Naquele verão, o estro do compositor parecia inesgotável.",
+    "synonyms": [
+      "inspiração",
+      "génio",
+      "engenho"
+    ],
+    "origin": "Do grego oistros «moscardo, aguilhão», daí «furor, delírio», pelo latim oestrus."
+  },
+  {
+    "lemma": "plêiade",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "ˈplɐjɐðɨ",
+    "definition": "Grupo de pessoas ilustres",
+    "example": "Uma plêiade de cientistas reuniu-se em Coimbra para o congresso.",
+    "synonyms": [
+      "grupo",
+      "constelação",
+      "elite"
+    ],
+    "origin": "Do grego Pleiades, as sete filhas de Atlas transformadas em estrelas; o nome passou depois a grupos de sete poetas."
+  },
+  {
+    "lemma": "pejo",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "ˈpɐjʒu",
+    "definition": "Vergonha ou pudor que retrai",
+    "example": "Disse sem pejo que não tinha lido o livro.",
+    "synonyms": [
+      "pudor",
+      "vergonha",
+      "acanhamento"
+    ],
+    "origin": "Derivado de pejar «estorvar», verbo provavelmente ligado a peia, de um derivado do latim pes, pedis «pé»."
+  },
+  {
+    "lemma": "modorra",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "muˈðoʁɐ",
+    "definition": "Sonolência pesada, moleza",
+    "example": "Na modorra da tarde alentejana, nem os cães ladravam.",
+    "synonyms": [
+      "sonolência",
+      "torpor",
+      "letargia"
+    ],
+    "origin": "Origem incerta, talvez pré-romana; existe também em espanhol."
+  },
+  {
+    "lemma": "escol",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "ɨʃˈkɔl",
+    "definition": "O que há de melhor num grupo; elite",
+    "example": "O congresso reuniu o escol da medicina portuguesa.",
+    "synonyms": [
+      "elite",
+      "nata",
+      "flor"
+    ],
+    "origin": "Da família de escolher, do latim ex- e colligere «recolher»."
+  },
+  {
+    "lemma": "almocreve",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "almuˈkɾɛvɨ",
+    "definition": "Homem que transportava mercadorias em bestas de carga",
+    "example": "Antes do comboio, eram os almocreves que levavam o azeite à cidade.",
+    "synonyms": [
+      "arrieiro",
+      "recoveiro"
+    ],
+    "origin": "Do árabe al-mukari «o que aluga bestas de carga»."
+  },
+  {
+    "lemma": "alfarrábio",
+    "level": 3,
+    "part_of_speech": "n. m.",
+    "ipa": "alfɐˈʁabju",
+    "definition": "Livro antigo ou de pouco valor",
+    "example": "Encontrei este alfarrábio numa banca da Feira da Ladra.",
+    "synonyms": [
+      "cartapácio",
+      "calhamaço"
+    ],
+    "origin": "Do nome do filósofo Al-Farabi (século X), cujas obras eram tidas por volumosas e difíceis."
+  },
+  {
+    "lemma": "quiçá",
+    "level": 3,
+    "part_of_speech": "adv.",
+    "ipa": "kiˈsa",
+    "definition": "Talvez; é possível que",
+    "example": "É um dos melhores romances do ano, quiçá da década.",
+    "synonyms": [
+      "talvez",
+      "porventura",
+      "possivelmente"
+    ],
+    "origin": "Do espanhol quizá, do antigo quiçab, do latim qui sapit «quem sabe»."
+  }
+]

@@ -403,6 +403,13 @@
   "impavide": [
     "character"
   ],
+  "ineffable": [
+    "emotions",
+    "literature"
+  ],
+  "irascible": [
+    "character"
+  ],
   "pusillanime": [
     "character"
   ],
@@ -507,6 +514,10 @@
     "society",
     "travel"
   ],
+  "vicissitude": [
+    "society",
+    "literature"
+  ],
   "apanage": [
     "society"
   ],
@@ -515,6 +526,9 @@
     "literature"
   ],
   "opprobre": [
+    "society"
+  ],
+  "turpitude": [
     "society"
   ],
   "impéritie": [

@@ -1,0 +1,729 @@
+[
+  {
+    "lemma": "acaecer",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "akaeˈθeɾ",
+    "definition": "Producirse un hecho, suceder",
+    "example": "Nadie supo explicar lo que acaeció aquella noche en el puerto.",
+    "synonyms": [
+      "suceder",
+      "ocurrir",
+      "acontecer"
+    ],
+    "origin": "Del latín vulgar *accadiscere, derivado de accadere, clásico accidere «suceder», de cadere «caer»."
+  },
+  {
+    "lemma": "atañer",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "ataˈɲeɾ",
+    "definition": "Corresponder o afectar un asunto a alguien",
+    "example": "En lo que atañe a los plazos, no habrá cambios.",
+    "synonyms": [
+      "concernir",
+      "incumbir",
+      "afectar"
+    ],
+    "origin": "Del latín attangere, clásico attingere «tocar, alcanzar»."
+  },
+  {
+    "lemma": "denostar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "denosˈtaɾ",
+    "definition": "Atacar a alguien de palabra, con injurias",
+    "example": "Denostaban al entrenador incluso cuando el equipo ganaba.",
+    "synonyms": [
+      "injuriar",
+      "insultar",
+      "vilipendiar"
+    ],
+    "origin": "Del latín dehonestare «deshonrar, infamar»."
+  },
+  {
+    "lemma": "columbrar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "kolumˈbɾaɾ",
+    "definition": "Divisar algo desde lejos, sin distinguirlo bien",
+    "example": "Desde la cumbre se columbraban las torres de la ciudad.",
+    "synonyms": [
+      "divisar",
+      "vislumbrar",
+      "atisbar"
+    ],
+    "origin": "De origen incierto; se ha propuesto el latín colluminare «iluminar»."
+  },
+  {
+    "lemma": "añagaza",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "aɲaˈɣaθa",
+    "definition": "Artificio para atraer a alguien con engaño",
+    "example": "La oferta de trabajo era una añagaza para robarle los datos.",
+    "synonyms": [
+      "señuelo",
+      "ardid",
+      "treta"
+    ],
+    "origin": "Del árabe hispánico annaqqáza «señuelo»: fue primero el pájaro que el cazador usa para atraer a otros."
+  },
+  {
+    "lemma": "argucia",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "aɾˈɣuθja",
+    "definition": "Razonamiento falso presentado con agudeza",
+    "example": "El abogado recurrió a una argucia legal para aplazar el juicio.",
+    "synonyms": [
+      "sofisma",
+      "sutileza",
+      "treta"
+    ],
+    "origin": "Del latín argutia «sutileza, agudeza», de argutus «agudo, ingenioso»."
+  },
+  {
+    "lemma": "facundia",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "faˈkundja",
+    "definition": "Facilidad y abundancia en el hablar",
+    "example": "Con su facundia habitual, convirtió un brindis en un discurso de media hora.",
+    "synonyms": [
+      "elocuencia",
+      "labia",
+      "verbosidad"
+    ],
+    "origin": "Del latín facundia «elocuencia», de facundus «que habla bien», de fari «hablar»."
+  },
+  {
+    "lemma": "farragoso",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "faraˈɣoso",
+    "definition": "Confuso por exceso de cosas desordenadas o superfluas",
+    "example": "El informe era tan farragoso que nadie pasó de la página diez.",
+    "synonyms": [
+      "confuso",
+      "enrevesado",
+      "prolijo"
+    ],
+    "origin": "De fárrago, del latín farrago «mezcla de granos para el ganado», de far «trigo»."
+  },
+  {
+    "lemma": "rimbombante",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "rimbomˈbante",
+    "definition": "Ostentoso y hueco, que suena a mucho",
+    "example": "Le dieron un título rimbombante y el mismo sueldo de antes.",
+    "synonyms": [
+      "grandilocuente",
+      "pomposo",
+      "altisonante"
+    ],
+    "origin": "De rimbombar, del italiano rimbombare «retumbar»."
+  },
+  {
+    "lemma": "retahíla",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "retaˈila",
+    "definition": "Serie larga de cosas dichas una tras otra",
+    "example": "Soltó una retahíla de excusas que nadie se molestó en creer.",
+    "synonyms": [
+      "sarta",
+      "ristra",
+      "letanía"
+    ],
+    "origin": "Probablemente del latín recta fila «hileras rectas»; compárese con hila e hilera."
+  },
+  {
+    "lemma": "soflama",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "soˈflama",
+    "definition": "Discurso encendido que busca arrastrar los ánimos",
+    "example": "El mitin terminó con una soflama contra los impuestos.",
+    "synonyms": [
+      "arenga",
+      "perorata",
+      "proclama"
+    ],
+    "origin": "De so-, del latín sub «debajo», y flama «llama»: en origen, la llama tenue o la reverberación del fuego."
+  },
+  {
+    "lemma": "panegírico",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "paneˈxiɾiko",
+    "definition": "Discurso o escrito en alabanza de alguien",
+    "example": "La biografía es menos un estudio que un panegírico del fundador.",
+    "synonyms": [
+      "elogio",
+      "loa",
+      "encomio"
+    ],
+    "origin": "Del latín panegyricus, y este del griego panēgyrikós, discurso para una asamblea solemne, de panḗgyris «reunión de todo el pueblo»."
+  },
+  {
+    "lemma": "barahúnda",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "baɾaˈunda",
+    "definition": "Ruido y confusión muy grandes",
+    "example": "En la barahúnda de la estación perdió de vista a sus hijos.",
+    "synonyms": [
+      "alboroto",
+      "tumulto",
+      "bulla"
+    ],
+    "origin": "De origen incierto; también se escribe baraúnda. Compárese con el portugués barafunda."
+  },
+  {
+    "lemma": "pingüe",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈpiŋɡwe",
+    "definition": "Abundante y provechoso",
+    "example": "La venta de los terrenos le dejó pingües beneficios.",
+    "synonyms": [
+      "cuantioso",
+      "abundante",
+      "copioso"
+    ],
+    "origin": "Del latín pinguis «gordo, graso»."
+  },
+  {
+    "lemma": "opíparo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "oˈpipaɾo",
+    "definition": "Dicho de una comida, abundante y espléndida",
+    "example": "Celebraron el contrato con un almuerzo opíparo frente al mar.",
+    "synonyms": [
+      "espléndido",
+      "suculento",
+      "copioso"
+    ],
+    "origin": "Del latín opiparus «copioso, espléndido», de ops «riqueza» y parare «procurar»."
+  },
+  {
+    "lemma": "cicatero",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "θikaˈteɾo",
+    "definition": "Que regatea hasta lo más pequeño",
+    "example": "No seas cicatero y deja una propina decente.",
+    "synonyms": [
+      "tacaño",
+      "mezquino",
+      "ruin"
+    ],
+    "origin": "En la germanía del Siglo de Oro era el ladrón de bolsas, de cica «bolsa», voz que se cree de origen árabe."
+  },
+  {
+    "lemma": "abolengo",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "aβoˈleŋɡo",
+    "definition": "Ascendencia ilustre de una familia",
+    "example": "Presumía de abolengo, aunque la fortuna familiar se había esfumado.",
+    "synonyms": [
+      "linaje",
+      "alcurnia",
+      "estirpe"
+    ],
+    "origin": "De abuelo, con el sufijo -engo, el mismo de realengo."
+  },
+  {
+    "lemma": "alcurnia",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "alˈkuɾnja",
+    "definition": "Linaje, en especial el noble",
+    "example": "Era una familia de alcurnia venida a menos.",
+    "synonyms": [
+      "linaje",
+      "estirpe",
+      "abolengo"
+    ],
+    "origin": "Del árabe hispánico alkúnya, del árabe clásico kunyah «sobrenombre»."
+  },
+  {
+    "lemma": "ramplón",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ramˈplon",
+    "definition": "Vulgar, sin gusto ni originalidad",
+    "example": "Escribió unos versos ramplones para la boda de su primo.",
+    "synonyms": [
+      "vulgar",
+      "chabacano",
+      "mediocre"
+    ],
+    "origin": "De origen incierto. Se aplicó primero al calzado tosco y de suela ancha, y de ahí a lo vulgar."
+  },
+  {
+    "lemma": "procaz",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "pɾoˈkaθ",
+    "definition": "Atrevido hasta la desvergüenza",
+    "example": "Sus chistes procaces incomodaron a medio auditorio.",
+    "synonyms": [
+      "desvergonzado",
+      "insolente",
+      "obsceno"
+    ],
+    "origin": "Del latín procax, procacis «atrevido, insolente», de procare «pedir con insistencia»."
+  },
+  {
+    "lemma": "gazmoño",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ɡaθˈmoɲo",
+    "definition": "Que finge escrúpulos y una virtud exagerada",
+    "example": "Una crítica gazmoña condenó la novela sin haberla leído.",
+    "synonyms": [
+      "mojigato",
+      "santurrón",
+      "puritano"
+    ],
+    "origin": "De origen incierto."
+  },
+  {
+    "lemma": "ubérrimo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "uˈβerimo",
+    "definition": "Sumamente fértil y abundante",
+    "example": "Las tierras ubérrimas del delta dan tres cosechas al año.",
+    "synonyms": [
+      "fértil",
+      "fecundo",
+      "feraz"
+    ],
+    "origin": "Del latín uberrimus, superlativo de uber «fértil, abundante»."
+  },
+  {
+    "lemma": "feraz",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "feˈɾaθ",
+    "definition": "Dicho de una tierra, que produce mucho",
+    "example": "Aquella vega feraz alimentó a la comarca durante siglos.",
+    "synonyms": [
+      "fértil",
+      "fecundo",
+      "productivo"
+    ],
+    "origin": "Del latín ferax, feracis, de ferre «llevar, producir»."
+  },
+  {
+    "lemma": "deletéreo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "deleˈteɾeo",
+    "definition": "Que daña gravemente o puede causar la muerte",
+    "example": "Los vapores deletéreos obligaron a evacuar la fábrica.",
+    "synonyms": [
+      "nocivo",
+      "venenoso",
+      "letal"
+    ],
+    "origin": "Del griego dēlētḗrios «nocivo, destructor», de dēleîsthai «dañar»."
+  },
+  {
+    "lemma": "inefable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ineˈfaβle",
+    "definition": "Tan intenso que no cabe en palabras",
+    "example": "Sintió una paz inefable al llegar a la cima.",
+    "synonyms": [
+      "indecible",
+      "inexpresable",
+      "indescriptible"
+    ],
+    "origin": "Del latín ineffabilis «que no se puede decir», de in- y effari «expresar»."
+  },
+  {
+    "lemma": "inmarcesible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "immaɾθeˈsiβle",
+    "definition": "Que no puede marchitarse",
+    "example": "El poema le prometía una gloria inmarcesible que nunca llegó.",
+    "synonyms": [
+      "imperecedero",
+      "inmarchitable",
+      "perenne"
+    ],
+    "origin": "Del latín immarcescibilis, de in- y marcescere «marchitarse»."
+  },
+  {
+    "lemma": "prístino",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈpɾistino",
+    "definition": "Original, tal como era en un principio",
+    "example": "Los restauradores devolvieron al fresco su color prístino.",
+    "synonyms": [
+      "original",
+      "primitivo",
+      "primigenio"
+    ],
+    "origin": "Del latín pristinus «de antes, primitivo»."
+  },
+  {
+    "lemma": "ducho",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈdutʃo",
+    "definition": "Experimentado y hábil en una materia",
+    "example": "Es muy ducha en negociaciones difíciles.",
+    "synonyms": [
+      "experto",
+      "diestro",
+      "avezado"
+    ],
+    "origin": "Del latín ductus «conducido, guiado», participio de ducere."
+  },
+  {
+    "lemma": "ojeriza",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "oxeˈɾiθa",
+    "definition": "Antipatía y mala voluntad contra alguien",
+    "example": "El profesor le tomó ojeriza desde el primer día de clase.",
+    "synonyms": [
+      "inquina",
+      "tirria",
+      "manía"
+    ],
+    "origin": "De ojo, por la mirada torcida de quien quiere mal a otro."
+  },
+  {
+    "lemma": "apocado",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "apoˈkaðo",
+    "definition": "De poco ánimo, tímido y encogido",
+    "example": "Era un muchacho apocado que jamás levantaba la mano en clase.",
+    "synonyms": [
+      "tímido",
+      "pusilánime",
+      "encogido"
+    ],
+    "origin": "Participio de apocar, de a- y poco, del latín paucus."
+  },
+  {
+    "lemma": "malhadado",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "malaˈðaðo",
+    "definition": "Perseguido por la mala suerte",
+    "example": "Aquel malhadado viaje empezó con una maleta perdida.",
+    "synonyms": [
+      "desdichado",
+      "desventurado",
+      "infeliz"
+    ],
+    "origin": "De mal y hadado, de hado, del latín fatum «destino»."
+  },
+  {
+    "lemma": "duermevela",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "dweɾmeˈβela",
+    "definition": "Sueño ligero, entre dormido y despierto",
+    "example": "Pasó la noche en un duermevela, atento al menor ruido.",
+    "synonyms": [
+      "sopor",
+      "somnolencia",
+      "modorra"
+    ],
+    "origin": "De dormir y velar."
+  },
+  {
+    "lemma": "entelequia",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "enteˈlekja",
+    "definition": "Cosa irreal que solo existe en la imaginación",
+    "example": "El consenso del que hablan es una entelequia.",
+    "synonyms": [
+      "ficción",
+      "quimera",
+      "ilusión"
+    ],
+    "origin": "Del griego entelékheia, término con que Aristóteles nombraba la realidad plenamente cumplida; en español pasó a designar lo que no existe."
+  },
+  {
+    "lemma": "contumaz",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "kontuˈmaθ",
+    "definition": "Que se mantiene tercamente en un error",
+    "example": "Es un mentiroso contumaz: ni las pruebas lo hacen rectificar.",
+    "synonyms": [
+      "obstinado",
+      "pertinaz",
+      "rebelde"
+    ],
+    "origin": "Del latín contumax, contumacis «terco, rebelde»."
+  },
+  {
+    "lemma": "díscolo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈdiskolo",
+    "definition": "Rebelde y poco dócil ante la autoridad",
+    "example": "El alumno más díscolo de la clase acabó siendo director del colegio.",
+    "synonyms": [
+      "rebelde",
+      "indócil",
+      "revoltoso"
+    ],
+    "origin": "Del latín tardío dyscolus, y este del griego dýskolos «de trato difícil, malhumorado»."
+  },
+  {
+    "lemma": "baldío",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "balˈdio",
+    "definition": "Dicho de un terreno sin cultivar, o de un esfuerzo inútil",
+    "example": "Todos sus esfuerzos por convencerla resultaron baldíos.",
+    "synonyms": [
+      "yermo",
+      "inútil",
+      "vano"
+    ],
+    "origin": "De balde, del árabe hispánico báṭil «vano, inútil»."
+  },
+  {
+    "lemma": "advenedizo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "aðβeneˈðiθo",
+    "definition": "Recién llegado a un lugar o posición, y mal visto por ello",
+    "example": "Las viejas familias lo trataban como a un advenedizo.",
+    "synonyms": [
+      "intruso",
+      "arribista",
+      "forastero"
+    ],
+    "origin": "Derivado del latín advenire «llegar»; compárese con advena «forastero»."
+  },
+  {
+    "lemma": "céfiro",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "ˈθefiɾo",
+    "definition": "Viento suave y apacible, o el que sopla del oeste",
+    "example": "Un céfiro tibio movía apenas las cortinas.",
+    "synonyms": [
+      "brisa",
+      "aura",
+      "poniente"
+    ],
+    "origin": "Del latín zephyrus, y este del griego zéphyros, nombre del viento del oeste."
+  },
+  {
+    "lemma": "agüero",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "aˈɣweɾo",
+    "definition": "Señal que se interpreta como anuncio del futuro",
+    "example": "Tomó la lluvia de aquella mañana como un mal agüero.",
+    "synonyms": [
+      "presagio",
+      "augurio",
+      "señal"
+    ],
+    "origin": "Del latín augurium «presagio», de augur, el sacerdote que leía el porvenir en el vuelo de las aves."
+  },
+  {
+    "lemma": "zafio",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈθafjo",
+    "definition": "Grosero y sin educación en los modales",
+    "example": "Su comentario zafio heló la sobremesa.",
+    "synonyms": [
+      "grosero",
+      "tosco",
+      "patán"
+    ],
+    "origin": "De origen árabe, aunque se discute la voz exacta de la que procede."
+  },
+  {
+    "lemma": "mentecato",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "menteˈkato",
+    "definition": "De poco juicio y entendimiento",
+    "example": "Hay que ser mentecato para dejar las llaves puestas en el coche.",
+    "synonyms": [
+      "necio",
+      "bobo",
+      "majadero"
+    ],
+    "origin": "Del latín mente captus «privado de mente, falto de juicio»."
+  },
+  {
+    "lemma": "enjuto",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "eŋˈxuto",
+    "definition": "Delgado, seco de carnes",
+    "example": "Un hombre enjuto y silencioso atendía la librería.",
+    "synonyms": [
+      "flaco",
+      "delgado",
+      "magro"
+    ],
+    "origin": "Del latín exsuctus «chupado, secado», participio de exsugere."
+  },
+  {
+    "lemma": "aciago",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "aˈθjaɣo",
+    "definition": "Que trae o presagia infortunio",
+    "example": "En aquel día aciago perdió la casa y el empleo.",
+    "synonyms": [
+      "infausto",
+      "funesto",
+      "desgraciado"
+    ],
+    "origin": "Del latín aegyptiacus (dies) «día egipcio», que en la Edad Media se tenía por día de mala suerte."
+  },
+  {
+    "lemma": "halagüeño",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "alaˈɣweɲo",
+    "definition": "Que promete un resultado favorable",
+    "example": "Las cifras del primer trimestre no son nada halagüeñas.",
+    "synonyms": [
+      "prometedor",
+      "favorable",
+      "alentador"
+    ],
+    "origin": "De halagar, con el sufijo -üeño."
+  },
+  {
+    "lemma": "lisonja",
+    "level": 3,
+    "part_of_speech": "s. f.",
+    "ipa": "liˈsoŋxa",
+    "definition": "Alabanza interesada para ganar la voluntad de alguien",
+    "example": "Era inmune a la lisonja: solo le convencían los resultados.",
+    "synonyms": [
+      "adulación",
+      "halago",
+      "zalamería"
+    ],
+    "origin": "Del occitano antiguo lauzenja, derivado de lauzar «alabar», del latín laudare."
+  },
+  {
+    "lemma": "arrobo",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "aˈroβo",
+    "definition": "Estado de quien queda fuera de sí por el placer o la admiración",
+    "example": "Contemplaba el cuadro con arrobo, ajeno al paso de las horas.",
+    "synonyms": [
+      "éxtasis",
+      "embeleso",
+      "arrobamiento"
+    ],
+    "origin": "De arrobar, que antiguamente significó «robar, arrebatar», de a- y robar, verbo de origen germánico."
+  },
+  {
+    "lemma": "exiguo",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ekˈsiɣwo",
+    "definition": "Muy pequeño o escaso",
+    "example": "Vivían los cuatro con un sueldo exiguo.",
+    "synonyms": [
+      "escaso",
+      "reducido",
+      "insuficiente"
+    ],
+    "origin": "Del latín exiguus «escaso, medido con estrechez», de exigere «pesar, medir»."
+  },
+  {
+    "lemma": "barruntar",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "barunˈtaɾ",
+    "definition": "Presentir algo por algún indicio",
+    "example": "Barruntaba que la reunión no traería nada bueno.",
+    "synonyms": [
+      "presentir",
+      "sospechar",
+      "intuir"
+    ],
+    "origin": "De origen incierto."
+  },
+  {
+    "lemma": "otear",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "oteˈaɾ",
+    "definition": "Mirar a lo lejos desde un lugar alto",
+    "example": "El pastor oteaba el valle en busca de las ovejas perdidas.",
+    "synonyms": [
+      "escudriñar",
+      "avistar",
+      "divisar"
+    ],
+    "origin": "De oto, forma antigua de «alto», del latín altus: mirar desde lo alto."
+  },
+  {
+    "lemma": "taimado",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "tai̯ˈmaðo",
+    "definition": "Astuto y disimulado para engañar",
+    "example": "El taimado vendedor ocultó los defectos del coche.",
+    "synonyms": [
+      "astuto",
+      "ladino",
+      "zorro"
+    ],
+    "origin": "Del portugués taimado, de teimar «porfiar»."
+  },
+  {
+    "lemma": "arrebol",
+    "level": 3,
+    "part_of_speech": "s. m.",
+    "ipa": "areˈβol",
+    "definition": "Color rojo de las nubes al amanecer o al atardecer",
+    "example": "Los últimos arreboles de la tarde teñían la sierra.",
+    "synonyms": [
+      "rubor",
+      "rojez"
+    ],
+    "origin": "Probablemente del latín rubor «rojez», a través de un verbo *arruborar que pasó a arrebolar."
+  },
+  {
+    "lemma": "dirimir",
+    "level": 3,
+    "part_of_speech": "v.",
+    "ipa": "diɾiˈmiɾ",
+    "definition": "Resolver una controversia poniéndole fin",
+    "example": "Un árbitro dirimirá el conflicto entre las dos empresas.",
+    "synonyms": [
+      "resolver",
+      "zanjar",
+      "decidir"
+    ],
+    "origin": "Del latín dirimere «separar, interrumpir», de dis- y emere «tomar»."
+  }
+]

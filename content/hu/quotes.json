@@ -1,0 +1,478 @@
+{
+ "szelíd": {
+  "quote": "Ezek a kedves kis portékák, ezek a szőke asszonyok, olyan szelídek, olyan jók, mint a bárányok.",
+  "source": "Mikszáth Kálmán, A tót atyafiak; A jó palócok"
+ },
+ "fürge": {
+  "quote": "Vidám, fürge lépésekkel futott föl az emeletre, mint a ki tudja, hogy kedvesen látott vendég.",
+  "source": "Krúdy Gyula, A podolini kísértet"
+ },
+ "büszke": {
+  "quote": "Ha választasz egy leányt az ismeretlen néptömeg közül, munkásnőt, becsületest, egyszerűt, áldásom fogadd, büszke leszek rá.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "komor": {
+  "quote": "Mikor az étkezésnél összekerült az asszonyokkal, oly komor tekintete volt, hogy senki nem merte megszólítani.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "gyengéd": {
+  "quote": "Gyengéd, simogatós mozdulattal surrant keze végig a leány fején és erre az menten el is rítta magát, arcát nagy zsebkendőjébe temetve.",
+  "source": "Kaffka Margit, Hangyaboly"
+ },
+ "hűvös": {
+  "quote": "A férfi sarkon fordult, bement a hűvös szobába, a hol minden olyan tiszta, kimért, szabályos, mint a skatulyában.",
+  "source": "Móricz Zsigmond, Hét krajcár"
+ },
+ "ravasz": {
+  "quote": "Azok a szép, őszinte kék szemek olyan ártatlanul tekintének szemközt, míg az ajk olyan ravaszul mosolygott.",
+  "source": "Jókai Mór, Egy az Isten"
+ },
+ "nyájas": {
+  "quote": "Bánj vele nyájasan, szeretettel, akkor talán megszelidül és eltanul tőled sok jót, a mit te birsz.",
+  "source": "Jókai Mór, Az új földesúr"
+ },
+ "szerény": {
+  "quote": "Szépen, szerényen vonult el a másvilágra, ahogy illik, míg élt, se zavart sok vizet.",
+  "source": "Mikszáth Kálmán, Szent Péter esernyője"
+ },
+ "hiú": {
+  "quote": "Én nem vagyok hiú ember, se pedig olyan nagy szamár, a ki ne tudná, hogy szamár.",
+  "source": "Mikszáth Kálmán, A Noszty fiú esete Tóth Marival"
+ },
+ "merész": {
+  "quote": "Olyan tartalmas, olyan merész, olyan homályos, hogy a közönség semmi szin alatt se érthette meg.",
+  "source": "Ambrus Zoltán, Midás király"
+ },
+ "zord": {
+  "quote": "A zord tél süvöltő viharai, jeges zivatarai után a hegyi városka házikói szinte megifjodni látszottak.",
+  "source": "Krúdy Gyula, Szindbád utazásai"
+ },
+ "kecses": {
+  "quote": "A kisasszony pedig, kecses meghajlással, fölemelé azt a földről s visszanyujtá a lovagnak.",
+  "source": "Jókai Mór, Rab Ráby"
+ },
+ "pompás": {
+  "quote": "Már messziről láttuk a pompás aranygombos sátort, a mint a többi barna és szürke sátor közül kitornyollott.",
+  "source": "Gárdonyi Géza, A láthatatlan ember"
+ },
+ "dús": {
+  "quote": "Két éven át nem volt termés: annyi, mintha ugarolt volna a föld; jövő évre dús aratásnak kell következni.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "halvány": {
+  "quote": "Körülnéztek a furcsa épületben, melynek üvegtetején, üvegfalain beszűrődött a városi este halvány világossága.",
+  "source": "Molnár Ferenc, A Pál utcai fiúk"
+ },
+ "ragyog": {
+  "quote": "Már szeme előtt ragyogott az óriási kölcsön s annak dicsfényében az ő kedves barátjának felmagasztalt alakja.",
+  "source": "Jókai Mór, Fekete gyémántok"
+ },
+ "suttog": {
+  "quote": "Ön úgy él itthon, mint egy szent: az ellenségei tehetnek róla tanúbizonyságot, mégis suttognak ön felől is!",
+  "source": "Jókai Mór, Egy az Isten"
+ },
+ "töpreng": {
+  "quote": "Körüljárta az egész szigetet és töprengett magában a jövendő felől.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "mereng": {
+  "quote": "Csupán a hollók ültek le néha-néha aggodalmaskodva a házereszekre és gondba borulva merengtek magas állomásaikon.",
+  "source": "Krúdy Gyula, A vörös postakocsi"
+ },
+ "tűnődik": {
+  "quote": "Biztosságban érezték magukat s kezdtek azon tűnődni, hogy mikor fognak innen szabadulni.",
+  "source": "Molnár Ferenc, A Pál utcai fiúk"
+ },
+ "bolyong": {
+  "quote": "Kifosztott koldusként bolyongott az éjszakában és valóban igen céltalannak látta az életet, amelyhez pedig mindig ragaszkodott.",
+  "source": "Krúdy Gyula, Szindbád ifjúsága"
+ },
+ "sóhajt": {
+  "quote": "Kelemen diák nagyon furcsának találta az egész bizományt, de nem mert szólni, csak meghajtá magát, nagyot sóhajtva.",
+  "source": "Jókai Mór, Erdély aranykora"
+ },
+ "báj": {
+  "quote": "Aggódva látta a serdülő leányt hajadonná fejlődni szemei előtt, megáldva a szűzi báj minden varázsával.",
+  "source": "Jókai Mór, Névtelen vár"
+ },
+ "becsület": {
+  "quote": "Ma az egész világ csak pénz után jár, a kinek pénze van, annak van becsülete is.",
+  "source": "Jókai Mór, Egy magyar nábob"
+ },
+ "szeszély": {
+  "quote": "A mihez minden ember egy hét óta készült, azt egy asszonyi szeszély mind dugába dönti.",
+  "source": "Jókai Mór, Névtelen vár"
+ },
+ "fuvallat": {
+  "quote": "E gondolat úgy átmelegíti a szívet; ez nem engedi érezni a szél hideg fuvallatát.",
+  "source": "Jókai Mór, Kárpáthy Zoltán"
+ },
+ "illat": {
+  "quote": "A moggori rózsa levele pedig mámorít, az illatától oly ittassá lesz az ember, mintha bort ivott volna.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "honvágy": {
+  "quote": "Némelyiket a honvágy lepte meg, szerették volna a szülőhelyüket látni, esetleg maradékaikat; ez Tolnába, amaz Borsodba készült.",
+  "source": "Mikszáth Kálmán, Új Zrínyiász"
+ },
+ "erény": {
+  "quote": "Egy elképzelt jó tulajdonság (ezúttal a rendkívüli emlékezőtehetség látszata) többet ér néha, mint száz meglevő erény.",
+  "source": "Mikszáth Kálmán, A Noszty fiú esete Tóth Marival"
+ },
+ "bölcs": {
+  "quote": "Vannak tárgyak, mikről bölcs ember sokat beszélhet, de vannak ismét esetek, mikben a bölcseség nem használatos.",
+  "source": "Jókai Mór, Egy magyar nábob"
+ },
+ "kopár": {
+  "quote": "Sovány, kietlen vidék az, kopár hegyek között fekszik egy szűk völgyben meglapulva a falucska.",
+  "source": "Mikszáth Kálmán, Szent Péter esernyője"
+ },
+ "viszály": {
+  "quote": "Az pedig sok családi viszálynak szokott kezdő sora lenni, hogy elfogy a pénz.",
+  "source": "Jókai Mór, Fekete gyémántok"
+ },
+ "leleményes": {
+  "quote": "A kavics az országúton hever szétszórva, de a drágakő számára hozzáférhetetlen szekrényeket gondolt ki a leleményes ész.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "liget": {
+  "quote": "Kerüljünk oda, hol a szarvasok delelnek az árnyékos ligetben, hol a tekenősbéka sütkérez a napon, s a kócsagok fürdenek.",
+  "source": "Jókai Mór, Erdély aranykora"
+ },
+ "csitít": {
+  "quote": "A leány pedig fülig pirul, s szemérmes boszankodással csitítja a fecsegő tollas embert.",
+  "source": "Jókai Mór, Rab Ráby"
+ },
+ "rideg": {
+  "quote": "A könnyen fellobbanó, könnyen felejtő férfi dühös keserü szemeket vetett a fagyos, rideg asszonyra.",
+  "source": "Móricz Zsigmond, Sárarany"
+ },
+ "éber": {
+  "quote": "Látni való, hogy ide gyorseszű, éber lelkű, bátor és ügyes férfiura van szükség.",
+  "source": "Jókai Mór, Szegény gazdagok"
+ },
+ "ünnepélyes": {
+  "quote": "Egészben véve tekintélyes és ünnepélyes férfi volt és mint öreg író, titkon lenézte még az esperes urat is.",
+  "source": "Krúdy Gyula, Szindbád ifjúsága"
+ },
+ "hajlék": {
+  "quote": "A tiltott hit titkon, kivételes időben, erdők, sziklaüregek, romok közt vagy magányos hajlékokban és ritkán gyűlt össze.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "vándor": {
+  "quote": "Éjfél tájon, mikor lemegy a hold, s tovább utazni veszélyes, a vándorok elérik a pihenő tanyát.",
+  "source": "Jókai Mór, Egy az Isten"
+ },
+ "kaland": {
+  "quote": "Misi dideregve a gyönyörűségtől, egyik lábáról a másikra billegett, sose képzelt volna el ilyen rendkívüli kalandot.",
+  "source": "Móricz Zsigmond, Légy jó mindhalálig"
+ },
+ "mulandó": {
+  "quote": "Ha nem gyűjtök mulandó vagyont számodra, ha nem veszlek körül a fényűzés és választékos ízlés varázsával, kedélyed saját természetes egyszerűségében fejlik ki.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "borong": {
+  "quote": "Ma nem ér rá senki hanyatló nemzetek elmult dicsőségén borongani, mert nagyobb baj van annál.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "esdekel": {
+  "quote": "Egyik pillanatban esdekelve térdelt elém, hogy később fegyvert fogjon reám.",
+  "source": "Krúdy Gyula, A podolini kísértet"
+ },
+ "hivalkodik": {
+  "quote": "Ha hivalkodni tetszik vele, hogy a gyermekéért képes volna minden áldozatra, ne riadjon vissza mindjárt a legelső áldozattól.",
+  "source": "Ambrus Zoltán, Midás király"
+ },
+ "csügged": {
+  "quote": "A gyáva csügged el, a törpe omlik le az élet terhe alatt.",
+  "source": "Jókai Mór, Kárpáthy Zoltán"
+ },
+ "álnok": {
+  "quote": "Oh, te álnok baziliskus kigyó, a ki még az én Argus szemeimet is ki tudtad játszani.",
+  "source": "Mikszáth Kálmán, A Noszty fiú esete Tóth Marival"
+ },
+ "kaján": {
+  "quote": "Kajánul s gonoszul kuncogott, mint egy rossz kölyök…",
+  "source": "Móricz Zsigmond, Tündérkert"
+ },
+ "léha": {
+  "quote": "A gentry akármennyire léha, mindig marad benne valami szeretetreméltó, a mágnás egyéb hibáin kívül még nyegle, keményszívű és rideg is.",
+  "source": "Mikszáth Kálmán, A Noszty fiú esete Tóth Marival"
+ },
+ "ódon": {
+  "quote": "A folyosón volt egy ódon fali óra, a mit minden nap maga húzott fel Lizette.",
+  "source": "Jókai Mór, Névtelen vár"
+ },
+ "balsors": {
+  "quote": "Valahányszor téged idehoz a balsors, olyan vagy nekem, mint a halálmadár: tudom, hogy valami kétségbeejtő terved van ellenem.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "dac": {
+  "quote": "Most már legalább van benne dac és szembe mer szállani a fenyegető sorssal.",
+  "source": "Móricz Zsigmond, Sárarany"
+ },
+ "enyészet": {
+  "quote": "Az ember, a halina, a kunyhó, a pipa, sőt még a duda is ki van téve a mulandóságnak, az enyészetnek, hanem a határ – az örökkévaló.",
+  "source": "Mikszáth Kálmán, A tót atyafiak; A jó palócok"
+ },
+ "kegyelet": {
+  "quote": "Lesznek vértanuitok, de nem marad hívő, ki azok nevét a késő kegyelet számára följegyezze.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "mámor": {
+  "quote": "Én azt a leirhatlan mámort éreztem, a mely mindenkit meglep, a ki először kerül derék ütközetbe.",
+  "source": "Jókai Mór, Nincsen ördög"
+ },
+ "végzet": {
+  "quote": "Hiszen nem akar semmi becstelent, csak a csatát akarja megnyerni, melyet neki a végzet üzent.",
+  "source": "Mikszáth Kálmán, A Noszty fiú esete Tóth Marival"
+ },
+ "zsarnok": {
+  "quote": "Titokban lemondott azokról az aprólékos élvezetekről, a melyek, ha szokásokká válnak, nagy zsarnokaink tudnak lenni.",
+  "source": "Ambrus Zoltán, Midás király"
+ },
+ "dőre": {
+  "quote": "Szóval, Kassai elég eszesen számított, de a világon gyakran történik, hogy a mély okoskodás csak úgy sántít, mint akármely dőre ötlet.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "epekedik": {
+  "quote": "Legalább nézze meg a házam, az ágyasházam, ahol magamban szenvedek, epekedek, bánkódom és sirdogálok.",
+  "source": "Krúdy Gyula, Szindbád ifjúsága"
+ },
+ "szemérmes": {
+  "quote": "Halkan, szemérmesen, szégyenkezve megköszönte, mint valami alamizsnát s majdnem kezet csókolt.",
+  "source": "Móricz Zsigmond, Légy jó mindhalálig"
+ },
+ "kétely": {
+  "quote": "A legnyiltabb fejűt is közülök elfogták néha ilyen kínzó, aprólékos, lelki kételyek.",
+  "source": "Kaffka Margit, Hangyaboly"
+ },
+ "délibáb": {
+  "quote": "A délibáb különösen kérkedő volt a mai nap: pálmaerdőket mutogatott a láthatáron.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "kietlen": {
+  "quote": "Katalin, mint az álomjáró, ődöngött e kietlen téren.",
+  "source": "Jókai Mór, Névtelen vár"
+ },
+ "jámbor": {
+  "quote": "A jámbor emberek látva a főúr ingerült kedélyét, átallottak belépni, míg végre a tiszttartó betuszkolá őket.",
+  "source": "Jókai Mór, Erdély aranykora"
+ },
+ "fukar": {
+  "quote": "No iszen én nem leszek fukar, azt tapasztalni fogja.",
+  "source": "Jókai Mór, Szegény gazdagok"
+ },
+ "verőfény": {
+  "quote": "A verőfény süt, de valami vékony köd fekszik előtte, mely nem engedi, hogy tisztán ragyogjon és melegítsen.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "förgeteg": {
+  "quote": "Nem is gondolat az: két villám találkozása két förgeteg öléből.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "káprázat": {
+  "quote": "Gondolta, a mit most lát, hall, az mind csak káprázat.",
+  "source": "Jókai Mór, Egy az Isten"
+ },
+ "kacér": {
+  "quote": "Mimi a lépcső közepén járhatott, midőn egyszerre hátránézett és az arcán kacér, eddig nem látott mosolygás jelent meg.",
+  "source": "Krúdy Gyula, Szindbád ifjúsága"
+ },
+ "csalárd": {
+  "quote": "Már most tehát csupán az a kérdés, vajon igaz álom-e a beteg asszonyé, vagy pedig csalárd álom, melynek semmi alapja?",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "magasztos": {
+  "quote": "A mult heteken egy ilyenforma úr járt itt; úgy beszélt magasztos eszmékről, mint a folyóviz.",
+  "source": "Móricz Zsigmond, Hét krajcár"
+ },
+ "balga": {
+  "quote": "Behúnyta a szemét, mint az elitélt a tőkén, kit egy balga ösztön vezet, hogy a lecsapódó pallos nem olyan szörnyű így.",
+  "source": "Mikszáth Kálmán, Szent Péter esernyője"
+ },
+ "dereng": {
+  "quote": "Kint friss volt a levegő, s keleten már erősen derengett a hajnal.",
+  "source": "Móricz Zsigmond, Sárarany"
+ },
+ "róna": {
+  "quote": "A szép zöld rónán, melyen az országút átvonul, egy erős lovas csapat közeledik.",
+  "source": "Jókai Mór, Névtelen vár"
+ },
+ "csalogány": {
+  "quote": "A csalogány dalolt, a gerlék turbékoltak, a narancsvirág illata oly kábító volt.",
+  "source": "Jókai Mór, Fekete gyémántok"
+ },
+ "ihlet": {
+  "quote": "Erő, villám, ihlet volt minden vonása, szava, mozdulata.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "kedély": {
+  "quote": "Gyermekkorától fogva igen félénk kedély, melyet még gyámoltalanabbá tett az ifjukori életmód, a szüntelen mástól függés.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "közöny": {
+  "quote": "Nézze el túlcsapongó szeszélyeit, ezeket át kell élni annak, ki a közöny magaslatára akar jutni.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "igéző": {
+  "quote": "Oly szép délelőtt volt, mintha a természet megmutatni vágyott volna, mennyire tud, ha akar, kellemes és igéző lenni.",
+  "source": "Kemény Zsigmond, Zord idő"
+ },
+ "fortély": {
+  "quote": "A ki nem tudja ennek a zárnak a fortélyát, forgathatja az benne a kulcsot előre is hátra is: akár napestig.",
+  "source": "Jókai Mór, Nincsen ördög"
+ },
+ "zarándok": {
+  "quote": "Ha kürtjébe fú, bár az idő éjfél felé jár, tüstént bebocsátják, legyen zarándok vagy lovag, úr vagy pór.",
+  "source": "Kemény Zsigmond, Zord idő"
+ },
+ "remete": {
+  "quote": "A csélcsap szerelme kis kutya, hanem a remete szenvedélye oroszlán!",
+  "source": "Jókai Mór, Fekete gyémántok"
+ },
+ "bálvány": {
+  "quote": "Ezek az óriási nagyságok az ő bálványai voltak, és mégis lángol a vére, mikor elmulásukat hallja.",
+  "source": "Jókai Mór, A kőszívű ember fiai"
+ },
+ "szenvedély": {
+  "quote": "Ha akarna oly bűnös lenni, mint az úrrá lett szenvedély kívánja, nyerne-e mást, mint megvetést?",
+  "source": "Jókai Mór, Egy magyar nábob"
+ },
+ "ildomos": {
+  "quote": "Szeredinek a kósza fecsegés mellett az ildomos hallgatás is tulajdona volt.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "dalia": {
+  "quote": "Ha lóháton jött egy szép dalia, csak akkor mertem ráemelni a szemem, amikor már tovanyargalt.",
+  "source": "Krúdy Gyula, Szindbád ifjúsága"
+ },
+ "lator": {
+  "quote": "Én bizony nem azért dugom egyik garast a másikhoz, hogy valami lator majd elvigye, elkártyázza, vagy nőkre költse az én keserves szerzeményemet.",
+  "source": "Krúdy Gyula, A vörös postakocsi"
+ },
+ "rőt": {
+  "quote": "A rőt hajszálai égnek álltak s a halántékán halálos verejték gyöngyözött.",
+  "source": "Mikszáth Kálmán, Szent Péter esernyője"
+ },
+ "alélt": {
+  "quote": "Egynek-egynek háta mögé félig alélt keresztyén hölgy van felkötve, kire rablója hátra sem néz.",
+  "source": "Jókai Mór, Erdély aranykora"
+ },
+ "aggastyán": {
+  "quote": "Az aggastyán e szóra egy fejjel magasabbra látszott kiegyenesedni; reszkető kezét fölemelte és fejemre tevé.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "regös": {
+  "quote": "Ha éppen effélék hallgatására van kedvök, hivatnak regöst, hegedőst, elmondatják.",
+  "source": "Gárdonyi Géza, A láthatatlan ember"
+ },
+ "igric": {
+  "quote": "A hegedősök hol itt, hol ott egyenként vagy páronkint dalolták a dicsőség dalait; az igricek sípoltak, a kvád zenészek dudáltak.",
+  "source": "Gárdonyi Géza, A láthatatlan ember"
+ },
+ "fertály": {
+  "quote": "Jó fertályóráig megkavarodva várták, míg a városból nagy vivátozás hallatszott…",
+  "source": "Móricz Zsigmond, Tündérkert"
+ },
+ "ármádia": {
+  "quote": "A mint visszautaztában a nagy ármádia utócsapatának derekával is találkozott, szíve egészen megkönnyült.",
+  "source": "Kemény Zsigmond, Zord idő"
+ },
+ "pitvar": {
+  "quote": "A csárda udvarán senki sem volt, s a pitvarból senki sem sietett eléjük.",
+  "source": "Jókai Mór, Szegény gazdagok"
+ },
+ "almárium": {
+  "quote": "Egy sárga körtefa almárium és egy polituros öreg kredenc foglalta el a szoba többi részét.",
+  "source": "Gárdonyi Géza, Az öreg tekintetes"
+ },
+ "kalmár": {
+  "quote": "Igy nem igen lehetett sohasem tudni, hogy mikor alszik az élelmes kalmár.",
+  "source": "Krúdy Gyula, A podolini kísértet"
+ },
+ "csalafinta": {
+  "quote": "Maguk közé vették s a száj szögletében rejtezkedő csalafinta mosolygás közt elkezdték szemelgetni, ropogtatni.",
+  "source": "Móricz Zsigmond, Hét krajcár"
+ },
+ "cimbora": {
+  "quote": "Hej, öreg cimbora, de régen is találkoztunk egymással!",
+  "source": "Krúdy Gyula, Szindbád utazásai"
+ },
+ "patália": {
+  "quote": "Szeretett volna patáliát csapni, földhöz verni valamit, szerette volna megmarkolni s megrázni dühében az asszonyt.",
+  "source": "Móricz Zsigmond, Sárarany"
+ },
+ "delejes": {
+  "quote": "Ha valami, úgy ez a pillanat volt az, melyben férjét olyan delejes fénykörben látá maga előtt, mely ellenállhatlanul csábít, hódít, megveszteget.",
+  "source": "Jókai Mór, Szegény gazdagok"
+ },
+ "lángész": {
+  "quote": "Ő hideg ész, és ott lángészre van szükség.",
+  "source": "Jókai Mór, Erdély aranykora"
+ },
+ "nyavalya": {
+  "quote": "Pista bácsin a felindulás és a rögtön megváltoztatott életmód, meg az áthülés következésében, erőt vett a nyavalya.",
+  "source": "Kemény Zsigmond, Zord idő"
+ },
+ "métely": {
+  "quote": "Eláradott a bűn, főleg a szombatosság mételye veszélyesen terjed.",
+  "source": "Kemény Zsigmond, A rajongók"
+ },
+ "dögvész": {
+  "quote": "Hanem hát nem volt azon a hajón sem dugáru, sem dögvész, hanem – valami más.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "malaszt": {
+  "quote": "Réme ott is közéje áll s útját szegi a mennyei malaszthoz.",
+  "source": "Jókai Mór, Nincsen ördög"
+ },
+ "zsolozsma": {
+  "quote": "Mikor a zsolozsma utolsó sorát énekelték, már fenn voltak a falon.",
+  "source": "Jókai Mór, Egy az Isten"
+ },
+ "eretnek": {
+  "quote": "Hisz ön eretnek, a ki nem hiszen a könyező szent képekben.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "táltos": {
+  "quote": "Ha fölszabadulsz, gyere el hozzám: olyan táltost nevelek belőled, hogy még esőt is tudsz idézni.",
+  "source": "Gárdonyi Géza, A láthatatlan ember"
+ },
+ "berzenkedik": {
+  "quote": "Hogyan tüszkölnek, berzenkednek, s mily rettentően fel vannak háborodva!",
+  "source": "Ambrus Zoltán, Midás király"
+ },
+ "álmélkodik": {
+  "quote": "A nép kitolongott a sátorokból, s álmélkodva nézte az égi jelet.",
+  "source": "Gárdonyi Géza, A láthatatlan ember"
+ },
+ "őgyeleg": {
+  "quote": "Egyszer korán reggel a hetivásáros néptömeg közt Zófi asszony őgyeleg alá s fel, karján egy füles kosárral, s csirkére alkuszik a kofákkal.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "ténfereg": {
+  "quote": "Mikor puskája van az embernek, kerüli a vad, mikor meg nincs puskája, ott ténfereg a lába alatt.",
+  "source": "Mikszáth Kálmán, A Noszty fiú esete Tóth Marival"
+ },
+ "rengeteg": {
+  "quote": "A mammuth-járás tört utja egy édes patakhoz vezet, mely a rengeteg aljából a tóba ömlik.",
+  "source": "Jókai Mór, Fekete gyémántok"
+ },
+ "áldomás": {
+  "quote": "Mihály megdicsérte az ötletet s biztatást adott, hogy meg lesz érte az áldomás.",
+  "source": "Jókai Mór, Az arany ember"
+ },
+ "virtus": {
+  "quote": "Ha valahol rászedheti őket, azt nagy virtusnak tartja.",
+  "source": "Jókai Mór, Az új földesúr"
+ },
+ "kérkedik": {
+  "quote": "Az öreg úr kérkedve beszéli, hogy milyen láng lobog még az ereiben!",
+  "source": "Jókai Mór, Sárga rózsa"
+ },
+ "ragály": {
+  "quote": "Ott halt meg a legrettenetesebb ragály kórházában, a betegeket ápolva, mint egy hősnő, mint egy szent.",
+  "source": "Jókai Mór, Névtelen vár"
+ }
+}

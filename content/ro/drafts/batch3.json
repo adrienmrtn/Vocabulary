@@ -1,0 +1,776 @@
+[
+ {
+  "lemma": "hâtru",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhɨtru",
+  "definition": "Deștept și glumeț, pus mereu pe șotii",
+  "example": "Moșul cel hâtru avea o vorbă de duh pentru oricine.",
+  "synonyms": [
+   "șugubăț",
+   "poznaș",
+   "isteț"
+  ],
+  "origin": "Din ucraineanul hytryj «șiret»."
+ },
+ {
+  "lemma": "mucalit",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "mukaˈlit",
+  "definition": "Care face haz păstrând un aer serios",
+  "example": "Unchiul meu, mucalit din fire, glumea fără să zâmbească.",
+  "synonyms": [
+   "glumeț",
+   "hâtru",
+   "poznaș"
+  ],
+  "origin": "Din turcescul mukallit «imitator, măscărici»."
+ },
+ {
+  "lemma": "sindrofie",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "sindroˈfi.e",
+  "definition": "Petrecere restrânsă între prieteni sau cunoscuți",
+  "example": "Sâmbătă seara dădeau câte o sindrofie cu muzică și cozonac.",
+  "synonyms": [
+   "serată",
+   "reuniune",
+   "agapă"
+  ],
+  "origin": "Din neogrecescul syntrofía «tovărășie»."
+ },
+ {
+  "lemma": "filotimie",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "filotiˈmi.e",
+  "definition": "Larghețe și noblețe de suflet în purtare",
+  "example": "Boierul era vestit pentru filotimia cu care își primea oaspeții.",
+  "synonyms": [
+   "generozitate",
+   "dărnicie",
+   "mărinimie"
+  ],
+  "origin": "Din neogrecescul filotimía «simț al onoarei»."
+ },
+ {
+  "lemma": "galanton",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ɡalanˈton",
+  "definition": "Darnic, care cheltuiește cu mână largă",
+  "example": "S-a arătat galanton și a plătit masa tuturor.",
+  "synonyms": [
+   "darnic",
+   "generos",
+   "mărinimos"
+  ],
+  "origin": "Din francezul galant homme «om curtenitor»; se întâlnește și varianta galantom."
+ },
+ {
+  "lemma": "levent",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "leˈvent",
+  "definition": "Chipeș, voinic și darnic",
+  "example": "Era un flăcău levent, cu mustața răsucită și vorbă aleasă.",
+  "synonyms": [
+   "chipeș",
+   "falnic",
+   "mândru"
+  ],
+  "origin": "Din turcescul levent «tânăr voinic, ostaș de marină»."
+ },
+ {
+  "lemma": "zaiafet",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "zajaˈfet",
+  "definition": "Petrecere mare cu mâncare, băutură și lăutari",
+  "example": "Nunta s-a încheiat cu un zaiafet de trei zile.",
+  "synonyms": [
+   "chef",
+   "ospăț",
+   "benchet"
+  ],
+  "origin": "Din turcescul ziyafet «ospăț»."
+ },
+ {
+  "lemma": "catadicsi",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "katadikˈsi",
+  "definition": "A binevoi, cu îngâmfare, să facă ceva",
+  "example": "N-a catadicsit nici măcar să răspundă la salut.",
+  "synonyms": [
+   "îndura",
+   "accepta",
+   "consimți"
+  ],
+  "origin": "Din neogrecescul katadéchomai «a primi, a binevoi»."
+ },
+ {
+  "lemma": "chivernisi",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "kiverniˈsi",
+  "definition": "A gospodări cu grijă o avere; a se căpătui",
+  "example": "Și-a chivernisit atât de bine banii, încât n-a dus lipsă.",
+  "synonyms": [
+   "administra",
+   "economisi",
+   "pricopsi"
+  ],
+  "origin": "Din neogrecescul kyvernó «a conduce, a guverna»."
+ },
+ {
+  "lemma": "adăsta",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "adəsˈta",
+  "definition": "A sta în așteptare; a face un popas",
+  "example": "Călătorii au adăstat la han până s-a oprit ploaia.",
+  "synonyms": [
+   "aștepta",
+   "zăbovi",
+   "poposi"
+  ],
+  "origin": "Din latina populară *adastare, compus cu stare «a sta»."
+ },
+ {
+  "lemma": "purcede",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "purˈt͡ʃede",
+  "definition": "A o lua din loc; a se apuca de ceva",
+  "example": "În zori, oastea a purces spre cetatea de scaun.",
+  "synonyms": [
+   "porni",
+   "pleca",
+   "începe"
+  ],
+  "origin": "Din latinescul procedere «a înainta»."
+ },
+ {
+  "lemma": "ostoi",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "ostoˈi",
+  "definition": "A face să se liniștească o durere ori o furie",
+  "example": "Ceaiul de tei i-a ostoit tusea și a putut dormi.",
+  "synonyms": [
+   "potoli",
+   "domoli",
+   "alina"
+  ],
+  "origin": "Din slavonul ustojati «a rămâne pe loc, a rezista»."
+ },
+ {
+  "lemma": "persifla",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "persiˈfla",
+  "definition": "A lua în râs cu ironie fină",
+  "example": "Criticul persifla cu eleganță moda romanelor siropoase.",
+  "synonyms": [
+   "ironiza",
+   "zeflemisi",
+   "batjocori"
+  ],
+  "origin": "Din francezul persifler."
+ },
+ {
+  "lemma": "tergiversa",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "terd͡ʒiverˈsa",
+  "definition": "A amâna cu pretexte o hotărâre",
+  "example": "Comisia a tergiversat luni de zile răspunsul la cererea noastră.",
+  "synonyms": [
+   "tărăgăna",
+   "temporiza",
+   "lungi"
+  ],
+  "origin": "Din francezul tergiverser, din latinescul tergiversari «a întoarce spatele»."
+ },
+ {
+  "lemma": "obnubila",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "obnubiˈla",
+  "definition": "A acoperi ca un văl mintea sau privirea",
+  "example": "Furia îi obnubilase cu totul judecata.",
+  "synonyms": [
+   "întuneca",
+   "încețoșa",
+   "voala"
+  ],
+  "origin": "Din francezul obnubiler, din latinescul obnubilare «a acoperi cu nori»."
+ },
+ {
+  "lemma": "sagace",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "saˈɡat͡ʃe",
+  "definition": "Cu o minte ascuțită și pătrunzătoare",
+  "example": "Un observator sagace ar fi ghicit totul din prima clipă.",
+  "synonyms": [
+   "perspicace",
+   "ager",
+   "isteț"
+  ],
+  "origin": "Din latinescul sagax, -acis și italianul sagace."
+ },
+ {
+  "lemma": "sibilinic",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "sibiˈlinik",
+  "definition": "Cu înțeles ascuns, greu de dezlegat",
+  "example": "Mi-a răspuns cu un zâmbet sibilinic și a plecat.",
+  "synonyms": [
+   "enigmatic",
+   "obscur",
+   "misterios"
+  ],
+  "origin": "Din francezul sibyllin, de la numele Sibilei, prezicătoarea antică."
+ },
+ {
+  "lemma": "abscons",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "abˈskons",
+  "definition": "Greu de înțeles, ascuns celor neinițiați",
+  "example": "Tratatul era scris într-un limbaj abscons, plin de simboluri.",
+  "synonyms": [
+   "obscur",
+   "ermetic",
+   "încifrat"
+  ],
+  "origin": "Din francezul abscons, din latinescul absconsus «ascuns»."
+ },
+ {
+  "lemma": "inefabil",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "inefaˈbil",
+  "definition": "Care nu poate fi exprimat în cuvinte",
+  "example": "Muzica aceea avea un farmec inefabil.",
+  "synonyms": [
+   "negrăit",
+   "nespus",
+   "indicibil"
+  ],
+  "origin": "Din francezul ineffable, din latinescul ineffabilis."
+ },
+ {
+  "lemma": "vetust",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "veˈtust",
+  "definition": "Deteriorat și ieșit din uz de trecerea vremii",
+  "example": "Hotelul avea un farmec vetust, cu oglinzi pătate și catifea roasă.",
+  "synonyms": [
+   "învechit",
+   "demodat",
+   "perimat"
+  ],
+  "origin": "Din francezul vétuste, din latinescul vetustus «bătrân»."
+ },
+ {
+  "lemma": "prolix",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "proˈliks",
+  "definition": "Prea lung și încâlcit în exprimare",
+  "example": "Raportul prolix a fost redus la două pagini limpezi.",
+  "synonyms": [
+   "stufos",
+   "dezlânat",
+   "vorbăreț"
+  ],
+  "origin": "Din francezul prolixe, din latinescul prolixus «revărsat, întins»."
+ },
+ {
+  "lemma": "beatitudine",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "be.atiˈtudine",
+  "definition": "Stare de mulțumire deplină și senină",
+  "example": "Pisica dormea la soare într-o stare de beatitudine.",
+  "synonyms": [
+   "fericire",
+   "extaz",
+   "desfătare"
+  ],
+  "origin": "Din francezul béatitude, din latinescul beatitudo."
+ },
+ {
+  "lemma": "vicisitudine",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "vit͡ʃisiˈtudine",
+  "definition": "Întorsătură neprielnică a sorții, greu de îndurat",
+  "example": "A înfruntat cu demnitate toate vicisitudinile exilului.",
+  "synonyms": [
+   "necaz",
+   "încercare",
+   "nenorocire"
+  ],
+  "origin": "Din francezul vicissitude, din latinescul vicissitudo «schimbare, alternanță»."
+ },
+ {
+  "lemma": "genune",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "d͡ʒeˈnune",
+  "definition": "Adâncime fără fund, de apă sau de întuneric",
+  "example": "Stelele păreau că se sting în genunea întunecată a mării.",
+  "synonyms": [
+   "abis",
+   "hău",
+   "prăpastie"
+  ],
+  "origin": "Din latinescul gyro, -onis «vârtej»."
+ },
+ {
+  "lemma": "noian",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "noˈjan",
+  "definition": "Întindere nesfârșită; mulțime uriașă",
+  "example": "S-a pierdut într-un noian de amintiri și de hârtii vechi.",
+  "synonyms": [
+   "puzderie",
+   "potop",
+   "imensitate"
+  ],
+  "origin": "Origine nesigură; a fost apropiat de albanezul ujanë «întindere mare de apă»."
+ },
+ {
+  "lemma": "colnic",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "ˈkolnik",
+  "definition": "Ridicătură mică de pământ; drum îngust care o trece",
+  "example": "Cireada cobora încet de pe colnic spre sat.",
+  "synonyms": [
+   "deal",
+   "colină",
+   "dâmb"
+  ],
+  "origin": "De origine slavă; cf. bulgarul kolnik «drum de care»."
+ },
+ {
+  "lemma": "hrisov",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "hriˈsov",
+  "definition": "Act domnesc vechi care întărea un drept",
+  "example": "Mănăstirea păstrează un hrisov de la Ștefan cel Mare.",
+  "synonyms": [
+   "document",
+   "uric",
+   "zapis"
+  ],
+  "origin": "Din neogrecescul chrysóvoulon «bulă de aur»."
+ },
+ {
+  "lemma": "letopiseț",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "letopiˈset͡s",
+  "definition": "Scriere veche care povestește faptele pe ani",
+  "example": "Letopisețul lui Neculce se citește și azi cu plăcere.",
+  "synonyms": [
+   "cronică",
+   "anale",
+   "hronic"
+  ],
+  "origin": "Din slavonul lĕtopisĭcĭ, de la lĕto «an» și pisati «a scrie»."
+ },
+ {
+  "lemma": "pravilă",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈpravilə",
+  "definition": "Veche culegere de legi; rânduială de urmat",
+  "example": "Judecătorii vremii hotărau după pravila domnească.",
+  "synonyms": [
+   "lege",
+   "cod",
+   "canon"
+  ],
+  "origin": "Din slavonul pravilo «regulă»."
+ },
+ {
+  "lemma": "stirpe",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈstirpe",
+  "definition": "Șir de strămoși din care coboară cineva",
+  "example": "Se lăuda că e de stirpe veche, din boieri de țară.",
+  "synonyms": [
+   "neam",
+   "viță",
+   "spiță"
+  ],
+  "origin": "Din latinescul stirps, -pis «tulpină, rădăcină»."
+ },
+ {
+  "lemma": "hărăzi",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "hərəˈzi",
+  "definition": "A da în dar; a hotărî dinainte pentru cineva",
+  "example": "Soarta i-a hărăzit o viață lungă și plină de întâmplări.",
+  "synonyms": [
+   "dărui",
+   "destina",
+   "meni"
+  ],
+  "origin": "Din slavonul harizati, de la grecescul charízo «a dărui»."
+ },
+ {
+  "lemma": "urgisi",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "urd͡ʒiˈsi",
+  "definition": "A lovi cu ură și dispreț; a alunga",
+  "example": "Poetul a murit urgisit de cei pe care îi slujise.",
+  "synonyms": [
+   "prigoni",
+   "oropsi",
+   "persecuta"
+  ],
+  "origin": "Din neogrecescul orgízo «a mânia», de la orgí «mânie»."
+ },
+ {
+  "lemma": "surghiuni",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "surɡjuˈni",
+  "definition": "A trimite în exil ca pedeapsă",
+  "example": "Domnitorul l-a surghiunit la o mănăstire din munți.",
+  "synonyms": [
+   "exila",
+   "izgoni",
+   "alunga"
+  ],
+  "origin": "Derivat din surghiun, din turcescul sürgün «exil»."
+ },
+ {
+  "lemma": "cazanie",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "kaˈzani.e",
+  "definition": "Predică; carte veche de învățături bisericești",
+  "example": "Preotul citea duminica din Cazania mitropolitului Varlaam.",
+  "synonyms": [
+   "omilie",
+   "propovăduire"
+  ],
+  "origin": "Din slavonul kazanije «învățătură»."
+ },
+ {
+  "lemma": "hagialâc",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "had͡ʒi.aˈlɨk",
+  "definition": "Călătorie de închinare la locurile sfinte",
+  "example": "Negustorul plecase în hagialâc tocmai la Ierusalim.",
+  "synonyms": [
+   "pelerinaj"
+  ],
+  "origin": "Din turcescul hacılık."
+ },
+ {
+  "lemma": "zălog",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "zəˈloɡ",
+  "definition": "Lucru lăsat în mâna cuiva până la plata datoriei",
+  "example": "Și-a lăsat ceasul zălog la cârciumar.",
+  "synonyms": [
+   "garanție",
+   "amanet",
+   "gaj"
+  ],
+  "origin": "Din slavonul zalogŭ «gaj»."
+ },
+ {
+  "lemma": "chezaș",
+  "level": 3,
+  "part_of_speech": "s.m.",
+  "ipa": "keˈzaʃ",
+  "definition": "Cel care răspunde pentru datoria altuia",
+  "example": "Fratele său i-a fost chezaș la împrumutul de la bancă.",
+  "synonyms": [
+   "garant",
+   "girant"
+  ],
+  "origin": "Din maghiarul kezes «garant»."
+ },
+ {
+  "lemma": "precupeț",
+  "level": 3,
+  "part_of_speech": "s.m.",
+  "ipa": "prekuˈpet͡s",
+  "definition": "Negustor mărunt care revinde alimente în piață",
+  "example": "Precupeții își strigau marfa de la primele ore.",
+  "synonyms": [
+   "vânzător",
+   "telal",
+   "samsar"
+  ],
+  "origin": "Din slavonul prĕkupĭcĭ «cel care cumpără ca să revândă»."
+ },
+ {
+  "lemma": "dregător",
+  "level": 3,
+  "part_of_speech": "s.m.",
+  "ipa": "dreɡəˈtor",
+  "definition": "Om cu înaltă funcție la curtea domnească",
+  "example": "Marii dregători s-au adunat în sfatul țării.",
+  "synonyms": [
+   "demnitar",
+   "slujbaș",
+   "boier"
+  ],
+  "origin": "Format din a drege «a rândui, a îndrepta» cu sufixul -ător."
+ },
+ {
+  "lemma": "ocârmui",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "okɨrmuˈi",
+  "definition": "A ține frâiele unei țări sau ale unei obști",
+  "example": "A ocârmuit țara cu dreptate vreme de douăzeci de ani.",
+  "synonyms": [
+   "conduce",
+   "guverna",
+   "cârmui"
+  ],
+  "origin": "Din slavonul okrŭmiti «a ține cârma»."
+ },
+ {
+  "lemma": "oploși",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "oploˈʃi",
+  "definition": "A-și găsi adăpost și rost pe lângă cineva",
+  "example": "S-a oploșit pe lângă un unchi bogat din capitală.",
+  "synonyms": [
+   "aciua",
+   "adăposti",
+   "pripăși"
+  ],
+  "origin": "Origine nesigură; a fost apropiat de slavonul oplošiti."
+ },
+ {
+  "lemma": "nimicnicie",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "nimikniˈt͡ʃi.e",
+  "definition": "Stare a ceea ce este lipsit de orice valoare",
+  "example": "Privind cerul înstelat, își simțea toată nimicnicia.",
+  "synonyms": [
+   "zădărnicie",
+   "deșertăciune",
+   "micime"
+  ],
+  "origin": "Format din nimicnic (nimic + sufixul -nic) cu sufixul -ie."
+ },
+ {
+  "lemma": "palimpsest",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "palimpˈsest",
+  "definition": "Pergament de pe care s-a șters scrisul pentru a fi refolosit",
+  "example": "Orașul vechi este un palimpsest în care se citesc toate epocile.",
+  "synonyms": [
+   "manuscris",
+   "pergament"
+  ],
+  "origin": "Din francezul palimpseste, de la grecescul palímpsēstos «răzuit din nou»."
+ },
+ {
+  "lemma": "panaceu",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "panaˈt͡ʃew",
+  "definition": "Remediu închipuit care ar vindeca orice rău",
+  "example": "Tehnologia nu este un panaceu pentru toate problemele școlii.",
+  "synonyms": [
+   "leac",
+   "elixir",
+   "soluție"
+  ],
+  "origin": "Din francezul panacée, de la grecescul panákeia «care vindecă tot»."
+ },
+ {
+  "lemma": "sinecură",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "sineˈkurə",
+  "definition": "Slujbă bine plătită care cere foarte puțină muncă",
+  "example": "Postul de consilier era o sinecură pentru prietenii ministrului.",
+  "synonyms": [
+   "chiverniseală",
+   "căpătuială"
+  ],
+  "origin": "Din francezul sinécure, din latinescul sine cura «fără grijă»."
+ },
+ {
+  "lemma": "ubicuu",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "uˈbiku.u",
+  "definition": "Care este prezent pretutindeni în același timp",
+  "example": "Telefonul a devenit un obiect ubicuu în viața noastră.",
+  "synonyms": [
+   "omniprezent"
+  ],
+  "origin": "Din latinescul ubique «pretutindeni», după francezul ubiquité."
+ },
+ {
+  "lemma": "sempitern",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "sempiˈtern",
+  "definition": "Care ține la nesfârșit, fără încetare",
+  "example": "Ne-a servit aceeași sempiternă scuză cu traficul.",
+  "synonyms": [
+   "veșnic",
+   "etern",
+   "perpetuu"
+  ],
+  "origin": "Din latinescul sempiternus; cf. francezul sempiternel."
+ },
+ {
+  "lemma": "apoftegmă",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "apofˈteɡmə",
+  "definition": "Vorbă memorabilă care exprimă concis un adevăr",
+  "example": "Își încheia fiecare lecție cu o apoftegmă din antici.",
+  "synonyms": [
+   "maximă",
+   "sentință",
+   "aforism"
+  ],
+  "origin": "Din francezul apophtegme, de la grecescul apóphthegma."
+ },
+ {
+  "lemma": "perora",
+  "level": 3,
+  "part_of_speech": "vb.",
+  "ipa": "peroˈra",
+  "definition": "A vorbi mult, cu emfază și pretenție",
+  "example": "Perora de o oră despre politică, fără să asculte pe nimeni.",
+  "synonyms": [
+   "declama",
+   "trăncăni",
+   "discursa"
+  ],
+  "origin": "Din francezul pérorer, din latinescul perorare «a pleda până la capăt»."
+ },
+ {
+  "lemma": "diatribă",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "di.aˈtribə",
+  "definition": "Critică violentă și amară, rostită sau scrisă",
+  "example": "Editorialul era o diatribă împotriva risipei banului public.",
+  "synonyms": [
+   "pamflet",
+   "invectivă",
+   "filipică"
+  ],
+  "origin": "Din francezul diatribe, de la grecescul diatribḗ «discuție, trecere a timpului»."
+ },
+ {
+  "lemma": "sofism",
+  "level": 3,
+  "part_of_speech": "s.n.",
+  "ipa": "soˈfism",
+  "definition": "Raționament corect în aparență, dar fals în fond",
+  "example": "Întreaga lui pledoarie se sprijinea pe un sofism abil.",
+  "synonyms": [
+   "paralogism",
+   "șiretlic"
+  ],
+  "origin": "Din francezul sophisme, de la grecescul sóphisma «dibăcie, vicleșug»."
+ },
+ {
+  "lemma": "prozelit",
+  "level": 3,
+  "part_of_speech": "s.m.",
+  "ipa": "prozeˈlit",
+  "definition": "Adept câștigat de curând pentru o credință sau idee",
+  "example": "Noua doctrină a făcut repede prozeliți printre studenți.",
+  "synonyms": [
+   "adept",
+   "convertit",
+   "discipol"
+  ],
+  "origin": "Din francezul prosélyte, de la grecescul prosḗlytos «nou-venit»."
+ },
+ {
+  "lemma": "parcimonie",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "part͡ʃimoˈni.e",
+  "definition": "Economie dusă până aproape de avariție",
+  "example": "Împărțea laudele cu parcimonie, ca pe niște bani.",
+  "synonyms": [
+   "zgârcenie",
+   "cumpătare"
+  ],
+  "origin": "Din francezul parcimonie, din latinescul parcimonia, de la parcere «a cruța»."
+ },
+ {
+  "lemma": "lapidar",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "lapiˈdar",
+  "definition": "Scurt și dens, ca o inscripție în piatră",
+  "example": "Stilul lui lapidar spune totul în trei rânduri.",
+  "synonyms": [
+   "concis",
+   "laconic",
+   "succint"
+  ],
+  "origin": "Din francezul lapidaire, din latinescul lapidarius, de la lapis «piatră»."
+ },
+ {
+  "lemma": "oniric",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "oˈnirik",
+  "definition": "Care ține de vis sau seamănă cu visul",
+  "example": "Filmul are o atmosferă onirică, greu de uitat.",
+  "synonyms": [
+   "ireal",
+   "fantastic",
+   "halucinant"
+  ],
+  "origin": "Din francezul onirique, de la grecescul óneiros «vis»."
+ },
+ {
+  "lemma": "paradigmă",
+  "level": 3,
+  "part_of_speech": "s.f.",
+  "ipa": "paraˈdiɡmə",
+  "definition": "Model de gândire dominant într-o epocă sau știință",
+  "example": "Descoperirea a schimbat paradigma întregii fizici moderne.",
+  "synonyms": [
+   "model",
+   "tipar",
+   "exemplu"
+  ],
+  "origin": "Din francezul paradigme, de la grecescul parádeigma «model, exemplu»."
+ }
+]

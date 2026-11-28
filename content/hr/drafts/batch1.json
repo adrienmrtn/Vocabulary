@@ -1,0 +1,827 @@
+[
+ {
+  "lemma": "blag",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "blaɡ",
+  "definition": "Nježan i umjeren, bez oštrine",
+  "example": "Imala je blag glas koji je smirivao i najnemirniju djecu.",
+  "synonyms": [
+   "nježan",
+   "pitom",
+   "umjeren"
+  ],
+  "origin": "Od praslavenskoga *bolgъ «dobar, ugodan»; ista je riječ u temelju imenice blago."
+ },
+ {
+  "lemma": "bistar",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈbistar",
+  "definition": "Proziran i čist; također brza uma",
+  "example": "Potok je bio tako bistar da se vidio svaki kamenčić na dnu.",
+  "synonyms": [
+   "proziran",
+   "čist",
+   "pametan"
+  ],
+  "origin": "Od praslavenskoga *bystrъ «brz, hitar», odakle se razvilo i značenje «jasan, proziran»."
+ },
+ {
+  "lemma": "čeznuti",
+  "level": 1,
+  "part_of_speech": "gl.",
+  "ipa": "ˈtʃeznuti",
+  "definition": "Snažno i dugo željeti nešto daleko ili izgubljeno",
+  "example": "Godinama je čeznula za morem i mirisom borova.",
+  "synonyms": [
+   "žudjeti",
+   "hlepjeti",
+   "ginuti"
+  ],
+  "origin": "Od praslavenskoga *čeznǫti «nestajati, gasnuti»; značenje se pomaknulo od «kopnjeti» prema «kopnjeti od želje»."
+ },
+ {
+  "lemma": "dokolica",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "doˈkolitsa",
+  "definition": "Slobodno vrijeme bez obveza i posla",
+  "example": "U dokolici je najradije čitao stare putopise.",
+  "synonyms": [
+   "besposlica",
+   "odmor",
+   "razonoda"
+  ],
+  "origin": "Od pridjeva dokolan, inačice pridjeva dokon «besposlen», koji se obično povezuje s do i kon «kraj», tj. «onaj koji je dovršio posao»; pojedinosti nisu posve sigurne."
+ },
+ {
+  "lemma": "draž",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "draʒ",
+  "definition": "Privlačna ljepota koja osvaja",
+  "example": "Stari grad ima posebnu draž u rano jutro, dok su ulice još prazne.",
+  "synonyms": [
+   "čar",
+   "privlačnost",
+   "ljupkost"
+  ],
+  "origin": "Od praslavenskoga *dorgъ «drag, skup», istoga korijena kao drag i dragocjen."
+ },
+ {
+  "lemma": "gorljiv",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈɡorʎiʋ",
+  "definition": "Pun žara i strastvene predanosti",
+  "example": "Bio je gorljiv zagovornik očuvanja starih zanata.",
+  "synonyms": [
+   "vatren",
+   "strastven",
+   "zanesen"
+  ],
+  "origin": "Od glagola gorjeti, praslavenski *gorěti; doslovno «onaj koji gori»."
+ },
+ {
+  "lemma": "hitar",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈxitar",
+  "definition": "Brz i okretan u pokretu ili mišljenju",
+  "example": "Hitar kao vjeverica, dječak se popeo na sam vrh stabla.",
+  "synonyms": [
+   "brz",
+   "žustar",
+   "okretan"
+  ],
+  "origin": "Od praslavenskoga *xytrъ «brz, spretan», u vezi s glagolom hitati «hvatati, žuriti»."
+ },
+ {
+  "lemma": "iskren",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈiskren",
+  "definition": "Koji govori i osjeća bez pretvaranja",
+  "example": "Budi iskren i reci mi što zaista misliš o mojem rukopisu.",
+  "synonyms": [
+   "otvoren",
+   "pošten",
+   "istinoljubiv"
+  ],
+  "origin": "Od praslavenskoga *jьskrьnь «bliski», izvedenoga od *jьskrь «blizu»; iskrnji je bio «bližnji», pa odatle «prisan, otvoren»."
+ },
+ {
+  "lemma": "krepak",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈkrepak",
+  "definition": "Snažan, jedar i pun životne snage",
+  "example": "I u devedesetoj bio je krepak starac koji sam cijepa drva.",
+  "synonyms": [
+   "snažan",
+   "jedar",
+   "čvrst"
+  ],
+  "origin": "Od praslavenskoga *krěpъkъ «čvrst, jak»; isti je korijen u riječima krijepiti i okrepa."
+ },
+ {
+  "lemma": "ljubak",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈʎubak",
+  "definition": "Umiljat i privlačan na nježan način",
+  "example": "Ljubak osmijeh djevojčice razoružao je i najstrožeg učitelja.",
+  "synonyms": [
+   "umiljat",
+   "dražestan",
+   "mio"
+  ],
+  "origin": "Od praslavenskoga *ljubъ «mio, drag», korijena koji je i u riječima ljubav i ljubiti."
+ },
+ {
+  "lemma": "milina",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "miˈlina",
+  "definition": "Osjećaj duboke ugode i nježnosti",
+  "example": "Milina je bilo gledati kako djeca trče po prvom snijegu.",
+  "synonyms": [
+   "ugoda",
+   "slast",
+   "užitak"
+  ],
+  "origin": "Od pridjeva mio, praslavenski *milъ «drag, ljubak», sa sufiksom -ina."
+ },
+ {
+  "lemma": "nehaj",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈnexaj",
+  "definition": "Ravnodušnost i nebriga prema onome što treba činiti",
+  "example": "Zbog njegova nehaja vrt je do ljeta zarastao u korov.",
+  "synonyms": [
+   "nemar",
+   "nebriga",
+   "ravnodušnost"
+  ],
+  "origin": "Od niječnice ne i glagola hajati «mariti, brinuti se» (praslavenski *xajati)."
+ },
+ {
+  "lemma": "odvažan",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈodʋaʒan",
+  "definition": "Koji se bez straha upušta u opasno ili teško",
+  "example": "Odvažan potez mlade šahistice iznenadio je cijelu dvoranu.",
+  "synonyms": [
+   "hrabar",
+   "smion",
+   "neustrašiv"
+  ],
+  "origin": "Od glagola odvažiti se, koji se izvodi od vaga, germanske posuđenice (starovisokonjemački wāga); izvorno «odvagnuti, procijeniti pa se usuditi»."
+ },
+ {
+  "lemma": "pitom",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈpitom",
+  "definition": "Blage naravi; o kraju: blag i ugodan",
+  "example": "Pitom krajolik Zagorja smiruje svakoga tko dođe iz grada.",
+  "synonyms": [
+   "blag",
+   "krotak",
+   "miran"
+  ],
+  "origin": "Od praslavenskoga *pitomъ «hranjen, odgojen», staroga participa glagola *pitati «hraniti»."
+ },
+ {
+  "lemma": "plah",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "plax",
+  "definition": "Bojažljiv i lako uplašen; također nagao",
+  "example": "Plah pogled srne nestao je među stablima.",
+  "synonyms": [
+   "bojažljiv",
+   "stidljiv",
+   "plašljiv"
+  ],
+  "origin": "Od praslavenskoga *polxъ «strah; plašljiv», korijena koji je i u glagolu plašiti."
+ },
+ {
+  "lemma": "raskoš",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈraskoʃ",
+  "definition": "Veliko obilje i sjaj, bogatstvo izvan potrebe",
+  "example": "Raskoš baroknih palača i danas zadivljuje posjetitelje.",
+  "synonyms": [
+   "sjaj",
+   "obilje",
+   "luksuz"
+  ],
+  "origin": "Od praslavenskoga *orzkošь, od prefiksa raz- i korijena *kox- «voljeti, uživati»."
+ },
+ {
+  "lemma": "smjeran",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈsmjeran",
+  "definition": "Skroman, ponizan i tih u držanju",
+  "example": "Smjeran i tih, rijetko je govorio o vlastitim uspjesima.",
+  "synonyms": [
+   "skroman",
+   "ponizan",
+   "čedan"
+  ],
+  "origin": "Od glagola smjeriti «umjeriti, poniziti», od mjera (praslavenski *měra)."
+ },
+ {
+  "lemma": "spokoj",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈspokoj",
+  "definition": "Duboki unutarnji mir bez briga",
+  "example": "Na otoku je napokon pronašla spokoj koji je godinama tražila.",
+  "synonyms": [
+   "mir",
+   "smirenost",
+   "tišina"
+  ],
+  "origin": "Od praslavenskoga *pokojь «mir, počinak» s prefiksom s-; isti je korijen u riječima pokoj i počinuti."
+ },
+ {
+  "lemma": "tjeskoba",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "tjeˈskoba",
+  "definition": "Mučan osjećaj stegnutosti i neodređena straha",
+  "example": "Pred ispit ga je obuzela tjeskoba koju nije znao objasniti.",
+  "synonyms": [
+   "strepnja",
+   "zebnja",
+   "nemir"
+  ],
+  "origin": "Od pridjeva tijesan, praslavenski *těsnъ «uzak, stisnut»; tjeskoba je doslovno «stiješnjenost»."
+ },
+ {
+  "lemma": "umiljat",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈumiʎat",
+  "definition": "Koji nježnošću i dragošću osvaja druge",
+  "example": "Umiljat psić odmah je postao ljubimac cijele ulice.",
+  "synonyms": [
+   "mio",
+   "ljubak",
+   "dražestan"
+  ],
+  "origin": "Od glagola umiliti se, izvedenoga od mio (praslavenski *milъ)."
+ },
+ {
+  "lemma": "vedar",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈʋedar",
+  "definition": "Jasan i bez oblaka; također dobro raspoložen",
+  "example": "Vedar duh pomogao joj je da prebrodi i najteže dane.",
+  "synonyms": [
+   "jasan",
+   "veseo",
+   "bistar"
+  ],
+  "origin": "Od praslavenskoga *vedrъ «jasan, lijep (o vremenu)», srodno s njemačkim Wetter «vrijeme»."
+ },
+ {
+  "lemma": "zanos",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈzanos",
+  "definition": "Snažno oduševljenje koje čovjeka ponese",
+  "example": "S mladenačkim zanosom govorila je o svojem prvom putovanju.",
+  "synonyms": [
+   "oduševljenje",
+   "ushit",
+   "polet"
+  ],
+  "origin": "Od glagola zanijeti, složenoga od za- i nositi; doslovno «ono što čovjeka odnese»."
+ },
+ {
+  "lemma": "žudnja",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈʒudɲa",
+  "definition": "Jaka, gotovo bolna želja",
+  "example": "Žudnja za znanjem odvela ga je u najveće europske knjižnice.",
+  "synonyms": [
+   "čežnja",
+   "požuda",
+   "želja"
+  ],
+  "origin": "Od glagola žudjeti, koji se povezuje s praslavenskim *žьdati «čekati, željno iščekivati»."
+ },
+ {
+  "lemma": "brižan",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈbriʒan",
+  "definition": "Koji se pažljivo i s ljubavlju skrbi za druge",
+  "example": "Brižan otac svake je večeri provjeravao jesu li djeca pokrivena.",
+  "synonyms": [
+   "pažljiv",
+   "skrban",
+   "obziran"
+  ],
+  "origin": "Od imenice briga, koja se obično smatra posuđenicom iz talijanskoga (briga «nevolja, svađa»)."
+ },
+ {
+  "lemma": "dičan",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈditʃan",
+  "definition": "Vrijedan ponosa i hvale",
+  "example": "Dičan je to običaj koji selo čuva već tri stoljeća.",
+  "synonyms": [
+   "ponosan",
+   "slavan",
+   "častan"
+  ],
+  "origin": "Od imenice dika «ponos, slava», riječi nedovoljno razjašnjena podrijetla."
+ },
+ {
+  "lemma": "gord",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ɡord",
+  "definition": "Ponosan, često i preko mjere",
+  "example": "Bio je odviše gord da bi ikoga zamolio za pomoć.",
+  "synonyms": [
+   "ponosit",
+   "ohol",
+   "uznosit"
+  ],
+  "origin": "Od praslavenskoga *gъrdъ «ponosan, ohol»."
+ },
+ {
+  "lemma": "hir",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "xir",
+  "definition": "Iznenadna, nerazumna želja ili promjena volje",
+  "example": "Kupnja jedrilice nije bila hir, nego san iz djetinjstva.",
+  "synonyms": [
+   "mušica",
+   "prohtjev",
+   "kapric"
+  ],
+  "origin": "Podrijetlo nije pouzdano utvrđeno."
+ },
+ {
+  "lemma": "jad",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "jad",
+  "definition": "Duboka tuga i nevolja",
+  "example": "Svoj jad povjerila je samo najstarijoj prijateljici.",
+  "synonyms": [
+   "tuga",
+   "bol",
+   "žalost"
+  ],
+  "origin": "Od praslavenskoga *ědъ «otrov; gorčina», iste riječi od koje je i jed «ljutnja»."
+ },
+ {
+  "lemma": "kob",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "kob",
+  "definition": "Sudbina, osobito zla i neizbježna",
+  "example": "Kao da ga je pratila zla kob, svaki mu je pothvat propao.",
+  "synonyms": [
+   "sudbina",
+   "usud",
+   "udes"
+  ],
+  "origin": "Od praslavenskoga *kobь «gatanje po ptičjem letu, znamenje», odakle «sudbina»."
+ },
+ {
+  "lemma": "revan",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈreʋan",
+  "definition": "Marljiv i predan u izvršavanju dužnosti",
+  "example": "Revan knjižničar znao je napamet gdje stoji svaka knjiga.",
+  "synonyms": [
+   "marljiv",
+   "predan",
+   "vrijedan"
+  ],
+  "origin": "Iz crkvenoslavenskoga rьvьnъ, u vezi s rьvьnovati «žarko nastojati, biti ljubomoran»."
+ },
+ {
+  "lemma": "naum",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈnaum",
+  "definition": "Čvrsta namjera, ono što je netko odlučio učiniti",
+  "example": "Nitko ga nije mogao odvratiti od nauma da prepješači cijelu obalu.",
+  "synonyms": [
+   "namjera",
+   "nakana",
+   "plan"
+  ],
+  "origin": "Od glagola naumiti, složenoga od na- i um (praslavenski *umъ «razum»)."
+ },
+ {
+  "lemma": "okretan",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈokretan",
+  "definition": "Spretan i brz u gibanju i snalaženju",
+  "example": "Okretan konobar nosio je šest tanjura bez ijedne prolivene kapi juhe.",
+  "synonyms": [
+   "spretan",
+   "vješt",
+   "hitar"
+  ],
+  "origin": "Od glagola okretati, složenoga od o- i kretati (praslavenski *krętati)."
+ },
+ {
+  "lemma": "razborit",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "razˈborit",
+  "definition": "Koji prosuđuje trezveno i postupa promišljeno",
+  "example": "Razborit čovjek ne donosi važne odluke u ljutnji.",
+  "synonyms": [
+   "razuman",
+   "promišljen",
+   "trezven"
+  ],
+  "origin": "Od imenice razbor «sposobnost razlučivanja», od raz- i brati; doslovno «onaj koji zna razabrati»."
+ },
+ {
+  "lemma": "sklad",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "sklad",
+  "definition": "Lijep i uravnotežen odnos dijelova u cjelini",
+  "example": "Sklad boja na toj slici djeluje gotovo glazbeno.",
+  "synonyms": [
+   "harmonija",
+   "sloga",
+   "ravnoteža"
+  ],
+  "origin": "Od glagola skladati «slagati», od s- i praslavenskoga *klasti «stavljati»."
+ },
+ {
+  "lemma": "slutnja",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈslutɲa",
+  "definition": "Nejasan predosjećaj onoga što će se dogoditi",
+  "example": "Mučila ju je slutnja da se pismo nikada neće vratiti.",
+  "synonyms": [
+   "predosjećaj",
+   "zebnja"
+  ],
+  "origin": "Od glagola slutiti (praslavenski *slutiti), riječi nedovoljno jasna daljnjeg podrijetla."
+ },
+ {
+  "lemma": "stamen",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈstamen",
+  "definition": "Čvrst, postojan i nepokolebljiv",
+  "example": "Stamen kao hrast, djed je dočekao i tu oluju bez straha.",
+  "synonyms": [
+   "čvrst",
+   "postojan",
+   "nepokolebljiv"
+  ],
+  "origin": "Od praslavenskoga korijena *sta- «stajati»; izvorno «koji čvrsto stoji»."
+ },
+ {
+  "lemma": "strepnja",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈstrepɲa",
+  "definition": "Nemirno iščekivanje nečega lošeg",
+  "example": "Sa strepnjom je otvorila omotnicu s rezultatima natječaja.",
+  "synonyms": [
+   "zebnja",
+   "strah",
+   "bojazan"
+  ],
+  "origin": "Od glagola strepjeti «drhtati od straha», vjerojatno zvukoopisnoga postanja."
+ },
+ {
+  "lemma": "sućut",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈsutɕut",
+  "definition": "Suosjećanje s tuđom boli, osobito žalovanjem",
+  "example": "Susjedi su obitelji izrazili sućut i ponudili pomoć.",
+  "synonyms": [
+   "suosjećanje",
+   "samilost",
+   "sažaljenje"
+  ],
+  "origin": "Od prefiksa su- «zajedno» i glagola ćutjeti «osjećati» (praslavenski *ťutiti); tvorbom odgovara latinskomu compassio."
+ },
+ {
+  "lemma": "tegoban",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈteɡoban",
+  "definition": "Težak, mučan i pun napora",
+  "example": "Nakon tegobnog uspona s vrha se otvorio pogled na cijeli zaljev.",
+  "synonyms": [
+   "mukotrpan",
+   "naporan",
+   "težak"
+  ],
+  "origin": "Od imenice tegoba, od praslavenskoga korijena *tęg- «težina, vući», istoga kao u težak i uteg."
+ },
+ {
+  "lemma": "tmuran",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈtmuran",
+  "definition": "Mračan i oblačan; neveseo",
+  "example": "Tmuran studeni dan tjerao je prolaznike u tople kavane.",
+  "synonyms": [
+   "mračan",
+   "sumoran",
+   "oblačan"
+  ],
+  "origin": "U vezi s tma «tama» (praslavenski *tьma); pojedinosti tvorbe nisu posve jasne."
+ },
+ {
+  "lemma": "trpak",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈtr̩pak",
+  "definition": "Oštra okusa koji steže usta; neugodan, gorak",
+  "example": "Ostao mu je trpak okus poraza, premda je igrao najbolje dosad.",
+  "synonyms": [
+   "opor",
+   "gorak",
+   "kiselkast"
+  ],
+  "origin": "Od praslavenskoga *tьrpъkъ «opor», u vezi s *tьrpnǫti «trnuti, kočiti se»."
+ },
+ {
+  "lemma": "ushit",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈusxit",
+  "definition": "Iznenadno snažno oduševljenje i radost",
+  "example": "Publika je s ushitom dočekala povratak stare glumice na pozornicu.",
+  "synonyms": [
+   "zanos",
+   "oduševljenje",
+   "ekstaza"
+  ],
+  "origin": "Od glagola ushititi, od uz- i hititi «zgrabiti, baciti»; doslovno «ono što čovjeka ponese uvis»."
+ },
+ {
+  "lemma": "utjeha",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈutjexa",
+  "definition": "Ono što ublažava tugu ili bol",
+  "example": "U glazbi je uvijek nalazio utjehu kad bi mu bilo teško.",
+  "synonyms": [
+   "olakšanje",
+   "okrepa",
+   "melem"
+  ],
+  "origin": "Od glagola utješiti, praslavenski *těšiti «smirivati», u vezi s pridjevom tih."
+ },
+ {
+  "lemma": "varljiv",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈʋarʎiʋ",
+  "definition": "Koji lako zavede na krivi zaključak; nepouzdan",
+  "example": "Proljetno sunce je varljivo, pa ponesi jaknu.",
+  "synonyms": [
+   "nepouzdan",
+   "lažan",
+   "prividan"
+  ],
+  "origin": "Od glagola varati; njegovo je daljnje podrijetlo nesigurno."
+ },
+ {
+  "lemma": "vrlina",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ʋr̩ˈlina",
+  "definition": "Moralna odlika, dobra osobina karaktera",
+  "example": "Strpljivost je vrlina koju se uči cijeli život.",
+  "synonyms": [
+   "krepost",
+   "odlika",
+   "kvaliteta"
+  ],
+  "origin": "Od pridjeva vrli «odličan, valjan»; daljnje podrijetlo nije sigurno."
+ },
+ {
+  "lemma": "zamaman",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈzamaman",
+  "definition": "Koji neodoljivo privlači i mami",
+  "example": "Iz pekarnice se širio zamaman miris tek pečenog kruha.",
+  "synonyms": [
+   "primamljiv",
+   "privlačan",
+   "zavodljiv"
+  ],
+  "origin": "Od glagola zamamiti, od za- i mamiti (praslavenski *mamiti «varati, vabiti»)."
+ },
+ {
+  "lemma": "zebnja",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈzebɲa",
+  "definition": "Tiha, uporna bojazan u srcu",
+  "example": "Zebnja ga nije napuštala sve dok nije čuo sinov glas.",
+  "synonyms": [
+   "strepnja",
+   "tjeskoba",
+   "strah"
+  ],
+  "origin": "Od glagola zepsti «osjećati hladnoću», praslavenski *zębti; strah se zamišlja kao hladnoća koja prolazi tijelom."
+ },
+ {
+  "lemma": "žustar",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈʒustar",
+  "definition": "Brz, živahan i odrješit u pokretima",
+  "example": "Žustar korak odavao je čovjeka koji nema vremena za gubljenje.",
+  "synonyms": [
+   "živahan",
+   "hitar",
+   "okretan"
+  ],
+  "origin": "Podrijetlo nije pouzdano utvrđeno."
+ },
+ {
+  "lemma": "ćudljiv",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈtɕudʎiʋ",
+  "definition": "Sklon naglim promjenama raspoloženja",
+  "example": "Ćudljivo travanjsko vrijeme pokvarilo nam je izlet.",
+  "synonyms": [
+   "hirovit",
+   "mušičav",
+   "nestalan"
+  ],
+  "origin": "Od imenice ćud «narav», riječi nedovoljno razjašnjena podrijetla."
+ },
+ {
+  "lemma": "dosjetka",
+  "level": 1,
+  "part_of_speech": "im. ž.",
+  "ipa": "ˈdosjetka",
+  "definition": "Duhovita i domišljata primjedba",
+  "example": "Njegova dosjetka nasmijala je i najozbiljnije goste za stolom.",
+  "synonyms": [
+   "šala",
+   "duhovitost",
+   "pošalica"
+  ],
+  "origin": "Od glagola dosjetiti se, od do- i sjetiti se (praslavenski *sětiti «pomisliti»)."
+ },
+ {
+  "lemma": "gnjev",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ɡɲeʋ",
+  "definition": "Snažna, žestoka ljutnja",
+  "example": "Gnjev građana rastao je sa svakim novim poskupljenjem.",
+  "synonyms": [
+   "bijes",
+   "srdžba",
+   "jarost"
+  ],
+  "origin": "Od praslavenskoga *gněvъ «srdžba», koje se povezuje s *gniti «trunuti»: izvorno možda «gnoj, otrov»."
+ },
+ {
+  "lemma": "potišten",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "ˈpotiʃten",
+  "definition": "Tužan i bez volje, klonuo duhom",
+  "example": "Nakon poraza bio je potišten i danima nije izlazio iz kuće.",
+  "synonyms": [
+   "snužden",
+   "utučen",
+   "pokunjen"
+  ],
+  "origin": "Od glagola potištiti «pritisnuti», od po- i tištati, u vezi s tiskati (praslavenski *tiskati «stiskati»)."
+ },
+ {
+  "lemma": "dobrostiv",
+  "level": 1,
+  "part_of_speech": "prid.",
+  "ipa": "doˈbrostiʋ",
+  "definition": "Blag i dobronamjeran prema drugima",
+  "example": "Dobrostiv osmijeh stare učiteljice umirio je uplašene prvašiće.",
+  "synonyms": [
+   "blagonaklon",
+   "dobroćudan",
+   "milostiv"
+  ],
+  "origin": "Od pridjeva dobar (praslavenski *dobrъ) sa završetkom -stiv, prema uzoru milostiv."
+ },
+ {
+  "lemma": "prkos",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈpr̩kos",
+  "definition": "Namjerno suprotstavljanje tuđoj volji",
+  "example": "Iz čistog prkosa obukla je baš onu haljinu koju joj je majka zabranila.",
+  "synonyms": [
+   "inat",
+   "otpor",
+   "tvrdoglavost"
+  ],
+  "origin": "Vjerojatno u vezi s prijek i preko, tj. «ono što stoji poprijeko»; podrijetlo nije posve sigurno."
+ },
+ {
+  "lemma": "bodriti",
+  "level": 1,
+  "part_of_speech": "gl.",
+  "ipa": "ˈbodriti",
+  "definition": "Riječima i primjerom ulijevati hrabrost",
+  "example": "Navijači su bodrili trkače sve do posljednjeg metra.",
+  "synonyms": [
+   "hrabriti",
+   "poticati",
+   "sokoliti"
+  ],
+  "origin": "Od pridjeva bodar, praslavenski *bъdrъ «budan, živahan», u vezi s glagolom bdjeti."
+ },
+ {
+  "lemma": "krasiti",
+  "level": 1,
+  "part_of_speech": "gl.",
+  "ipa": "ˈkrasiti",
+  "definition": "Činiti lijepim, biti ures čemu",
+  "example": "Staru knjižnicu krase drvene police do samog stropa.",
+  "synonyms": [
+   "resiti",
+   "uljepšavati",
+   "kititi"
+  ],
+  "origin": "Od praslavenskoga *krasa «ljepota», odakle i krasan i krasota."
+ },
+ {
+  "lemma": "žamor",
+  "level": 1,
+  "part_of_speech": "im. m.",
+  "ipa": "ˈʒamor",
+  "definition": "Prigušen šum mnogih glasova",
+  "example": "Žamor u dvorani utihnuo je čim se zastor počeo dizati.",
+  "synonyms": [
+   "žagor",
+   "mrmor",
+   "graja"
+  ],
+  "origin": "Zvukoopisna (onomatopejska) riječ koja oponaša šum mnoštva glasova."
+ },
+ {
+  "lemma": "okrijepiti",
+  "level": 1,
+  "part_of_speech": "gl.",
+  "ipa": "oˈkrjeːpiti",
+  "definition": "Vratiti snagu hranom, pićem ili odmorom",
+  "example": "Topla juha okrijepila je promrzle planinare.",
+  "synonyms": [
+   "osnažiti",
+   "osvježiti",
+   "ojačati"
+  ],
+  "origin": "Od o- i krijepiti, od pridjeva krepak (praslavenski *krěpъkъ «čvrst»)."
+ },
+ {
+  "lemma": "prionuti",
+  "level": 1,
+  "part_of_speech": "gl.",
+  "ipa": "ˈprionuti",
+  "definition": "S voljom se latiti posla",
+  "example": "Čim su stigli alati, majstori su prionuli na posao.",
+  "synonyms": [
+   "zapeti",
+   "navaliti",
+   "prihvatiti"
+  ],
+  "origin": "Od pri- i praslavenskoga *lьpnǫti «lijepiti se» (isti korijen kao u lijepiti); doslovno «prilijepiti se uz što»."
+ }
+]

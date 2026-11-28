@@ -1,0 +1,799 @@
+[
+  {
+    "lemma": "vlídný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈvliːdniː",
+    "definition": "Laskavý a přívětivý v jednání s lidmi",
+    "example": "Stará paní nás přivítala vlídným úsměvem a hned nabídla čaj.",
+    "synonyms": [
+      "laskavý",
+      "přívětivý",
+      "milý"
+    ],
+    "origin": "Ze staročeského vľúdný, nejspíš od spojení v ľudi „mezi lidi“: původně „rád mezi lidmi, společenský“."
+  },
+  {
+    "lemma": "něžný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈɲɛʒniː",
+    "definition": "Plný jemného citu a ohleduplné lásky",
+    "example": "Něžným pohybem odhrnula dítěti vlasy z čela.",
+    "synonyms": [
+      "jemný",
+      "láskyplný",
+      "citlivý"
+    ],
+    "origin": "Z praslovanského *něga „něha, laskání“; příbuzné je ruské néga."
+  },
+  {
+    "lemma": "bystrý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈbɪstriː",
+    "definition": "Rychle chápající, pohotový v myšlení",
+    "example": "Bystrý žák pochopil úlohu dřív, než ji učitel dopsal na tabuli.",
+    "synonyms": [
+      "chytrý",
+      "pohotový",
+      "důvtipný"
+    ],
+    "origin": "Z praslovanského *bystrъ „rychlý, prudký“, původně hlavně o tekoucí vodě; odtud i bystřina."
+  },
+  {
+    "lemma": "hbitý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈɦbɪtiː",
+    "definition": "Rychlý a obratný v pohybu",
+    "example": "Hbitými prsty rozvázala uzel, se kterým si nikdo nevěděl rady.",
+    "synonyms": [
+      "mrštný",
+      "čiperný",
+      "obratný"
+    ],
+    "origin": "Od praslovanského kořene *gъb- „ohýbat“, který je i ve slovech hnout, hýbat a hebký."
+  },
+  {
+    "lemma": "statečný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈstatɛt͡ʃniː",
+    "definition": "Jednající odvážně i tváří v tvář nebezpečí",
+    "example": "Statečný hasič vynesl z hořícího domu dvě děti.",
+    "synonyms": [
+      "odvážný",
+      "chrabrý",
+      "udatný"
+    ],
+    "origin": "Od staročeského statek ve významu „síla, zdatnost“, které patří ke slovesu stát; původně „zdatný, řádný“."
+  },
+  {
+    "lemma": "skromný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈskromniː",
+    "definition": "Nevyžadující mnoho a nevychloubající se",
+    "example": "Přes všechny úspěchy zůstal skromným člověkem, který o sobě nerad mluví.",
+    "synonyms": [
+      "nenáročný",
+      "pokorný",
+      "prostý"
+    ],
+    "origin": "Převzato za obrození z polštiny (skromny); patří k praslovanskému *kroma „okraj“, tedy „kdo se drží v mezích“."
+  },
+  {
+    "lemma": "laskavý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈlaskaviː",
+    "definition": "Dobrý a ochotný k druhým lidem",
+    "example": "Laskavý soused nám celé léto zaléval zahradu.",
+    "synonyms": [
+      "vlídný",
+      "dobrotivý",
+      "milý"
+    ],
+    "origin": "Od slova láska, z praslovanského *laska „lichocení, přízeň“."
+  },
+  {
+    "lemma": "líbezný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈliːbɛzniː",
+    "definition": "Velmi příjemný smyslům, sladce milý",
+    "example": "Z otevřeného okna se nesla líbezná melodie houslí.",
+    "synonyms": [
+      "půvabný",
+      "lahodný",
+      "rozkošný"
+    ],
+    "origin": "Od základu slovesa líbit se, z praslovanského *ľubiti „mít rád“; příbuzné je německé lieb a latinské libet."
+  },
+  {
+    "lemma": "malebný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈmalɛbniː",
+    "definition": "Krásný na pohled jako obraz",
+    "example": "Cesta nás zavedla do malebného údolí s dřevěnými chalupami.",
+    "synonyms": [
+      "pitoreskní",
+      "půvabný",
+      "barvitý"
+    ],
+    "origin": "Od slovesa malovat, převzatého ze středohornoněmeckého mālen; doslova „hodný namalování“."
+  },
+  {
+    "lemma": "poctivý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈpot͡stɪviː",
+    "definition": "Jednající čestně, bez podvodu a přetvářky",
+    "example": "Poctivý nálezce odnesl peněženku na policii i s penězi.",
+    "synonyms": [
+      "čestný",
+      "řádný",
+      "svědomitý"
+    ],
+    "origin": "Od poctít, počest, tedy od slova čest (praslovanské *čьstь); skupina ct vznikla zjednodušením čst."
+  },
+  {
+    "lemma": "lehkovážný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈlɛxkovaːʒniː",
+    "definition": "Jednající bez rozmyslu a ohledu na následky",
+    "example": "Lehkovážný řidič předjížděl v zatáčce a ohrozil celou kolonu.",
+    "synonyms": [
+      "nerozvážný",
+      "bezstarostný",
+      "frivolní"
+    ],
+    "origin": "Složeno z lehký a vážit: kdo věci „lehce váží“, přikládá jim malou váhu."
+  },
+  {
+    "lemma": "vznešený",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈvznɛʃɛniː",
+    "definition": "Vynikající důstojností, ušlechtilostí nebo vysokým původem",
+    "example": "Vznešená dáma kráčela sálem, jako by jí celý patřil.",
+    "synonyms": [
+      "urozený",
+      "důstojný",
+      "ušlechtilý"
+    ],
+    "origin": "Původně příčestí slovesa vznést: „vyzdvižený do výše“, později přeneseně o důstojnosti a původu."
+  },
+  {
+    "lemma": "důvtipný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈduːftɪpniː",
+    "definition": "Schopný chytře a nápaditě řešit nesnáze",
+    "example": "Důvtipný kluk si z prkna a provazu vyrobil houpačku.",
+    "synonyms": [
+      "bystrý",
+      "vynalézavý",
+      "chytrý"
+    ],
+    "origin": "Od důvtip, složeného z předpony dů- (do-) a vtip, které původně znamenalo „rozum, chápavost“."
+  },
+  {
+    "lemma": "rozpačitý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈrospat͡ʃɪtiː",
+    "definition": "Nejistý, nevědoucí, jak se zachovat",
+    "example": "Po její otázce nastalo v místnosti rozpačité ticho.",
+    "synonyms": [
+      "nejistý",
+      "zaražený",
+      "nesmělý"
+    ],
+    "origin": "Od rozpaky, které patří ke staročeskému rozpáčiti sě „zarazit se, rozmyslit si to“; souvisí nejspíš se slovem opak."
+  },
+  {
+    "lemma": "lhostejný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈlɦostɛjniː",
+    "definition": "Neprojevující zájem ani účast",
+    "example": "K cizímu neštěstí nedokázala zůstat lhostejná.",
+    "synonyms": [
+      "netečný",
+      "nevšímavý",
+      "apatický"
+    ],
+    "origin": "Ze staročeského lhostajný „lehkomyslný, nedbalý“; první část je příbuzná se slovem lehký, podrobnosti tvoření nejsou jisté."
+  },
+  {
+    "lemma": "úchvatný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈuːxvatniː",
+    "definition": "Tak krásný, že budí nadšení",
+    "example": "Z vrcholu se nám otevřel úchvatný výhled na celé pohoří.",
+    "synonyms": [
+      "strhující",
+      "nádherný",
+      "okouzlující"
+    ],
+    "origin": "Od slovesa uchvátit „zmocnit se“: co je úchvatné, zmocní se naší mysli."
+  },
+  {
+    "lemma": "půvabný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈpuːvabniː",
+    "definition": "Přitažlivý jemnou, nenucenou krásou",
+    "example": "Půvabná tanečnice si získala publikum prvním krokem.",
+    "synonyms": [
+      "sličný",
+      "spanilý",
+      "okouzlující"
+    ],
+    "origin": "Od půvab, ze staročeského póvab „vábení, lákadlo“, od slovesa vábit."
+  },
+  {
+    "lemma": "křehký",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈkr̝̊ɛxkiː",
+    "definition": "Snadno se lámající nebo zranitelný",
+    "example": "Křehký porcelán po babičce balila do tří vrstev papíru.",
+    "synonyms": [
+      "lámavý",
+      "jemný",
+      "choulostivý"
+    ],
+    "origin": "Slovo praslovanského stáří; nejspíš příbuzné se slovesem krušit „drtit, lámat“."
+  },
+  {
+    "lemma": "plachý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈplaxiː",
+    "definition": "Snadno se lekající, bojácný před lidmi",
+    "example": "Plachá srna zmizela v houští při prvním zapraskání větve.",
+    "synonyms": [
+      "bázlivý",
+      "ostýchavý",
+      "nesmělý"
+    ],
+    "origin": "Od praslovanského *polxъ „strach, poplach“; stejný kořen je ve slovech plašit a poplach."
+  },
+  {
+    "lemma": "hrdý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈɦr̩diː",
+    "definition": "Vědomý si vlastní ceny a důstojnosti",
+    "example": "Hrdý otec ukazoval všem synovo první vysvědčení.",
+    "synonyms": [
+      "pyšný",
+      "sebevědomý",
+      "důstojný"
+    ],
+    "origin": "Z praslovanského *gъrdъ „pyšný, vznešený“; příbuzné je ruské górdyj."
+  },
+  {
+    "lemma": "zvídavý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈzviːdaviː",
+    "definition": "Toužící stále něco nového poznávat",
+    "example": "Zvídavé dítě se ptá proč i dvacetkrát za hodinu.",
+    "synonyms": [
+      "zvědavý",
+      "dychtivý",
+      "všetečný"
+    ],
+    "origin": "Od zvídat „vyptávat se, zjišťovat“, opětovacího slovesa k zvědět, tedy od vědět."
+  },
+  {
+    "lemma": "bezstarostný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈbɛsstarostniː",
+    "definition": "Netrápený žádnými obavami ani povinnostmi",
+    "example": "Vzpomínal na bezstarostná léta, kdy prázdniny trvaly věčnost.",
+    "synonyms": [
+      "klidný",
+      "lehkomyslný",
+      "veselý"
+    ],
+    "origin": "Složeno z bez a starost; starost původně znamenala „stáří“ a teprve později „péči, trápení“."
+  },
+  {
+    "lemma": "velkorysý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈvɛlkorɪsiː",
+    "definition": "Štědrý a nehledící na maličkosti",
+    "example": "Velkorysý dar neznámého dárce zachránil místní knihovnu.",
+    "synonyms": [
+      "štědrý",
+      "šlechetný",
+      "velkodušný"
+    ],
+    "origin": "Složeno z velký a rys ve významu „nárys, plán“ (z německého Riss); nejspíš podle německého großzügig."
+  },
+  {
+    "lemma": "upřímný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈupr̝̊iːmniː",
+    "definition": "Říkající otevřeně to, co si myslí",
+    "example": "Buď ke mně upřímný a řekni, co si o tom opravdu myslíš.",
+    "synonyms": [
+      "otevřený",
+      "pravdivý",
+      "bezelstný"
+    ],
+    "origin": "Z předpony u- a přímý: „jdoucí přímo“, bez vytáček."
+  },
+  {
+    "lemma": "rozvážný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈrozvaːʒniː",
+    "definition": "Jednající klidně a po zralé úvaze",
+    "example": "Rozvážný kapitán raději počkal, až bouře přejde.",
+    "synonyms": [
+      "uvážlivý",
+      "klidný",
+      "prozíravý"
+    ],
+    "origin": "Od rozvážit „uvážit ze všech stran“, tedy od váha a vážit."
+  },
+  {
+    "lemma": "důstojný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈduːstojniː",
+    "definition": "Budící úctu vážným a klidným vystupováním",
+    "example": "Důstojným krokem vystoupila na pódium a převzala cenu.",
+    "synonyms": [
+      "vážný",
+      "vznešený",
+      "ctihodný"
+    ],
+    "origin": "Ze staročeského dóstojný „hodný, zasluhující“, od dostát ve významu „být čeho hoden“."
+  },
+  {
+    "lemma": "neposedný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈnɛposɛdniː",
+    "definition": "Neschopný vydržet chvíli v klidu",
+    "example": "Neposedný pes pobíhal mezi stoly a všem olizoval ruce.",
+    "synonyms": [
+      "živý",
+      "nezbedný",
+      "roztěkaný"
+    ],
+    "origin": "Ze záporky ne- a posedět: „kdo neposedí“."
+  },
+  {
+    "lemma": "tajemný",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈtajɛmniː",
+    "definition": "Skrývající něco neznámého a lákavého",
+    "example": "Z lesa se ozýval tajemný zvuk, který nikdo neuměl vysvětlit.",
+    "synonyms": [
+      "záhadný",
+      "tajuplný",
+      "mystický"
+    ],
+    "origin": "Od tajit, z praslovanského *tajiti „skrývat“; příbuzné je tajný a potají."
+  },
+  {
+    "lemma": "vytrvalý",
+    "level": 1,
+    "part_of_speech": "příd.",
+    "ipa": "ˈvɪtr̩valiː",
+    "definition": "Nepolevující v úsilí ani po dlouhé době",
+    "example": "Vytrvalý déšť bubnoval do oken celou noc.",
+    "synonyms": [
+      "houževnatý",
+      "neúnavný",
+      "stálý"
+    ],
+    "origin": "Od slovesa vytrvat, tedy „trvat až do konce“; trvat je praslovanského původu."
+  },
+  {
+    "lemma": "toužit",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈtou̯ʒɪt",
+    "definition": "Silně si něco přát, prahnout po tom",
+    "example": "Celou zimu toužila po moři a teplém písku.",
+    "synonyms": [
+      "prahnout",
+      "dychtit",
+      "bažit"
+    ],
+    "origin": "Od touha, z praslovanského *tǫga „tíseň, stesk“, příbuzného se slovy tíha a táhnout."
+  },
+  {
+    "lemma": "váhat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈvaːɦat",
+    "definition": "Nemoci se rozhodnout, otálet s činem",
+    "example": "Dlouho váhal, než zvedl telefon a omluvil se.",
+    "synonyms": [
+      "otálet",
+      "kolísat",
+      "rozmýšlet"
+    ],
+    "origin": "Od váha, převzatého ze staré horní němčiny (wāga): kdo váhá, kolísá jako miska vah."
+  },
+  {
+    "lemma": "bloumat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈblou̯mat",
+    "definition": "Bezcílně a zvolna chodit sem a tam",
+    "example": "Celé odpoledne bloumal starým městem a nikam nespěchal.",
+    "synonyms": [
+      "bloudit",
+      "brouzdat",
+      "těkat"
+    ],
+    "origin": "Expresivní obměna slovesa bloudit, z praslovanského *blǫditi „chodit bez cíle, mýlit se“."
+  },
+  {
+    "lemma": "rozjímat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈrozjiːmat",
+    "definition": "Soustředěně a v klidu o něčem přemýšlet",
+    "example": "Rád rozjímal na lavičce pod starou lípou.",
+    "synonyms": [
+      "přemítat",
+      "meditovat",
+      "dumat"
+    ],
+    "origin": "Ze staročeského rozjímati „rozebírat“, tedy roz- a jímat „brát“: probírat věc v mysli kus po kusu."
+  },
+  {
+    "lemma": "hýčkat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈɦiːt͡ʃkat",
+    "definition": "Zahrnovat přehnanou péčí a něhou",
+    "example": "Babička hýčkala vnoučata koláči a pohádkami.",
+    "synonyms": [
+      "rozmazlovat",
+      "opečovávat",
+      "laskat"
+    ],
+    "origin": "Nejspíš od staršího hýčat „houpat, chovat v náručí“, slova dětské řeči."
+  },
+  {
+    "lemma": "lichotit",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈlɪxocɪt",
+    "definition": "Říkat někomu příjemné věci, často vypočítavě",
+    "example": "Lichotil šéfové tak nápadně, až se kolegové smáli.",
+    "synonyms": [
+      "pochlebovat",
+      "podkuřovat",
+      "podlézat"
+    ],
+    "origin": "Od lichý ve starším významu „falešný, klamný“; staročeská lichota znamenala „faleš, lest“."
+  },
+  {
+    "lemma": "vzdorovat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈvzdorovat",
+    "definition": "Stavět se na odpor, nepoddávat se",
+    "example": "Malá pevnost vzdorovala obléhání celé tři měsíce.",
+    "synonyms": [
+      "odporovat",
+      "čelit",
+      "odolávat"
+    ],
+    "origin": "Od vzdor, z předpony vz- a kořene slovesa drát, dřít (praslovanské *vъzdorъ)."
+  },
+  {
+    "lemma": "tušit",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈtuʃɪt",
+    "definition": "Mít nejasný pocit, že něco nastane",
+    "example": "Už ráno tušila, že ten den nedopadne dobře.",
+    "synonyms": [
+      "předvídat",
+      "cítit",
+      "odhadovat"
+    ],
+    "origin": "Staročeské tušiti znamenalo i „doufat, mít za to“; další původ je nejistý."
+  },
+  {
+    "lemma": "klábosit",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈklaːbosɪt",
+    "definition": "Nezávazně a dlouho si povídat",
+    "example": "Sousedky klábosily u plotu, dokud se nesetmělo.",
+    "synonyms": [
+      "tlachat",
+      "povídat",
+      "žvanit"
+    ],
+    "origin": "Expresivní sloveso nejspíš zvukomalebného původu; srov. starší klábos „tlachal“."
+  },
+  {
+    "lemma": "hloubat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈɦlou̯bat",
+    "definition": "Dlouze a důkladně o něčem přemýšlet",
+    "example": "Nad šachovou úlohou hloubal až do půlnoci.",
+    "synonyms": [
+      "přemítat",
+      "dumat",
+      "bádat"
+    ],
+    "origin": "Od hluboký, hloub: „nořit se myslí do hloubky“."
+  },
+  {
+    "lemma": "dumat",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈdumat",
+    "definition": "Tiše a zasněně přemýšlet",
+    "example": "Seděl u okna a dumal o tom, kam se poděla léta.",
+    "synonyms": [
+      "přemítat",
+      "hloubat",
+      "rozjímat"
+    ],
+    "origin": "Převzato v době obrození z ruštiny nebo polštiny (ruské dúmať „myslet“)."
+  },
+  {
+    "lemma": "ztvárnit",
+    "level": 1,
+    "part_of_speech": "slov.",
+    "ipa": "ˈstvaːrɲɪt",
+    "definition": "Dát něčemu uměleckou podobu",
+    "example": "Herečka ztvárnila starou královnu s nečekanou něhou.",
+    "synonyms": [
+      "zobrazit",
+      "vytvořit",
+      "zpodobnit"
+    ],
+    "origin": "Od tvar, příbuzného s tvořit (praslovanské *tvoriti); doslova „uvést do tvaru“."
+  },
+  {
+    "lemma": "úsvit",
+    "level": 1,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈuːsvɪt",
+    "definition": "První ranní světlo před východem slunce",
+    "example": "Rybáři vyplouvali na jezero ještě před úsvitem.",
+    "synonyms": [
+      "rozbřesk",
+      "svítání",
+      "rozednění"
+    ],
+    "origin": "Od slovesa svítat, od praslovanského základu *svit-, *světъ „světlo“."
+  },
+  {
+    "lemma": "soumrak",
+    "level": 1,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈsou̯mrak",
+    "definition": "Doba mezi západem slunce a tmou",
+    "example": "Za soumraku se nad rybníkem začali honit netopýři.",
+    "synonyms": [
+      "šero",
+      "stmívání",
+      "podvečer"
+    ],
+    "origin": "Z předpony sou- (praslovanské *sǫ-) a mrak ve starším významu „tma“."
+  },
+  {
+    "lemma": "stesk",
+    "level": 1,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈstɛsk",
+    "definition": "Tíživý smutek po někom nebo něčem vzdáleném",
+    "example": "Na táboře ji první noc přepadl stesk po domově.",
+    "synonyms": [
+      "smutek",
+      "tesknota",
+      "nostalgie"
+    ],
+    "origin": "Od stýskat si, z praslovanského *tъska „tíseň, tesknota“; příbuzné je ruské toská."
+  },
+  {
+    "lemma": "odvaha",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈodvaɦa",
+    "definition": "Schopnost jednat navzdory strachu",
+    "example": "Přiznat chybu před celou třídou chtělo opravdovou odvahu.",
+    "synonyms": [
+      "statečnost",
+      "kuráž",
+      "smělost"
+    ],
+    "origin": "Od odvážit se, tedy od váha (ze staré horní němčiny): „položit něco na váhu“, riskovat."
+  },
+  {
+    "lemma": "vášeň",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈvaːʃɛɲ",
+    "definition": "Prudký cit ovládající celého člověka",
+    "example": "Jeho největší vášeň byla hudba, které obětoval všechen volný čas.",
+    "synonyms": [
+      "náruživost",
+      "zápal",
+      "žár"
+    ],
+    "origin": "Ve staré češtině znamenalo i „zvyk, povaha, náklonnost“; původ slova není jistý."
+  },
+  {
+    "lemma": "útěcha",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈuːcɛxa",
+    "definition": "Úleva v zármutku, kterou někdo nebo něco poskytne",
+    "example": "Jedinou útěchou mu v nemoci byly dopisy od dcery.",
+    "synonyms": [
+      "potěcha",
+      "povzbuzení",
+      "úleva"
+    ],
+    "origin": "Od utěšit, těšit, z praslovanského *těšiti, příbuzného s tichý: původně „utišovat“."
+  },
+  {
+    "lemma": "píle",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈpiːlɛ",
+    "definition": "Vytrvalá snaha a přičinlivost v práci",
+    "example": "Bez píle by jí samotný talent ke zlatu nestačil.",
+    "synonyms": [
+      "pracovitost",
+      "snaha",
+      "přičinlivost"
+    ],
+    "origin": "Souvisí se staročeským píliti „pospíchat, usilovat“ a se slovem pilný; další původ není jistý."
+  },
+  {
+    "lemma": "lítost",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈliːtost",
+    "definition": "Bolestný pocit nad ztrátou nebo vlastní vinou",
+    "example": "S upřímnou lítostí se omluvil za svá ukvapená slova.",
+    "synonyms": [
+      "žal",
+      "soucit",
+      "zármutek"
+    ],
+    "origin": "Od líto, z praslovanského *ľutъ „krutý, bolestný“ (srov. lítý): je mi líto, tedy „je mi krutě“."
+  },
+  {
+    "lemma": "šero",
+    "level": 1,
+    "part_of_speech": "podst. s.",
+    "ipa": "ˈʃɛro",
+    "definition": "Slabé, tlumené světlo na pomezí tmy",
+    "example": "Ranní šero pomalu ustupovalo prvním slunečním paprskům.",
+    "synonyms": [
+      "přítmí",
+      "soumrak",
+      "polotma"
+    ],
+    "origin": "Od šerý „šedý, temný“, z praslovanského *śěrъ; příbuzné je šedý a ruské séryj."
+  },
+  {
+    "lemma": "vánek",
+    "level": 1,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈvaːnɛk",
+    "definition": "Slabý, příjemný vítr",
+    "example": "Lehký vánek čeřil hladinu a přinášel vůni sena.",
+    "synonyms": [
+      "větřík",
+      "větérek",
+      "závan"
+    ],
+    "origin": "Zdrobnělina od ván „vanutí“, od slovesa vát, vanout (praslovanské *vějati)."
+  },
+  {
+    "lemma": "zákoutí",
+    "level": 1,
+    "part_of_speech": "podst. s.",
+    "ipa": "ˈzaːkou̯ciː",
+    "definition": "Skryté, odlehlé a tiché místo",
+    "example": "V parku znala každé zákoutí, kam se dalo schovat s knížkou.",
+    "synonyms": [
+      "kout",
+      "skrýš",
+      "ústraní"
+    ],
+    "origin": "Z předložky za a kout (praslovanské *kǫtъ „roh, úhel“): místo „za rohem“."
+  },
+  {
+    "lemma": "rozkoš",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈroskoʃ",
+    "definition": "Silný pocit libosti a potěšení",
+    "example": "S rozkoší se zakousl do ještě teplého koláče.",
+    "synonyms": [
+      "slast",
+      "požitek",
+      "blaho"
+    ],
+    "origin": "Z roz- a základu staročeského kochati „milovat, těšit“ (srov. kochat se); praslovanské *orzkošь."
+  },
+  {
+    "lemma": "úžas",
+    "level": 1,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈuːʒas",
+    "definition": "Velký údiv nad něčím nečekaným",
+    "example": "Diváci v úžasu sledovali, jak provazochodec přechází náměstí.",
+    "synonyms": [
+      "údiv",
+      "ohromení",
+      "překvapení"
+    ],
+    "origin": "Z praslovanského *užasъ „zděšení, hrůza“; v češtině se význam posunul k údivu."
+  },
+  {
+    "lemma": "náruč",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈnaːrut͡ʃ",
+    "definition": "Prostor mezi rozevřenými pažemi",
+    "example": "Dítě se rozběhlo a skočilo mámě rovnou do náruče.",
+    "synonyms": [
+      "objetí",
+      "náručí"
+    ],
+    "origin": "Ze spojení na ruce (praslovanské *rǫka), tedy „to, co se nese na rukou“."
+  },
+  {
+    "lemma": "pouť",
+    "level": 1,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈpou̯c",
+    "definition": "Dlouhá cesta, zvláště na posvátné místo",
+    "example": "Jejich pouť do Santiaga trvala pět týdnů.",
+    "synonyms": [
+      "putování",
+      "cesta",
+      "výprava"
+    ],
+    "origin": "Z praslovanského *pǫtь „cesta“; příbuzné je latinské pons „most“ a řecké pontos „moře“."
+  },
+  {
+    "lemma": "zvolna",
+    "level": 1,
+    "part_of_speech": "přísl.",
+    "ipa": "ˈzvolna",
+    "definition": "Pomalu a beze spěchu",
+    "example": "Řeka se zvolna vinula mezi loukami k obzoru.",
+    "synonyms": [
+      "pomalu",
+      "pozvolna",
+      "nenáhle"
+    ],
+    "origin": "Ze spojení z volna, od volný (praslovanské *voľa „vůle“): „podle své vůle, bez nucení“."
+  }
+]

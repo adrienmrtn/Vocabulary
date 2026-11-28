@@ -1,0 +1,825 @@
+[
+ {
+  "lemma": "effimero",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "efˈfiːmero",
+  "definition": "Che dura pochissimo e presto svanisce",
+  "example": "La fama conquistata in rete è spesso effimera: una settimana e nessuno ricorda più.",
+  "synonyms": [
+   "passeggero",
+   "fugace",
+   "transitorio"
+  ],
+  "origin": "Dal greco ephḗmeros «che dura un giorno», composto di epí «sopra» e hēméra «giorno», attraverso il latino tardo."
+ },
+ {
+  "lemma": "alacre",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "ˈaːlakre",
+  "definition": "Pronto e vivace nell'operare",
+  "example": "Con passo alacre raggiunse la stazione dieci minuti prima del treno.",
+  "synonyms": [
+   "svelto",
+   "solerte",
+   "operoso"
+  ],
+  "origin": "Dal latino alacer «vivace, pieno di slancio»."
+ },
+ {
+  "lemma": "ammaliare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "ammaˈljaːre",
+  "definition": "Affascinare come per incantesimo",
+  "example": "Sapeva ammaliare il pubblico con poche parole e un sorriso.",
+  "synonyms": [
+   "incantare",
+   "affascinare",
+   "stregare"
+  ],
+  "origin": "Da malia «incantesimo», derivato di malo «cattivo» (latino malus)."
+ },
+ {
+  "lemma": "ardimento",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "ardiˈmento",
+  "definition": "Coraggio pronto ad affrontare il pericolo",
+  "example": "Ci voleva un certo ardimento per attraversare il ghiacciaio di notte.",
+  "synonyms": [
+   "coraggio",
+   "audacia",
+   "ardire"
+  ],
+  "origin": "Da ardire, dal francone *hardjan «rendere duro, temprare»."
+ },
+ {
+  "lemma": "astruso",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "asˈtruːzo",
+  "definition": "Difficile da capire perché troppo sottile o complicato",
+  "example": "Il manuale era scritto in un linguaggio astruso, pieno di sigle.",
+  "synonyms": [
+   "oscuro",
+   "complicato",
+   "incomprensibile"
+  ],
+  "origin": "Dal latino abstrusus «nascosto», participio di abstrudere «spingere lontano»."
+ },
+ {
+  "lemma": "avvezzo",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "avˈvettso",
+  "definition": "Abituato a qualcosa per lunga pratica",
+  "example": "Avvezzo alla fatica fin da ragazzo, non si lamentava mai.",
+  "synonyms": [
+   "abituato",
+   "assuefatto",
+   "uso"
+  ],
+  "origin": "Da avvezzare, derivato di vezzo nel senso antico di «abitudine»."
+ },
+ {
+  "lemma": "beffardo",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "befˈfardo",
+  "definition": "Che deride con ironia pungente",
+  "example": "Mi guardò con un sorriso beffardo e non rispose.",
+  "synonyms": [
+   "derisorio",
+   "ironico",
+   "canzonatorio"
+  ],
+  "origin": "Da beffa, voce di origine espressiva."
+ },
+ {
+  "lemma": "bieco",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "ˈbjɛːko",
+  "definition": "Torvo e minaccioso; moralmente spregevole",
+  "example": "Lanciò uno sguardo bieco a chi aveva osato contraddirlo.",
+  "synonyms": [
+   "torvo",
+   "sinistro",
+   "malvagio"
+  ],
+  "origin": "Probabilmente dal latino obliquus «storto, obliquo»: si disse prima dello sguardo."
+ },
+ {
+  "lemma": "blandire",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "blanˈdiːre",
+  "definition": "Lusingare con dolcezza per ottenere qualcosa",
+  "example": "Cercò di blandire il direttore con elogi fin troppo generosi.",
+  "synonyms": [
+   "lusingare",
+   "adulare",
+   "accarezzare"
+  ],
+  "origin": "Dal latino blandiri «accarezzare, lusingare», da blandus «carezzevole»."
+ },
+ {
+  "lemma": "cipiglio",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "tʃiˈpiʎʎo",
+  "definition": "Espressione severa, con la fronte aggrottata",
+  "example": "Il professore entrò in aula con un cipiglio che non prometteva nulla di buono.",
+  "synonyms": [
+   "broncio",
+   "accigliamento"
+  ],
+  "origin": "Etimo incerto; forse legato a ciglio."
+ },
+ {
+  "lemma": "contegno",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "konˈteɲɲo",
+  "definition": "Modo composto e dignitoso di comportarsi",
+  "example": "Anche nella sconfitta mantenne un contegno ammirevole.",
+  "synonyms": [
+   "compostezza",
+   "portamento",
+   "atteggiamento"
+  ],
+  "origin": "Da contenere (latino continere), come ritegno da ritenere."
+ },
+ {
+  "lemma": "cruccio",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈkruttʃo",
+  "definition": "Pensiero doloroso che tormenta a lungo",
+  "example": "Il suo unico cruccio era non aver finito gli studi.",
+  "synonyms": [
+   "pena",
+   "afflizione",
+   "tormento"
+  ],
+  "origin": "Da crucciare, forma ridotta di corrucciare, dal francese antico corocier (latino *corruptiare)."
+ },
+ {
+  "lemma": "dileggio",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "diˈleddʒo",
+  "definition": "Derisione che umilia chi la subisce",
+  "example": "Fu esposto al dileggio dei colleghi per un errore banale.",
+  "synonyms": [
+   "scherno",
+   "derisione",
+   "beffa"
+  ],
+  "origin": "Da dileggiare, di etimo incerto."
+ },
+ {
+  "lemma": "dovizia",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "doˈvittsja",
+  "definition": "Grande abbondanza di qualcosa",
+  "example": "Il rapporto descrive l'incidente con dovizia di particolari.",
+  "synonyms": [
+   "abbondanza",
+   "ricchezza",
+   "copia"
+  ],
+  "origin": "Dal latino divitiae «ricchezze», da dives «ricco»."
+ },
+ {
+  "lemma": "impervio",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "imˈpɛrvjo",
+  "definition": "Difficile o impossibile da percorrere",
+  "example": "Il rifugio si raggiunge solo per un sentiero impervio tra le rocce.",
+  "synonyms": [
+   "inaccessibile",
+   "ripido",
+   "scosceso"
+  ],
+  "origin": "Dal latino impervius, composto di in- negativo e pervius «che si può attraversare»."
+ },
+ {
+  "lemma": "ghermire",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "ɡerˈmiːre",
+  "definition": "Afferrare di colpo e con forza",
+  "example": "Il falco piombò sul prato per ghermire la preda.",
+  "synonyms": [
+   "afferrare",
+   "artigliare",
+   "agguantare"
+  ],
+  "origin": "Dal longobardo *krimmjan «afferrare con gli artigli»."
+ },
+ {
+  "lemma": "accidia",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "atˈtʃiːdja",
+  "definition": "Inerzia dell'animo, indifferenza verso ogni impegno",
+  "example": "Passò l'inverno in preda all'accidia, senza aprire un libro.",
+  "synonyms": [
+   "indolenza",
+   "ignavia",
+   "apatia"
+  ],
+  "origin": "Dal latino tardo acedia, dal greco akēdía «noncuranza», da a- privativo e kêdos «cura»."
+ },
+ {
+  "lemma": "imbelle",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "imˈbɛlle",
+  "definition": "Privo di coraggio, incapace di combattere",
+  "example": "Un governo imbelle lasciò che la crisi peggiorasse senza reagire.",
+  "synonyms": [
+   "vile",
+   "pavido",
+   "fiacco"
+  ],
+  "origin": "Dal latino imbellis, composto di in- negativo e bellum «guerra»."
+ },
+ {
+  "lemma": "indole",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "ˈindole",
+  "definition": "Carattere naturale di una persona",
+  "example": "Era di indole generosa e non sapeva dire di no.",
+  "synonyms": [
+   "carattere",
+   "natura",
+   "temperamento"
+  ],
+  "origin": "Dal latino indoles «disposizione innata», da una radice che significa «crescere»."
+ },
+ {
+  "lemma": "inerpicarsi",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "inerpiˈkarsi",
+  "definition": "Salire con fatica su un terreno ripido",
+  "example": "La strada comincia a inerpicarsi tra i castagni subito dopo il ponte.",
+  "synonyms": [
+   "arrampicarsi",
+   "salire",
+   "scalare"
+  ],
+  "origin": "Da erpicare «arrampicarsi», probabilmente derivato di erpice (latino hirpex)."
+ },
+ {
+  "lemma": "inviso",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "inˈviːzo",
+  "definition": "Malvisto, guardato con ostilità",
+  "example": "Il nuovo regolamento era inviso a quasi tutti i dipendenti.",
+  "synonyms": [
+   "malvisto",
+   "odiato",
+   "sgradito"
+  ],
+  "origin": "Dal latino invisus «odiato», participio di invidere «guardare con ostilità»."
+ },
+ {
+  "lemma": "lambire",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "lamˈbiːre",
+  "definition": "Toccare appena, sfiorando",
+  "example": "Le onde arrivavano a lambire i gradini della chiesa.",
+  "synonyms": [
+   "sfiorare",
+   "toccare",
+   "leccare"
+  ],
+  "origin": "Dal latino lambere «leccare»."
+ },
+ {
+  "lemma": "lezioso",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "letˈtsjoːso",
+  "definition": "Pieno di smancerie e di grazia artificiosa",
+  "example": "Parlava con un tono lezioso che irritava chiunque l'ascoltasse.",
+  "synonyms": [
+   "affettato",
+   "svenevole",
+   "smanceroso"
+  ],
+  "origin": "Da lezio «smanceria», forse forma accorciata di delizia."
+ },
+ {
+  "lemma": "livore",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "liˈvoːre",
+  "definition": "Rancore invidioso e astioso",
+  "example": "Nei suoi commenti si sentiva tutto il livore di chi era stato escluso.",
+  "synonyms": [
+   "astio",
+   "rancore",
+   "invidia"
+  ],
+  "origin": "Dal latino livor «lividura», poi «invidia», da livere «essere livido»."
+ },
+ {
+  "lemma": "mellifluo",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "melˈliːfluo",
+  "definition": "Di una dolcezza eccessiva e insincera",
+  "example": "Con voce melliflua ci assicurò che non c'era alcun problema.",
+  "synonyms": [
+   "sdolcinato",
+   "untuoso",
+   "insinuante"
+  ],
+  "origin": "Dal latino mellifluus «che stilla miele», da mel «miele» e fluere «scorrere»."
+ },
+ {
+  "lemma": "parvenza",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "parˈvɛntsa",
+  "definition": "Apparenza esterna, spesso ingannevole o vaga",
+  "example": "Dietro una parvenza di calma, la città era in fermento.",
+  "synonyms": [
+   "apparenza",
+   "sembianza",
+   "ombra"
+  ],
+  "origin": "Da parvente, participio antico di parere «apparire»."
+ },
+ {
+  "lemma": "pervicace",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "perviˈkaːtʃe",
+  "definition": "Ostinato fino in fondo, soprattutto nell'errore",
+  "example": "Pervicace nel negare, non ammise lo sbaglio nemmeno davanti alle prove.",
+  "synonyms": [
+   "ostinato",
+   "caparbio",
+   "irriducibile"
+  ],
+  "origin": "Dal latino pervicax -acis «tenace, ostinato»."
+ },
+ {
+  "lemma": "rampogna",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "ramˈpoɲɲa",
+  "definition": "Rimprovero aspro e solenne",
+  "example": "Si aspettava una rampogna e ricevette invece un abbraccio.",
+  "synonyms": [
+   "rimprovero",
+   "rabbuffo",
+   "biasimo"
+  ],
+  "origin": "Da rampognare, dal francese antico ramposner «schernire», di origine germanica."
+ },
+ {
+  "lemma": "recondito",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "reˈkɔndito",
+  "definition": "Nascosto, lontano dalla vista o dalla conoscenza",
+  "example": "Nessuno conosceva i motivi reconditi della sua partenza.",
+  "synonyms": [
+   "nascosto",
+   "segreto",
+   "riposto"
+  ],
+  "origin": "Dal latino reconditus, participio di recondere «riporre, nascondere»."
+ },
+ {
+  "lemma": "riottoso",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "rjotˈtoːso",
+  "definition": "Indocile, pronto alla lite e alla disobbedienza",
+  "example": "Era una classe riottosa, che nessun supplente riusciva a tenere.",
+  "synonyms": [
+   "ribelle",
+   "indocile",
+   "litigioso"
+  ],
+  "origin": "Da riotta «contesa», dal francese antico riote."
+ },
+ {
+  "lemma": "scevro",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "ˈʃeːvro",
+  "definition": "Privo, libero da qualcosa di negativo",
+  "example": "Il suo giudizio non era scevro di pregiudizi.",
+  "synonyms": [
+   "privo",
+   "esente",
+   "immune"
+  ],
+  "origin": "Da sceverare «separare», dal latino parlato *exseperare, variante di separare."
+ },
+ {
+  "lemma": "sollazzo",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "solˈlattso",
+  "definition": "Divertimento, piacevole passatempo",
+  "example": "Il gatto inseguiva la pallina con gran sollazzo dei bambini.",
+  "synonyms": [
+   "divertimento",
+   "spasso",
+   "svago"
+  ],
+  "origin": "Dal latino solacium «conforto», attraverso il provenzale solatz."
+ },
+ {
+  "lemma": "solerte",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "soˈlɛrte",
+  "definition": "Che lavora con cura e prontezza",
+  "example": "Un impiegato solerte aveva già preparato tutti i documenti.",
+  "synonyms": [
+   "diligente",
+   "zelante",
+   "premuroso"
+  ],
+  "origin": "Dal latino sollers -ertis «abile, ingegnoso», da sollus «intero» e ars «arte»."
+ },
+ {
+  "lemma": "sopruso",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "soˈpruːzo",
+  "definition": "Prepotenza commessa abusando della propria forza",
+  "example": "Nessuno osava denunciare i soprusi del padrone.",
+  "synonyms": [
+   "prepotenza",
+   "angheria",
+   "abuso"
+  ],
+  "origin": "Composto di sopra e uso: un uso che va oltre il diritto."
+ },
+ {
+  "lemma": "tracotante",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "trakoˈtante",
+  "definition": "Arrogante e insolente oltre ogni misura",
+  "example": "Il tono tracotante della lettera indispose perfino i suoi alleati.",
+  "synonyms": [
+   "arrogante",
+   "insolente",
+   "prepotente"
+  ],
+  "origin": "Da tracotanza, forma ridotta di oltracotanza, dal francese antico outrecuidance «presunzione»."
+ },
+ {
+  "lemma": "bramosia",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "bramoˈziːa",
+  "definition": "Desiderio intenso e impaziente",
+  "example": "Guardava la vetrina con la bramosia di un bambino.",
+  "synonyms": [
+   "brama",
+   "avidità",
+   "cupidigia"
+  ],
+  "origin": "Da bramoso, da bramare, dal germanico *brammōn «muggire, urlare»."
+ },
+ {
+  "lemma": "ossequio",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "osˈsɛːkwjo",
+  "definition": "Rispetto profondo mostrato a persona o regola",
+  "example": "In ossequio alla tradizione, il più giovane parlò per ultimo.",
+  "synonyms": [
+   "rispetto",
+   "deferenza",
+   "riverenza"
+  ],
+  "origin": "Dal latino obsequium «condiscendenza», da obsequi «assecondare»."
+ },
+ {
+  "lemma": "sommesso",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "somˈmesso",
+  "definition": "Detto o fatto a voce bassa, senza clamore",
+  "example": "Parlavano in tono sommesso per non svegliare il bambino.",
+  "synonyms": [
+   "basso",
+   "smorzato",
+   "dimesso"
+  ],
+  "origin": "Participio di sommettere, dal latino submittere «abbassare»."
+ },
+ {
+  "lemma": "tracollo",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "traˈkɔllo",
+  "definition": "Caduta rovinosa e improvvisa",
+  "example": "Il tracollo della banca travolse migliaia di risparmiatori.",
+  "synonyms": [
+   "crollo",
+   "rovina",
+   "collasso"
+  ],
+  "origin": "Da tracollare «perdere l'equilibrio», composto di tra- e collo."
+ },
+ {
+  "lemma": "vagheggiare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "vaɡedˈdʒaːre",
+  "definition": "Contemplare col desiderio; sognare qualcosa di lontano",
+  "example": "Da anni continua a vagheggiare una casa in riva al lago.",
+  "synonyms": [
+   "sognare",
+   "desiderare",
+   "contemplare"
+  ],
+  "origin": "Da vago nel senso antico di «desideroso», dal latino vagus «errante»."
+ },
+ {
+  "lemma": "vessare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "vesˈsaːre",
+  "definition": "Tormentare con soprusi e richieste eccessive",
+  "example": "Il capo reparto si divertiva a vessare i nuovi assunti.",
+  "synonyms": [
+   "tormentare",
+   "angariare",
+   "opprimere"
+  ],
+  "origin": "Dal latino vexare «scuotere, maltrattare»."
+ },
+ {
+  "lemma": "arcigno",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "arˈtʃiɲɲo",
+  "definition": "Severo e accigliato, dall'aria poco benevola",
+  "example": "Un custode arcigno ci sbarrò l'ingresso del museo.",
+  "synonyms": [
+   "accigliato",
+   "severo",
+   "burbero"
+  ],
+  "origin": "Etimo incerto; forse dal francese antico rechignier «digrignare i denti»."
+ },
+ {
+  "lemma": "ciarliero",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "tʃarˈljɛːro",
+  "definition": "Che parla molto e volentieri",
+  "example": "Il tassista ciarliero ci raccontò mezza storia della città.",
+  "synonyms": [
+   "loquace",
+   "chiacchierone",
+   "garrulo"
+  ],
+  "origin": "Da ciarla «chiacchiera», voce di origine onomatopeica."
+ },
+ {
+  "lemma": "fandonia",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "fanˈdɔːnja",
+  "definition": "Racconto falso, invenzione poco credibile",
+  "example": "Smettila con queste fandonie: nessuno ti crede più.",
+  "synonyms": [
+   "frottola",
+   "bugia",
+   "panzana"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "fremito",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈfrɛːmito",
+  "definition": "Tremito rapido per un'emozione intensa",
+  "example": "Un fremito di gioia percorse la folla quando comparve la cantante.",
+  "synonyms": [
+   "brivido",
+   "tremito",
+   "sussulto"
+  ],
+  "origin": "Dal latino fremitus «rombo, brontolio», da fremere."
+ },
+ {
+  "lemma": "ghigno",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈɡiɲɲo",
+  "definition": "Sorriso maligno o sarcastico",
+  "example": "Sul volto del rivale comparve un ghigno di soddisfazione.",
+  "synonyms": [
+   "sogghigno",
+   "smorfia"
+  ],
+  "origin": "Da ghignare, dal francese antico guignier «ammiccare», di origine germanica."
+ },
+ {
+  "lemma": "gozzoviglia",
+  "level": 2,
+  "part_of_speech": "s. f.",
+  "ipa": "ɡoddzoˈviʎʎa",
+  "definition": "Baldoria rumorosa in cui si mangia e si beve troppo",
+  "example": "Dopo una notte di gozzoviglie nessuno si presentò al lavoro.",
+  "synonyms": [
+   "baldoria",
+   "bisboccia",
+   "crapula"
+  ],
+  "origin": "Alterazione dell'antico godoviglia, forse dal latino *gaudibilia (da gaudere «godere»), accostato a gozzo."
+ },
+ {
+  "lemma": "indefesso",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "indeˈfɛsso",
+  "definition": "Che non si stanca mai; instancabile",
+  "example": "Lavoratore indefesso, era il primo ad arrivare e l'ultimo ad andarsene.",
+  "synonyms": [
+   "instancabile",
+   "infaticabile",
+   "assiduo"
+  ],
+  "origin": "Dal latino indefessus, composto di in- negativo e defessus «stanco»."
+ },
+ {
+  "lemma": "lungimirante",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "lundʒimiˈrante",
+  "definition": "Che sa prevedere e preparare il futuro",
+  "example": "Fu una scelta lungimirante investire nella scuola in anni di crisi.",
+  "synonyms": [
+   "previdente",
+   "accorto",
+   "avveduto"
+  ],
+  "origin": "Composto di lungi «lontano» e mirante, participio di mirare «guardare»."
+ },
+ {
+  "lemma": "scialbo",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "ˈʃalbo",
+  "definition": "Pallido, senza colore né personalità",
+  "example": "Fu un discorso scialbo, che nessuno ricordava già il giorno dopo.",
+  "synonyms": [
+   "sbiadito",
+   "incolore",
+   "insignificante"
+  ],
+  "origin": "Da scialbare «imbiancare», dal latino exalbare, da albus «bianco»."
+ },
+ {
+  "lemma": "smunto",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "ˈzmunto",
+  "definition": "Pallido e scavato per fatica o malattia",
+  "example": "Tornò dall'ospedale con il viso smunto e gli occhi stanchi.",
+  "synonyms": [
+   "emaciato",
+   "pallido",
+   "sparuto"
+  ],
+  "origin": "Participio di smungere «spremere fino in fondo», dal latino emungere."
+ },
+ {
+  "lemma": "scherno",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈskerno",
+  "definition": "Derisione sprezzante e offensiva",
+  "example": "Le sue proposte furono accolte con risate di scherno.",
+  "synonyms": [
+   "derisione",
+   "dileggio",
+   "beffa"
+  ],
+  "origin": "Da schernire, dal germanico *skirnjan «deridere»."
+ },
+ {
+  "lemma": "meriggio",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "meˈriddʒo",
+  "definition": "Le ore intorno al mezzogiorno, le più calde",
+  "example": "Nel meriggio d'agosto le strade del paese erano deserte.",
+  "synonyms": [
+   "mezzogiorno",
+   "mezzodì"
+  ],
+  "origin": "Dal latino meridies «mezzogiorno»."
+ },
+ {
+  "lemma": "millantare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "millanˈtaːre",
+  "definition": "Vantare meriti o qualità che non si hanno",
+  "example": "Ama millantare amicizie importanti che in realtà non ha mai avuto.",
+  "synonyms": [
+   "vantare",
+   "ostentare",
+   "sbandierare"
+  ],
+  "origin": "Da millanta, numero scherzoso e iperbolico formato su mille: alla lettera, «contarle a migliaia»."
+ },
+ {
+  "lemma": "farneticare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "farnetiˈkaːre",
+  "definition": "Dire cose sconnesse e prive di senso",
+  "example": "Con la febbre alta cominciò a farneticare di viaggi e di tesori.",
+  "synonyms": [
+   "delirare",
+   "vaneggiare",
+   "sragionare"
+  ],
+  "origin": "Da farnetico, alterazione di frenetico (latino phreneticus, dal greco phrenitikós)."
+ },
+ {
+  "lemma": "lesinare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "leziˈnaːre",
+  "definition": "Risparmiare con avarizia; concedere a malincuore",
+  "example": "Quando si tratta di sicurezza non bisogna lesinare sulle spese.",
+  "synonyms": [
+   "risparmiare",
+   "economizzare",
+   "centellinare"
+  ],
+  "origin": "Da lesina, il punteruolo dei calzolai: una satira cinquecentesca derideva gli avari che si rattoppavano le scarpe da soli."
+ },
+ {
+  "lemma": "abbindolare",
+  "level": 2,
+  "part_of_speech": "v.",
+  "ipa": "abbindoˈlaːre",
+  "definition": "Ingannare con chiacchiere e raggiri",
+  "example": "Si lasciò abbindolare da un venditore che prometteva guadagni sicuri.",
+  "synonyms": [
+   "raggirare",
+   "ingannare",
+   "imbrogliare"
+  ],
+  "origin": "Da bindolo «arcolaio», poi «raggiro», di origine germanica: avvolgere qualcuno come il filo."
+ },
+ {
+  "lemma": "sussiego",
+  "level": 2,
+  "part_of_speech": "s. m.",
+  "ipa": "susˈsjɛːɡo",
+  "definition": "Contegno grave e altezzoso",
+  "example": "Ci ricevette con il sussiego di un ministro in visita ufficiale.",
+  "synonyms": [
+   "alterigia",
+   "boria",
+   "sostenutezza"
+  ],
+  "origin": "Dallo spagnolo sosiego «calma, compostezza»."
+ },
+ {
+  "lemma": "tronfio",
+  "level": 2,
+  "part_of_speech": "agg.",
+  "ipa": "ˈtronfjo",
+  "definition": "Gonfio di superbia e di compiacimento",
+  "example": "Tronfio per la promozione, non salutava più i vecchi colleghi.",
+  "synonyms": [
+   "borioso",
+   "pomposo",
+   "superbo"
+  ],
+  "origin": "Etimo incerto; forse nato dall'incrocio di trionfo e gonfio."
+ }
+]
