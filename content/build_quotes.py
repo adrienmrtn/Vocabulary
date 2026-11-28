@@ -5,7 +5,8 @@ Usage:
     python3 content/build_quotes.py candidates content/quote_candidates.json
 
 "fetch" downloads the books listed in BOOKS from Project Gutenberg into
-content/.cache (not committed). "candidates" reads the drafts and writes up to
+content/.cache (not committed). When gutenberg.org does not answer, the same
+files are taken from GITenberg, a copy of the collection kept on GitHub. "candidates" reads the drafts and writes up to
 five candidate sentences per word, best first. Choosing the one to publish is a
 review step: the chosen quotations live in content/quotes.json, which
 build_catalog.py merges into the catalogue.
@@ -32,36 +33,91 @@ BOOKS = [
     43, 120, 205, 144, 5670, 4517, 541, 2814, 4217, 160, 113, 514, 209, 432, 2891, 2641, 1952,
 ]
 
+# Where the book itself begins and ends. Older files have no "*** START OF"
+# line: their licence closes with "*END*THE SMALL PRINT!" instead.
+BODY_START = re.compile(r"\*\*\* ?START OF.*?\*\*\*|^\*END[* ]THE SMALL PRINT.*$", re.M | re.S)
+BODY_END = re.compile(r"\*\*\* ?END OF|^End of (The |this )?Project Gutenberg", re.M | re.I)
+
 ABBREVIATIONS = ["Mr", "Mrs", "Ms", "Dr", "St", "Mme", "Mlle", "M", "Esq", "Col", "Capt", "Rev", "Prof"]
+
+
+MIRROR = "https://raw.githubusercontent.com/GITenberg"
+MIRROR_INDEX = "https://raw.githubusercontent.com/gitenberg-dev/gitberg/master/gitenberg/data/GITenberg_repo_list.tsv"
+
+
+def download(url):
+    return urllib.request.urlopen(url, timeout=90).read()
+
+
+def mirror_names():
+    """Ebook number to GITenberg repository name, from the mirror's own index."""
+    path = os.path.join(CACHE, "gitenberg_index.tsv")
+    if not os.path.exists(path):
+        with open(path, "wb") as handle:
+            handle.write(download(MIRROR_INDEX))
+    names = {}
+    for line in open(path, encoding="utf-8", errors="replace"):
+        number, _, name = line.strip().partition("\t")
+        names[number] = name
+    return names
+
+
+def from_mirror(number, names):
+    """The book as UTF-8 bytes from GITenberg, a copy of Gutenberg kept on GitHub."""
+    name = names.get(str(number))
+    if not name:
+        raise LookupError("not in the mirror's index")
+    error = None
+    # "-0" is UTF-8, "-8" is Latin-1 and the bare number is plain ASCII.
+    for suffix, encoding in (("-0", "utf-8"), ("-8", "latin-1"), ("", "ascii")):
+        try:
+            data = download(f"{MIRROR}/{name}/master/{number}{suffix}.txt")
+        except Exception as caught:
+            error = caught
+            continue
+        return data.decode(encoding, errors="replace").encode("utf-8")
+    raise error
 
 
 def fetch():
     os.makedirs(CACHE, exist_ok=True)
+    names = None
+    site_down = False
     for number in BOOKS:
         path = os.path.join(CACHE, f"{number}.txt")
         if os.path.exists(path) and os.path.getsize(path) > 20000:
             continue
-        url = f"https://www.gutenberg.org/cache/epub/{number}/pg{number}.txt"
-        try:
-            data = urllib.request.urlopen(url, timeout=90).read()
-        except Exception as error:  # the site is sometimes down; report and carry on
-            print(f"{number}: {error}")
-            continue
-        if b"*** START OF" not in data:
+        data, origin = None, "gutenberg.org"
+        if not site_down:
+            try:
+                data = download(f"https://www.gutenberg.org/cache/epub/{number}/pg{number}.txt")
+            except Exception as error:  # the site can be down for long stretches
+                print(f"gutenberg.org is not answering ({error}); using the GitHub mirror")
+                site_down = True
+        if data is None:
+            origin = "mirror"
+            try:
+                names = names or mirror_names()
+                data = from_mirror(number, names)
+            except Exception as error:
+                print(f"{number}: {error}")
+                continue
+        if not BODY_START.search(data.decode("utf-8", errors="replace")):
             print(f"{number}: not a book file, skipped")
             continue
         with open(path, "wb") as handle:
             handle.write(data)
-        print(f"{number}: {len(data)} bytes")
+        print(f"{number}: {len(data)} bytes ({origin})")
 
 
 def read_book(path):
     """Return (author, title, sentences) for one downloaded book."""
     text = open(path, encoding="utf-8-sig", errors="replace").read().replace("\r\n", "\n")
-    title = re.search(r"^Title: (.+)$", text, re.M)
+    # One mirrored file has its title glued to the end of the line before it.
+    title = re.search(r"^Title: (.+)$", text, re.M) or re.search(r"\bTitle: (.+)$", text[:3000], re.M)
     author = re.search(r"^Author: (.+)$", text, re.M)
-    start = re.search(r"\*\*\* START OF.*?\*\*\*", text)
-    end = re.search(r"\*\*\* END OF", text)
+    start = BODY_START.search(text)
+    end = BODY_END.search(text)
     body = text[start.end() if start else 0: end.start() if end else len(text)]
     sentences = []
     for paragraph in re.split(r"\n\s*\n", body):
@@ -115,7 +171,7 @@ def candidates(out_path):
     patterns = {lemma: forms(lemma) for lemma in dict.fromkeys(lemmas)}
     found = {lemma: [] for lemma in patterns}
 
-    for path in sorted(glob.glob(os.path.join(CACHE, "*.txt"))):
+    for path in sorted(glob.glob(os.path.join(CACHE, "[0-9]*.txt"))):
         author, title, sentences = read_book(path)
         if not author or not title:
             continue

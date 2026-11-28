@@ -90,6 +90,12 @@ Gutenberg and proposes up to five sentences per word. The ones chosen go in
 `content/quotes.json` and are merged by the build above; the app shows them in
 the word detail sheet. No quotations have been chosen yet.
 
+When gutenberg.org is down, `fetch` takes the same files from
+[GITenberg](https://github.com/GITenberg), a copy of the collection on GitHub.
+Those copies are older editions of the files: a few are plain ASCII (straight
+quotes, no accents) and some spell an author differently ("A. Conan Doyle"),
+so tidy the source line when choosing a quotation.
+
 ```bash
 python3 content/build_quotes.py fetch
 ```
