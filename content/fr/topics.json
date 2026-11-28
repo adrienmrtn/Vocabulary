@@ -1,0 +1,563 @@
+{
+  "farouche": [
+    "character",
+    "emotions"
+  ],
+  "frêle": [
+    "nature",
+    "emotions"
+  ],
+  "morne": [
+    "emotions"
+  ],
+  "paisible": [
+    "nature",
+    "emotions"
+  ],
+  "sournois": [
+    "character"
+  ],
+  "vaillant": [
+    "character"
+  ],
+  "hardi": [
+    "character"
+  ],
+  "las": [
+    "emotions"
+  ],
+  "radieux": [
+    "emotions",
+    "nature"
+  ],
+  "vif": [
+    "character",
+    "nature"
+  ],
+  "espiègle": [
+    "character"
+  ],
+  "coquet": [
+    "society",
+    "character"
+  ],
+  "taquin": [
+    "character"
+  ],
+  "rude": [
+    "nature",
+    "character"
+  ],
+  "flâner": [
+    "travel"
+  ],
+  "chuchoter": [
+    "society"
+  ],
+  "éblouir": [
+    "nature",
+    "emotions"
+  ],
+  "effleurer": [
+    "emotions"
+  ],
+  "frémir": [
+    "emotions"
+  ],
+  "songer": [
+    "emotions",
+    "literature"
+  ],
+  "errer": [
+    "travel"
+  ],
+  "guetter": [
+    "nature",
+    "society"
+  ],
+  "grommeler": [
+    "character",
+    "emotions"
+  ],
+  "épier": [
+    "society"
+  ],
+  "railler": [
+    "debate",
+    "society"
+  ],
+  "redouter": [
+    "emotions"
+  ],
+  "chérir": [
+    "emotions"
+  ],
+  "bouder": [
+    "emotions",
+    "character"
+  ],
+  "tressaillir": [
+    "emotions"
+  ],
+  "dérober": [
+    "society"
+  ],
+  "ébranler": [
+    "debate",
+    "emotions"
+  ],
+  "aube": [
+    "nature"
+  ],
+  "chagrin": [
+    "emotions"
+  ],
+  "crépuscule": [
+    "nature"
+  ],
+  "éclat": [
+    "nature"
+  ],
+  "fardeau": [
+    "emotions",
+    "society"
+  ],
+  "lueur": [
+    "nature"
+  ],
+  "émoi": [
+    "emotions"
+  ],
+  "ruse": [
+    "character",
+    "persuasion"
+  ],
+  "audace": [
+    "character"
+  ],
+  "orgueil": [
+    "character"
+  ],
+  "mépris": [
+    "emotions",
+    "character"
+  ],
+  "sanglot": [
+    "emotions"
+  ],
+  "soupir": [
+    "emotions"
+  ],
+  "tracas": [
+    "business",
+    "emotions"
+  ],
+  "vacarme": [
+    "society"
+  ],
+  "querelle": [
+    "society",
+    "debate"
+  ],
+  "périple": [
+    "travel"
+  ],
+  "flair": [
+    "business"
+  ],
+  "élan": [
+    "emotions",
+    "character"
+  ],
+  "labeur": [
+    "business"
+  ],
+  "répit": [
+    "emotions",
+    "business"
+  ],
+  "clarté": [
+    "nature",
+    "debate"
+  ],
+  "austère": [
+    "character"
+  ],
+  "blême": [
+    "emotions"
+  ],
+  "candide": [
+    "character"
+  ],
+  "désinvolte": [
+    "character"
+  ],
+  "éphémère": [
+    "nature",
+    "literature"
+  ],
+  "fougueux": [
+    "character",
+    "emotions"
+  ],
+  "frivole": [
+    "character",
+    "society"
+  ],
+  "hautain": [
+    "character"
+  ],
+  "intrépide": [
+    "character",
+    "travel"
+  ],
+  "lugubre": [
+    "emotions",
+    "literature"
+  ],
+  "mesquin": [
+    "character"
+  ],
+  "narquois": [
+    "character"
+  ],
+  "opiniâtre": [
+    "character"
+  ],
+  "oisif": [
+    "character",
+    "society"
+  ],
+  "perfide": [
+    "character"
+  ],
+  "placide": [
+    "character",
+    "emotions"
+  ],
+  "prodigue": [
+    "business",
+    "character"
+  ],
+  "sagace": [
+    "debate",
+    "character"
+  ],
+  "taciturne": [
+    "character"
+  ],
+  "véhément": [
+    "debate",
+    "emotions"
+  ],
+  "volubile": [
+    "character"
+  ],
+  "limpide": [
+    "nature",
+    "debate"
+  ],
+  "funeste": [
+    "literature",
+    "society"
+  ],
+  "inouï": [
+    "emotions"
+  ],
+  "accabler": [
+    "emotions",
+    "business"
+  ],
+  "blâmer": [
+    "debate",
+    "society"
+  ],
+  "dédaigner": [
+    "character"
+  ],
+  "entraver": [
+    "business",
+    "society"
+  ],
+  "exaucer": [
+    "emotions",
+    "literature"
+  ],
+  "implorer": [
+    "persuasion"
+  ],
+  "narguer": [
+    "character",
+    "society"
+  ],
+  "ourdir": [
+    "society",
+    "literature"
+  ],
+  "pallier": [
+    "business"
+  ],
+  "ressasser": [
+    "emotions"
+  ],
+  "scruter": [
+    "science",
+    "travel"
+  ],
+  "tergiverser": [
+    "debate",
+    "business"
+  ],
+  "vaciller": [
+    "nature",
+    "emotions"
+  ],
+  "vénérer": [
+    "society"
+  ],
+  "convoiter": [
+    "business",
+    "emotions"
+  ],
+  "éluder": [
+    "debate",
+    "persuasion"
+  ],
+  "aplomb": [
+    "character",
+    "persuasion"
+  ],
+  "désarroi": [
+    "emotions"
+  ],
+  "engouement": [
+    "society"
+  ],
+  "félicité": [
+    "emotions"
+  ],
+  "ferveur": [
+    "emotions"
+  ],
+  "flegme": [
+    "character"
+  ],
+  "mélancolie": [
+    "emotions",
+    "literature"
+  ],
+  "nonchalance": [
+    "character"
+  ],
+  "pudeur": [
+    "character",
+    "emotions"
+  ],
+  "quiétude": [
+    "emotions",
+    "nature"
+  ],
+  "rancune": [
+    "emotions"
+  ],
+  "torpeur": [
+    "emotions",
+    "nature"
+  ],
+  "allégresse": [
+    "emotions"
+  ],
+  "amertume": [
+    "emotions"
+  ],
+  "effroi": [
+    "emotions"
+  ],
+  "acariâtre": [
+    "character"
+  ],
+  "atrabilaire": [
+    "character"
+  ],
+  "cauteleux": [
+    "character"
+  ],
+  "débonnaire": [
+    "character"
+  ],
+  "dithyrambique": [
+    "literature",
+    "debate"
+  ],
+  "fallacieux": [
+    "debate",
+    "persuasion"
+  ],
+  "grandiloquent": [
+    "literature",
+    "debate"
+  ],
+  "idoine": [
+    "business"
+  ],
+  "impavide": [
+    "character"
+  ],
+  "ineffable": [
+    "emotions",
+    "literature"
+  ],
+  "irascible": [
+    "character"
+  ],
+  "pusillanime": [
+    "character"
+  ],
+  "sibyllin": [
+    "literature"
+  ],
+  "sardonique": [
+    "character"
+  ],
+  "velléitaire": [
+    "character"
+  ],
+  "vétilleux": [
+    "business",
+    "character"
+  ],
+  "vindicatif": [
+    "character"
+  ],
+  "parcimonieux": [
+    "business"
+  ],
+  "obséquieux": [
+    "character",
+    "society"
+  ],
+  "matois": [
+    "character"
+  ],
+  "pétulant": [
+    "character"
+  ],
+  "amène": [
+    "character",
+    "society"
+  ],
+  "abhorrer": [
+    "emotions"
+  ],
+  "admonester": [
+    "society"
+  ],
+  "galvauder": [
+    "literature",
+    "debate"
+  ],
+  "honnir": [
+    "society"
+  ],
+  "morigéner": [
+    "society"
+  ],
+  "stipendier": [
+    "society",
+    "business"
+  ],
+  "vilipender": [
+    "debate",
+    "society"
+  ],
+  "atermoyer": [
+    "business",
+    "debate"
+  ],
+  "circonvenir": [
+    "persuasion"
+  ],
+  "fustiger": [
+    "debate"
+  ],
+  "houspiller": [
+    "society"
+  ],
+  "ratiociner": [
+    "debate"
+  ],
+  "acrimonie": [
+    "emotions",
+    "debate"
+  ],
+  "componction": [
+    "society",
+    "character"
+  ],
+  "déréliction": [
+    "emotions"
+  ],
+  "faconde": [
+    "persuasion"
+  ],
+  "mansuétude": [
+    "character"
+  ],
+  "outrecuidance": [
+    "character"
+  ],
+  "panégyrique": [
+    "literature",
+    "persuasion"
+  ],
+  "truchement": [
+    "society",
+    "travel"
+  ],
+  "vicissitude": [
+    "society",
+    "literature"
+  ],
+  "apanage": [
+    "society"
+  ],
+  "courroux": [
+    "emotions",
+    "literature"
+  ],
+  "opprobre": [
+    "society"
+  ],
+  "turpitude": [
+    "society"
+  ],
+  "impéritie": [
+    "business"
+  ],
+  "forfanterie": [
+    "character"
+  ],
+  "fatuité": [
+    "character"
+  ],
+  "magnanimité": [
+    "character"
+  ],
+  "parangon": [
+    "literature",
+    "character"
+  ],
+  "palinodie": [
+    "debate"
+  ],
+  "thuriféraire": [
+    "society",
+    "persuasion"
+  ],
+  "zizanie": [
+    "society"
+  ],
+  "dilection": [
+    "emotions"
+  ]
+}

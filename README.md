@@ -105,7 +105,37 @@ python3 content/build_quotes.py fetch
 python3 content/build_quotes.py candidates content/quote_candidates.json
 ```
 
+### Other languages
+
+Each language gets its own words, chosen for that language, not a translation
+of the English list. French is the first: 164 words in `content/fr/drafts`,
+with definitions, examples, synonyms and origins written in French, and 128
+quotations from French classics in `content/fr/quotes.json`. The same two
+scripts build it with `--lang fr`:
+
+```bash
+python3 content/build_quotes.py --lang fr fetch
+```
+
+```bash
+python3 content/build_quotes.py --lang fr candidates content/fr/quote_candidates.json
+```
+
+```bash
+python3 content/build_catalog.py --lang fr content/fr/pilot_words.json content/fr/words.json content/fr/drafts/*.json
+```
+
+The drafts carry the pronunciation themselves (key `ipa`), since there is no
+pronouncing dictionary to convert from, and nouns are marked `n. m.` or
+`n. f.`. The result, `content/fr/words.json`, has the same shape as
+`Bovary/words.json`. It is not in the app yet: see "Not done yet".
+
 ## Not done yet
+
+- **French is content only.** The app has no language choice, its interface is
+  in English, and the `words` table in Supabase has no language column (and
+  `lemma` is unique across the table), so the French catalogue is neither
+  bundled nor published.
 
 - **Nothing is locked**: every topic, game and statistic is free for now. The
   subscription is sold in the onboarding, but the limit it lifts is still to
