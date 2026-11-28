@@ -40,7 +40,7 @@ then `xcodegen generate`).
   Sprint (ten questions against the clock), Rush (60 seconds), Perfection
   (until the first mistake) and Game shuffle. Missed words come back first.
 - **Profile**: reminders (asks for notification permission), voice, themes for
-  the word feed, settings, and the app icon picker: six characters and eight
+  the word feed, settings, and the app icon picker: seven characters and eight
   backgrounds, each pair a real alternate Home Screen icon.
 - **Library**: Favorites, Collections, Your own words and History, and a word
   list with practice for each of the ten topics.

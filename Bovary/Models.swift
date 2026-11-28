@@ -129,7 +129,10 @@ struct Topic: Identifiable, Hashable {
 
 /// The characters and backgrounds a member can combine into an app icon.
 enum IconOptions {
+    /// The first character on the first background is the icon the app ships with
+    /// ("AppIcon"); every other pair is the alternate set "Icon-<character>-<background>".
     static let characters: [(name: String, image: String)] = [
+        ("Emma Bovary", "char_emma"),
         ("Gustave Flaubert", "char_flaubert"),
         ("George Sand", "char_sand"),
         ("Jane Austen", "char_austen"),
@@ -139,8 +142,8 @@ enum IconOptions {
     ]
 
     static let backgrounds: [(name: String, color: Color)] = [
-        ("Cream", Color(hex: 0xFFF8F4)),
         ("Blue", Color(hex: 0x0A5CFF)),
+        ("Cream", Color(hex: 0xFFF8F4)),
         ("Coral", Color(hex: 0xF54B40)),
         ("Mustard", Color(hex: 0xFAB128)),
         ("Lime", Color(hex: 0xE4F06A)),
