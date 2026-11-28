@@ -1,0 +1,866 @@
+[
+ {
+  "lemma": "garbato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ɡarˈbaːto",
+  "definition": "Cortese e misurato nei modi",
+  "example": "Rispose con un rifiuto garbato, che non offese nessuno.",
+  "synonyms": [
+   "cortese",
+   "gentile",
+   "affabile"
+  ],
+  "origin": "Da garbo, voce di origine incerta, forse dall'arabo qālib «modello, forma»."
+ },
+ {
+  "lemma": "schietto",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈskjɛtto",
+  "definition": "Sincero e diretto, senza finzioni",
+  "example": "Preferisco un parere schietto a mille complimenti di circostanza.",
+  "synonyms": [
+   "sincero",
+   "franco",
+   "genuino"
+  ],
+  "origin": "Dal gotico *slaihts «semplice, liscio», della stessa famiglia del tedesco schlecht."
+ },
+ {
+  "lemma": "mite",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈmiːte",
+  "definition": "Dolce e paziente di carattere; non rigido",
+  "example": "Era un uomo mite, incapace di alzare la voce con chiunque.",
+  "synonyms": [
+   "mansueto",
+   "dolce",
+   "clemente"
+  ],
+  "origin": "Dal latino mitis «tenero, dolce»."
+ },
+ {
+  "lemma": "sgomento",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "zɡoˈmento",
+  "definition": "Turbamento profondo davanti a qualcosa di grave",
+  "example": "La notizia fu accolta con sgomento da tutto il paese.",
+  "synonyms": [
+   "sbigottimento",
+   "costernazione",
+   "smarrimento"
+  ],
+  "origin": "Da sgomentare, probabilmente dal latino parlato *excommentare; l'etimo non è del tutto sicuro."
+ },
+ {
+  "lemma": "indugiare",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "induˈdʒaːre",
+  "definition": "Trattenersi, tardare prima di muoversi o di decidere",
+  "example": "Senza indugiare oltre, firmò il contratto e uscì dalla stanza.",
+  "synonyms": [
+   "esitare",
+   "tardare",
+   "temporeggiare"
+  ],
+  "origin": "Da indugio, dal latino indutiae «tregua, sospensione»."
+ },
+ {
+  "lemma": "scorgere",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "ˈskɔrdʒere",
+  "definition": "Riuscire a vedere qualcosa di lontano o poco visibile",
+  "example": "Dalla cima si poteva scorgere il mare oltre le colline.",
+  "synonyms": [
+   "intravedere",
+   "distinguere",
+   "avvistare"
+  ],
+  "origin": "Dal latino parlato *excorrigere, da corrigere «dirigere, guidare»."
+ },
+ {
+  "lemma": "struggente",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "strudˈdʒɛnte",
+  "definition": "Che commuove fino a far male",
+  "example": "Il film si chiude con una melodia struggente che resta in testa per giorni.",
+  "synonyms": [
+   "commovente",
+   "straziante",
+   "toccante"
+  ],
+  "origin": "Participio presente di struggere «sciogliere, consumare», dal latino destruere."
+ },
+ {
+  "lemma": "svogliato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "zvoʎˈʎaːto",
+  "definition": "Privo di interesse e di energia nel fare",
+  "example": "Lo studente svogliato sfogliava il libro senza leggere una riga.",
+  "synonyms": [
+   "pigro",
+   "indolente",
+   "apatico"
+  ],
+  "origin": "Da voglia, con il prefisso s- che indica mancanza."
+ },
+ {
+  "lemma": "uggioso",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "udˈdʒoːso",
+  "definition": "Che dà noia e malumore; grigio, monotono",
+  "example": "Era una domenica uggiosa di novembre, tutta pioggia e silenzio.",
+  "synonyms": [
+   "noioso",
+   "tedioso",
+   "grigio"
+  ],
+  "origin": "Da uggia «ombra che nuoce alle piante», poi «noia»; l'origine di uggia è incerta."
+ },
+ {
+  "lemma": "appagare",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "appaˈɡaːre",
+  "definition": "Soddisfare pienamente un desiderio o un bisogno",
+  "example": "Nessun successo sembrava appagare la sua ambizione.",
+  "synonyms": [
+   "soddisfare",
+   "contentare",
+   "saziare"
+  ],
+  "origin": "Da pagare nel senso antico di «acquietare», dal latino pacare «pacificare»."
+ },
+ {
+  "lemma": "assorto",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "asˈsɔrto",
+  "definition": "Immerso nei propri pensieri, lontano da ciò che accade",
+  "example": "Camminava assorto e non si accorse che lo stavo chiamando.",
+  "synonyms": [
+   "pensieroso",
+   "concentrato",
+   "rapito"
+  ],
+  "origin": "Dal latino absorptus «inghiottito», participio di absorbere."
+ },
+ {
+  "lemma": "burbero",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈburbero",
+  "definition": "Scontroso e brusco nei modi, spesso solo in apparenza",
+  "example": "Il vecchio libraio era burbero, ma regalava libri ai ragazzi del quartiere.",
+  "synonyms": [
+   "scontroso",
+   "ruvido",
+   "brusco"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "caparbio",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "kaˈparbjo",
+  "definition": "Che non cede e insiste nelle proprie idee",
+  "example": "Caparbio com'era, rifece il calcolo dieci volte pur di avere ragione.",
+  "synonyms": [
+   "ostinato",
+   "testardo",
+   "cocciuto"
+  ],
+  "origin": "Probabilmente da capo, ma la formazione della parola non è chiara."
+ },
+ {
+  "lemma": "fievole",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈfjɛːvole",
+  "definition": "Debole, appena percettibile",
+  "example": "Dalla stanza accanto arrivava una voce fievole che chiedeva aiuto.",
+  "synonyms": [
+   "debole",
+   "fioco",
+   "tenue"
+  ],
+  "origin": "Dal latino flebilis «lacrimevole», da flere «piangere»; è la forma popolare di flebile."
+ },
+ {
+  "lemma": "garbuglio",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ɡarˈbuʎʎo",
+  "definition": "Intreccio confuso di cose o di fatti",
+  "example": "Per sciogliere quel garbuglio di fili ci volle mezz'ora.",
+  "synonyms": [
+   "groviglio",
+   "intrico",
+   "pasticcio"
+  ],
+  "origin": "Etimo incerto; probabilmente una voce espressiva, vicina a ingarbugliare."
+ },
+ {
+  "lemma": "goffo",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈɡɔffo",
+  "definition": "Impacciato e sgraziato nei movimenti o nei modi",
+  "example": "Fece un inchino goffo e per poco non rovesciò il vassoio.",
+  "synonyms": [
+   "maldestro",
+   "sgraziato",
+   "impacciato"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "impacciato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "impatˈtʃaːto",
+  "definition": "Poco disinvolto, a disagio nei gesti e nelle parole",
+  "example": "Davanti alla telecamera diventa impacciato e dimentica le battute.",
+  "synonyms": [
+   "goffo",
+   "imbarazzato",
+   "timido"
+  ],
+  "origin": "Da impacciare, dal provenzale empachar, a sua volta dal latino tardo impedicare «impastoiare»."
+ },
+ {
+  "lemma": "ingordo",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "inˈɡordo",
+  "definition": "Che mangia o desidera senza misura",
+  "example": "Ingordo di dolci, finì la torta prima che arrivassero gli ospiti.",
+  "synonyms": [
+   "vorace",
+   "avido",
+   "insaziabile"
+  ],
+  "origin": "Dal latino gurdus «pesante, balordo», con il prefisso in-."
+ },
+ {
+  "lemma": "losco",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈlosko",
+  "definition": "Poco pulito, che fa sospettare disonestà",
+  "example": "Si era lasciato coinvolgere in un affare losco con gente sconosciuta.",
+  "synonyms": [
+   "equivoco",
+   "sospetto",
+   "torbido"
+  ],
+  "origin": "Dal latino luscus «cieco da un occhio»: da chi guarda storto a chi agisce storto."
+ },
+ {
+  "lemma": "mesto",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈmɛsto",
+  "definition": "Triste in modo quieto e composto",
+  "example": "Salutò tutti con un sorriso mesto e salì sul treno.",
+  "synonyms": [
+   "triste",
+   "malinconico",
+   "afflitto"
+  ],
+  "origin": "Dal latino maestus «triste, addolorato»."
+ },
+ {
+  "lemma": "pacato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "paˈkaːto",
+  "definition": "Calmo e misurato, senza agitazione",
+  "example": "Con tono pacato spiegò perché non poteva accettare la proposta.",
+  "synonyms": [
+   "calmo",
+   "sereno",
+   "tranquillo"
+  ],
+  "origin": "Dal latino pacatus, participio di pacare «pacificare», da pax «pace»."
+ },
+ {
+  "lemma": "rammarico",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ramˈmaːriko",
+  "definition": "Dispiacere per qualcosa che è andato diversamente dal voluto",
+  "example": "Con grande rammarico dovette rinunciare al viaggio.",
+  "synonyms": [
+   "dispiacere",
+   "rimpianto",
+   "rincrescimento"
+  ],
+  "origin": "Da rammaricare, formato su amaro: alla lettera, «riempirsi di amarezza»."
+ },
+ {
+  "lemma": "ritroso",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "riˈtroːso",
+  "definition": "Schivo, restio a mostrarsi o a concedersi",
+  "example": "Ritroso per natura, evitava le feste e i discorsi in pubblico.",
+  "synonyms": [
+   "schivo",
+   "restio",
+   "riluttante"
+  ],
+  "origin": "Dal latino retrorsus «volto all'indietro»."
+ },
+ {
+  "lemma": "sbigottire",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "zbiɡotˈtiːre",
+  "definition": "Turbare profondamente, lasciando senza parole",
+  "example": "La violenza del temporale fece sbigottire anche i più esperti.",
+  "synonyms": [
+   "sgomentare",
+   "sbalordire",
+   "atterrire"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "scaltro",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈskaltro",
+  "definition": "Abile nel cavarsela, furbo e pronto",
+  "example": "Un mercante scaltro sa quando tacere il prezzo.",
+  "synonyms": [
+   "furbo",
+   "astuto",
+   "accorto"
+  ],
+  "origin": "Da scaltrire «rendere esperto», forse dal latino *scalpturire «scalpellare», cioè «dirozzare»."
+ },
+ {
+  "lemma": "sfarzo",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈsfartso",
+  "definition": "Lusso vistoso, esibito con abbondanza",
+  "example": "Il matrimonio fu celebrato con uno sfarzo d'altri tempi.",
+  "synonyms": [
+   "lusso",
+   "pompa",
+   "fasto"
+  ],
+  "origin": "Probabilmente dallo spagnolo disfraz «travestimento», attraverso il napoletano."
+ },
+ {
+  "lemma": "smarrire",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "zmarˈriːre",
+  "definition": "Non trovare più; perdere la strada",
+  "example": "È facile smarrire il sentiero quando scende la nebbia.",
+  "synonyms": [
+   "perdere"
+  ],
+  "origin": "Dal germanico *marrjan «ostacolare, disturbare», con s- rafforzativo."
+ },
+ {
+  "lemma": "sollievo",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "solˈljɛːvo",
+  "definition": "Sensazione di liberazione da un peso o da un dolore",
+  "example": "Che sollievo sapere che l'esame era andato bene!",
+  "synonyms": [
+   "conforto",
+   "ristoro",
+   "alleviamento"
+  ],
+  "origin": "Da sollevare, dal latino sublevare «alzare, alleggerire»."
+ },
+ {
+  "lemma": "spavaldo",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "spaˈvaldo",
+  "definition": "Sicuro di sé fino all'arroganza",
+  "example": "Entrò spavaldo, come se la vittoria fosse già sua.",
+  "synonyms": [
+   "baldanzoso",
+   "sfrontato",
+   "arrogante"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "stizza",
+  "level": 1,
+  "part_of_speech": "s. f.",
+  "ipa": "ˈstittsa",
+  "definition": "Irritazione viva e passeggera",
+  "example": "Chiuse il computer con stizza e uscì a prendere aria.",
+  "synonyms": [
+   "irritazione",
+   "rabbia",
+   "dispetto"
+  ],
+  "origin": "Forse da stizzo, variante di tizzo «tizzone»; l'etimo non è sicuro."
+ },
+ {
+  "lemma": "tepore",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "teˈpoːre",
+  "definition": "Calore moderato e gradevole",
+  "example": "Il tepore del sole di marzo invitava a sedersi fuori.",
+  "synonyms": [
+   "calduccio",
+   "tiepidezza"
+  ],
+  "origin": "Dal latino tepor, da tepere «essere tiepido»."
+ },
+ {
+  "lemma": "trasalire",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "trasaˈliːre",
+  "definition": "Avere un sussulto improvviso per sorpresa o paura",
+  "example": "Lo squillo del telefono nel cuore della notte la fece trasalire.",
+  "synonyms": [
+   "sussultare",
+   "sobbalzare"
+  ],
+  "origin": "Dal francese tressaillir, composto di tres- (latino trans) e saillir «saltare»."
+ },
+ {
+  "lemma": "vezzo",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈvettso",
+  "definition": "Abitudine o piccolo gesto caratteristico di una persona",
+  "example": "Aveva il vezzo di toccarsi gli occhiali prima di parlare.",
+  "synonyms": [
+   "abitudine",
+   "mania",
+   "moina"
+  ],
+  "origin": "Dal latino vitium «difetto»: è l'esito popolare della stessa parola che ha dato vizio."
+ },
+ {
+  "lemma": "tetro",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈtɛːtro",
+  "definition": "Scuro e opprimente, che mette tristezza",
+  "example": "Il castello aveva un aspetto tetro anche in pieno giorno.",
+  "synonyms": [
+   "cupo",
+   "lugubre",
+   "fosco"
+  ],
+  "origin": "Dal latino taeter «ripugnante, orrido»."
+ },
+ {
+  "lemma": "accorato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "akkoˈraːto",
+  "definition": "Pieno di dolore sincero e profondo",
+  "example": "Lanciò un appello accorato perché qualcuno ritrovasse il suo cane.",
+  "synonyms": [
+   "addolorato",
+   "afflitto",
+   "commosso"
+  ],
+  "origin": "Da accorare «trafiggere il cuore», derivato di cuore."
+ },
+ {
+  "lemma": "avvilire",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "avviˈliːre",
+  "definition": "Togliere fiducia e coraggio; umiliare",
+  "example": "Le critiche continue finirono per avvilire tutta la squadra.",
+  "synonyms": [
+   "scoraggiare",
+   "deprimere",
+   "umiliare"
+  ],
+  "origin": "Da vile, con il prefisso a-: alla lettera, «rendere vile, di poco valore»."
+ },
+ {
+  "lemma": "baldanza",
+  "level": 1,
+  "part_of_speech": "s. f.",
+  "ipa": "balˈdantsa",
+  "definition": "Sicurezza ardita e gioiosa di sé",
+  "example": "Partì con la baldanza dei vent'anni, convinto di cambiare il mondo.",
+  "synonyms": [
+   "spavalderia",
+   "audacia",
+   "fierezza"
+  ],
+  "origin": "Da baldo, dal francese antico bald «ardito», di origine germanica."
+ },
+ {
+  "lemma": "bizzarro",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "bidˈdzarro",
+  "definition": "Strano e imprevedibile, fuori dal comune",
+  "example": "Indossava un cappello bizzarro, coperto di piume e spille.",
+  "synonyms": [
+   "stravagante",
+   "strano",
+   "eccentrico"
+  ],
+  "origin": "Etimo incerto; in antico significava «iracondo», forse da bizza «capriccio»."
+ },
+ {
+  "lemma": "chiarore",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "kjaˈroːre",
+  "definition": "Luce tenue e diffusa",
+  "example": "Un debole chiarore annunciava l'alba dietro le montagne.",
+  "synonyms": [
+   "bagliore",
+   "luminosità",
+   "barlume"
+  ],
+  "origin": "Da chiaro, dal latino clarus «luminoso, limpido»."
+ },
+ {
+  "lemma": "fragore",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "fraˈɡoːre",
+  "definition": "Rumore forte e violento",
+  "example": "Il fragore della cascata copriva le nostre voci.",
+  "synonyms": [
+   "frastuono",
+   "rimbombo",
+   "boato"
+  ],
+  "origin": "Dal latino fragor «rumore di cosa che si spezza», da frangere «rompere»."
+ },
+ {
+  "lemma": "guizzo",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈɡwittso",
+  "definition": "Movimento rapido e improvviso; scatto vivace",
+  "example": "Con un guizzo il pesce sfuggì alla rete.",
+  "synonyms": [
+   "scatto",
+   "balzo",
+   "lampo"
+  ],
+  "origin": "Da guizzare, voce di origine espressiva."
+ },
+ {
+  "lemma": "lusinga",
+  "level": 1,
+  "part_of_speech": "s. f.",
+  "ipa": "luˈziŋɡa",
+  "definition": "Lode o promessa usata per attirare qualcuno",
+  "example": "Non cedette alla lusinga di un guadagno facile.",
+  "synonyms": [
+   "adulazione",
+   "allettamento",
+   "blandizia"
+  ],
+  "origin": "Dal provenzale lauzenga, di origine germanica (francone *lausinga «menzogna»)."
+ },
+ {
+  "lemma": "meschino",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "mesˈkiːno",
+  "definition": "Gretto, di animo piccolo e ristretto",
+  "example": "Fu un gesto meschino negare l'aiuto per una vecchia ripicca.",
+  "synonyms": [
+   "gretto",
+   "misero",
+   "vile"
+  ],
+  "origin": "Dall'arabo miskīn «povero»; il senso antico era «infelice, misero»."
+ },
+ {
+  "lemma": "oltraggio",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "olˈtraddʒo",
+  "definition": "Offesa grave all'onore o alla dignità",
+  "example": "Considerò quelle parole un oltraggio alla memoria di suo padre.",
+  "synonyms": [
+   "offesa",
+   "ingiuria",
+   "affronto"
+  ],
+  "origin": "Dal francese antico outrage, derivato di outre «oltre» (latino ultra): un andare oltre il lecito."
+ },
+ {
+  "lemma": "scempio",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈʃempjo",
+  "definition": "Strazio, rovina che deturpa qualcosa di bello",
+  "example": "La nuova strada è uno scempio per tutta la vallata.",
+  "synonyms": [
+   "strazio",
+   "rovina",
+   "devastazione"
+  ],
+  "origin": "Dal latino exemplum «esempio», nel senso di «punizione esemplare»."
+ },
+ {
+  "lemma": "vispo",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "ˈvispo",
+  "definition": "Vivace e pronto nei movimenti e nello spirito",
+  "example": "A novant'anni la nonna è ancora vispa e curiosa di tutto.",
+  "synonyms": [
+   "vivace",
+   "sveglio",
+   "arzillo"
+  ],
+  "origin": "Voce espressiva di etimo incerto."
+ },
+ {
+  "lemma": "arguto",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "arˈɡuːto",
+  "definition": "Che ha spirito pronto e sottile",
+  "example": "Con una battuta arguta sciolse la tensione della riunione.",
+  "synonyms": [
+   "spiritoso",
+   "acuto",
+   "brillante"
+  ],
+  "origin": "Dal latino argutus «chiaro, penetrante», participio di arguere «mettere in luce»."
+ },
+ {
+  "lemma": "brusio",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "bruˈziːo",
+  "definition": "Rumore sommesso e continuo di molte voci",
+  "example": "Quando entrò il giudice, il brusio della sala si spense.",
+  "synonyms": [
+   "mormorio",
+   "bisbiglio",
+   "vocio"
+  ],
+  "origin": "Voce di origine onomatopeica."
+ },
+ {
+  "lemma": "sciagura",
+  "level": 1,
+  "part_of_speech": "s. f.",
+  "ipa": "ʃaˈɡuːra",
+  "definition": "Disgrazia grave che colpisce all'improvviso",
+  "example": "La sciagura lasciò il villaggio senza scuola e senza ponte.",
+  "synonyms": [
+   "disgrazia",
+   "calamità",
+   "sventura"
+  ],
+  "origin": "Da sciagurato, dal latino *exauguratus «privo di buoni auspici»."
+ },
+ {
+  "lemma": "scalpore",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "skalˈpoːre",
+  "definition": "Reazione rumorosa di stupore o indignazione nel pubblico",
+  "example": "Le sue dimissioni improvvise fecero scalpore in tutta la città.",
+  "synonyms": [
+   "clamore",
+   "sensazione",
+   "rumore"
+  ],
+  "origin": "Origine incerta; viene accostato a scalpitare."
+ },
+ {
+  "lemma": "spensierato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "spensjeˈraːto",
+  "definition": "Libero da preoccupazioni, allegro e leggero",
+  "example": "Ricordo le estati spensierate passate dai nonni in campagna.",
+  "synonyms": [
+   "allegro",
+   "sereno",
+   "gaio"
+  ],
+  "origin": "Da pensiero, con il prefisso s- che indica mancanza."
+ },
+ {
+  "lemma": "frastuono",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "frasˈtwɔːno",
+  "definition": "Rumore forte e confuso di suoni mescolati",
+  "example": "Nel frastuono del mercato non riuscivo a sentire il telefono.",
+  "synonyms": [
+   "baccano",
+   "fracasso",
+   "strepito"
+  ],
+  "origin": "Formato su tuono con un prefisso rafforzativo; forse influenzato da frastornare."
+ },
+ {
+  "lemma": "affranto",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "afˈfranto",
+  "definition": "Abbattuto dal dolore o dalla fatica",
+  "example": "Affranto dalla notizia, rimase seduto in silenzio per ore.",
+  "synonyms": [
+   "prostrato",
+   "abbattuto",
+   "distrutto"
+  ],
+  "origin": "Participio di affrangere «spezzare», dal latino frangere «rompere»."
+ },
+ {
+  "lemma": "smania",
+  "level": 1,
+  "part_of_speech": "s. f.",
+  "ipa": "ˈzmaːnja",
+  "definition": "Agitazione inquieta; desiderio impaziente",
+  "example": "Aveva la smania di partire e non riusciva a stare fermo.",
+  "synonyms": [
+   "frenesia",
+   "agitazione",
+   "brama"
+  ],
+  "origin": "Dal latino tardo mania «follia» (dal greco manía), con s- rafforzativo."
+ },
+ {
+  "lemma": "sdegno",
+  "level": 1,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈzdeɲɲo",
+  "definition": "Risentimento vivo contro ciò che pare indegno",
+  "example": "Respinse con sdegno l'accusa di aver mentito.",
+  "synonyms": [
+   "indignazione",
+   "disprezzo",
+   "collera"
+  ],
+  "origin": "Da sdegnare, dal latino parlato *disdignare «non stimare degno»."
+ },
+ {
+  "lemma": "gongolare",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "ɡoŋɡoˈlaːre",
+  "definition": "Mostrare una gioia compiaciuta e trattenuta a stento",
+  "example": "Vedere la rivale in difficoltà lo faceva gongolare.",
+  "synonyms": [
+   "esultare",
+   "gioire",
+   "giubilare"
+  ],
+  "origin": "Voce di origine espressiva."
+ },
+ {
+  "lemma": "tentennare",
+  "level": 1,
+  "part_of_speech": "v.",
+  "ipa": "tentenˈnaːre",
+  "definition": "Esitare senza prendere una decisione; oscillare",
+  "example": "Dopo aver tentennato a lungo, accettò il nuovo lavoro.",
+  "synonyms": [
+   "esitare",
+   "vacillare",
+   "titubare"
+  ],
+  "origin": "Dal latino tintinnare «risuonare», passato al senso di «dondolare, oscillare»."
+ },
+ {
+  "lemma": "frottola",
+  "level": 1,
+  "part_of_speech": "s. f.",
+  "ipa": "ˈfrɔttola",
+  "definition": "Bugia di poco conto, storia inventata",
+  "example": "Non raccontarmi frottole: so benissimo dove sei stato.",
+  "synonyms": [
+   "bugia",
+   "fandonia",
+   "panzana"
+  ],
+  "origin": "Diminutivo di frotta: in origine un componimento popolare fatto di pensieri mescolati alla rinfusa."
+ },
+ {
+  "lemma": "sornione",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "sorˈnjoːne",
+  "definition": "Che nasconde furbizia sotto un'aria tranquilla",
+  "example": "Il gatto ci osservava sornione dall'alto dell'armadio.",
+  "synonyms": [
+   "furbo",
+   "dissimulatore",
+   "sonnacchioso"
+  ],
+  "origin": "Etimo incerto; viene accostato al francese sournois."
+ },
+ {
+  "lemma": "sbadato",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "zbaˈdaːto",
+  "definition": "Distratto, che non fa attenzione a ciò che fa",
+  "example": "Sbadato com'è, ha lasciato le chiavi nella serratura.",
+  "synonyms": [
+   "distratto",
+   "disattento",
+   "sventato"
+  ],
+  "origin": "Da badare «fare attenzione», con il prefisso s- che indica mancanza."
+ },
+ {
+  "lemma": "brioso",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "briˈoːso",
+  "definition": "Pieno di vivacità e di allegra energia",
+  "example": "L'orchestra attaccò un valzer brioso e tutti si alzarono a ballare.",
+  "synonyms": [
+   "vivace",
+   "spigliato",
+   "frizzante"
+  ],
+  "origin": "Da brio, dallo spagnolo brío, probabilmente di origine celtica."
+ },
+ {
+  "lemma": "frugale",
+  "level": 1,
+  "part_of_speech": "agg.",
+  "ipa": "fruˈɡaːle",
+  "definition": "Semplice e sobrio, soprattutto nel mangiare",
+  "example": "Dopo una cena frugale, pane e formaggio, andarono a dormire.",
+  "synonyms": [
+   "sobrio",
+   "parco",
+   "semplice"
+  ],
+  "origin": "Dal latino frugalis, da frux frugis «frutto della terra»."
+ }
+]

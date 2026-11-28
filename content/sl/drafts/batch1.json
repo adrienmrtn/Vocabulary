@@ -1,0 +1,796 @@
+[
+  {
+    "lemma": "spokojen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "spɔˈkoːjən",
+    "definition": "Miren, brez notranjega nemira",
+    "example": "Po dolgem sprehodu ob jezeru se je počutil spokojen in lahek.",
+    "synonyms": [
+      "miren",
+      "umirjen",
+      "pokojen"
+    ],
+    "origin": "Iz spokoj, to pa iz pokoj, praslovansko *pokojь »mir, počitek«, sorodno s počiti."
+  },
+  {
+    "lemma": "vedrina",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "ʋɛˈdriːna",
+    "definition": "Jasno, veselo in sproščeno razpoloženje",
+    "example": "Njena vedrina je razsvetlila še tako pust ponedeljkov sestanek.",
+    "synonyms": [
+      "veselost",
+      "radost",
+      "jasnina"
+    ],
+    "origin": "Iz veder, praslovansko *vedrъ »jasen (o vremenu)«, sorodno z nemškim Wetter »vreme«."
+  },
+  {
+    "lemma": "hrepeneti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "xrɛpɛˈneːti",
+    "definition": "Močno si želeti česa oddaljenega",
+    "example": "Vse življenje je hrepenela po morju in daljnih pristaniščih.",
+    "synonyms": [
+      "koprneti",
+      "želeti",
+      "sanjati"
+    ],
+    "origin": "Verjetno prvotno »sopsti, hropeti (od poželenja)«, sorodno s hropeti; razlaga ni povsem zanesljiva."
+  },
+  {
+    "lemma": "milina",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "miˈliːna",
+    "definition": "Nežna, prikupna lepota gibov ali videza",
+    "example": "V vsakem njenem gibu je bila milina, ki se je ni dalo naučiti.",
+    "synonyms": [
+      "ljubkost",
+      "nežnost",
+      "dražest"
+    ],
+    "origin": "Iz mil, praslovansko *milъ »drag, ljubek«."
+  },
+  {
+    "lemma": "otožen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ɔˈtoːʒən",
+    "definition": "Tiho, blago žalosten",
+    "example": "Ob pogledu na prazno hišo je postal otožen in redkobeseden.",
+    "synonyms": [
+      "žalosten",
+      "melanholičen",
+      "tožen"
+    ],
+    "origin": "Iz tožiti (se) »žalovati, tarnati«, k praslovanskemu *tǫga »tesnoba, žalost«."
+  },
+  {
+    "lemma": "prešeren",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "prɛˈʃeːrən",
+    "definition": "Razposajeno, neugnano vesel",
+    "example": "Otroci so se s prešernim smehom zapodili po sveže zapadlem snegu.",
+    "synonyms": [
+      "razposajen",
+      "objesten",
+      "vesel"
+    ],
+    "origin": "Tvorjeno s predpono pre-; nadaljnji izvor ni zanesljivo pojasnjen. Iz iste besede je priimek Prešeren."
+  },
+  {
+    "lemma": "tenkočuten",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "tɛŋkɔˈtʃuːtən",
+    "definition": "Zelo občutljiv za tuja čustva in odtenke",
+    "example": "Bil je tenkočuten poslušalec, ki je slišal tudi neizrečeno.",
+    "synonyms": [
+      "občutljiv",
+      "rahločuten",
+      "obziren"
+    ],
+    "origin": "Zloženka iz tenek »tanek« in čut, iz čutiti, praslovansko *ťutiti."
+  },
+  {
+    "lemma": "iskriv",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "isˈkriːu̯",
+    "definition": "Živahen, duhovit in poln domislic",
+    "example": "Večer je popestril iskriv pogovor o knjigah in potovanjih.",
+    "synonyms": [
+      "duhovit",
+      "živahen",
+      "domiseln"
+    ],
+    "origin": "Iz iskra, praslovansko *jьskra."
+  },
+  {
+    "lemma": "zasanjan",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "zaˈsaːnjan",
+    "definition": "Zatopljen v sanjarjenje, odsoten z mislimi",
+    "example": "Zasanjan je strmel skozi okno in preslišal učiteljevo vprašanje.",
+    "synonyms": [
+      "sanjav",
+      "zamišljen",
+      "odsoten"
+    ],
+    "origin": "Iz sanjati, sanje, k praslovanskemu *sъnъ »spanec, sen«."
+  },
+  {
+    "lemma": "vztrajen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ˈʋstraːjən",
+    "definition": "Ki kljub težavam ne odneha",
+    "example": "Le vztrajen tekač pride na cilj tudi takrat, ko dežuje.",
+    "synonyms": [
+      "neomajen",
+      "stanoviten",
+      "žilav"
+    ],
+    "origin": "Iz vztrajati, to pa iz trajati, praslovansko *trajati."
+  },
+  {
+    "lemma": "drzen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ˈdərzən",
+    "definition": "Pogumen čez mejo običajne previdnosti",
+    "example": "Njen drzen predlog je sprva osupnil ves upravni odbor.",
+    "synonyms": [
+      "pogumen",
+      "smel",
+      "predrzen"
+    ],
+    "origin": "Praslovansko *dьrzъ »smel«, sorodno z grškim thrasýs »pogumen, drzen«."
+  },
+  {
+    "lemma": "sloves",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "slɔˈʋeːs",
+    "definition": "Glas, ki ga kdo uživa med ljudmi",
+    "example": "Gostilna si je sloves pridobila z domačim kruhom in prijaznostjo.",
+    "synonyms": [
+      "ugled",
+      "slava",
+      "glas"
+    ],
+    "origin": "Iz praslovanskega *slovo, rodilnik *slovese »beseda, glas«, sorodno s sloveti in slava."
+  },
+  {
+    "lemma": "zanos",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "zaˈnɔs",
+    "definition": "Močno navdušenje, ki človeka prevzame",
+    "example": "O svojem vrtu je govorila s takim zanosom, da smo vsi utihnili.",
+    "synonyms": [
+      "navdušenje",
+      "vnema",
+      "polet"
+    ],
+    "origin": "Iz zanesti »odnesti, prevzeti«, to pa iz nesti, praslovansko *nesti."
+  },
+  {
+    "lemma": "tolažba",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "tɔˈlaːʒba",
+    "definition": "Beseda ali dejanje, ki lajša žalost",
+    "example": "Skodelica čaja in prijateljeva beseda sta bili tisti večer prava tolažba.",
+    "synonyms": [
+      "uteha",
+      "olajšanje"
+    ],
+    "origin": "Iz tolažiti, k praslovanskemu *toliti »miriti«, sorodno z litovskim tilti »utihniti«."
+  },
+  {
+    "lemma": "sočutje",
+    "level": 1,
+    "part_of_speech": "sam. s",
+    "ipa": "sɔˈtʃuːtjɛ",
+    "definition": "Čustvena udeleženost v tuji bolečini",
+    "example": "Bolniki so cenili njeno sočutje bolj kot vsa zdravila.",
+    "synonyms": [
+      "usmiljenje",
+      "razumevanje",
+      "sočustvovanje"
+    ],
+    "origin": "Iz so- in čutiti; tvorjeno po zgledu nemškega Mitgefühl oziroma latinskega compassio."
+  },
+  {
+    "lemma": "radoveden",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "radɔˈʋeːdən",
+    "definition": "Željan izvedeti kaj novega",
+    "example": "Radoveden otrok vpraša več, kot zmore odrasel odgovoriti.",
+    "synonyms": [
+      "zvedav",
+      "vedoželjen"
+    ],
+    "origin": "Zloženka iz rad in vedeti, praslovansko *věděti."
+  },
+  {
+    "lemma": "preudaren",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "prɛuˈdaːrən",
+    "definition": "Ki ravna po tehtnem premisleku",
+    "example": "Preudaren vlagatelj ne stavi vsega prihranka na eno samo podjetje.",
+    "synonyms": [
+      "premišljen",
+      "razsoden",
+      "trezen"
+    ],
+    "origin": "Iz glagola preudariti »dobro premisliti«, ta pa iz udariti."
+  },
+  {
+    "lemma": "lahkoten",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "laxˈkoːtən",
+    "definition": "Brez teže in napora, sproščen",
+    "example": "Poleti rada bere lahkoten roman, ki ga odloži brez slabe vesti.",
+    "synonyms": [
+      "lahek",
+      "sproščen",
+      "neobremenjen"
+    ],
+    "origin": "Iz lahek, praslovansko *lьgъkъ."
+  },
+  {
+    "lemma": "mikaven",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "miˈkaːʋən",
+    "definition": "Privlačen, vzbujajoč zanimanje",
+    "example": "Ponudba se mu je zdela mikavna, a je odločitev raje prespal.",
+    "synonyms": [
+      "privlačen",
+      "vabljiv",
+      "zanimiv"
+    ],
+    "origin": "Iz mikati »privlačiti«, prvotno »trzati, vleči«, praslovansko *mykati."
+  },
+  {
+    "lemma": "bister",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ˈbiːstər",
+    "definition": "Ki hitro dojema; tudi čist in prozoren",
+    "example": "Bister potok teče mimo mlina, bister um pa mimo predsodkov.",
+    "synonyms": [
+      "pameten",
+      "čist",
+      "prodoren"
+    ],
+    "origin": "Praslovansko *bystrъ »hiter, jasen«."
+  },
+  {
+    "lemma": "klen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "kleːn",
+    "definition": "Jedrnat, zdrav in močan",
+    "example": "Stari kmet je govoril v klenem, sočnem jeziku svoje doline.",
+    "synonyms": [
+      "jedrnat",
+      "krepek",
+      "čvrst"
+    ],
+    "origin": "Izvor ni zanesljivo pojasnjen; povezujejo ga z imenom drevesa klen »maklen«, ki ima trd les."
+  },
+  {
+    "lemma": "žlahten",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ˈʒlaːxtən",
+    "definition": "Plemenit, izbrane kakovosti",
+    "example": "Ob obletnici so odprli steklenico žlahtnega vina iz domače kleti.",
+    "synonyms": [
+      "plemenit",
+      "imeniten",
+      "izbran"
+    ],
+    "origin": "Iz žlahta »rod, sorodstvo«, prevzeto iz srednjevisokonemškega slahte »rod« (nemško Geschlecht)."
+  },
+  {
+    "lemma": "vrlina",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "ʋərˈliːna",
+    "definition": "Moralno dobra lastnost človeka",
+    "example": "Potrpežljivost je vrlina, ki jo v prometni konici vsi pogrešamo.",
+    "synonyms": [
+      "krepost",
+      "odlika",
+      "čednost"
+    ],
+    "origin": "Iz vrl »dober, odličen«; beseda se je v knjižnem jeziku 19. stoletja verjetno uveljavila po hrvaškem zgledu."
+  },
+  {
+    "lemma": "ganljiv",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ɡanˈljiːu̯",
+    "definition": "Ki vzbuja nežna čustva in sočutje",
+    "example": "Ob slovesu je imela ganljiv govor, ki je orosil marsikatero oko.",
+    "synonyms": [
+      "pretresljiv",
+      "mil"
+    ],
+    "origin": "Iz ganiti »premakniti«, preneseno »čustveno pretresti«."
+  },
+  {
+    "lemma": "hvaležen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "xʋaˈleːʒən",
+    "definition": "Ki čuti in izkazuje priznanje za prejeto dobroto",
+    "example": "Sosedu sem hvaležen, ker mi je med dopustom zalival rože.",
+    "synonyms": [
+      "zahvalen"
+    ],
+    "origin": "Iz hvala, praslovansko *xvala."
+  },
+  {
+    "lemma": "pretanjen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "prɛˈtaːnjən",
+    "definition": "Izbrano prefinjen, zelo natančno izdelan",
+    "example": "Kuhar slovi po pretanjenem občutku za začimbe in dišave.",
+    "synonyms": [
+      "prefinjen",
+      "izbrušen",
+      "rafiniran"
+    ],
+    "origin": "Iz pre- in tanek, praslovansko *tьnъkъ."
+  },
+  {
+    "lemma": "ubran",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "uˈbraːn",
+    "definition": "Skladen, lepo usklajen v celoto",
+    "example": "Zbor je zapel tako ubrano, da je vsa dvorana obnemela.",
+    "synonyms": [
+      "skladen",
+      "harmoničen",
+      "uglašen"
+    ],
+    "origin": "Iz ubrati »uglasiti (strune)«, to pa iz brati."
+  },
+  {
+    "lemma": "zvedav",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "zʋɛˈdau̯",
+    "definition": "Željan spoznavanja, vedoželjen",
+    "example": "Zvedav pogled male deklice je sledil vsakemu gibu urarja.",
+    "synonyms": [
+      "radoveden",
+      "vedoželjen"
+    ],
+    "origin": "Iz zvedeti, to pa iz vedeti, praslovansko *věděti."
+  },
+  {
+    "lemma": "snovati",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "snɔˈʋaːti",
+    "definition": "Zamišljati in pripravljati načrt ali delo",
+    "example": "Že mesece so snovali načrt za prenovo stare knjižnice.",
+    "synonyms": [
+      "načrtovati",
+      "pripravljati",
+      "kovati"
+    ],
+    "origin": "Praslovansko *snovati »napeljevati niti osnove pri tkanju«, od tod »zasnavljati«."
+  },
+  {
+    "lemma": "bodriti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "bɔˈdriːti",
+    "definition": "Spodbujati, vlivati pogum",
+    "example": "Navijači so ekipo bodrili do zadnje minute tekme.",
+    "synonyms": [
+      "spodbujati",
+      "hrabriti"
+    ],
+    "origin": "K praslovanskemu *bъdrъ »buden, živahen«, sorodno z bedeti; v knjižno slovenščino verjetno prevzeto v 19. stoletju iz drugih slovanskih jezikov."
+  },
+  {
+    "lemma": "kljubovati",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "kljubɔˈʋaːti",
+    "definition": "Upirati se, ne popustiti pritisku",
+    "example": "Stara lipa je kljubovala vsem neurjem zadnjih sto let.",
+    "synonyms": [
+      "nasprotovati",
+      "vztrajati"
+    ],
+    "origin": "Iz kljub, domnevno iz zveze k ljubu »po volji«, katere pomen se je obrnil v nasprotje."
+  },
+  {
+    "lemma": "sanjariti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "sanˈjaːriti",
+    "definition": "Prepuščati se prijetnim, neresničnim predstavam",
+    "example": "Namesto da bi se učil, je sanjaril o poletju na otoku.",
+    "synonyms": [
+      "fantazirati",
+      "sanjati"
+    ],
+    "origin": "Iz sanje, k praslovanskemu *sъnъ »spanec, sen«."
+  },
+  {
+    "lemma": "tavati",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "ˈtaːʋati",
+    "definition": "Hoditi brez cilja ali orientacije",
+    "example": "Brez zemljevida sva dve uri tavala po ozkih ulicah starega mesta.",
+    "synonyms": [
+      "bloditi",
+      "begati",
+      "kolovratiti"
+    ],
+    "origin": "Izvor ni zanesljivo pojasnjen; verjetno ekspresivna beseda."
+  },
+  {
+    "lemma": "šepetati",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "ʃɛpɛˈtaːti",
+    "definition": "Govoriti zelo tiho, brez glasu",
+    "example": "V knjižnici sta si šepetala, da ne bi motila bralcev.",
+    "synonyms": [
+      "šušljati",
+      "mrmrati"
+    ],
+    "origin": "Onomatopejskega nastanka, praslovansko *šьpъtati."
+  },
+  {
+    "lemma": "mrmrati",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "mərˈmraːti",
+    "definition": "Nerazločno, tiho govoriti predse",
+    "example": "Med kuhanjem si je mrmral napev iz starega filma.",
+    "synonyms": [
+      "momljati",
+      "godrnjati"
+    ],
+    "origin": "Onomatopejskega nastanka; primerjaj latinsko murmurare."
+  },
+  {
+    "lemma": "ždeti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "ˈʒdeːti",
+    "definition": "Nepremično, brezdelno čepeti ali sedeti",
+    "example": "V takem dežju je najlepše ždeti ob peči s knjigo v roki.",
+    "synonyms": [
+      "čepeti",
+      "sedeti",
+      "tičati"
+    ],
+    "origin": "Verjetno sorodno s praslovanskim *žьdati »čakati«."
+  },
+  {
+    "lemma": "brsteti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "bərˈsteːti",
+    "definition": "Poganjati popke; začenjati se razvijati",
+    "example": "Marca začnejo češnje brsteti in vrt se čez noč prebudi.",
+    "synonyms": [
+      "poganjati",
+      "kliti",
+      "zeleneti"
+    ],
+    "origin": "Iz brst »popek«, praslovansko *brъstь."
+  },
+  {
+    "lemma": "kopneti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "kɔpˈneːti",
+    "definition": "Počasi se tajati; hirati od želje",
+    "example": "Sneg je na prisojnih pobočjih začel kopneti že februarja.",
+    "synonyms": [
+      "giniti",
+      "plahneti",
+      "hirati"
+    ],
+    "origin": "Iz kopen »brez snega«, praslovansko *kopьnъ."
+  },
+  {
+    "lemma": "utrinek",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "uˈtriːnək",
+    "definition": "Kratek svetel pojav na nebu; bežen vtis",
+    "example": "Avgusta smo ležali na travniku in šteli zvezdne utrinke.",
+    "synonyms": [
+      "meteor",
+      "preblisk",
+      "drobec"
+    ],
+    "origin": "Iz utrniti »očistiti stenj sveče«; prvotno odščipnjeni ogorek stenja."
+  },
+  {
+    "lemma": "zarja",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "ˈzaːrja",
+    "definition": "Rdečkasta svetloba neba ob sončnem vzhodu ali zahodu",
+    "example": "Ribiči so odrinili, ko je nad zalivom zagorela jutranja zarja.",
+    "synonyms": [
+      "zora",
+      "svit"
+    ],
+    "origin": "Praslovansko *zar'a, sorodno z zreti in zor."
+  },
+  {
+    "lemma": "svit",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "sʋiːt",
+    "definition": "Prva jutranja svetloba pred sončnim vzhodom",
+    "example": "Na pot sta krenila ob prvem svitu, da bi ujela sončni vzhod.",
+    "synonyms": [
+      "zora",
+      "zarja",
+      "zor"
+    ],
+    "origin": "Praslovansko *svitъ, sorodno s svetiti in svetel."
+  },
+  {
+    "lemma": "mrak",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "mraːk",
+    "definition": "Čas med dnevom in nočjo; poltema",
+    "example": "Ko je padel mrak, so se v dolini prižgale prve luči.",
+    "synonyms": [
+      "somrak",
+      "poltema",
+      "tema"
+    ],
+    "origin": "Praslovansko *morkъ »tema«, sorodno z mrkniti."
+  },
+  {
+    "lemma": "zatišje",
+    "level": 1,
+    "part_of_speech": "sam. s",
+    "ipa": "zaˈtiːʃjɛ",
+    "definition": "Kraj ali čas brez vetra in hrupa",
+    "example": "Čoln sta privezala v zatišju za skalnim rtom.",
+    "synonyms": [
+      "zavetje",
+      "mir",
+      "tišina"
+    ],
+    "origin": "Iz za in tih, praslovansko *tixъ."
+  },
+  {
+    "lemma": "brezno",
+    "level": 1,
+    "part_of_speech": "sam. s",
+    "ipa": "ˈbrɛːznɔ",
+    "definition": "Zelo globoka, navpična votlina v tleh",
+    "example": "Jamarji so se z vrvmi spustili v brezno, globoko dvesto metrov.",
+    "synonyms": [
+      "prepad",
+      "globel",
+      "žrelo"
+    ],
+    "origin": "Praslovansko *bezdъno »kar nima dna«, iz *bez »brez« in *dъno »dno«."
+  },
+  {
+    "lemma": "šelesteti",
+    "level": 1,
+    "part_of_speech": "glag.",
+    "ipa": "ʃɛlɛˈsteːti",
+    "definition": "Dajati rahle glasove kakor suho listje",
+    "example": "V jesenskem vetru je šelestelo listje starih kostanjev.",
+    "synonyms": [
+      "šumeti",
+      "šušteti"
+    ],
+    "origin": "Onomatopejskega nastanka."
+  },
+  {
+    "lemma": "sapa",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "ˈsaːpa",
+    "definition": "Rahel veter; tudi dih",
+    "example": "S hriba je zavela hladna sapa in pregnala popoldansko soparo.",
+    "synonyms": [
+      "vetrc",
+      "dih",
+      "pih"
+    ],
+    "origin": "Iz sopsti, praslovansko *sopti »pihati, dihati«."
+  },
+  {
+    "lemma": "jasa",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "ˈjaːsa",
+    "definition": "Travnat, neporasel prostor sredi gozda",
+    "example": "Sredi smrekovega gozda se je odprla sončna jasa, polna jagod.",
+    "synonyms": [
+      "čistina",
+      "poseka",
+      "trata"
+    ],
+    "origin": "Sorodno z jasen »svetel«, praslovansko *(j)asnъ."
+  },
+  {
+    "lemma": "razgled",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "razˈɡlɛt",
+    "definition": "Kar se z višine vidi daleč naokoli",
+    "example": "Z vrha zvonika se odpira razgled na vse mestne strehe.",
+    "synonyms": [
+      "pogled",
+      "panorama"
+    ],
+    "origin": "Iz razgledati se, to pa iz gledati, praslovansko *ględati."
+  },
+  {
+    "lemma": "popotnik",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "pɔˈpoːtnik",
+    "definition": "Kdor je na daljši poti, navadno peš",
+    "example": "Utrujen popotnik je v koči dobil toplo juho in posteljo.",
+    "synonyms": [
+      "potnik",
+      "pohodnik",
+      "romar"
+    ],
+    "origin": "Iz zveze po poti; pot je praslovansko *pǫtь."
+  },
+  {
+    "lemma": "domotožje",
+    "level": 1,
+    "part_of_speech": "sam. s",
+    "ipa": "dɔmɔˈtoːʒjɛ",
+    "definition": "Hrepenenje po domačem kraju",
+    "example": "Po treh mesecih v tujini jo je začelo mučiti domotožje.",
+    "synonyms": [
+      "nostalgija"
+    ],
+    "origin": "Zloženka iz dom in tožiti, tvorjena po zgledu nemškega Heimweh."
+  },
+  {
+    "lemma": "veljak",
+    "level": 1,
+    "part_of_speech": "sam. m",
+    "ipa": "ʋɛˈljaːk",
+    "definition": "Ugleden, vpliven človek",
+    "example": "Na otvoritev so povabili vse mestne veljake in nekaj novinarjev.",
+    "synonyms": [
+      "imenitnik",
+      "prvak",
+      "mogotec"
+    ],
+    "origin": "Iz veljati, praslovansko *velěti »hoteti, ukazovati«."
+  },
+  {
+    "lemma": "omika",
+    "level": 1,
+    "part_of_speech": "sam. ž",
+    "ipa": "ɔˈmiːka",
+    "definition": "Izobraženost in uglajenost v vedenju",
+    "example": "Prava omika se pokaže v tem, kako človek ravna z natakarjem.",
+    "synonyms": [
+      "izobrazba",
+      "kultura",
+      "olika"
+    ],
+    "origin": "Iz omikati »očistiti, zgladiti (predivo)«, iz mikati »česati lan«; preneseno na človeka."
+  },
+  {
+    "lemma": "uglajen",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "uˈɡlaːjən",
+    "definition": "Vljuden in izbrušen v vedenju",
+    "example": "Uglajen gospod ji je pridržal vrata in se tiho umaknil.",
+    "synonyms": [
+      "vljuden",
+      "olikan",
+      "prefinjen"
+    ],
+    "origin": "Iz ugladiti, to pa iz gladek, praslovansko *gladъkъ."
+  },
+  {
+    "lemma": "spoštljiv",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "spɔʃtˈljiːu̯",
+    "definition": "Ki izkazuje priznanje in obzirnost",
+    "example": "Do starejših sodelavcev je bil vedno spoštljiv, a nikoli hlapčevski.",
+    "synonyms": [
+      "vljuden",
+      "obziren"
+    ],
+    "origin": "Iz spoštovati, starejše poštovati, iz *počьtovati, k čast."
+  },
+  {
+    "lemma": "obziren",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "ɔbˈziːrən",
+    "definition": "Pozoren do čustev in potreb drugih",
+    "example": "Bodi obziren in po deseti uri zvečer ne vrtaj v steno.",
+    "synonyms": [
+      "pozoren",
+      "uvideven",
+      "takten"
+    ],
+    "origin": "Iz obzir, k ozirati se in zreti, praslovansko *zьrěti »gledati«."
+  },
+  {
+    "lemma": "zgovoren",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "zɡɔˈʋoːrən",
+    "definition": "Ki rad in veliko pripoveduje",
+    "example": "Taksist je bil zgovoren in do letališča sem izvedel vso njegovo zgodbo.",
+    "synonyms": [
+      "gostobeseden",
+      "klepetav"
+    ],
+    "origin": "Iz govoriti, praslovansko *govorъ »hrup, govor«."
+  },
+  {
+    "lemma": "iskren",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "isˈkreːn",
+    "definition": "Ki odkrito kaže, kar misli in čuti",
+    "example": "Raje imam iskren ugovor kakor prijazno laž.",
+    "synonyms": [
+      "odkrit",
+      "pošten",
+      "odkritosrčen"
+    ],
+    "origin": "Praslovansko *jьskrьnъ »bližnji«, iz *jьskrь »blizu«; z besedo iskra ni v zvezi."
+  },
+  {
+    "lemma": "plah",
+    "level": 1,
+    "part_of_speech": "prid.",
+    "ipa": "plaːx",
+    "definition": "Boječ, ki se hitro prestraši",
+    "example": "Plah srnjak je obstal na robu jase in zavohal zrak.",
+    "synonyms": [
+      "boječ",
+      "plašen",
+      "bojazljiv"
+    ],
+    "origin": "Praslovansko *polxъ »strah; plašen«, sorodno s plašiti."
+  }
+]

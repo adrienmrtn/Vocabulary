@@ -2500,6 +2500,49 @@
     "issues": []
   },
   {
+    "lemma": "ineffable",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "inefabl",
+    "definition": "Qu'on ne peut exprimer par des mots",
+    "example": "Devant ce paysage, elle ressentit une joie ineffable.",
+    "synonyms": [
+      "indicible",
+      "inexprimable",
+      "indescriptible"
+    ],
+    "origin": "Du latin ineffabilis, de in- « non » et effari « dire, exprimer ».",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "Le vieux homme parlait peu, et, par instants, il attachait sur elle des yeux remplis d’une ineffable paternité.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "zipf": 2.56,
+    "issues": []
+  },
+  {
+    "lemma": "irascible",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "iʁasibl",
+    "definition": "Qui se met facilement en colère",
+    "example": "Le vieux général, irascible, ne supportait aucune contradiction.",
+    "synonyms": [
+      "coléreux",
+      "irritable",
+      "emporté"
+    ],
+    "origin": "Du bas latin irascibilis, de irasci « se mettre en colère », de ira « colère ».",
+    "topics": [
+      "character"
+    ],
+    "quote": "On dirait parfois que les évènements sont irascibles.",
+    "quote_source": "Victor Hugo, Quatrevingt-treize",
+    "zipf": 2.55,
+    "issues": []
+  },
+  {
     "lemma": "pusillanime",
     "level": 3,
     "part_of_speech": "adj.",
@@ -3161,6 +3204,28 @@
     "issues": []
   },
   {
+    "lemma": "vicissitude",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "visisityd",
+    "definition": "Événement heureux ou malheureux qui marque une vie",
+    "example": "Malgré les vicissitudes de la guerre, la librairie resta ouverte.",
+    "synonyms": [
+      "aléa",
+      "épreuve",
+      "tribulation"
+    ],
+    "origin": "Du latin vicissitudo « alternance », de vicis « tour, succession ».",
+    "topics": [
+      "society",
+      "literature"
+    ],
+    "quote": "Dans ce pays, comme en Touraine, les vicissitudes de l’atmosphère dominent la vie commerciale.",
+    "quote_source": "Honoré de Balzac, Eugénie Grandet",
+    "zipf": 1.25,
+    "issues": []
+  },
+  {
     "lemma": "apanage",
     "level": 3,
     "part_of_speech": "n. m.",
@@ -3222,6 +3287,27 @@
     "quote": "L’affaire, telle qu’elle va être présentée, nous couvre d’opprobre; car dans une société comme la nôtre, certains ridicules sont des plaies vives, saignantes, incurables.",
     "quote_source": "Alexandre Dumas, Le Comte de Monte-Cristo",
     "zipf": 2.88,
+    "issues": []
+  },
+  {
+    "lemma": "turpitude",
+    "level": 3,
+    "part_of_speech": "n. f.",
+    "ipa": "tyʁpityd",
+    "definition": "Conduite honteuse, bassesse morale",
+    "example": "Le journal promettait de révéler les turpitudes du financier.",
+    "synonyms": [
+      "bassesse",
+      "infamie",
+      "vilenie"
+    ],
+    "origin": "Du latin turpitudo « laideur, honte », de turpis « laid, honteux ».",
+    "topics": [
+      "society"
+    ],
+    "quote": "Il y a des bravoures opiniâtres et ignorées qui se défendent pied à pied dans l’ombre contre l’envahissement fatal des nécessités et des turpitudes.",
+    "quote_source": "Victor Hugo, Les Misérables",
+    "zipf": 2.15,
     "issues": []
   },
   {

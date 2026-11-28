@@ -86,6 +86,8 @@ def typeset(sentence):
     """Curly quotes and real dashes, for the files that are plain ASCII."""
     sentence = re.sub(r"\s*--\s*", "—", sentence)
     sentence = re.sub(r"(?<=\w)'(?=\w)", "’", sentence)
+    if LANG not in ("en", "fr"):
+        return sentence.replace("'", "’")
     if LANG == "fr":
         # Older files write "coeur" and "oeil" without the ligature.
         for plain, joined in (("oeu", "œu"), ("Oeu", "Œu"), ("oeil", "œil"), ("Oeil", "Œil")):
@@ -103,7 +105,17 @@ BOOKS_FR = [
     16852, 17457, 17489, 17493, 17494, 17518, 17519, 17533, 17553, 17983, 17989, 17990, 17991,
     17992, 18797, 19657, 7461, 8560, 2708,
 ]
-LANGUAGE_NAMES = {"en": "English", "fr": "French"}
+LANGUAGE_NAMES = {
+    "en": "English", "fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ar": "Arabic",
+    "hr": "Croatian", "cs": "Czech", "da": "Danish", "nl": "Dutch", "fi": "Finnish", "el": "Greek",
+    "he": "Hebrew", "hu": "Hungarian", "ja": "Japanese", "nb": "Norwegian", "pl": "Polish",
+    "pt-BR": "Portuguese", "pt-PT": "Portuguese", "ro": "Romanian", "ru": "Russian", "sk": "Slovak",
+    "sl": "Slovenian", "sv": "Swedish", "tr": "Turkish",
+}
+# The other languages describe themselves in content/<code>/books.json:
+# {"books": [ebook numbers], "abbreviations": [...], "openers": [...],
+#  "authors": {name in the file: name to show}, "titles": {...}}.
+CONFIG = {}
 ABBREVIATIONS_FR = ["M", "MM", "Mme", "Mlle", "Dr", "St", "Ste", "Mgr"]
 OPENERS = {
     "en": {"He", "She", "It", "They", "This", "That", "But", "And", "Then", "So"},
@@ -155,7 +167,7 @@ def fetch():
     os.makedirs(CACHE, exist_ok=True)
     names = None
     site_down = False
-    for number in (BOOKS_FR if LANG == "fr" else BOOKS):
+    for number in (BOOKS_FR if LANG == "fr" else CONFIG.get("books", BOOKS)):
         path = os.path.join(CACHE, f"{number}.txt")
         if os.path.exists(path) and os.path.getsize(path) > 20000:
             continue
@@ -178,8 +190,9 @@ def fetch():
             print(f"{number}: not a book file, skipped")
             continue
         language = re.search(rb"^Language: *(\w+)", data, re.M)
-        if not language or language.group(1).decode() != LANGUAGE_NAMES[LANG]:
-            print(f"{number}: not in {LANGUAGE_NAMES[LANG]}, skipped")
+        wanted = CONFIG.get("language_name") or LANGUAGE_NAMES[LANG]
+        if not language or language.group(1).decode() != wanted:
+            print(f"{number}: not in {wanted}, skipped")
             continue
         with open(path, "wb") as handle:
             handle.write(data)
@@ -200,9 +213,14 @@ def read_book(path):
         paragraph = " ".join(paragraph.split()).replace("_", "")
         if len(paragraph) < 40 or paragraph.isupper():
             continue
-        for short in (ABBREVIATIONS_FR if LANG == "fr" else ABBREVIATIONS):
+        for short in (ABBREVIATIONS_FR if LANG == "fr" else CONFIG.get("abbreviations", ABBREVIATIONS)):
             paragraph = re.sub(rf"\b{short}\.", f"{short}<dot>", paragraph)
-        for sentence in re.split(r"(?<=[.!?])\s+(?=[“\"‘'«]?\s?[A-ZÀ-Ý])", paragraph):
+        if LANG in ("en", "fr"):
+            pieces = re.split(r"(?<=[.!?])\s+(?=[“\"‘'«„»¿¡]?\s?[A-ZÀ-Ý])", paragraph)
+        else:
+            # Other alphabets: split after the mark, and let score() judge the opening.
+            pieces = re.split(r"(?<=[.!?…؟])\s+(?=\S)", paragraph)
+        for sentence in pieces:
             sentences.append(sentence.replace("<dot>", ".").strip())
     author = author.group(1).strip() if author else ""
     title = title.group(1).strip() if title else ""
@@ -257,6 +275,12 @@ def forms_fr(lemma, part):
     return re.compile(r"\b(" + "|".join(sorted(options, key=len, reverse=True)) + r")\b", re.I)
 
 
+def forms_generic(lemma):
+    """Any word that starts like the lemma: loose, since a person reviews the result."""
+    stem = lemma[:-2] if len(lemma) > 5 else lemma[:-1] if len(lemma) > 4 else lemma
+    return re.compile(r"\b(" + re.escape(stem) + r"\w{0,6})\b", re.I)
+
+
 def score(sentence, match):
     """Higher is better: a self-contained sentence of a comfortable length."""
     words = sentence.split()
@@ -267,12 +291,14 @@ def score(sentence, match):
         return None
     if sentence.count("«") != sentence.count("»"):
         return None
-    if not sentence[0].isupper() and sentence[0] not in "“\"":
+    if LANG not in ("en", "fr") and not sentence[0].islower():
+        pass  # a capital, an opening mark, or a script without capitals
+    elif not sentence[0].isupper() and sentence[0] not in "“\"¿¡«„»":
         return None
     points = 10 - abs(count - 16) * 0.5
     if match.start() == 0:
         points -= 2
-    if words[0].strip("“\"«") in OPENERS[LANG]:
+    if words[0].strip("“\"«„»¿¡") in OPENERS.get(LANG, set(CONFIG.get("openers", []))):
         points -= 2
     names = sum(1 for word in words[1:] if word[:1].isupper() and word not in {"I", "I’m", "I'm"})
     points -= names * 1.5
@@ -288,7 +314,12 @@ def candidates(out_path):
         for entry in json.load(open(path, encoding="utf-8")):
             lemma = entry["lemma"]
             if lemma not in patterns:
-                patterns[lemma] = forms_fr(lemma, entry["part_of_speech"]) if LANG == "fr" else forms(lemma)
+                if LANG == "en":
+                    patterns[lemma] = forms(lemma)
+                elif LANG == "fr":
+                    patterns[lemma] = forms_fr(lemma, entry["part_of_speech"])
+                else:
+                    patterns[lemma] = forms_generic(lemma)
     found = {lemma: [] for lemma in patterns}
 
     for path in sorted(glob.glob(os.path.join(CACHE, "[0-9]*.txt"))):
@@ -299,7 +330,7 @@ def candidates(out_path):
         for sentence in sentences:
             lowered = sentence.lower()
             for lemma, pattern in patterns.items():
-                if lemma[:3 if LANG == "fr" else 4] not in lowered:
+                if lemma[:4 if LANG == "en" else 3].lower() not in lowered:
                     continue
                 match = pattern.search(sentence)
                 if not match:
@@ -335,6 +366,11 @@ if __name__ == "__main__":
         if LANG != "en":
             CACHE = os.path.join(HERE, ".cache", LANG)
             DRAFTS = os.path.join(HERE, LANG, "drafts", "*.json")
+            config_path = os.path.join(HERE, LANG, "books.json")
+            if os.path.exists(config_path):
+                CONFIG = json.load(open(config_path, encoding="utf-8"))
+                AUTHORS.update(CONFIG.get("authors", {}))
+                TITLES.update(CONFIG.get("titles", {}))
     if len(sys.argv) >= 2 and sys.argv[1] == "fetch":
         fetch()
     elif len(sys.argv) >= 3 and sys.argv[1] == "candidates":

@@ -1,0 +1,794 @@
+[
+ {
+  "lemma": "behoedzaam",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "bəˈɦutsaːm",
+  "definition": "Voorzichtig, met oog voor mogelijk gevaar",
+  "example": "Behoedzaam tilde ze het oude porselein uit de kist.",
+  "synonyms": [
+   "voorzichtig",
+   "omzichtig",
+   "waakzaam"
+  ],
+  "origin": "Van behoeden ‘beschermen’ met het achtervoegsel -zaam; hoeden is verwant met Duits hüten en Engels heed."
+ },
+ {
+  "lemma": "onstuimig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ɔnˈstœyməx",
+  "definition": "Wild en heftig, moeilijk te bedwingen",
+  "example": "De onstuimige zee sloeg hoog over de pier.",
+  "synonyms": [
+   "heftig",
+   "woest",
+   "wild"
+  ],
+  "origin": "Uit Middelnederlands onstuim(ich), met on- gevormd bij een verdwenen woord voor ‘kalm, zacht’; vergelijk Duits ungestüm."
+ },
+ {
+  "lemma": "schuchter",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈsxʏxtər",
+  "definition": "Verlegen, een beetje bang om op te vallen",
+  "example": "Met een schuchter lachje stak het meisje haar hand op.",
+  "synonyms": [
+   "verlegen",
+   "bedeesd",
+   "timide"
+  ],
+  "origin": "In de negentiende eeuw ontleend aan Duits schüchtern, dat oorspronkelijk ‘schuw gemaakt’ betekende en verwant is met schuw."
+ },
+ {
+  "lemma": "gedwee",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ɣəˈdʋeː",
+  "definition": "Volgzaam, zonder tegen te stribbelen",
+  "example": "Gedwee volgde de hond zijn baas naar buiten.",
+  "synonyms": [
+   "volgzaam",
+   "meegaand",
+   "gewillig"
+  ],
+  "origin": "Middelnederlands ghedwade, gedwee ‘zachtmoedig, handelbaar’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "broos",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "broːs",
+  "definition": "Gemakkelijk te breken, teer en kwetsbaar",
+  "example": "Het evenwicht tussen beide landen bleef jarenlang broos.",
+  "synonyms": [
+   "breekbaar",
+   "teer",
+   "fragiel"
+  ],
+  "origin": "Middelnederlands broosch, naast bros; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "grillig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈɣrɪləx",
+  "definition": "Onvoorspelbaar van vorm, gedrag of stemming",
+  "example": "De grillige kustlijn van Bretagne trekt elk jaar veel wandelaars.",
+  "synonyms": [
+   "onberekenbaar",
+   "wispelturig"
+  ],
+  "origin": "Van gril ‘plotselinge inval’. De herkomst daarvan is omstreden: mogelijk bij het oude werkwoord grillen ‘huiveren’, mogelijk via Duits Grille uit Latijn gryllus ‘krekel’."
+ },
+ {
+  "lemma": "schamel",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈsxaːməl",
+  "definition": "Armoedig, karig en pover",
+  "example": "Van zijn schamele loon kon hij nauwelijks de huur betalen.",
+  "synonyms": [
+   "armoedig",
+   "pover",
+   "karig"
+  ],
+  "origin": "Middelnederlands schamel ‘beschaamd, eerbaar’ en later ‘arm’; afgeleid van de stam van schamen en schaamte."
+ },
+ {
+  "lemma": "vurig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈvyːrəx",
+  "definition": "Vol hartstocht en gloed",
+  "example": "Ze hield een vurig pleidooi voor het behoud van de bibliotheek.",
+  "synonyms": [
+   "hartstochtelijk",
+   "gloedvol",
+   "fel"
+  ],
+  "origin": "Afgeleid van vuur, een oud Germaans woord dat verwant is met Engels fire en Grieks pyr."
+ },
+ {
+  "lemma": "argeloos",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈɑrɣəloːs",
+  "definition": "Zonder kwaad te vermoeden, onschuldig",
+  "example": "Argeloos opende hij de deur voor de vreemdeling.",
+  "synonyms": [
+   "nietsvermoedend",
+   "onschuldig",
+   "naïef"
+  ],
+  "origin": "Uit arg ‘kwaad’ en -loos, waarschijnlijk naar het voorbeeld van Duits arglos: zonder kwade gedachte."
+ },
+ {
+  "lemma": "zwierig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈzʋiːrəx",
+  "definition": "Sierlijk, met een losse en elegante beweging",
+  "example": "Met een zwierig gebaar nam hij zijn hoed af.",
+  "synonyms": [
+   "sierlijk",
+   "elegant",
+   "gracieus"
+  ],
+  "origin": "Van zwier ‘sierlijke zwaai’, bij zwieren ‘heen en weer zwaaien’."
+ },
+ {
+  "lemma": "lommerrijk",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈlɔmərɛik",
+  "definition": "Met veel schaduw van bomen en gebladerte",
+  "example": "We picknickten op een lommerrijk plekje aan de rivier.",
+  "synonyms": [
+   "schaduwrijk",
+   "bladerrijk",
+   "beschaduwd"
+  ],
+  "origin": "Van lommer ‘schaduw, gebladerte’, dat via Frans l’ombre teruggaat op Latijn umbra ‘schaduw’."
+ },
+ {
+  "lemma": "guur",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ɣyːr",
+  "definition": "Koud, nat en onaangenaam, van het weer gezegd",
+  "example": "Het was guur aan zee, met een snijdende wind.",
+  "synonyms": [
+   "kil",
+   "onherbergzaam",
+   "ruw"
+  ],
+  "origin": "Sinds de zeventiende eeuw bekend; de herkomst is onzeker."
+ },
+ {
+  "lemma": "innemend",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ɪˈneːmənt",
+  "definition": "Zo vriendelijk dat anderen er vanzelf door gewonnen worden",
+  "example": "Met haar innemende glimlach stelde ze iedereen op zijn gemak.",
+  "synonyms": [
+   "charmant",
+   "beminnelijk",
+   "aantrekkelijk"
+  ],
+  "origin": "Tegenwoordig deelwoord van innemen in de figuurlijke betekenis ‘voor zich winnen’."
+ },
+ {
+  "lemma": "ingetogen",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈɪnɣətoːɣən",
+  "definition": "Bescheiden en beheerst, zonder uiterlijk vertoon",
+  "example": "Het was een ingetogen plechtigheid, met alleen familie en vrienden.",
+  "synonyms": [
+   "bescheiden",
+   "sober",
+   "zedig"
+  ],
+  "origin": "Oorspronkelijk het voltooid deelwoord van het oude intijgen ‘naar binnen trekken’: wie ingetogen is, houdt zich in."
+ },
+ {
+  "lemma": "onverschrokken",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ɔnvərˈsxrɔkən",
+  "definition": "Zonder angst, door niets af te schrikken",
+  "example": "De onverschrokken brandweerman liep het brandende huis in.",
+  "synonyms": [
+   "dapper",
+   "moedig",
+   "onbevreesd"
+  ],
+  "origin": "Van on- en verschrokken, het voltooid deelwoord van het oude verschrikken ‘bang worden’."
+ },
+ {
+  "lemma": "standvastig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "stɑntˈfɑstəx",
+  "definition": "Onwankelbaar trouw aan een besluit of overtuiging",
+  "example": "Ze bleef standvastig weigeren, hoe hoog het bod ook werd.",
+  "synonyms": [
+   "onwankelbaar",
+   "volhardend",
+   "vastberaden"
+  ],
+  "origin": "Uit stand en een afleiding van vast: wie standvastig is, blijft letterlijk stevig staan."
+ },
+ {
+  "lemma": "kordaat",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "kɔrˈdaːt",
+  "definition": "Flink en vastberaden, zonder te aarzelen",
+  "example": "Kordaat stapte ze naar voren en nam het woord.",
+  "synonyms": [
+   "doortastend",
+   "flink",
+   "resoluut"
+  ],
+  "origin": "Ontleend aan Latijn cordatus ‘verstandig, beraden’, mogelijk via Spaans cordato; afgeleid van cor ‘hart’."
+ },
+ {
+  "lemma": "uitbundig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "œytˈbʏndəx",
+  "definition": "Overvloedig en zonder terughouding, vooral van vreugde",
+  "example": "Het publiek juichte uitbundig toen de zangeres opkwam.",
+  "synonyms": [
+   "uitgelaten",
+   "overdadig",
+   "uitzinnig"
+  ],
+  "origin": "Middelnederlands utebondich; waarschijnlijk letterlijk ‘buiten de band’, dus niet in te binden."
+ },
+ {
+  "lemma": "mistroostig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "mɪsˈtroːstəx",
+  "definition": "Somber en terneergeslagen",
+  "example": "Op zo’n grijze zondagmiddag werd hij altijd wat mistroostig.",
+  "synonyms": [
+   "somber",
+   "terneergeslagen",
+   "neerslachtig"
+  ],
+  "origin": "Van het oude mistroost ‘wanhoop’, uit mis- en troost: zonder troost."
+ },
+ {
+  "lemma": "vluchtig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ˈvlʏxtəx",
+  "definition": "Snel voorbijgaand of oppervlakkig",
+  "example": "Ze wierp een vluchtige blik op de krant en liep door.",
+  "synonyms": [
+   "kortstondig",
+   "oppervlakkig",
+   "haastig"
+  ],
+  "origin": "Afgeleid van vlucht, bij vlieden en vluchten: wat vluchtig is, is zo weer weg."
+ },
+ {
+  "lemma": "weerbarstig",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ʋeːrˈbɑrstəx",
+  "definition": "Moeilijk te buigen of te leiden, zich verzettend",
+  "example": "Hij probeerde zijn weerbarstige haar plat te kammen.",
+  "synonyms": [
+   "stug",
+   "onhandelbaar",
+   "koppig"
+  ],
+  "origin": "Gevormd met weer ‘tegen’; het tweede deel is niet zeker verklaard en wordt wel met borstel in verband gebracht (vergelijk Duits widerborstig)."
+ },
+ {
+  "lemma": "schalks",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "sxɑlks",
+  "definition": "Guitig, op een ondeugende manier grappig",
+  "example": "Met een schalkse knipoog gaf opa het laatste koekje aan zijn kleindochter.",
+  "synonyms": [
+   "guitig",
+   "ondeugend",
+   "olijk"
+  ],
+  "origin": "Van schalk, in het Middelnederlands ‘knecht’ en later ‘schelm, grappenmaker’."
+ },
+ {
+  "lemma": "bedeesd",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "bəˈdeːst",
+  "definition": "Verlegen en stil in gezelschap",
+  "example": "De bedeesde jongen durfde zijn vinger niet op te steken.",
+  "synonyms": [
+   "verlegen",
+   "schuchter",
+   "timide"
+  ],
+  "origin": "Vermoedelijk het voltooid deelwoord van een verdwenen werkwoord; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "voortvarend",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "voːrtˈfaːrənt",
+  "definition": "Energiek en vlot in het aanpakken van zaken",
+  "example": "De nieuwe burgemeester pakte het woningtekort voortvarend aan.",
+  "synonyms": [
+   "doortastend",
+   "energiek",
+   "daadkrachtig"
+  ],
+  "origin": "Tegenwoordig deelwoord van voortvaren ‘voortgaan, opschieten’."
+ },
+ {
+  "lemma": "eigenwijs",
+  "level": 1,
+  "part_of_speech": "bn.",
+  "ipa": "ɛiɣənˈʋɛis",
+  "definition": "Koppig overtuigd van het eigen gelijk",
+  "example": "Eigenwijs als hij was, weigerde hij de kaart te raadplegen.",
+  "synonyms": [
+   "koppig",
+   "betweterig",
+   "eigenzinnig"
+  ],
+  "origin": "Uit eigen en wijs: wijs in eigen ogen."
+ },
+ {
+  "lemma": "mijmeren",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈmɛimərən",
+  "definition": "Dromerig over iets nadenken",
+  "example": "Ze zat bij het raam te mijmeren over vroeger.",
+  "synonyms": [
+   "dromen",
+   "peinzen",
+   "mediteren"
+  ],
+  "origin": "Middelnederlands mimeren ‘diep nadenken’; de herkomst is onzeker."
+ },
+ {
+  "lemma": "dralen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈdraːlən",
+  "definition": "Aarzelend wachten in plaats van te handelen",
+  "example": "Zonder te dralen sprong hij in het water om het kind te redden.",
+  "synonyms": [
+   "talmen",
+   "treuzelen",
+   "aarzelen"
+  ],
+  "origin": "Sinds de zestiende eeuw bekend; vermoedelijk verwant met draaien, maar de herkomst is niet zeker."
+ },
+ {
+  "lemma": "koesteren",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈkustərən",
+  "definition": "Met zorg en liefde omringen of in zich bewaren",
+  "example": "Ze koestert de brieven die haar grootmoeder haar schreef.",
+  "synonyms": [
+   "liefhebben",
+   "verzorgen",
+   "bewaren"
+  ],
+  "origin": "Sinds de zestiende eeuw overgeleverd; de herkomst is onzeker."
+ },
+ {
+  "lemma": "verkwikken",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "vərˈkʋɪkən",
+  "definition": "Nieuwe kracht en frisheid geven",
+  "example": "Een glas koud water zal je na die wandeling verkwikken.",
+  "synonyms": [
+   "opfrissen",
+   "verfrissen",
+   "sterken"
+  ],
+  "origin": "Van het oude kwik ‘levendig’ (vergelijk kwiek en Engels quick): letterlijk ‘weer levend maken’."
+ },
+ {
+  "lemma": "schromen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈsxroːmən",
+  "definition": "Uit vrees of verlegenheid aarzelen iets te doen",
+  "example": "Schroom niet om hulp te vragen als het niet lukt.",
+  "synonyms": [
+   "aarzelen",
+   "duchten",
+   "weifelen"
+  ],
+  "origin": "Middelnederlands schromen ‘bang zijn’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "beteugelen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "bəˈtøːɣələn",
+  "definition": "In bedwang houden, de vrije loop beletten",
+  "example": "Hij kon zijn nieuwsgierigheid nauwelijks beteugelen.",
+  "synonyms": [
+   "bedwingen",
+   "intomen",
+   "beheersen"
+  ],
+  "origin": "Van teugel, de riem waarmee een paard wordt bestuurd; teugel hoort bij het oude tiegen ‘trekken’."
+ },
+ {
+  "lemma": "ontluiken",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ɔntˈlœykən",
+  "definition": "Opengaan, tot bloei of ontwikkeling komen",
+  "example": "In maart ontluiken de eerste krokussen in het park.",
+  "synonyms": [
+   "opengaan",
+   "ontbloeien",
+   "ontkiemen"
+  ],
+  "origin": "Van ont- en luiken ‘sluiten’ (vergelijk het luik): letterlijk ‘zich ontsluiten’."
+ },
+ {
+  "lemma": "kabbelen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈkɑbələn",
+  "definition": "Met kleine golfjes zacht klotsen of rustig voortgaan",
+  "example": "Het gesprek kabbelde voort terwijl de zon langzaam onderging.",
+  "synonyms": [
+   "klotsen",
+   "golven",
+   "murmelen"
+  ],
+  "origin": "Waarschijnlijk een klanknabootsend woord voor het geluid van licht bewogen water; sinds de zeventiende eeuw bekend."
+ },
+ {
+  "lemma": "verzuchten",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "vərˈzʏxtən",
+  "definition": "Met een zucht een klacht of wens uiten",
+  "example": "‘Was het maar vast zomer,’ verzuchtte ze bij het raam.",
+  "synonyms": [
+   "klagen",
+   "zuchten",
+   "steunen"
+  ],
+  "origin": "Van ver- en zuchten, dat al in het Middelnederlands voor het diepe ademhalen van verdriet werd gebruikt."
+ },
+ {
+  "lemma": "smachten",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈsmɑxtən",
+  "definition": "Hevig en pijnlijk naar iets verlangen",
+  "example": "Na weken regen smachtte iedereen naar een beetje zon.",
+  "synonyms": [
+   "hunkeren",
+   "verlangen",
+   "snakken"
+  ],
+  "origin": "Middelnederlands smachten ‘wegkwijnen van honger of dorst’; verwant met Duits schmachten."
+ },
+ {
+  "lemma": "peinzen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈpɛinzən",
+  "definition": "Diep en langdurig nadenken",
+  "example": "Hij peinsde lang over het antwoord op haar brief.",
+  "synonyms": [
+   "nadenken",
+   "piekeren",
+   "mijmeren"
+  ],
+  "origin": "Via Oudfrans penser ontleend aan Latijn pensare ‘wegen, overwegen’."
+ },
+ {
+  "lemma": "vertoeven",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "vərˈtuvən",
+  "definition": "Enige tijd op een plaats verblijven",
+  "example": "Tijdens zijn reis vertoefde de schrijver drie weken in Rome.",
+  "synonyms": [
+   "verblijven",
+   "verwijlen",
+   "toeven"
+  ],
+  "origin": "Van ver- en toeven ‘wachten, blijven’; de verdere herkomst is onzeker."
+ },
+ {
+  "lemma": "ontwaren",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ɔntˈʋaːrən",
+  "definition": "Plotseling in het oog krijgen",
+  "example": "In de verte ontwaarde hij de toren van zijn geboortedorp.",
+  "synonyms": [
+   "bespeuren",
+   "opmerken",
+   "zien"
+  ],
+  "origin": "Van ont- en het oude waren ‘letten op’, verwant met gewaarworden en Engels aware."
+ },
+ {
+  "lemma": "sidderen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈsɪdərən",
+  "definition": "Hevig beven van angst, kou of ontroering",
+  "example": "Het kind sidderde van de kou toen het uit het water kwam.",
+  "synonyms": [
+   "beven",
+   "trillen",
+   "rillen"
+  ],
+  "origin": "Middelnederlands tsitteren, sidderen; het hangt samen met Duits zittern, waaraan het mogelijk ontleend is."
+ },
+ {
+  "lemma": "bekoren",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "bəˈkoːrən",
+  "definition": "Door schoonheid of charme aantrekken",
+  "example": "Het stille vissersdorp wist ons meteen te bekoren.",
+  "synonyms": [
+   "betoveren",
+   "charmeren",
+   "verlokken"
+  ],
+  "origin": "Middelnederlands becoren ‘proeven, op de proef stellen, verleiden’, bij een oud werkwoord voor ‘proeven’ dat verwant is met kiezen en keuren."
+ },
+ {
+  "lemma": "fonkelen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈfɔŋkələn",
+  "definition": "Met kleine, heldere lichtjes schitteren",
+  "example": "Boven het donkere weiland fonkelden duizenden sterren.",
+  "synonyms": [
+   "schitteren",
+   "flonkeren",
+   "glinsteren"
+  ],
+  "origin": "Afgeleid van vonk, met een oude wisseling van v en f; vergelijk Duits funkeln."
+ },
+ {
+  "lemma": "uitweiden",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈœytʋɛidən",
+  "definition": "Lang en breedvoerig over iets spreken",
+  "example": "Ik wil hier niet te lang over uitweiden, maar het is belangrijk.",
+  "synonyms": [
+   "oreren",
+   "doordraven"
+  ],
+  "origin": "Uit uit en weiden: zoals grazend vee van het pad afdwaalt, zo dwaalt de spreker van zijn onderwerp af."
+ },
+ {
+  "lemma": "uitwaaien",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈœytʋaːjən",
+  "definition": "In de wind gaan wandelen om het hoofd leeg te maken",
+  "example": "Na een drukke week gaan we zondag lekker uitwaaien op het strand.",
+  "synonyms": [
+   "wandelen",
+   "opfrissen"
+  ],
+  "origin": "Samenstelling van uit en waaien; in deze figuurlijke betekenis een typisch Nederlands woord dat zich moeilijk laat vertalen."
+ },
+ {
+  "lemma": "ijsberen",
+  "level": 1,
+  "part_of_speech": "ww.",
+  "ipa": "ˈɛizbeːrən",
+  "definition": "Onrustig heen en weer lopen",
+  "example": "Urenlang ijsbeerde hij door de gang van het ziekenhuis.",
+  "synonyms": [
+   "drentelen",
+   "rondlopen"
+  ],
+  "origin": "Afgeleid van ijsbeer: naar het rusteloze heen en weer lopen van ijsberen in een dierentuin."
+ },
+ {
+  "lemma": "heimwee",
+  "level": 1,
+  "part_of_speech": "zn. (het)",
+  "ipa": "ˈɦɛimʋeː",
+  "definition": "Pijnlijk verlangen naar huis of naar vroeger",
+  "example": "In haar eerste weken op kamers had ze vreselijk heimwee.",
+  "synonyms": [
+   "nostalgie",
+   "verlangen"
+  ],
+  "origin": "Ontleend aan Duits Heimweh, een oorspronkelijk Zwitsers woord uit Heim ‘thuis’ en Weh ‘pijn’."
+ },
+ {
+  "lemma": "schemering",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈsxeːmərɪŋ",
+  "definition": "Halfdonker tussen dag en nacht",
+  "example": "In de schemering fietsten ze langs de dijk naar huis.",
+  "synonyms": [
+   "halfduister",
+   "valavond",
+   "tweelicht"
+  ],
+  "origin": "Van schemeren, een afleiding van het oude scheem ‘schaduw, schijnsel’, verwant met schim en schijnen."
+ },
+ {
+  "lemma": "geborgenheid",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ɣəˈbɔrɣənɦɛit",
+  "definition": "Het gevoel veilig en beschermd te zijn",
+  "example": "Een kind heeft bovenal geborgenheid en aandacht nodig.",
+  "synonyms": [
+   "veiligheid",
+   "beschutting",
+   "bescherming"
+  ],
+  "origin": "Van geborgen, het voltooid deelwoord van bergen ‘in veiligheid brengen’."
+ },
+ {
+  "lemma": "mededogen",
+  "level": 1,
+  "part_of_speech": "zn. (het)",
+  "ipa": "ˈmeːdədoːɣən",
+  "definition": "Medelijden dat aanzet tot mildheid",
+  "example": "De rechter toonde mededogen met de jonge verdachte.",
+  "synonyms": [
+   "medelijden",
+   "erbarmen",
+   "compassie"
+  ],
+  "origin": "Uit mede en het oude dogen ‘lijden, verdragen’ (vergelijk gedogen): letterlijk ‘mee-lijden’."
+ },
+ {
+  "lemma": "toewijding",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈtuʋɛidɪŋ",
+  "definition": "Grote, trouwe inzet voor iemand of iets",
+  "example": "Met eindeloze toewijding verzorgde hij zijn zieke vrouw.",
+  "synonyms": [
+   "overgave",
+   "inzet",
+   "trouw"
+  ],
+  "origin": "Van toewijden, uit toe en wijden ‘heiligen, opdragen’; verwant met Duits weihen."
+ },
+ {
+  "lemma": "eerbied",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈeːrbit",
+  "definition": "Diep respect voor iemand of iets",
+  "example": "Uit eerbied voor de doden zweeg het hele plein twee minuten.",
+  "synonyms": [
+   "respect",
+   "ontzag",
+   "achting"
+  ],
+  "origin": "Gevormd bij eerbiedig, uit eer en bieden: wie eerbied heeft, biedt een ander eer."
+ },
+ {
+  "lemma": "vertier",
+  "level": 1,
+  "part_of_speech": "zn. (het)",
+  "ipa": "vərˈtiːr",
+  "definition": "Afleiding en gezelligheid, levendig amusement",
+  "example": "In het kleine dorp was ’s avonds weinig vertier te vinden.",
+  "synonyms": [
+   "vermaak",
+   "amusement",
+   "afleiding"
+  ],
+  "origin": "Bij Middelnederlands vertieren ‘verhandelen, omzetten’; de betekenis ging van ‘handel en drukte’ naar ‘vermaak’."
+ },
+ {
+  "lemma": "gemoed",
+  "level": 1,
+  "part_of_speech": "zn. (het)",
+  "ipa": "ɣəˈmut",
+  "definition": "Het innerlijk als zetel van gevoelens",
+  "example": "Haar woorden brachten rust in zijn onrustige gemoed.",
+  "synonyms": [
+   "hart",
+   "ziel",
+   "binnenste"
+  ],
+  "origin": "Collectief met ge- bij moed, dat oorspronkelijk ‘gezindheid, innerlijk’ betekende."
+ },
+ {
+  "lemma": "weelde",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈʋeːldə",
+  "definition": "Overvloed en rijkdom, grote luxe",
+  "example": "Na jaren van armoede leefde de familie plotseling in weelde.",
+  "synonyms": [
+   "luxe",
+   "overvloed",
+   "rijkdom"
+  ],
+  "origin": "Middelnederlands welde, afgeleid van wel ‘goed’; verwant met Engels wealth."
+ },
+ {
+  "lemma": "wrok",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "vrɔk",
+  "definition": "Lang gekoesterde, verbeten boosheid",
+  "example": "Jaren later koesterde hij nog altijd wrok tegen zijn broer.",
+  "synonyms": [
+   "rancune",
+   "wrevel",
+   "haat"
+  ],
+  "origin": "Middelnederlands wroc; waarschijnlijk verwant met wreken en wraak."
+ },
+ {
+  "lemma": "voorpret",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈvoːrprɛt",
+  "definition": "Plezier dat men vooraf aan iets beleeft",
+  "example": "Het plannen van de reis gaf haar al weken voorpret.",
+  "synonyms": [
+   "voorvreugde",
+   "verwachting"
+  ],
+  "origin": "Samenstelling van voor en pret; pret is sinds de zeventiende eeuw bekend en van onzekere herkomst."
+ },
+ {
+  "lemma": "verademing",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "vərˈaːdəmɪŋ",
+  "definition": "Aangename verlichting na druk of spanning",
+  "example": "Na de hitte in de stad was de koele zeewind een verademing.",
+  "synonyms": [
+   "opluchting",
+   "verlichting",
+   "verkwikking"
+  ],
+  "origin": "Van verademen ‘weer op adem komen’, uit ver- en adem."
+ },
+ {
+  "lemma": "hartstocht",
+  "level": 1,
+  "part_of_speech": "zn. (de)",
+  "ipa": "ˈɦɑrtstɔxt",
+  "definition": "Hevige, meeslepende liefde of drift",
+  "example": "Met hartstocht vertelde hij over zijn verzameling oude kaarten.",
+  "synonyms": [
+   "passie",
+   "drift",
+   "vuur"
+  ],
+  "origin": "Uit hart en tocht ‘het trekken’, bij het oude tiegen ‘trekken’: wat het hart meetrekt."
+ }
+]

@@ -1,0 +1,823 @@
+[
+ {
+  "lemma": "błogi",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈbwɔɡʲi",
+  "definition": "Pełen spokoju i cichego szczęścia",
+  "example": "Po obiedzie zapadł w błogi sen na hamaku w ogrodzie.",
+  "synonyms": [
+   "rozkoszny",
+   "słodki",
+   "beztroski"
+  ],
+  "origin": "Z prasłowiańskiego *bolgъ „dobry, pomyślny”; ten sam rdzeń tkwi w słowie „błogosławić”."
+ },
+ {
+  "lemma": "czuły",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈt͡ʂuwɨ",
+  "definition": "Okazujący serdeczność i delikatną troskę",
+  "example": "Babcia pożegnała nas czułym uściskiem i długo machała z ganku.",
+  "synonyms": [
+   "serdeczny",
+   "tkliwy",
+   "troskliwy"
+  ],
+  "origin": "Od czasownika „czuć”, z prasłowiańskiego *čuti „odbierać zmysłami, czuwać”."
+ },
+ {
+  "lemma": "dziarski",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈd͡ʑarskʲi",
+  "definition": "Pełen energii, zdrowia i wigoru",
+  "example": "Mimo osiemdziesiątki dziadek dziarskim krokiem wszedł na szczyt.",
+  "synonyms": [
+   "żwawy",
+   "krzepki",
+   "rześki"
+  ],
+  "origin": "Dawniej także „dziarzki”; zapewne z prasłowiańskiego *dьrzъkъ „śmiały, zuchwały”, pokrewnego rosyjskiemu dierzkij."
+ },
+ {
+  "lemma": "hojny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈxɔjnɨ",
+  "definition": "Chętnie i dużo dający innym",
+  "example": "Hojny darczyńca ufundował szkole całą nową bibliotekę.",
+  "synonyms": [
+   "szczodry",
+   "szczodrobliwy",
+   "ofiarny"
+  ],
+  "origin": "Zapożyczenie ze staroczeskiego hojný „obfity”, od hoj „obfitość, dostatek”."
+ },
+ {
+  "lemma": "krzepki",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈkʂɛpkʲi",
+  "definition": "Silny, mocno zbudowany i zdrowy",
+  "example": "Krzepki gospodarz sam przeniósł wszystkie worki do stodoły.",
+  "synonyms": [
+   "silny",
+   "tęgi",
+   "mocny"
+  ],
+  "origin": "Z prasłowiańskiego *krěpъkъ „mocny, twardy”; pokrewne „krzepić” i „pokrzepienie”."
+ },
+ {
+  "lemma": "mozolny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "mɔˈzɔlnɨ",
+  "definition": "Wymagający długiego, ciężkiego wysiłku",
+  "example": "Po mozolnej wspinaczce stanęli wreszcie na przełęczy.",
+  "synonyms": [
+   "żmudny",
+   "uciążliwy",
+   "trudny"
+  ],
+  "origin": "Od „mozół” „ciężka praca”, z prasłowiańskiego *mozolь „odcisk, nagniotek od pracy”."
+ },
+ {
+  "lemma": "niezłomny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ɲɛˈzwɔmnɨ",
+  "definition": "Którego nic nie zdoła zachwiać ani pokonać",
+  "example": "Zachowała niezłomną wiarę w to, że prawda wyjdzie na jaw.",
+  "synonyms": [
+   "nieugięty",
+   "niezachwiany",
+   "wytrwały"
+  ],
+  "origin": "Od przeczenia „nie” i dawnego „złomny” „dający się złamać”, od „łamać”."
+ },
+ {
+  "lemma": "pogodny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "pɔˈɡɔdnɨ",
+  "definition": "Jasny i spokojny, bez chmur lub trosk",
+  "example": "Miała pogodne usposobienie, które udzielało się wszystkim wokół.",
+  "synonyms": [
+   "radosny",
+   "jasny",
+   "słoneczny"
+  ],
+  "origin": "Od „pogoda”, z prasłowiańskiego *pogoda „stosowny czas”, od rdzenia *god- „to, co odpowiednie”."
+ },
+ {
+  "lemma": "przezorny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "pʂɛˈzɔrnɨ",
+  "definition": "Przewidujący trudności i zawczasu się zabezpieczający",
+  "example": "Przezorny turysta zawsze wkłada do plecaka latarkę i mapę.",
+  "synonyms": [
+   "ostrożny",
+   "zapobiegliwy",
+   "roztropny"
+  ],
+  "origin": "Od dawnego „przeźrzeć” „przejrzeć, przewidzieć”, z rdzenia *zьr- „patrzeć”."
+ },
+ {
+  "lemma": "rześki",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈʐɛɕkʲi",
+  "definition": "Orzeźwiająco chłodny albo pełen świeżej energii",
+  "example": "Rześkie górskie powietrze od razu postawiło nas na nogi.",
+  "synonyms": [
+   "świeży",
+   "orzeźwiający",
+   "żwawy"
+  ],
+  "origin": "Dawniej „rzeźki”; pokrewne „rzeźwy” i „orzeźwić”, z prasłowiańskiego *rězvъ „żwawy, szybki”."
+ },
+ {
+  "lemma": "sędziwy",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "sɛɲˈd͡ʑivɨ",
+  "definition": "Bardzo stary i budzący szacunek",
+  "example": "Sędziwy profesor wciąż przychodził na wykłady swoich uczniów.",
+  "synonyms": [
+   "wiekowy",
+   "stary",
+   "leciwy"
+  ],
+  "origin": "Ze staropolskiego szedziwy „siwy”, od prasłowiańskiego *šědъ „szary, siwy”; pisownię zmieniło skojarzenie z wyrazem „sędzia”."
+ },
+ {
+  "lemma": "sowity",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "sɔˈvitɨ",
+  "definition": "Obfity, większy, niż się spodziewano",
+  "example": "Za odnalezienie psa właściciel wypłacił sowitą nagrodę.",
+  "synonyms": [
+   "obfity",
+   "hojny",
+   "suty"
+  ],
+  "origin": "Pierwotnie „podwójny, złożony we dwoje”; z prasłowiańskiego *sъvitъ, od *sъviti „zwinąć”."
+ },
+ {
+  "lemma": "ufny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈufnɨ",
+  "definition": "Wierzący w czyjąś dobrą wolę",
+  "example": "Był zbyt ufny i pożyczył pieniądze nieznajomemu z pociągu.",
+  "synonyms": [
+   "łatwowierny",
+   "prostoduszny"
+  ],
+  "origin": "Od „ufać”, skróconego ze staropolskiego „upwać”, z prasłowiańskiego *upъvati „mieć nadzieję”."
+ },
+ {
+  "lemma": "urokliwy",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "urɔkˈlivɨ",
+  "definition": "Mający w sobie coś czarującego i ujmującego",
+  "example": "Zatrzymaliśmy się w urokliwym miasteczku nad samą rzeką.",
+  "synonyms": [
+   "uroczy",
+   "czarujący",
+   "malowniczy"
+  ],
+  "origin": "Od „urok”, pierwotnie „czar rzucony słowem”, z prasłowiańskiego *urokъ, od *urekti „zaczarować mową”."
+ },
+ {
+  "lemma": "wytworny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "vɨˈtfɔrnɨ",
+  "definition": "Odznaczający się elegancją i dobrym smakiem",
+  "example": "Na premierę przyszła w wytwornej sukni z ciemnego jedwabiu.",
+  "synonyms": [
+   "elegancki",
+   "wykwintny",
+   "szykowny"
+  ],
+  "origin": "Od „wytworzyć”: pierwotnie „starannie wykonany, wyszukany”."
+ },
+ {
+  "lemma": "zacny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈzat͡snɨ",
+  "definition": "Godny szacunku ze względu na prawość",
+  "example": "To zacny człowiek, który nigdy nikomu nie odmówił pomocy.",
+  "synonyms": [
+   "szlachetny",
+   "prawy",
+   "czcigodny"
+  ],
+  "origin": "Od „cny”, staropolskiego czsny „czcigodny”, z prasłowiańskiego *čьstьnъ, od *čьstь „cześć”."
+ },
+ {
+  "lemma": "zuchwały",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "zuxˈfawɨ",
+  "definition": "Śmiały ponad miarę, lekceważący zasady i ryzyko",
+  "example": "Zuchwały złodziej wyniósł obraz z muzeum w biały dzień.",
+  "synonyms": [
+   "bezczelny",
+   "śmiały",
+   "hardy"
+  ],
+  "origin": "Ze staropolskiego zufały „zbyt ufny w swoje siły”, od zufać, czyli „zaufać sobie nadmiernie”."
+ },
+ {
+  "lemma": "żwawy",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈʐvavɨ",
+  "definition": "Szybki i pełen życia w ruchach",
+  "example": "Żwawa staruszka wyprzedziła nas na szlaku bez zadyszki.",
+  "synonyms": [
+   "ruchliwy",
+   "energiczny",
+   "dziarski"
+  ],
+  "origin": "Od dawnego żwać „żuć”: pierwotnie „żwawo poruszający szczęką, gadatliwy”, potem „ruchliwy”."
+ },
+ {
+  "lemma": "żarliwy",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ʐarˈlivɨ",
+  "definition": "Pełen gorącego zapału i przejęcia",
+  "example": "Wygłosił żarliwą mowę w obronie starego parku.",
+  "synonyms": [
+   "gorliwy",
+   "płomienny",
+   "namiętny"
+  ],
+  "origin": "Od „żar”, z prasłowiańskiego *žarъ „gorąco, upał”, pokrewnego czasownikowi „gorzeć”."
+ },
+ {
+  "lemma": "wzniosły",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈvzɲɔswɨ",
+  "definition": "Szlachetny i podniosły, budzący podziw",
+  "example": "Mówił o wzniosłych ideałach, lecz sam żył bardzo zwyczajnie.",
+  "synonyms": [
+   "podniosły",
+   "szlachetny",
+   "górny"
+  ],
+  "origin": "Dawny imiesłów od „wznieść”: dosłownie „uniesiony w górę”."
+ },
+ {
+  "lemma": "rzetelny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ʐɛˈtɛlnɨ",
+  "definition": "Uczciwie i starannie wypełniający obowiązki",
+  "example": "Rzetelny dziennikarz sprawdza każdą informację w dwóch źródłach.",
+  "synonyms": [
+   "solidny",
+   "uczciwy",
+   "sumienny"
+  ],
+  "origin": "Ze staropolskiego źrzetelny „widoczny, wyraźny”, od źrzeć „patrzeć”; stąd „oczywisty, prawdziwy”."
+ },
+ {
+  "lemma": "posępny",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "pɔˈsɛmpnɨ",
+  "definition": "Ponury i smutny, pozbawiony jasności",
+  "example": "Posępne chmury wisiały nad miastem przez cały listopad.",
+  "synonyms": [
+   "ponury",
+   "mroczny",
+   "chmurny"
+  ],
+  "origin": "Od dawnego „sępić” „zasępiać, chmurzyć”; związek z nazwą ptaka „sęp” jest możliwy, lecz niepewny."
+ },
+ {
+  "lemma": "porywczy",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "pɔˈrɨft͡ʂɨ",
+  "definition": "Łatwo wpadający w gniew i działający bez namysłu",
+  "example": "Porywczy trener znów pokłócił się z sędzią i wyleciał z boiska.",
+  "synonyms": [
+   "gwałtowny",
+   "wybuchowy",
+   "impulsywny"
+  ],
+  "origin": "Od „porywać”, „poryw”: o kimś, kogo łatwo porywa gniew; rdzeń „rwać”."
+ },
+ {
+  "lemma": "oschły",
+  "level": 1,
+  "part_of_speech": "przym.",
+  "ipa": "ˈɔsxwɨ",
+  "definition": "Chłodny w obejściu, nieokazujący uczuć",
+  "example": "Na moje życzenia odpowiedział oschłym „dziękuję” i wyszedł.",
+  "synonyms": [
+   "chłodny",
+   "szorstki",
+   "oziębły"
+  ],
+  "origin": "Dawny imiesłów od „oschnąć”: dosłownie „wyschnięty”, przenośnie „pozbawiony ciepła”."
+ },
+ {
+  "lemma": "gwar",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ɡvar",
+  "definition": "Zmieszany odgłos wielu głosów i rozmów",
+  "example": "Z kawiarni dobiegał wesoły gwar i brzęk filiżanek.",
+  "synonyms": [
+   "szum",
+   "hałas",
+   "wrzawa"
+  ],
+  "origin": "Z prasłowiańskiego *gvarъ „mowa, gadanie”; ten sam rdzeń w wyrazie „gwara”."
+ },
+ {
+  "lemma": "zgiełk",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "zɡʲɛwk",
+  "definition": "Głośny, męczący hałas tłumu lub ulicy",
+  "example": "Uciekł od zgiełku miasta do chaty w Bieszczadach.",
+  "synonyms": [
+   "hałas",
+   "wrzawa",
+   "harmider"
+  ],
+  "origin": "Ze staropolskiego giełk „hałas, wrzawa”, być może z niemieckiego; pochodzenie niepewne."
+ },
+ {
+  "lemma": "tęsknota",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "tɛ̃skˈnɔta",
+  "definition": "Smutek z powodu rozłąki z kimś lub czymś",
+  "example": "Na emigracji najbardziej dokuczała mu tęsknota za rodzinnym domem.",
+  "synonyms": [
+   "nostalgia",
+   "smutek"
+  ],
+  "origin": "Od „tęskny”, z prasłowiańskiego *tъska „ucisk, smutek”; nosowe ę rozwinęło się wtórnie na gruncie polskim."
+ },
+ {
+  "lemma": "szelest",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈʂɛlɛst",
+  "definition": "Cichy odgłos poruszanych liści lub papieru",
+  "example": "Zbudził go szelest liści pod oknem sypialni.",
+  "synonyms": [
+   "szmer",
+   "szum"
+  ],
+  "origin": "Wyraz dźwiękonaśladowczy o prasłowiańskim rodowodzie; por. czeskie šelest."
+ },
+ {
+  "lemma": "zmierzch",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "zmʲɛʂx",
+  "definition": "Czas między zachodem słońca a nocą",
+  "example": "O zmierzchu nad stawem zaczynały krążyć nietoperze.",
+  "synonyms": [
+   "zmrok",
+   "szarówka"
+  ],
+  "origin": "Od „zmierzchać”, z prasłowiańskiego rdzenia *mьrk- „ciemnieć”; pokrewne „mrok”."
+ },
+ {
+  "lemma": "brzask",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "bʐask",
+  "definition": "Pierwsze światło dnia przed wschodem słońca",
+  "example": "Rybacy wypłynęli o brzasku, gdy jezioro było jeszcze gładkie.",
+  "synonyms": [
+   "świt",
+   "jutrzenka"
+  ],
+  "origin": "Z prasłowiańskiego *brěskъ lub *brězgъ „świt”; por. staropolskie „brzeszczy się”, czyli „dnieje”."
+ },
+ {
+  "lemma": "poświata",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "pɔˈɕfʲata",
+  "definition": "Słabe, rozproszone światło otaczające coś jasnego",
+  "example": "Księżycowa poświata srebrzyła dachy uśpionego miasteczka.",
+  "synonyms": [
+   "blask",
+   "łuna",
+   "odblask"
+  ],
+  "origin": "Od „świat” w dawnym znaczeniu „światło”, z prasłowiańskiego *světъ."
+ },
+ {
+  "lemma": "łuna",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈwuna",
+  "definition": "Czerwonawy blask na niebie, zwykle od ognia",
+  "example": "Nad lasem do rana stała czerwona łuna dalekiego pożaru.",
+  "synonyms": [
+   "blask",
+   "poświata",
+   "zorza"
+  ],
+  "origin": "Z prasłowiańskiego *luna „blask, światło”, tego samego rdzenia co łacińskie luna „księżyc”."
+ },
+ {
+  "lemma": "ustronie",
+  "level": 1,
+  "part_of_speech": "rzecz. n.",
+  "ipa": "uˈstrɔɲɛ",
+  "definition": "Spokojne miejsce położone z dala od ludzi",
+  "example": "Na starość osiadł w cichym ustroniu nad jeziorem.",
+  "synonyms": [
+   "zacisze",
+   "odludzie",
+   "zakątek"
+  ],
+  "origin": "Od wyrażenia „u strony”, czyli „na uboczu”; „strona” z prasłowiańskiego *storna."
+ },
+ {
+  "lemma": "zacisze",
+  "level": 1,
+  "part_of_speech": "rzecz. n.",
+  "ipa": "zaˈt͡ɕiʂɛ",
+  "definition": "Miejsce osłonięte, spokojne i przytulne",
+  "example": "W zaciszu własnego gabinetu pisał wreszcie bez pośpiechu.",
+  "synonyms": [
+   "ustronie",
+   "schronienie",
+   "azyl"
+  ],
+  "origin": "Od wyrażenia „za ciszą”; „cisza” z prasłowiańskiego *tixъ „cichy”."
+ },
+ {
+  "lemma": "biesiada",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "bʲɛˈɕada",
+  "definition": "Uroczyste przyjęcie przy suto zastawionym stole",
+  "example": "Weselna biesiada trwała do białego rana przy muzyce kapeli.",
+  "synonyms": [
+   "uczta",
+   "bankiet",
+   "przyjęcie"
+  ],
+  "origin": "Z prasłowiańskiego *besěda, pierwotnie „posiedzenie i rozmowa”; w polszczyźnie znaczenie przeszło na „ucztę”."
+ },
+ {
+  "lemma": "otucha",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ɔˈtuxa",
+  "definition": "Nadzieja i odwaga wracające w trudnej chwili",
+  "example": "List od przyjaciółki dodał jej otuchy przed egzaminem.",
+  "synonyms": [
+   "nadzieja",
+   "pociecha",
+   "pokrzepienie"
+  ],
+  "origin": "Od staropolskiego tuszyć „spodziewać się, mieć nadzieję”, otuszyć „dodać odwagi”."
+ },
+ {
+  "lemma": "ukojenie",
+  "level": 1,
+  "part_of_speech": "rzecz. n.",
+  "ipa": "ukɔˈjɛɲɛ",
+  "definition": "Złagodzenie bólu, żalu lub niepokoju",
+  "example": "Długie spacery po lesie przynosiły mu ukojenie po stracie.",
+  "synonyms": [
+   "ulga",
+   "pociecha",
+   "spokój"
+  ],
+  "origin": "Od „ukoić”, z prasłowiańskiego *kojiti „uspokajać”; pokrewne „pokój” i „spokój”."
+ },
+ {
+  "lemma": "zachwyt",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈzaxfɨt",
+  "definition": "Silne uczucie podziwu i oczarowania",
+  "example": "Widok zatoki o wschodzie słońca wprawił wszystkich w zachwyt.",
+  "synonyms": [
+   "podziw",
+   "oczarowanie",
+   "uniesienie"
+  ],
+  "origin": "Od „zachwycić”, pierwotnie „porwać, pochwycić”; rdzeń „chwytać”."
+ },
+ {
+  "lemma": "przestroga",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "pʂɛˈstrɔɡa",
+  "definition": "Ostrzeżenie przed błędem lub niebezpieczeństwem",
+  "example": "Jego upadek niech będzie przestrogą dla zbyt pewnych siebie.",
+  "synonyms": [
+   "ostrzeżenie",
+   "napomnienie",
+   "nauczka"
+  ],
+  "origin": "Od „przestrzec”, z rdzenia „strzec”, prasłowiańskie *stergti „pilnować”."
+ },
+ {
+  "lemma": "rozterka",
+  "level": 1,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "rɔsˈtɛrka",
+  "definition": "Stan wahania między sprzecznymi uczuciami lub decyzjami",
+  "example": "Był w rozterce: zostać w kraju czy przyjąć posadę w Lizbonie.",
+  "synonyms": [
+   "wahanie",
+   "dylemat",
+   "niepewność"
+  ],
+  "origin": "Dawniej „niezgoda, rozdarcie”; prawdopodobnie od rdzenia obecnego w „targać”, „roztargać”."
+ },
+ {
+  "lemma": "wytchnienie",
+  "level": 1,
+  "part_of_speech": "rzecz. n.",
+  "ipa": "vɨtxˈɲɛɲɛ",
+  "definition": "Krótki odpoczynek po wysiłku lub zmartwieniu",
+  "example": "Pracowała bez wytchnienia, żeby zdążyć przed terminem.",
+  "synonyms": [
+   "odpoczynek",
+   "ulga",
+   "przerwa"
+  ],
+  "origin": "Od „wytchnąć” „odetchnąć”, z rdzenia obecnego też w „dech” i „tchnienie”."
+ },
+ {
+  "lemma": "zamęt",
+  "level": 1,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈzamɛnt",
+  "definition": "Stan nieładu i ogólnego pomieszania",
+  "example": "Nagła dymisja ministra wywołała w rządzie niemały zamęt.",
+  "synonyms": [
+   "chaos",
+   "zamieszanie",
+   "bałagan"
+  ],
+  "origin": "Od „zamącić”, z prasłowiańskiego *mǫtiti „mieszać, burzyć”; pokrewne „mętny”."
+ },
+ {
+  "lemma": "olśnić",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈɔlɕɲit͡ɕ",
+  "definition": "Zachwycić kogoś niezwykłym blaskiem lub talentem",
+  "example": "Młoda pianistka olśniła jury swoją interpretacją Chopina.",
+  "synonyms": [
+   "oczarować",
+   "zachwycić",
+   "oślepić"
+  ],
+  "origin": "Przestawka z dawnego oślnić „oślepić”, od oślnąć „oślepnąć”; ten sam rdzeń co w „ślepy”."
+ },
+ {
+  "lemma": "nękać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈnɛŋkat͡ɕ",
+  "definition": "Uporczywie dręczyć i nie dawać spokoju",
+  "example": "Od tygodni nękały go telefony od natrętnego sprzedawcy.",
+  "synonyms": [
+   "dręczyć",
+   "trapić",
+   "gnębić"
+  ],
+  "origin": "Wyraz staropolski, łączony z prasłowiańskim *nǫkati „przynaglać, zmuszać”; szczegóły pochodzenia są niepewne."
+ },
+ {
+  "lemma": "trwonić",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈtrfɔɲit͡ɕ",
+  "definition": "Wydawać lub zużywać lekkomyślnie, bez pożytku",
+  "example": "Nie trwoń czasu na spory, których nie da się wygrać.",
+  "synonyms": [
+   "marnować",
+   "marnotrawić",
+   "tracić"
+  ],
+  "origin": "Łączone z „trawić” w dawnym znaczeniu „zużywać, niszczyć”; dokładna budowa wyrazu jest niejasna."
+ },
+ {
+  "lemma": "ubolewać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ubɔˈlɛvat͡ɕ",
+  "definition": "Wyrażać żal z powodu czegoś złego",
+  "example": "Dyrektor ubolewał, że na koncert przyszło tak niewiele osób.",
+  "synonyms": [
+   "żałować",
+   "biadać",
+   "boleć"
+  ],
+  "origin": "Od „boleć”, z prasłowiańskiego *bolěti „odczuwać ból”, z przedrostkiem u-."
+ },
+ {
+  "lemma": "zwlekać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈzvlɛkat͡ɕ",
+  "definition": "Odkładać coś na później bez dobrego powodu",
+  "example": "Nie zwlekaj z wizytą u lekarza, skoro kaszel trwa miesiąc.",
+  "synonyms": [
+   "odwlekać",
+   "marudzić",
+   "odkładać"
+  ],
+  "origin": "Od „wlec”, z prasłowiańskiego *velkti „ciągnąć”: dosłownie „przeciągać w czasie”."
+ },
+ {
+  "lemma": "szemrać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈʂɛmrat͡ɕ",
+  "definition": "Wydawać cichy, jednostajny szmer albo półgłosem narzekać",
+  "example": "Za domem szemrał strumień, który latem prawie wysychał.",
+  "synonyms": [
+   "szumieć",
+   "szeptać",
+   "sarkać"
+  ],
+  "origin": "Wyraz dźwiękonaśladowczy, pokrewny rzeczownikowi „szmer”."
+ },
+ {
+  "lemma": "czuwać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈt͡ʂuvat͡ɕ",
+  "definition": "Nie spać, pilnując kogoś lub czegoś",
+  "example": "Pielęgniarka czuwała przy chorym przez całą noc.",
+  "synonyms": [
+   "pilnować",
+   "strzec",
+   "dozorować"
+  ],
+  "origin": "Od „czuć” w dawnym znaczeniu „być przytomnym, nie spać”, z prasłowiańskiego *čuti."
+ },
+ {
+  "lemma": "gawędzić",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ɡaˈvɛɲd͡ʑit͡ɕ",
+  "definition": "Rozmawiać swobodnie i bez pośpiechu",
+  "example": "Do późna gawędziliśmy na werandzie o dawnych czasach.",
+  "synonyms": [
+   "gwarzyć",
+   "rozmawiać",
+   "gadać"
+  ],
+  "origin": "Zapewne od dźwiękonaśladowczego rdzenia *gav- „gadać, hałasować”, obecnego też w „gawiedź”; pochodzenie niepewne."
+ },
+ {
+  "lemma": "karcić",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈkart͡ɕit͡ɕ",
+  "definition": "Surowo upominać kogoś za przewinienie",
+  "example": "Nauczycielka karciła spóźnialskich samym tylko spojrzeniem.",
+  "synonyms": [
+   "ganić",
+   "strofować",
+   "upominać"
+  ],
+  "origin": "Prawdopodobnie z prasłowiańskiego *kъrtiti „skracać, przycinać”, stąd „powściągać”; pochodzenie nie jest pewne."
+ },
+ {
+  "lemma": "wieńczyć",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈvʲɛɲt͡ʂɨt͡ɕ",
+  "definition": "Stanowić ozdobne lub uroczyste zakończenie czegoś",
+  "example": "Wieżę ratusza wieńczy złocony kogut z blachy.",
+  "synonyms": [
+   "zdobić",
+   "koronować",
+   "kończyć"
+  ],
+  "origin": "Od „wieniec”, z prasłowiańskiego *věnьcь, od *viti „wić”."
+ },
+ {
+  "lemma": "przeczuwać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "pʂɛˈt͡ʂuvat͡ɕ",
+  "definition": "Wiedzieć niejasno, że coś nastąpi, zanim się wydarzy",
+  "example": "Przeczuwała, że ten telefon zmieni całe jej życie.",
+  "synonyms": [
+   "wyczuwać",
+   "przewidywać",
+   "odgadywać"
+  ],
+  "origin": "Od „czuć” z przedrostkiem prze-; por. „przewidzieć”, „przepowiedzieć”."
+ },
+ {
+  "lemma": "napawać",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "naˈpavat͡ɕ",
+  "definition": "Napełniać kogoś jakimś uczuciem",
+  "example": "Sukcesy córki napawały go dumą, której nie umiał ukryć.",
+  "synonyms": [
+   "napełniać",
+   "przepełniać",
+   "przejmować"
+  ],
+  "origin": "Forma wielokrotna od „napoić”: dosłownie „dawać pić do syta”; rdzeń „pić”."
+ },
+ {
+  "lemma": "błądzić",
+  "level": 1,
+  "part_of_speech": "czas.",
+  "ipa": "ˈbwɔɲd͡ʑit͡ɕ",
+  "definition": "Chodzić bez celu albo mylić się w sądach",
+  "example": "Godzinę błądziliśmy po starym mieście, szukając tej jednej księgarni.",
+  "synonyms": [
+   "krążyć",
+   "kluczyć",
+   "wędrować"
+  ],
+  "origin": "Z prasłowiańskiego *blǫditi „mylić drogę”, od *blǫdъ „pomyłka”."
+ },
+ {
+  "lemma": "skwapliwie",
+  "level": 1,
+  "part_of_speech": "przysł.",
+  "ipa": "skfapˈlivʲɛ",
+  "definition": "Chętnie i z pośpiechem, bez wahania",
+  "example": "Skwapliwie skorzystał z zaproszenia na darmowy obiad.",
+  "synonyms": [
+   "ochoczo",
+   "chętnie",
+   "gorliwie"
+  ],
+  "origin": "Od „kwapić się” „spieszyć się do czegoś”, z prasłowiańskiego *kvapiti."
+ },
+ {
+  "lemma": "ochoczo",
+  "level": 1,
+  "part_of_speech": "przysł.",
+  "ipa": "ɔˈxɔt͡ʂɔ",
+  "definition": "Z chęcią i widocznym zapałem",
+  "example": "Dzieci ochoczo zabrały się do lepienia pierogów z babcią.",
+  "synonyms": [
+   "chętnie",
+   "skwapliwie",
+   "raźno"
+  ],
+  "origin": "Od „ochota”, z prasłowiańskiego *oxota „chęć, przyjemność”, od rdzenia *xot- „chcieć”."
+ },
+ {
+  "lemma": "niebawem",
+  "level": 1,
+  "part_of_speech": "przysł.",
+  "ipa": "ɲɛˈbavɛm",
+  "definition": "Po krótkim czasie, już wkrótce",
+  "example": "Niebawem się okazało, że pociąg odjechał z innego peronu.",
+  "synonyms": [
+   "wkrótce",
+   "niedługo",
+   "zaraz"
+  ],
+  "origin": "Od „nie” i dawnego „bawić” „zwlekać, przebywać”: dosłownie „bez zwłoki”."
+ },
+ {
+  "lemma": "mimochodem",
+  "level": 1,
+  "part_of_speech": "przysł.",
+  "ipa": "mimɔˈxɔdɛm",
+  "definition": "Przy okazji, jakby od niechcenia",
+  "example": "Wspomniała mimochodem, że w przyszłym miesiącu wyjeżdża do Kanady.",
+  "synonyms": [
+   "przelotnie",
+   "marginesowo",
+   "ubocznie"
+  ],
+  "origin": "Zrost wyrażenia „mimo chodem”, czyli „przechodząc obok”."
+ }
+]

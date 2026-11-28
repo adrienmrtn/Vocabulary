@@ -1,0 +1,590 @@
+{
+ "błogi": [
+  "emotions"
+ ],
+ "czuły": [
+  "emotions",
+  "character"
+ ],
+ "dziarski": [
+  "character"
+ ],
+ "hojny": [
+  "character",
+  "society"
+ ],
+ "krzepki": [
+  "character"
+ ],
+ "mozolny": [
+  "business",
+  "travel"
+ ],
+ "niezłomny": [
+  "character"
+ ],
+ "pogodny": [
+  "emotions",
+  "nature"
+ ],
+ "przezorny": [
+  "character",
+  "travel"
+ ],
+ "rześki": [
+  "nature"
+ ],
+ "sędziwy": [
+  "society"
+ ],
+ "sowity": [
+  "business"
+ ],
+ "ufny": [
+  "character",
+  "emotions"
+ ],
+ "urokliwy": [
+  "travel"
+ ],
+ "wytworny": [
+  "society"
+ ],
+ "zacny": [
+  "character"
+ ],
+ "zuchwały": [
+  "character"
+ ],
+ "żwawy": [
+  "character"
+ ],
+ "żarliwy": [
+  "emotions",
+  "persuasion"
+ ],
+ "wzniosły": [
+  "literature"
+ ],
+ "rzetelny": [
+  "business",
+  "character"
+ ],
+ "posępny": [
+  "emotions",
+  "nature"
+ ],
+ "porywczy": [
+  "character",
+  "emotions"
+ ],
+ "oschły": [
+  "character"
+ ],
+ "gwar": [
+  "society"
+ ],
+ "zgiełk": [
+  "society"
+ ],
+ "tęsknota": [
+  "emotions"
+ ],
+ "szelest": [
+  "nature"
+ ],
+ "zmierzch": [
+  "nature"
+ ],
+ "brzask": [
+  "nature"
+ ],
+ "poświata": [
+  "nature"
+ ],
+ "łuna": [
+  "nature"
+ ],
+ "ustronie": [
+  "travel",
+  "nature"
+ ],
+ "zacisze": [
+  "travel"
+ ],
+ "biesiada": [
+  "society"
+ ],
+ "otucha": [
+  "emotions"
+ ],
+ "ukojenie": [
+  "emotions"
+ ],
+ "zachwyt": [
+  "emotions"
+ ],
+ "przestroga": [
+  "persuasion"
+ ],
+ "rozterka": [
+  "emotions"
+ ],
+ "wytchnienie": [
+  "business",
+  "emotions"
+ ],
+ "zamęt": [
+  "society"
+ ],
+ "olśnić": [
+  "emotions",
+  "persuasion"
+ ],
+ "nękać": [
+  "emotions",
+  "society"
+ ],
+ "trwonić": [
+  "business"
+ ],
+ "ubolewać": [
+  "emotions",
+  "debate"
+ ],
+ "zwlekać": [
+  "business"
+ ],
+ "szemrać": [
+  "nature"
+ ],
+ "czuwać": [
+  "society"
+ ],
+ "gawędzić": [
+  "society"
+ ],
+ "karcić": [
+  "society",
+  "debate"
+ ],
+ "wieńczyć": [
+  "literature"
+ ],
+ "przeczuwać": [
+  "emotions"
+ ],
+ "napawać": [
+  "emotions"
+ ],
+ "błądzić": [
+  "travel"
+ ],
+ "skwapliwie": [
+  "character"
+ ],
+ "ochoczo": [
+  "character"
+ ],
+ "niebawem": [
+  "literature"
+ ],
+ "mimochodem": [
+  "debate"
+ ],
+ "rzewny": [
+  "emotions",
+  "literature"
+ ],
+ "tkliwy": [
+  "emotions"
+ ],
+ "smętny": [
+  "emotions"
+ ],
+ "markotny": [
+  "emotions"
+ ],
+ "krnąbrny": [
+  "character"
+ ],
+ "powściągliwy": [
+  "character"
+ ],
+ "opryskliwy": [
+  "character"
+ ],
+ "butny": [
+  "character"
+ ],
+ "chełpliwy": [
+  "character"
+ ],
+ "gnuśny": [
+  "character"
+ ],
+ "hardy": [
+  "character"
+ ],
+ "rubaszny": [
+  "character",
+  "society"
+ ],
+ "sromotny": [
+  "society"
+ ],
+ "szkaradny": [
+  "literature"
+ ],
+ "ulotny": [
+  "nature",
+  "literature"
+ ],
+ "wątły": [
+  "nature"
+ ],
+ "zawiły": [
+  "debate",
+  "science"
+ ],
+ "zgryźliwy": [
+  "character",
+  "debate"
+ ],
+ "żmudny": [
+  "business",
+  "science"
+ ],
+ "błahy": [
+  "debate"
+ ],
+ "wykwintny": [
+  "society"
+ ],
+ "sielski": [
+  "nature",
+  "travel"
+ ],
+ "płochy": [
+  "character"
+ ],
+ "potulny": [
+  "character"
+ ],
+ "zaduma": [
+  "emotions",
+  "literature"
+ ],
+ "knieja": [
+  "nature"
+ ],
+ "waśń": [
+  "society",
+  "debate"
+ ],
+ "gawęda": [
+  "literature"
+ ],
+ "zawadiaka": [
+  "character"
+ ],
+ "animusz": [
+  "character",
+  "emotions"
+ ],
+ "kunszt": [
+  "literature",
+  "business"
+ ],
+ "niedola": [
+  "society"
+ ],
+ "odmęt": [
+  "nature"
+ ],
+ "swada": [
+  "persuasion"
+ ],
+ "trwoga": [
+  "emotions"
+ ],
+ "ułuda": [
+  "emotions",
+  "literature"
+ ],
+ "zgryzota": [
+  "emotions"
+ ],
+ "znój": [
+  "business",
+  "nature"
+ ],
+ "rozgardiasz": [
+  "society"
+ ],
+ "szkopuł": [
+  "business",
+  "debate"
+ ],
+ "udręka": [
+  "emotions"
+ ],
+ "wrzawa": [
+  "society"
+ ],
+ "zawierucha": [
+  "nature",
+  "society"
+ ],
+ "zażyłość": [
+  "society",
+  "emotions"
+ ],
+ "biadać": [
+  "emotions"
+ ],
+ "czmychnąć": [
+  "travel"
+ ],
+ "drwić": [
+  "debate"
+ ],
+ "folgować": [
+  "character"
+ ],
+ "hołubić": [
+  "emotions"
+ ],
+ "łaknąć": [
+  "emotions"
+ ],
+ "mamić": [
+  "persuasion"
+ ],
+ "nęcić": [
+  "persuasion"
+ ],
+ "schlebiać": [
+  "persuasion"
+ ],
+ "smagać": [
+  "nature"
+ ],
+ "uśmierzyć": [
+  "science",
+  "emotions"
+ ],
+ "zniweczyć": [
+  "business"
+ ],
+ "urągać": [
+  "debate"
+ ],
+ "pałać": [
+  "emotions"
+ ],
+ "zgłębić": [
+  "science"
+ ],
+ "nader": [
+  "debate"
+ ],
+ "zgoła": [
+  "debate"
+ ],
+ "poniekąd": [
+  "debate"
+ ],
+ "znienacka": [
+  "travel"
+ ],
+ "ukradkiem": [
+  "character"
+ ],
+ "chyży": [
+  "literature"
+ ],
+ "cny": [
+  "character",
+  "literature"
+ ],
+ "dojmujący": [
+  "emotions"
+ ],
+ "frasobliwy": [
+  "emotions"
+ ],
+ "górnolotny": [
+  "literature",
+  "persuasion"
+ ],
+ "kostyczny": [
+  "character",
+  "debate"
+ ],
+ "krotochwilny": [
+  "character",
+  "literature"
+ ],
+ "opieszały": [
+  "business",
+  "character"
+ ],
+ "przaśny": [
+  "society"
+ ],
+ "siermiężny": [
+  "society"
+ ],
+ "spolegliwy": [
+  "character"
+ ],
+ "wiekuisty": [
+  "literature"
+ ],
+ "zdrożny": [
+  "society"
+ ],
+ "buńczuczny": [
+  "character"
+ ],
+ "bałamutny": [
+  "debate",
+  "persuasion"
+ ],
+ "płonny": [
+  "debate"
+ ],
+ "rączy": [
+  "nature",
+  "literature"
+ ],
+ "miałki": [
+  "literature",
+  "debate"
+ ],
+ "blichtr": [
+  "society"
+ ],
+ "czeluść": [
+  "nature"
+ ],
+ "dezynwoltura": [
+  "character",
+  "society"
+ ],
+ "fanaberia": [
+  "character"
+ ],
+ "frasunek": [
+  "emotions"
+ ],
+ "jestestwo": [
+  "science",
+  "literature"
+ ],
+ "kabotyn": [
+  "character",
+  "literature"
+ ],
+ "matecznik": [
+  "nature"
+ ],
+ "mitręga": [
+  "business"
+ ],
+ "mrzonka": [
+  "emotions",
+  "debate"
+ ],
+ "opoka": [
+  "character",
+  "nature"
+ ],
+ "przywara": [
+  "character"
+ ],
+ "rejwach": [
+  "society"
+ ],
+ "rubież": [
+  "travel",
+  "society"
+ ],
+ "safanduła": [
+  "character"
+ ],
+ "utracjusz": [
+  "character",
+  "business"
+ ],
+ "warchoł": [
+  "society"
+ ],
+ "zaścianek": [
+  "society",
+  "literature"
+ ],
+ "wartogłów": [
+  "character"
+ ],
+ "zausznik": [
+  "society",
+  "persuasion"
+ ],
+ "pieczeniarz": [
+  "society"
+ ],
+ "baczyć": [
+  "literature"
+ ],
+ "dywagować": [
+  "debate"
+ ],
+ "gderać": [
+  "character"
+ ],
+ "perorować": [
+  "persuasion",
+  "debate"
+ ],
+ "pomstować": [
+  "emotions"
+ ],
+ "sarkać": [
+  "business"
+ ],
+ "uwłaczać": [
+  "society",
+  "debate"
+ ],
+ "hołdować": [
+  "society"
+ ],
+ "dzierżyć": [
+  "business",
+  "society"
+ ],
+ "ferować": [
+  "debate",
+  "society"
+ ],
+ "zaprzepaścić": [
+  "business"
+ ],
+ "zaiste": [
+  "literature"
+ ],
+ "poniewczasie": [
+  "literature"
+ ],
+ "onegdaj": [
+  "literature"
+ ],
+ "obcesowo": [
+  "character"
+ ],
+ "nieopatrznie": [
+  "character"
+ ]
+}

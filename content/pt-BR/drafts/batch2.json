@@ -1,0 +1,853 @@
+[
+  {
+    "lemma": "efêmero",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "eˈfemeɾu",
+    "definition": "Que dura muito pouco, passageiro",
+    "example": "A beleza das flores do ipê é efêmera: dura poucos dias.",
+    "synonyms": [
+      "passageiro",
+      "fugaz",
+      "transitório"
+    ],
+    "origin": "Do grego ephêmeros «que dura um dia», de epi «sobre» e hêmera «dia»."
+  },
+  {
+    "lemma": "lânguido",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈlɐ̃ɡidu",
+    "definition": "Sem forças, de uma moleza doce ou doentia",
+    "example": "Lançou-lhe um olhar lânguido e voltou a se abanar.",
+    "synonyms": [
+      "mole",
+      "abatido",
+      "frouxo"
+    ],
+    "origin": "Do latim languidus «fraco, abatido», de languere «estar sem forças»."
+  },
+  {
+    "lemma": "taciturno",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "tasiˈtuɾnu",
+    "definition": "Que fala pouco, calado e sombrio",
+    "example": "Desde a morte do irmão, andava taciturno e arredio.",
+    "synonyms": [
+      "calado",
+      "silencioso",
+      "sombrio"
+    ],
+    "origin": "Do latim taciturnus, de tacitus «calado», de tacere «calar»."
+  },
+  {
+    "lemma": "soturno",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "soˈtuɾnu",
+    "definition": "Triste e sombrio, que inspira melancolia",
+    "example": "O casarão abandonado tinha um ar soturno ao anoitecer.",
+    "synonyms": [
+      "sombrio",
+      "lúgubre",
+      "tristonho"
+    ],
+    "origin": "Do latim Saturnus: os astrólogos atribuíam ao planeta Saturno um temperamento melancólico."
+  },
+  {
+    "lemma": "lúgubre",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈluɡubɾi",
+    "definition": "Que lembra a morte, fúnebre e triste",
+    "example": "O sino da matriz tocava num ritmo lento e lúgubre.",
+    "synonyms": [
+      "fúnebre",
+      "sinistro",
+      "soturno"
+    ],
+    "origin": "Do latim lugubris «de luto», de lugere «estar de luto, chorar»."
+  },
+  {
+    "lemma": "plácido",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈplasidu",
+    "definition": "Calmo e sereno, sem a menor agitação",
+    "example": "O barco deslizava pelas águas plácidas da lagoa.",
+    "synonyms": [
+      "sereno",
+      "calmo",
+      "sossegado"
+    ],
+    "origin": "Do latim placidus «calmo», de placere «agradar»."
+  },
+  {
+    "lemma": "lívido",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈlividu",
+    "definition": "Muito pálido, de cor quase azulada",
+    "example": "Saiu da sala lívido, sem conseguir dizer uma palavra.",
+    "synonyms": [
+      "pálido",
+      "descorado",
+      "macilento"
+    ],
+    "origin": "Do latim lividus «azulado, cor de chumbo», de livere «estar roxo»."
+  },
+  {
+    "lemma": "pérfido",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈpɛɾfidu",
+    "definition": "Que trai a confiança que recebeu",
+    "example": "No romance, um conselheiro pérfido vende os segredos do rei.",
+    "synonyms": [
+      "traidor",
+      "desleal",
+      "falso"
+    ],
+    "origin": "Do latim perfidus «que falta à palavra», de per e fides «fé, palavra dada»."
+  },
+  {
+    "lemma": "sagaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "saˈɡas",
+    "definition": "Que percebe depressa o que escapa aos demais",
+    "example": "A delegada, sagaz, notou a contradição no depoimento.",
+    "synonyms": [
+      "perspicaz",
+      "arguto",
+      "esperto"
+    ],
+    "origin": "Do latim sagax, sagacis «de faro fino», de sagire «ter bom faro»."
+  },
+  {
+    "lemma": "mordaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "moɾˈdas",
+    "definition": "Que critica de modo ferino e cortante",
+    "example": "Seus comentários mordazes sobre a peça irritaram o elenco.",
+    "synonyms": [
+      "cáustico",
+      "ferino",
+      "satírico"
+    ],
+    "origin": "Do latim mordax, mordacis «que morde», de mordere «morder»."
+  },
+  {
+    "lemma": "fugaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "fuˈɡas",
+    "definition": "Que passa depressa, que mal se deixa ver",
+    "example": "Um sorriso fugaz atravessou o rosto dele.",
+    "synonyms": [
+      "passageiro",
+      "efêmero",
+      "breve"
+    ],
+    "origin": "Do latim fugax, fugacis «que foge», de fugere «fugir»."
+  },
+  {
+    "lemma": "perspicaz",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "peɾspiˈkas",
+    "definition": "Que compreende com agudeza e rapidez",
+    "example": "Uma leitora perspicaz percebe o truque logo no primeiro capítulo.",
+    "synonyms": [
+      "sagaz",
+      "arguto",
+      "penetrante"
+    ],
+    "origin": "Do latim perspicax, perspicacis «de vista penetrante», de perspicere «ver através»."
+  },
+  {
+    "lemma": "austero",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "awsˈtɛɾu",
+    "definition": "Rigoroso e sóbrio, sem luxo nem indulgência",
+    "example": "Levava uma vida austera, de poucos móveis e muitos livros.",
+    "synonyms": [
+      "severo",
+      "sóbrio",
+      "rígido"
+    ],
+    "origin": "Do latim austerus «áspero, severo», do grego austêros «seco, rude»."
+  },
+  {
+    "lemma": "frívolo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈfɾivolu",
+    "definition": "Sem importância ou seriedade, leviano",
+    "example": "Cansou-se das conversas frívolas daquelas festas.",
+    "synonyms": [
+      "fútil",
+      "leviano",
+      "superficial"
+    ],
+    "origin": "Do latim frivolus «de pouco valor, insignificante»."
+  },
+  {
+    "lemma": "tênue",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈtenwi",
+    "definition": "Muito fino ou fraco, quase imperceptível",
+    "example": "Uma luz tênue entrava pela fresta da janela.",
+    "synonyms": [
+      "fino",
+      "sutil",
+      "delgado"
+    ],
+    "origin": "Do latim tenuis «fino, delgado»."
+  },
+  {
+    "lemma": "ingênuo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ĩˈʒenwu",
+    "definition": "Sem malícia, que confia com facilidade",
+    "example": "Era ingênuo a ponto de acreditar em todas as promessas.",
+    "synonyms": [
+      "inocente",
+      "crédulo",
+      "cândido"
+    ],
+    "origin": "Do latim ingenuus «nascido livre», daí «franco, sem artifício»."
+  },
+  {
+    "lemma": "atônito",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "aˈtonitu",
+    "definition": "Tomado de espanto, sem reação",
+    "example": "Ficamos atônitos ao ver a rua inteira alagada.",
+    "synonyms": [
+      "pasmo",
+      "espantado",
+      "estupefato"
+    ],
+    "origin": "Do latim attonitus «atingido pelo trovão», de tonare «trovejar»."
+  },
+  {
+    "lemma": "insólito",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ĩˈsɔlitu",
+    "definition": "Fora do comum, que surpreende",
+    "example": "Um silêncio insólito tomou conta da avenida ao meio-dia.",
+    "synonyms": [
+      "incomum",
+      "estranho",
+      "inusitado"
+    ],
+    "origin": "Do latim insolitus «não habituado», de in- e solere «costumar»."
+  },
+  {
+    "lemma": "inóspito",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "iˈnɔspitu",
+    "definition": "Onde é difícil viver ou permanecer",
+    "example": "Atravessaram a pé a região mais inóspita do deserto.",
+    "synonyms": [
+      "agreste",
+      "hostil",
+      "desabrigado"
+    ],
+    "origin": "Do latim inhospitus «que não acolhe», de in- e hospes, hospitis «hóspede»."
+  },
+  {
+    "lemma": "recôndito",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ʁeˈkõdʒitu",
+    "definition": "Escondido, afastado da vista de todos",
+    "example": "Guardava as cartas no canto mais recôndito do armário.",
+    "synonyms": [
+      "oculto",
+      "escondido",
+      "secreto"
+    ],
+    "origin": "Do latim reconditus, particípio de recondere «guardar, esconder»."
+  },
+  {
+    "lemma": "ermo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ˈeɾmu",
+    "definition": "Deserto, sem habitantes nem movimento",
+    "example": "A estrada seguia por campos ermos, sem uma única casa.",
+    "synonyms": [
+      "deserto",
+      "solitário",
+      "despovoado"
+    ],
+    "origin": "Do latim eremus, do grego erêmos «deserto, solitário»; é a mesma origem de eremita."
+  },
+  {
+    "lemma": "prolixo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "pɾoˈliksu",
+    "definition": "Que usa palavras demais para dizer pouco",
+    "example": "O relatório, prolixo, gastava vinte páginas com quase nada.",
+    "synonyms": [
+      "verboso",
+      "difuso",
+      "palavroso"
+    ],
+    "origin": "Do latim prolixus «alongado, que se estende»."
+  },
+  {
+    "lemma": "indolente",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "ĩdoˈlẽtʃi",
+    "definition": "Que evita o esforço, preguiçoso e lento",
+    "example": "Passava as tardes indolente na rede, vendo o rio correr.",
+    "synonyms": [
+      "preguiçoso",
+      "ocioso",
+      "apático"
+    ],
+    "origin": "Do latim indolens, indolentis «que não sente dor», de in- e dolere «doer»."
+  },
+  {
+    "lemma": "veemente",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "veeˈmẽtʃi",
+    "definition": "Que se exprime com força e paixão",
+    "example": "Fez um protesto veemente contra o fechamento da biblioteca.",
+    "synonyms": [
+      "enérgico",
+      "intenso",
+      "impetuoso"
+    ],
+    "origin": "Do latim vehemens, vehementis «impetuoso, violento»."
+  },
+  {
+    "lemma": "pungente",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "pũˈʒẽtʃi",
+    "definition": "Que fere os sentimentos, muito doloroso",
+    "example": "O filme termina com uma cena pungente de despedida.",
+    "synonyms": [
+      "doloroso",
+      "lancinante",
+      "comovente"
+    ],
+    "origin": "Do latim pungens, pungentis, de pungere «picar, ferir»."
+  },
+  {
+    "lemma": "arguto",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "aɾˈɡutu",
+    "definition": "De raciocínio fino e observação aguda",
+    "example": "Fez uma análise arguta dos números da empresa.",
+    "synonyms": [
+      "sagaz",
+      "perspicaz",
+      "engenhoso"
+    ],
+    "origin": "Do latim argutus «penetrante, expressivo», de arguere «tornar claro, demonstrar»."
+  },
+  {
+    "lemma": "esquivo",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "esˈkivu",
+    "definition": "Que evita o contato e foge das pessoas",
+    "example": "O gato, esquivo, só aparecia na hora da comida.",
+    "synonyms": [
+      "arisco",
+      "arredio",
+      "fugidio"
+    ],
+    "origin": "De origem germânica (compare-se o alemão scheu «tímido»), talvez por via do espanhol esquivo."
+  },
+  {
+    "lemma": "arredio",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "aʁeˈdʒiu",
+    "definition": "Que se mantém afastado, pouco sociável",
+    "example": "Nos primeiros dias, o menino novo ficou arredio no recreio.",
+    "synonyms": [
+      "esquivo",
+      "arisco",
+      "retraído"
+    ],
+    "origin": "Do latim errativus «errante», de errare «vagar»."
+  },
+  {
+    "lemma": "matreiro",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "maˈtɾejɾu",
+    "definition": "Esperto e cheio de manhas, difícil de enganar",
+    "example": "O vendedor, matreiro, deixou o defeito para o fim da conversa.",
+    "synonyms": [
+      "astuto",
+      "manhoso",
+      "ladino"
+    ],
+    "origin": "De origem incerta; costuma-se relacioná-lo com o espanhol matrero «astuto, arisco»."
+  },
+  {
+    "lemma": "faceiro",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "faˈsejɾu",
+    "definition": "Alegre e vaidoso, contente de se mostrar",
+    "example": "Saiu toda faceira com o vestido novo.",
+    "synonyms": [
+      "contente",
+      "vaidoso",
+      "alegre"
+    ],
+    "origin": "Derivado de face, do latim facies «rosto, aparência»."
+  },
+  {
+    "lemma": "brejeiro",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "bɾeˈʒejɾu",
+    "definition": "Malicioso de um jeito leve e brincalhão",
+    "example": "Piscou com um ar brejeiro e não revelou o segredo.",
+    "synonyms": [
+      "travesso",
+      "malicioso",
+      "maroto"
+    ],
+    "origin": "Derivado de brejo, palavra de origem obscura; o sentido primitivo era «vadio que anda pelos brejos»."
+  },
+  {
+    "lemma": "ufano",
+    "level": 2,
+    "part_of_speech": "adj.",
+    "ipa": "uˈfɐnu",
+    "definition": "Orgulhoso de si ou do que é seu",
+    "example": "Voltou ufano da feira de ciências, com a medalha no peito.",
+    "synonyms": [
+      "orgulhoso",
+      "vaidoso",
+      "jactancioso"
+    ],
+    "origin": "De origem incerta; a palavra existe também em espanhol."
+  },
+  {
+    "lemma": "desdém",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "dezˈdẽj̃",
+    "definition": "Desprezo altivo por alguém ou algo",
+    "example": "Olhou o presente com desdém e o deixou sobre a mesa.",
+    "synonyms": [
+      "desprezo",
+      "menosprezo",
+      "altivez"
+    ],
+    "origin": "Derivado de desdenhar, do latim vulgar *disdignare, de dignus «digno»."
+  },
+  {
+    "lemma": "escárnio",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "esˈkaɾnju",
+    "definition": "Zombaria cruel, que humilha",
+    "example": "As vaias e o escárnio da plateia não o fizeram desistir.",
+    "synonyms": [
+      "zombaria",
+      "troça",
+      "mofa"
+    ],
+    "origin": "Derivado de escarnir, de origem germânica (frâncico *skernjan «zombar»)."
+  },
+  {
+    "lemma": "alarido",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "alaˈɾidu",
+    "definition": "Gritaria confusa de muitas vozes",
+    "example": "O alarido das crianças no pátio chegava até a rua.",
+    "synonyms": [
+      "gritaria",
+      "vozerio",
+      "clamor"
+    ],
+    "origin": "De origem controversa; a tradição o liga ao grito de guerra dos mouros, mas a hipótese árabe não é segura."
+  },
+  {
+    "lemma": "algazarra",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "awɡaˈzaʁɐ",
+    "definition": "Barulho alegre e desordenado de muita gente",
+    "example": "A turma fez tanta algazarra que o vizinho veio reclamar.",
+    "synonyms": [
+      "gritaria",
+      "barulheira",
+      "vozerio"
+    ],
+    "origin": "Do árabe al-ġazāra «abundância, profusão», aplicado depois ao vozerio."
+  },
+  {
+    "lemma": "balbúrdia",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "bawˈbuɾdʒɐ",
+    "definition": "Confusão barulhenta, desordem",
+    "example": "Na hora da saída, a rodoviária era uma balbúrdia.",
+    "synonyms": [
+      "confusão",
+      "tumulto",
+      "desordem"
+    ],
+    "origin": "De origem obscura."
+  },
+  {
+    "lemma": "burburinho",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "buɾbuˈɾĩɲu",
+    "definition": "Rumor contínuo de muitas vozes misturadas",
+    "example": "Um burburinho percorreu a sala quando o resultado apareceu.",
+    "synonyms": [
+      "murmúrio",
+      "rumor",
+      "sussurro"
+    ],
+    "origin": "De formação onomatopaica, imitando o som de vozes confusas."
+  },
+  {
+    "lemma": "penumbra",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "peˈnũbɾɐ",
+    "definition": "Luz fraca, entre a claridade e a sombra",
+    "example": "Ficaram conversando na penumbra da varanda até tarde.",
+    "synonyms": [
+      "sombra",
+      "obscuridade"
+    ],
+    "origin": "Do latim científico penumbra, criado por Kepler com paene «quase» e umbra «sombra»."
+  },
+  {
+    "lemma": "crepúsculo",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "kɾeˈpuskulu",
+    "definition": "Claridade fraca do anoitecer ou do amanhecer",
+    "example": "No crepúsculo, o céu do cerrado fica cor de laranja.",
+    "synonyms": [
+      "ocaso",
+      "anoitecer",
+      "entardecer"
+    ],
+    "origin": "Do latim crepusculum, de creper «escuro, incerto»."
+  },
+  {
+    "lemma": "relento",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "ʁeˈlẽtu",
+    "definition": "Umidade da noite; o ar livre noturno",
+    "example": "Sem lugar na pousada, dormiram ao relento, sob as estrelas.",
+    "synonyms": [
+      "sereno",
+      "orvalho"
+    ],
+    "origin": "Derivado de lento, no sentido antigo de «úmido, pegajoso», do latim lentus."
+  },
+  {
+    "lemma": "vereda",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "veˈɾedɐ",
+    "definition": "Caminho estreito; no cerrado, vale úmido com buritis",
+    "example": "Seguimos por uma vereda que cortava o capinzal.",
+    "synonyms": [
+      "trilha",
+      "atalho",
+      "senda"
+    ],
+    "origin": "Do latim medieval vereda «caminho», de veredus «cavalo de posta»."
+  },
+  {
+    "lemma": "mormaço",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "moɾˈmasu",
+    "definition": "Calor abafado e úmido, com céu encoberto",
+    "example": "Com aquele mormaço, ninguém tinha ânimo para sair de casa.",
+    "synonyms": [
+      "abafamento",
+      "bochorno"
+    ],
+    "origin": "De origem obscura."
+  },
+  {
+    "lemma": "labuta",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "laˈbutɐ",
+    "definition": "Trabalho duro e contínuo",
+    "example": "Depois de um dia de labuta, só queria um banho e silêncio.",
+    "synonyms": [
+      "lida",
+      "trabalho",
+      "faina"
+    ],
+    "origin": "Derivado de labutar, de origem discutida, talvez ligado ao latim labor «trabalho»."
+  },
+  {
+    "lemma": "alcunha",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "awˈkũɲɐ",
+    "definition": "Apelido dado a alguém por uma característica sua",
+    "example": "Por causa da altura, ganhou cedo a alcunha de Varapau.",
+    "synonyms": [
+      "apelido",
+      "cognome",
+      "epíteto"
+    ],
+    "origin": "Do árabe al-kunya «sobrenome, apelido»."
+  },
+  {
+    "lemma": "quimera",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "kiˈmɛɾɐ",
+    "definition": "Sonho impossível, produto da imaginação",
+    "example": "Ganhar na loteria e largar tudo era a sua quimera.",
+    "synonyms": [
+      "ilusão",
+      "utopia",
+      "fantasia"
+    ],
+    "origin": "Do grego Khímaira, monstro mitológico com cabeça de leão, corpo de cabra e cauda de serpente."
+  },
+  {
+    "lemma": "desatino",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "dezaˈtʃinu",
+    "definition": "Ato ou dito sem juízo, loucura",
+    "example": "Vender a casa para apostar foi um completo desatino.",
+    "synonyms": [
+      "loucura",
+      "disparate",
+      "insensatez"
+    ],
+    "origin": "Derivado de desatinar, de des- e atinar «acertar», de tino «juízo», palavra de origem incerta."
+  },
+  {
+    "lemma": "torpor",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "toɾˈpoɾ",
+    "definition": "Estado de moleza em que o corpo mal reage",
+    "example": "O calor da tarde o deixou num torpor difícil de vencer.",
+    "synonyms": [
+      "letargia",
+      "dormência",
+      "modorra"
+    ],
+    "origin": "Do latim torpor, de torpere «estar sem movimento, dormente»."
+  },
+  {
+    "lemma": "fastio",
+    "level": 2,
+    "part_of_speech": "s.m.",
+    "ipa": "fasˈtʃiu",
+    "definition": "Falta de apetite; tédio, aborrecimento",
+    "example": "Olhava o prato com fastio, sem tocar na comida.",
+    "synonyms": [
+      "tédio",
+      "enfado",
+      "inapetência"
+    ],
+    "origin": "Do latim fastidium «repugnância, aversão»."
+  },
+  {
+    "lemma": "cobiça",
+    "level": 2,
+    "part_of_speech": "s.f.",
+    "ipa": "koˈbisɐ",
+    "definition": "Desejo imoderado de possuir riquezas",
+    "example": "A cobiça pelo ouro levou milhares de homens ao sertão.",
+    "synonyms": [
+      "ganância",
+      "avidez",
+      "ambição"
+    ],
+    "origin": "Do latim vulgar *cupiditia, de cupidus «desejoso»."
+  },
+  {
+    "lemma": "aquiescer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "akjeˈseɾ",
+    "definition": "Dar consentimento, concordar sem resistência",
+    "example": "Depois de muita conversa, o diretor aquiesceu ao pedido dos funcionários.",
+    "synonyms": [
+      "consentir",
+      "anuir",
+      "concordar"
+    ],
+    "origin": "Do latim acquiescere «repousar, dar-se por satisfeito», de quies «repouso»."
+  },
+  {
+    "lemma": "vociferar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "vosifeˈɾaɾ",
+    "definition": "Falar aos gritos, com raiva",
+    "example": "O motorista vociferava contra o trânsito parado.",
+    "synonyms": [
+      "bradar",
+      "berrar",
+      "esbravejar"
+    ],
+    "origin": "Do latim vociferari, de vox «voz» e ferre «levar»."
+  },
+  {
+    "lemma": "esmorecer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ezmoɾeˈseɾ",
+    "definition": "Perder o ânimo ou a força",
+    "example": "Apesar das derrotas seguidas, o time não esmoreceu.",
+    "synonyms": [
+      "desanimar",
+      "enfraquecer",
+      "desfalecer"
+    ],
+    "origin": "Provavelmente formado sobre o latim mori «morrer», com o prefixo es- e o sufixo -ecer: «ficar como morto»."
+  },
+  {
+    "lemma": "enaltecer",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "enawteˈseɾ",
+    "definition": "Elogiar muito, elevar o valor de alguém",
+    "example": "O discurso do prefeito enalteceu a coragem dos bombeiros.",
+    "synonyms": [
+      "exaltar",
+      "louvar",
+      "engrandecer"
+    ],
+    "origin": "Derivado de alto, do latim altus, com o prefixo en- e o sufixo -ecer."
+  },
+  {
+    "lemma": "definhar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "defiˈɲaɾ",
+    "definition": "Perder as forças pouco a pouco, murchar",
+    "example": "Sem chuva, a plantação definhava dia após dia.",
+    "synonyms": [
+      "murchar",
+      "emagrecer",
+      "enfraquecer"
+    ],
+    "origin": "De origem controversa; talvez de um latim vulgar *definare «chegar ao fim», de finis «fim»."
+  },
+  {
+    "lemma": "titubear",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "tʃitubeˈaɾ",
+    "definition": "Vacilar ao andar, falar ou decidir",
+    "example": "Quando perguntaram a data, ele titubeou e mudou de assunto.",
+    "synonyms": [
+      "hesitar",
+      "vacilar",
+      "cambalear"
+    ],
+    "origin": "Do latim titubare «cambalear, gaguejar»."
+  },
+  {
+    "lemma": "ludibriar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "ludʒibɾiˈaɾ",
+    "definition": "Enganar alguém, abusando da sua boa-fé",
+    "example": "O golpista ludibriou dezenas de aposentados pelo telefone.",
+    "synonyms": [
+      "enganar",
+      "iludir",
+      "lograr"
+    ],
+    "origin": "Derivado de ludíbrio, do latim ludibrium «zombaria», de ludere «jogar, brincar»."
+  },
+  {
+    "lemma": "cismar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "sizˈmaɾ",
+    "definition": "Ficar pensando fixamente; meter uma ideia na cabeça",
+    "example": "Minha avó cismou que ia chover e recolheu a roupa.",
+    "synonyms": [
+      "matutar",
+      "ruminar",
+      "teimar"
+    ],
+    "origin": "Derivado de cisma, do grego skhisma «separação»; o sentido de «ideia fixa» desenvolveu-se em português."
+  },
+  {
+    "lemma": "matutar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "matuˈtaɾ",
+    "definition": "Pensar longa e demoradamente sobre algo",
+    "example": "Passou a noite matutando uma saída para a dívida.",
+    "synonyms": [
+      "refletir",
+      "cismar",
+      "meditar"
+    ],
+    "origin": "Derivado de matuto «homem do mato, desconfiado», de mato."
+  },
+  {
+    "lemma": "vicejar",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "viseˈʒaɾ",
+    "definition": "Crescer com força e frescor, estar viçoso",
+    "example": "Depois das chuvas, o capim vicejava por toda a encosta.",
+    "synonyms": [
+      "florescer",
+      "prosperar",
+      "verdejar"
+    ],
+    "origin": "Derivado de viço, do latim vitium «defeito», que passou de «mimo excessivo» a «exuberância»."
+  },
+  {
+    "lemma": "bajular",
+    "level": 2,
+    "part_of_speech": "v.",
+    "ipa": "baʒuˈlaɾ",
+    "definition": "Elogiar em excesso para obter favores",
+    "example": "Vivia bajulando o gerente na esperança de uma promoção.",
+    "synonyms": [
+      "adular",
+      "lisonjear",
+      "incensar"
+    ],
+    "origin": "Do latim bajulare «carregar um fardo», de bajulus «carregador»."
+  }
+]

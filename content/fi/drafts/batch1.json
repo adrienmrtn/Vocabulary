@@ -1,0 +1,798 @@
+[
+ {
+  "lemma": "haikea",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhɑi̯keɑ",
+  "definition": "Surumielinen ja kaipaava, usein kauniilla tavalla",
+  "example": "Kesän viimeinen ilta jätti mieleen haikean tunnelman.",
+  "synonyms": [
+   "kaihoisa",
+   "surumielinen",
+   "kaipaava"
+  ],
+  "origin": "Vanha itämerensuomalainen sana (*haikeda); sen virolainen vastine haige merkitsee sairasta."
+ },
+ {
+  "lemma": "hento",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhento",
+  "definition": "Siro ja hauras, helposti taipuva tai särkyvä",
+  "example": "Ikkunalaudalla kasvoi hento taimi, joka kurotti kohti valoa.",
+  "synonyms": [
+   "hauras",
+   "siro",
+   "heiveröinen"
+  ],
+  "origin": "Todennäköisesti kuvaileva, äänneasultaan ilmaisuvoimainen sana; vastineita on inkeroisessa ja karjalassa."
+ },
+ {
+  "lemma": "lempeä",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈlempeæ",
+  "definition": "Ystävällisen pehmeä ja hellä, ei ankara",
+  "example": "Opettajan lempeä katse rohkaisi ujoakin oppilasta vastaamaan.",
+  "synonyms": [
+   "hellä",
+   "leppeä",
+   "sävyisä"
+  ],
+  "origin": "Johdos sanasta lempi ’rakkaus’, joka on vanha itämerensuomalainen sana ja lienee alkuaan merkinnyt hehkua tai kuumuutta."
+ },
+ {
+  "lemma": "uljas",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈuljɑs",
+  "definition": "Ryhdiltään komea ja rohkea",
+  "example": "Uljas purjelaiva lipui satamaan kaikki purjeet levällään.",
+  "synonyms": [
+   "komea",
+   "ylväs",
+   "urhea"
+  ],
+  "origin": "Alkuperä tuntematon; sanalla ei ole varmoja vastineita lähisukukielissä."
+ },
+ {
+  "lemma": "jalo",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈjɑlo",
+  "definition": "Luonteeltaan ylevä ja epäitsekäs; arvokas, hieno",
+  "example": "Oli jalo teko luopua palkinnosta ystävän hyväksi.",
+  "synonyms": [
+   "ylevä",
+   "hieno",
+   "arvokas"
+  ],
+  "origin": "Vanha itämerensuomalainen sana; alkuperäinen merkitys lienee ollut ’suuri, kookas, voimakas’."
+ },
+ {
+  "lemma": "harras",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhɑrːɑs",
+  "definition": "Syvästi ja vilpittömästi omistautunut, usein uskonnollisesti",
+  "example": "Hän on harras lintujen ystävä ja herää keväisin ennen aurinkoa.",
+  "synonyms": [
+   "hurskas",
+   "palava",
+   "vakaa"
+  ],
+  "origin": "Vanha germaaninen laina; lähtömuoto on sama kuin ruotsin sanassa hård ja englannin sanassa hard ’kova’."
+ },
+ {
+  "lemma": "tyyni",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈtyːni",
+  "definition": "Liikkumaton ja rauhallinen, vailla tuulta tai kiihtymystä",
+  "example": "Järvi oli aamulla niin tyyni, että pilvet näkyivät sen pinnassa.",
+  "synonyms": [
+   "rauhallinen",
+   "levollinen",
+   "tuuleton"
+  ],
+  "origin": "Vanha itämerensuomalainen sana (*tüüni); samaa ikivanhaa juurta pidetään myös sanan syvä pohjana."
+ },
+ {
+  "lemma": "vieno",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʋie̯no",
+  "definition": "Hiljainen, pehmeä ja hento",
+  "example": "Avoimesta ikkunasta kantautui vieno sireenien tuoksu.",
+  "synonyms": [
+   "hento",
+   "leuto",
+   "hiljainen"
+  ],
+  "origin": "Vanha itämerensuomalainen sana, jolla on vastineet muun muassa karjalassa, vepsässä ja vatjassa."
+ },
+ {
+  "lemma": "ylväs",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈylʋæs",
+  "definition": "Ylpeän arvokas ja komea olemukseltaan",
+  "example": "Kukkulalla seisoi ylväs vanha tammi, koko kylän maamerkki.",
+  "synonyms": [
+   "uljas",
+   "komea",
+   "arvokas"
+  ],
+  "origin": "Samaa juurta kuin adjektiivi ylpeä."
+ },
+ {
+  "lemma": "nöyrä",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈnøy̯ræ",
+  "definition": "Itseään korostamaton ja valmis taipumaan",
+  "example": "Voittaja oli haastattelussa nöyrä ja kiitti ennen kaikkea joukkuettaan.",
+  "synonyms": [
+   "vaatimaton",
+   "alistuva",
+   "kuuliainen"
+  ],
+  "origin": "Vanha itämerensuomalainen sana; viron vastine nõder merkitsee heikkoa, mikä lienee sanan vanhempi merkitys."
+ },
+ {
+  "lemma": "sitkeä",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈsitkeæ",
+  "definition": "Periksi antamaton ja kestävä; vaikeasti katkeava",
+  "example": "Sitkeä yskä vaivasi häntä koko pitkän talven.",
+  "synonyms": [
+   "kestävä",
+   "sinnikäs",
+   "peräänantamaton"
+  ],
+  "origin": "Vanha itämerensuomalainen sana, jolla on vastine kaikissa lähisukukielissä ja etäämpänä saamessa."
+ },
+ {
+  "lemma": "viekas",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʋie̯kɑs",
+  "definition": "Ovela ja toisia taitavasti harhauttava",
+  "example": "Saduissa kettu on viekas ja karhu hyväuskoinen.",
+  "synonyms": [
+   "ovela",
+   "kavala",
+   "juonikas"
+  ],
+  "origin": "Mahdollisesti johdos verbistä viedä; vastineita on inkeroisessa ja karjalassa."
+ },
+ {
+  "lemma": "ponteva",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈponteʋɑ",
+  "definition": "Tarmokas ja painokas, voimalla esitetty",
+  "example": "Puheenjohtaja piti pontevan puheen lähikoulun säilyttämisen puolesta.",
+  "synonyms": [
+   "tarmokas",
+   "napakka",
+   "painokas"
+  ],
+  "origin": "Johdos sanasta ponsi, joka on vanhaa omaperäistä sanastoa ja merkitsee muun muassa varren päätä ja pontta."
+ },
+ {
+  "lemma": "verkkainen",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʋerkːɑi̯nen",
+  "definition": "Hidas ja kiireetön, rauhallisesti etenevä",
+  "example": "Sunnuntain verkkainen aamiainen venyi pitkälle iltapäivään.",
+  "synonyms": [
+   "hidas",
+   "kiireetön",
+   "leppoisa"
+  ],
+  "origin": "Johdos murteellisesta sanasta verkka ’hidas, hiljainen’; samaa juurta on adverbi verkkaan."
+ },
+ {
+  "lemma": "vaatimaton",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʋɑːtimɑton",
+  "definition": "Itseään korostamaton; koruton ja pieneen tyytyvä",
+  "example": "Hän asuu yhä vaatimattomassa yksiössä, vaikka on menestynyt hyvin.",
+  "synonyms": [
+   "nöyrä",
+   "koruton",
+   "hillitty"
+  ],
+  "origin": "Verbin vaatia kielteinen johdos: sananmukaisesti ’se, joka ei vaadi’. Vaatia on luultavasti vanha germaaninen laina."
+ },
+ {
+  "lemma": "herkkä",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈherkːæ",
+  "definition": "Helposti reagoiva tai liikuttuva; hienotunteinen",
+  "example": "Hän on herkkä huomaamaan, milloin ystävä kaipaa tukea.",
+  "synonyms": [
+   "tunteellinen",
+   "arka",
+   "hienovireinen"
+  ],
+  "origin": "Vanha itämerensuomalainen sana; viron erk merkitsee eloisaa ja virkeää."
+ },
+ {
+  "lemma": "ankara",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɑŋkɑrɑ",
+  "definition": "Tiukka ja armoton; hyvin kova",
+  "example": "Ankara pakkanen jäädytti vesijohdot koko kylästä.",
+  "synonyms": [
+   "tiukka",
+   "kova",
+   "armoton"
+  ],
+  "origin": "Vanha germaaninen laina; samaa alkuperää ovat englannin anger ’suuttumus’ ja ruotsin ånger ’katumus’."
+ },
+ {
+  "lemma": "huoleton",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhuo̯leton",
+  "definition": "Vailla murheita; kevyesti ja vapaasti elävä",
+  "example": "Lomalla hän oli huoleton kuin lapsi kesälaitumella.",
+  "synonyms": [
+   "murheeton",
+   "suruton",
+   "kevytmielinen"
+  ],
+  "origin": "Johdos sanasta huoli ja kieltojohtimesta -ton."
+ },
+ {
+  "lemma": "utelias",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈuteliɑs",
+  "definition": "Halukas tietämään ja saamaan selville uutta",
+  "example": "Utelias kissa työnsi päänsä jokaiseen avoimeen kaappiin.",
+  "synonyms": [
+   "tiedonhaluinen",
+   "kiinnostunut",
+   "urkkiva"
+  ],
+  "origin": "Johdos verbistä udella; kirjakielessä ensi kertaa vuonna 1838."
+ },
+ {
+  "lemma": "avulias",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɑʋuliɑs",
+  "definition": "Mielellään toisia auttava",
+  "example": "Avulias naapuri kantoi ostoskassit kolmanteen kerrokseen asti.",
+  "synonyms": [
+   "auttavainen",
+   "palvelualtis",
+   "ystävällinen"
+  ],
+  "origin": "Johdos sanasta apu johtimella -lias."
+ },
+ {
+  "lemma": "hilpeä",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhilpeæ",
+  "definition": "Iloinen ja kevyen hyväntuulinen",
+  "example": "Juhlaväki oli hilpeällä tuulella jo ennen ensimmäistä maljaa.",
+  "synonyms": [
+   "iloinen",
+   "riehakas",
+   "hyväntuulinen"
+  ],
+  "origin": "Alkuperä epäselvä; sanaa on arveltu murteellisen hilpa-sanan sukulaiseksi."
+ },
+ {
+  "lemma": "synkkä",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈsyŋkːæ",
+  "definition": "Hyvin tumma tai lohduton, valoton",
+  "example": "Synkkä kuusimetsä nieli polun jo muutaman askeleen päässä.",
+  "synonyms": [
+   "tumma",
+   "lohduton",
+   "pimeä"
+  ],
+  "origin": "Samaa juurta kuin synkeä; vastine on myös karjalassa."
+ },
+ {
+  "lemma": "karu",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈkɑru",
+  "definition": "Koruton ja niukka; hedelmätön ja ankara",
+  "example": "Saaren karu kallioranta on kauneimmillaan syysmyrskyllä.",
+  "synonyms": [
+   "koruton",
+   "jylhä",
+   "niukka"
+  ],
+  "origin": "Mahdollisesti germaaninen laina; vastineita on karjalassa ja lyydissä."
+ },
+ {
+  "lemma": "tyly",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈtyly",
+  "definition": "Epäystävällinen ja töykeän torjuva",
+  "example": "Sain kysymykseeni niin tylyn vastauksen, etten kysynyt toiste.",
+  "synonyms": [
+   "töykeä",
+   "tyrmäävä",
+   "epäystävällinen"
+  ],
+  "origin": "Vanha itämerensuomalainen sana, luultavasti samaa juurta kuin murteellinen tylkeä."
+ },
+ {
+  "lemma": "kaipuu",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈkɑi̯puː",
+  "definition": "Voimakas ikävä jotakin poissa olevaa kohtaan",
+  "example": "Ulkomailla asuessa kaipuu kotimaan metsiin yllätti hänet.",
+  "synonyms": [
+   "ikävä",
+   "kaiho",
+   "halu"
+  ],
+  "origin": "Johdos verbistä kaivata."
+ },
+ {
+  "lemma": "tuokio",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈtuo̯kio",
+  "definition": "Lyhyt hetki, silmänräpäys",
+  "example": "Lepäsin tuokion sohvalla ennen kuin vieraat saapuivat.",
+  "synonyms": [
+   "hetki",
+   "tovi",
+   "silmänräpäys"
+  ],
+  "origin": "Vanha skandinaavinen laina, johon on liittynyt johdin -io; lähtösana on sukua ruotsin vuorokautta merkitsevälle sanalle dygn."
+ },
+ {
+  "lemma": "aavistus",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈɑːʋistus",
+  "definition": "Epämääräinen ennakkotunne tai heikko käsitys jostakin",
+  "example": "Minulla ei ollut aavistustakaan, että juhlat olivat yllätys.",
+  "synonyms": [
+   "ennakkotunne",
+   "vainu",
+   "tuntu"
+  ],
+  "origin": "Johdos verbistä aavistaa, jonka pohjana on kummitusta merkitsevä aave."
+ },
+ {
+  "lemma": "hämärä",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈhæmæræ",
+  "definition": "Puolipimeä vuorokauden vaihtuessa, valon ja pimeän raja",
+  "example": "Illan hämärässä pihapiirin ääriviivat pehmenivät ja äänet hiljenivät.",
+  "synonyms": [
+   "hämy",
+   "puolipimeä"
+  ],
+  "origin": "Vanha itämerensuomalainen sana; vartaloa hämä- on pidetty germaanisena tai balttilaisena lainana."
+ },
+ {
+  "lemma": "lumo",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈlumo",
+  "definition": "Vastustamaton viehätys, joka pitää otteessaan",
+  "example": "Vanhan kaupungin lumo ei haihdu sateellakaan.",
+  "synonyms": [
+   "viehätys",
+   "taika",
+   "tenho"
+  ],
+  "origin": "Vanha omaperäinen sana, jolla on vastineita saamessa ja marissa; alkuaan se liittyi loitsimiseen."
+ },
+ {
+  "lemma": "sopu",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈsopu",
+  "definition": "Yksimielisyys ja riidaton yhteiselo",
+  "example": "Pitkän neuvottelun jälkeen sopu syntyi vasta aamuyöllä.",
+  "synonyms": [
+   "sovinto",
+   "yksimielisyys",
+   "rauha"
+  ],
+  "origin": "Johdos verbistä sopia."
+ },
+ {
+  "lemma": "tarmo",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈtɑrmo",
+  "definition": "Tahdonvoimainen toimintakyky ja into",
+  "example": "Hänen tarmonsa riitti vielä iltaisin kuoron johtamiseen.",
+  "synonyms": [
+   "energia",
+   "puhti",
+   "virkeys"
+  ],
+  "origin": "Alkuperä epävarma; vastineita on karjalassa ja saamessa."
+ },
+ {
+  "lemma": "vaisto",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈʋɑi̯sto",
+  "definition": "Synnynnäinen, harkitsematon taipumus toimia tietyllä tavalla",
+  "example": "Vaisto käski kääntyä takaisin, ja se osoittautui oikeaksi.",
+  "synonyms": [
+   "vietti",
+   "intuitio",
+   "vainu"
+  ],
+  "origin": "1800-luvun uudissana, luultavasti sanojen vainu ja aisti murremuotojen yhdistelmä; ensiesiintymä on vuodelta 1860."
+ },
+ {
+  "lemma": "lohtu",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈlohtu",
+  "definition": "Surua tai pettymystä lievittävä asia tai sana",
+  "example": "Ystävän pitkä kirje toi lohtua vaikeina viikkoina.",
+  "synonyms": [
+   "lohdutus",
+   "helpotus",
+   "tuki"
+  ],
+  "origin": "Luultavasti takaperoisjohdos verbistä lohduttaa."
+ },
+ {
+  "lemma": "kohtalo",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈkohtɑlo",
+  "definition": "Ihmisen osaksi tuleva, ennalta määrätyltä tuntuva elämänkulku",
+  "example": "Hän uskoi, että kohtalo oli tuonut heidät samaan junaan.",
+  "synonyms": [
+   "sallimus",
+   "osa",
+   "kaitselmus"
+  ],
+  "origin": "Johdos sanasta kohta; alkuaan sana merkitsi osaa tai osuutta."
+ },
+ {
+  "lemma": "maine",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈmɑi̯ne",
+  "definition": "Yleinen käsitys jonkun tai jonkin arvosta",
+  "example": "Ravintolan maine kiiri nopeasti naapurikaupunkeihin asti.",
+  "synonyms": [
+   "kuuluisuus",
+   "nimi",
+   "arvostus"
+  ],
+  "origin": "Samaa juurta kuin verbi mainita; kirjakielessä vuodesta 1605."
+ },
+ {
+  "lemma": "sisu",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈsisu",
+  "definition": "Sitkeä tahdonvoima, joka ei anna periksi vastoinkäymisissä",
+  "example": "Pelkällä sisulla hän hiihti maaliin katkenneella sauvalla.",
+  "synonyms": [
+   "sinnikkyys",
+   "tahdonvoima",
+   "sitkeys"
+  ],
+  "origin": "Johdos vartalosta sisä-; alkuaan sana tarkoitti sisuksia ja sisintä, sittemmin luonnetta ja rohkeutta."
+ },
+ {
+  "lemma": "into",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈinto",
+  "definition": "Palava halu ja innostus tehdä jotakin",
+  "example": "Lasten into tarttui aikuisiinkin, ja pian kaikki rakensivat lumilinnaa.",
+  "synonyms": [
+   "innostus",
+   "palo",
+   "hartaus"
+  ],
+  "origin": "Johdos murteellisesta sanasta inta; sitä on pidetty germaanisena lainana, mutta alkuperä ei ole varma."
+ },
+ {
+  "lemma": "taakka",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈtɑːkːɑ",
+  "definition": "Raskas kannettava, myös henkinen rasitus",
+  "example": "Velka oli taakka, joka painoi häntä vuosikausia.",
+  "synonyms": [
+   "kuorma",
+   "rasite",
+   "paino"
+  ],
+  "origin": "Vanha skandinaavinen laina; samaa kantaa on muinaisnorjan stakkr ’heinäsuova, kasa’. Sana takka on samaa alkuperää."
+ },
+ {
+  "lemma": "oivallus",
+  "level": 1,
+  "part_of_speech": "subst.",
+  "ipa": "ˈoi̯ʋɑlːus",
+  "definition": "Äkillinen ymmärrys, jossa asia selkenee",
+  "example": "Suihkussa hän sai oivalluksen, joka ratkaisi koko ongelman.",
+  "synonyms": [
+   "ahaaelämys",
+   "keksintö",
+   "älynväläys"
+  ],
+  "origin": "Johdos verbistä oivaltaa; sanan otti käyttöön Reinhold von Becker vuonna 1844."
+ },
+ {
+  "lemma": "vaalia",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈʋɑːliɑ",
+  "definition": "Hoitaa ja suojella jotakin arvokasta huolellisesti",
+  "example": "Suku on vaalinut vanhaa omenatarhaa jo neljän sukupolven ajan.",
+  "synonyms": [
+   "hoivata",
+   "suojella",
+   "helliä"
+  ],
+  "origin": "Laina venäjän murteista; lähtöverbi on merkinnyt muun muassa järjestämistä."
+ },
+ {
+  "lemma": "uhmata",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈuhmɑtɑ",
+  "definition": "Asettua rohkeasti vastustamaan vaaraa tai käskyä",
+  "example": "Kalastajat uhmasivat myrskyä ja lähtivät merelle ennen aamua.",
+  "synonyms": [
+   "vastustaa",
+   "haastaa",
+   "niskoitella"
+  ],
+  "origin": "Johdos sanasta uhma, joka on vanha itämerensuomalainen, mahdollisesti kuvaileva sana; vrt. uhka ja uho."
+ },
+ {
+  "lemma": "empiä",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈempiæ",
+  "definition": "Epäröidä ennen päätöstä tai tekoa",
+  "example": "Hän empi hetken ovella ennen kuin soitti kelloa.",
+  "synonyms": [
+   "epäröidä",
+   "arkailla",
+   "jahkailla"
+  ],
+  "origin": "Mahdollisesti johdos kieltosanan ei vartalosta; alkuperä ei ole varma."
+ },
+ {
+  "lemma": "houkutella",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈhou̯kutelːɑ",
+  "definition": "Saada joku mukaan lupauksilla tai viehätyksellä",
+  "example": "Tuoreen pullan tuoksulla on helppo houkutella vieraat keittiöön.",
+  "synonyms": [
+   "viekoitella",
+   "vietellä",
+   "maanitella"
+  ],
+  "origin": "Verbin houkuttaa frekventatiivijohdos."
+ },
+ {
+  "lemma": "kukoistaa",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈkukoi̯stɑː",
+  "definition": "Kasvaa ja menestyä parhaimmillaan",
+  "example": "Pieni kirjakauppa kukoistaa, koska omistaja tuntee jokaisen asiakkaansa.",
+  "synonyms": [
+   "menestyä",
+   "kukkia",
+   "loistaa"
+  ],
+  "origin": "Johdos sanasta kukka; kuvallinen merkitys ’menestyä’ on kehittynyt kukkimisesta."
+ },
+ {
+  "lemma": "vaeltaa",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈʋɑeltɑː",
+  "definition": "Kulkea pitkiä matkoja, usein jalan ja kiirehtimättä",
+  "example": "Kesällä aiomme vaeltaa viikon Lapin tuntureilla.",
+  "synonyms": [
+   "kulkea",
+   "samota",
+   "patikoida"
+  ],
+  "origin": "Vanha itämerensuomalainen verbi, luultavasti samaa juurta kuin vaihtaa: alkuaan ’vaihtaa paikkaa’."
+ },
+ {
+  "lemma": "hillitä",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈhilːitæ",
+  "definition": "Pitää kurissa, estää purkautumasta liian voimakkaana",
+  "example": "Hän yritti hillitä nauruaan kesken vakavan kokouksen.",
+  "synonyms": [
+   "hallita",
+   "pidätellä",
+   "tyynnyttää"
+  ],
+  "origin": "Samaa juurta kuin hiljaa ja hiljainen; kaksois-l lienee syntynyt verbien hallita ja vallita mallin mukaan."
+ },
+ {
+  "lemma": "ihailla",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈihɑi̯lːɑ",
+  "definition": "Katsoa tai arvostaa jotakin suuresti mieltyneenä",
+  "example": "Pysähdyimme pitkäksi aikaa sillalle ihailemaan punaisena hehkuvaa auringonlaskua.",
+  "synonyms": [
+   "arvostaa",
+   "palvoa",
+   "kunnioittaa"
+  ],
+  "origin": "Johdos vanhasta sanasta iha ’iloinen, ihana’; kirjakielessä vuodesta 1831."
+ },
+ {
+  "lemma": "rohjeta",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈrohjetɑ",
+  "definition": "Uskaltaa tehdä jotakin arveluttavaa",
+  "example": "En tahtonut rohjeta kysyä, mitä kirjeessä oikeastaan luki.",
+  "synonyms": [
+   "uskaltaa",
+   "tohtia",
+   "kehdata"
+  ],
+  "origin": "Johdos adjektiivista rohkea."
+ },
+ {
+  "lemma": "vaieta",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈʋɑi̯etɑ",
+  "definition": "Lakata puhumasta tai jättää asia sanomatta",
+  "example": "Joskus on viisainta vaieta ja antaa toisen puhua loppuun.",
+  "synonyms": [
+   "hiljetä",
+   "mykistyä"
+  ],
+  "origin": "Pohjana on hiljaista merkinnyt vartalo vaik-, luultavasti vanha germaaninen laina; samaa juurta on vaiti."
+ },
+ {
+  "lemma": "punnita",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈpunːitɑ",
+  "definition": "Määrittää paino; harkita vaihtoehtoja tarkasti",
+  "example": "Lautakunta punnitsi pitkään molempien ehdotusten hyviä ja huonoja puolia.",
+  "synonyms": [
+   "harkita",
+   "pohtia",
+   "arvioida"
+  ],
+  "origin": "Johdos painoyksikön nimestä punta; verbi esiintyy jo Agricolalla."
+ },
+ {
+  "lemma": "viipyä",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈʋiːpyæ",
+  "definition": "Jäädä johonkin joksikin aikaa; kestää odotettua kauemmin",
+  "example": "Vieraat viipyivät rannalla, kunnes viimeinenkin valo oli sammunut.",
+  "synonyms": [
+   "viivähtää",
+   "jäädä",
+   "viivytellä"
+  ],
+  "origin": "Vanha itämerensuomalainen verbi, samaa juurta kuin viime; esiintyy jo Agricolalla."
+ },
+ {
+  "lemma": "sinnitellä",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈsinːitelːæ",
+  "definition": "Jaksaa sitkeästi vaikeuksista huolimatta",
+  "example": "Vanha auto jaksoi sinnitellä vielä yhden talven.",
+  "synonyms": [
+   "kestää",
+   "pinnistellä",
+   "ponnistella"
+  ],
+  "origin": "Johdos sanasta sinni ’sisu, sitkeys’, joka on lainaa ruotsin sanasta sinne ’mieli’."
+ },
+ {
+  "lemma": "kiiruhtaa",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈkiːruhtɑː",
+  "definition": "Mennä tai toimia hyvin nopeasti",
+  "example": "Lääkäri kiiruhti paikalle heti hälytyksen saatuaan.",
+  "synonyms": [
+   "kiirehtiä",
+   "rientää",
+   "hoputtaa"
+  ],
+  "origin": "Johdos sanasta kiirus, joka on sanan kiire rinnakkaismuoto."
+ },
+ {
+  "lemma": "hehkua",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈhehkuɑ",
+  "definition": "Loistaa lämmintä valoa tai säteillä voimakasta tunnetta",
+  "example": "Hiillos hehkui takassa vielä aamuyön tunteina.",
+  "synonyms": [
+   "hohtaa",
+   "loistaa",
+   "säteillä"
+  ],
+  "origin": "Johdos sanasta hehku, joka on vanha itämerensuomalainen sana."
+ },
+ {
+  "lemma": "varjella",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈʋɑrjelːɑ",
+  "definition": "Suojata vahingolta tai vaaralta",
+  "example": "Isoäiti varjeli vanhoja valokuvia kuin suurinta aarrettaan.",
+  "synonyms": [
+   "suojella",
+   "vaalia",
+   "turvata"
+  ],
+  "origin": "Vartalo on vanha germaaninen laina; samaa kantaa on ruotsin värja ’puolustaa’."
+ },
+ {
+  "lemma": "moittia",
+  "level": 1,
+  "part_of_speech": "verbi",
+  "ipa": "ˈmoi̯tːiɑ",
+  "definition": "Arvostella kielteisesti, osoittaa virheitä",
+  "example": "Valmentaja ei moittinut pelaajia tappiosta vaan kiitti yrityksestä.",
+  "synonyms": [
+   "arvostella",
+   "nuhdella",
+   "soimata"
+  ],
+  "origin": "Vanha itämerensuomalainen verbi, jolla on vastineet inkeroisessa, karjalassa ja lyydissä."
+ },
+ {
+  "lemma": "kernaasti",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "ˈkernɑːsti",
+  "definition": "Mielellään ja halukkaasti",
+  "example": "Tulen kernaasti mukaan, jos autossa on vielä tilaa.",
+  "synonyms": [
+   "mielellään",
+   "halukkaasti",
+   "auliisti"
+  ],
+  "origin": "Johdos adjektiivista kernas ’halukas’, joka on vanha germaaninen laina; samaa kantaa on ruotsin gärna."
+ }
+]

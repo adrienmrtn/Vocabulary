@@ -1,0 +1,811 @@
+[
+ {
+  "lemma": "stillsam",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈstɪlːˌsam",
+  "definition": "Lugn och tyst, utan brådska eller oväsen",
+  "example": "De tillbringade en stillsam kväll framför brasan medan regnet föll.",
+  "synonyms": [
+   "lugn",
+   "fridfull",
+   "rofylld"
+  ],
+  "origin": "Bildat till stilla med efterleden -sam; stilla är ett gemensamt germanskt ord, jfr tyska still."
+ },
+ {
+  "lemma": "ödmjuk",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈøːdˌmjʉːk",
+  "definition": "Fri från högfärd, medveten om sina begränsningar",
+  "example": "Trots alla framgångar förblev hon ödmjuk inför sitt uppdrag.",
+  "synonyms": [
+   "anspråkslös",
+   "blygsam",
+   "undergiven"
+  ],
+  "origin": "Av fornsvenska ödhmiuker, sammansatt av öd- ’lätt’ (isländska auð-) och mjuk; egentligen ’lätt att böja’."
+ },
+ {
+  "lemma": "varsam",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈvɑːʂam",
+  "definition": "Försiktig och mjuk i sitt sätt att handla",
+  "example": "Med varsam hand lyfte han den sovande fågelungen ur boet.",
+  "synonyms": [
+   "försiktig",
+   "aktsam",
+   "ömsint"
+  ],
+  "origin": "Bildat till adjektivet var ’uppmärksam, på sin vakt’ (jfr bli varse) med efterleden -sam."
+ },
+ {
+  "lemma": "trofast",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈtruːˌfast",
+  "definition": "Som håller fast vid sin vänskap eller kärlek",
+  "example": "Hunden väntade trofast vid grinden varje eftermiddag i tio år.",
+  "synonyms": [
+   "lojal",
+   "trogen",
+   "pålitlig"
+  ],
+  "origin": "Sammansatt av tro och fast, alltså ’fast i sin trohet’; belagt redan i fornsvenskan."
+ },
+ {
+  "lemma": "ljuv",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "jʉːv",
+  "definition": "Mild och behaglig för sinnena eller själen",
+  "example": "En ljuv doft av syren drev in genom det öppna fönstret.",
+  "synonyms": [
+   "behaglig",
+   "älsklig",
+   "söt"
+  ],
+  "origin": "Av fornsvenska liuver ’kär, älskad’, besläktat med isländska ljúfr och tyska lieb."
+ },
+ {
+  "lemma": "dyster",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈdʏstɛr",
+  "definition": "Mörk och tung till stämningen, utan glädje",
+  "example": "Han satt dyster vid fönstret och såg höstregnet falla.",
+  "synonyms": [
+   "mörk",
+   "trist",
+   "betryckt"
+  ],
+  "origin": "Lån från lågtyska düster ’mörk’; jfr tyska düster."
+ },
+ {
+  "lemma": "karg",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "karj",
+  "definition": "Mager och ofruktbar; även fåordig och sträng",
+  "example": "Det karga landskapet i fjällen har en alldeles egen skönhet.",
+  "synonyms": [
+   "ofruktbar",
+   "mager",
+   "torftig"
+  ],
+  "origin": "Lån från lågtyska karch ’snål, knapp’; den äldre betydelsen i svenskan var just ’snål’."
+ },
+ {
+  "lemma": "vansklig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈvansklɪɡ",
+  "definition": "Osäker och svår att bedöma eller genomföra",
+  "example": "Det är vanskligt att sia om hur vintern kommer att bli.",
+  "synonyms": [
+   "riskabel",
+   "osäker",
+   "besvärlig"
+  ],
+  "origin": "Bildat till det äldre vanske ’brist, osäkerhet’, i sin tur till förleden van- ’bristfällig, fel’."
+ },
+ {
+  "lemma": "saklig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈsɑːklɪɡ",
+  "definition": "Som håller sig till fakta, utan känslor",
+  "example": "Hon gav en saklig redogörelse för vad som hade hänt.",
+  "synonyms": [
+   "objektiv",
+   "nykter",
+   "opartisk"
+  ],
+  "origin": "Bildat till sak efter tyska sachlich."
+ },
+ {
+  "lemma": "lågmäld",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈloːɡˌmɛːld",
+  "definition": "Som talar eller uttrycker sig dämpat och stillsamt",
+  "example": "Med lågmäld röst berättade hon om åren i exil.",
+  "synonyms": [
+   "dämpad",
+   "stillsam",
+   "tystlåten"
+  ],
+  "origin": "Sammansatt av låg och mäld, particip av det ålderdomliga verbet mäla ’tala’ (jfr anmäla, förmäla)."
+ },
+ {
+  "lemma": "rofylld",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈruːˌfʏld",
+  "definition": "Präglad av lugn och stilla frid",
+  "example": "Stugan låg vid en rofylld vik långt från närmaste väg.",
+  "synonyms": [
+   "fridfull",
+   "lugn",
+   "stilla"
+  ],
+  "origin": "Sammansatt av ro ’vila, lugn’ (fornsvenska ro, jfr tyska Ruhe) och fylld."
+ },
+ {
+  "lemma": "egensinnig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈeːɡɛnˌsɪnːɪɡ",
+  "definition": "Som envist följer sin egen vilja",
+  "example": "Den egensinniga arkitekten vägrade ändra en enda linje i ritningen.",
+  "synonyms": [
+   "envis",
+   "självrådig",
+   "halsstarrig"
+  ],
+  "origin": "Efter tyska eigensinnig, av eigen ’egen’ och Sinn ’sinne’."
+ },
+ {
+  "lemma": "frikostig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈfriːˌkɔstɪɡ",
+  "definition": "Som gärna och rikligt ger av sitt eget",
+  "example": "Värden var frikostig med både maten och berömmet.",
+  "synonyms": [
+   "generös",
+   "givmild",
+   "rundhänt"
+  ],
+  "origin": "Sammansatt av fri och en bildning till kost i den äldre betydelsen ’kostnad’; alltså ’som inte sparar på kostnaden’."
+ },
+ {
+  "lemma": "uppriktig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɵpːˌrɪktɪɡ",
+  "definition": "Som ärligt säger vad den tänker och känner",
+  "example": "Jag vill ha ett uppriktigt svar, även om det gör ont.",
+  "synonyms": [
+   "ärlig",
+   "öppenhjärtig",
+   "sann"
+  ],
+  "origin": "Efter tyska aufrichtig, egentligen ’upprätt, rak’."
+ },
+ {
+  "lemma": "skör",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ɧœːr",
+  "definition": "Som lätt går sönder; ömtålig",
+  "example": "Den sköra freden mellan grannarna höll bara över sommaren.",
+  "synonyms": [
+   "bräcklig",
+   "ömtålig",
+   "spröd"
+  ],
+  "origin": "Av fornsvenska skör; hör samman med skära, alltså egentligen ’som lätt brister eller skärs av’."
+ },
+ {
+  "lemma": "högtidlig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "hœɡˈtiːdlɪɡ",
+  "definition": "Allvarlig och värdig, som vid en fest",
+  "example": "Med högtidlig min räckte rektorn över diplomet.",
+  "synonyms": [
+   "värdig",
+   "solenn",
+   "ceremoniell"
+  ],
+  "origin": "Bildat till högtid, sammansatt av hög och tid; jfr tyska Hochzeit, som ursprungligen betydde ’fest’ i allmänhet."
+ },
+ {
+  "lemma": "målmedveten",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈmoːlmeːdˌveːtɛn",
+  "definition": "Som säkert vet vad den vill uppnå",
+  "example": "Hon var målmedveten redan som barn och ville bli läkare.",
+  "synonyms": [
+   "beslutsam",
+   "bestämd",
+   "viljestark"
+  ],
+  "origin": "Sammansatt av mål och medveten, troligen efter tyska zielbewusst."
+ },
+ {
+  "lemma": "ihärdig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈiːˌhæːɖɪɡ",
+  "definition": "Som fortsätter envist utan att ge upp",
+  "example": "Efter ihärdigt arbete lyckades de till slut öppna den rostiga dörren.",
+  "synonyms": [
+   "uthållig",
+   "envis",
+   "trägen"
+  ],
+  "origin": "Bildat till äldre ihärda ’hålla ut’, av i och härda ’göra hård, uthärda’."
+ },
+ {
+  "lemma": "godtrogen",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɡuːdˌtruːɡɛn",
+  "definition": "Som alltför lätt litar på andra",
+  "example": "Bedragaren valde sina offer bland godtrogna pensionärer.",
+  "synonyms": [
+   "naiv",
+   "lättlurad",
+   "blåögd"
+  ],
+  "origin": "Sammansatt av god och trogen i den äldre betydelsen ’som tror’; jfr lättrogen."
+ },
+ {
+  "lemma": "tankfull",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈtaŋkˌfɵl",
+  "definition": "Försjunken i egna funderingar",
+  "example": "Hon rörde tankfullt om i teet utan att dricka det.",
+  "synonyms": [
+   "eftertänksam",
+   "fundersam",
+   "begrundande"
+  ],
+  "origin": "Sammansatt av tanke och full; jfr engelska thoughtful och tyska gedankenvoll."
+ },
+ {
+  "lemma": "yrvaken",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈyːrˌvɑːkɛn",
+  "definition": "Förvirrad och omtöcknad efter att nyss ha vaknat",
+  "example": "Yrvaken stapplade han ut i hallen när dörrklockan ringde.",
+  "synonyms": [
+   "nyvaken",
+   "omtöcknad",
+   "sömndrucken"
+  ],
+  "origin": "Sammansatt av yr ’vimmelkantig’ och vaken."
+ },
+ {
+  "lemma": "påpasslig",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈpoːˌpasːlɪɡ",
+  "definition": "Uppmärksam och snabb att utnyttja ett tillfälle",
+  "example": "En påpasslig fotograf fångade ögonblicket då bollen gick i mål.",
+  "synonyms": [
+   "alert",
+   "uppmärksam",
+   "vaksam"
+  ],
+  "origin": "Bildat till passa på ’ge akt, vakta’; passa är lånat från lågtyska passen."
+ },
+ {
+  "lemma": "vemod",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈveːˌmuːd",
+  "definition": "Stilla, ljuv sorg, ofta blandad med saknad",
+  "example": "Det ligger alltid ett stilla vemod över sommarens sista kväll.",
+  "synonyms": [
+   "melankoli",
+   "svårmod",
+   "sorgsenhet"
+  ],
+  "origin": "Lån från lågtyska wēmōt (tyska Wehmut), av wē ’smärta, ve’ och mōt ’sinne’."
+ },
+ {
+  "lemma": "längtan",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈlɛŋːtan",
+  "definition": "Stark önskan efter något avlägset eller saknat",
+  "example": "Hans längtan efter havet blev starkare för varje år i staden.",
+  "synonyms": [
+   "trängtan",
+   "åtrå",
+   "saknad"
+  ],
+  "origin": "Bildat till verbet längta, fornsvenska længta, avlett av lång; egentligen ’tycka att tiden blir lång’."
+ },
+ {
+  "lemma": "skymning",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈɧʏmːnɪŋ",
+  "definition": "Halvmörkret mellan solnedgången och natten",
+  "example": "I skymningen tändes lyktorna en efter en längs kajen.",
+  "synonyms": [
+   "kvällning",
+   "halvmörker"
+  ],
+  "origin": "Bildat till verbet skymma ’bli mörkt’, besläktat med skum ’halvmörk’ (jfr skumrask)."
+ },
+ {
+  "lemma": "gryning",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈɡryːnɪŋ",
+  "definition": "Den första ljusningen på morgonen före soluppgången",
+  "example": "Fiskarna lade ut från bryggan redan i gryningen.",
+  "synonyms": [
+   "dagning",
+   "morgonrodnad",
+   "ljusning"
+  ],
+  "origin": "Bildat till verbet gry ’dagas’, ett nordiskt ord (jfr danska gry)."
+ },
+ {
+  "lemma": "glänta",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈɡlɛnːta",
+  "definition": "Öppen, ljus plats mitt i skogen",
+  "example": "Mitt i granskogen öppnade sig en solig glänta full av smultron.",
+  "synonyms": [
+   "öppning",
+   "röjning"
+  ],
+  "origin": "Hör samman med verbet glänta ’öppna på glänt’; grundbetydelsen tycks vara ’ljus öppning’, men det vidare ursprunget är inte helt klarlagt."
+ },
+ {
+  "lemma": "dunkel",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈdɵŋːkɛl",
+  "definition": "Halvmörker där konturerna bara svagt kan urskiljas",
+  "example": "I kyrkans dunkel brann ett ensamt ljus framför altaret.",
+  "synonyms": [
+   "halvmörker",
+   "skumrask",
+   "skugga"
+  ],
+  "origin": "Lån från tyska dunkel ’mörk’; i svenskan både adjektiv och substantiv."
+ },
+ {
+  "lemma": "tillit",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈtɪlːˌliːt",
+  "definition": "Fast tro på någons ärlighet och goda vilja",
+  "example": "Utan ömsesidig tillit kan inget samarbete hålla i längden.",
+  "synonyms": [
+   "förtroende",
+   "förtröstan",
+   "tilltro"
+  ],
+  "origin": "Bildat till uttrycket lita till; lita motsvarar isländska hlíta ’förlita sig på, nöja sig med’."
+ },
+ {
+  "lemma": "högmod",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈhøːɡˌmuːd",
+  "definition": "Överdriven stolthet och tro på egen förträfflighet",
+  "example": "Högmod går före fall, brukade mormor säga med en menande blick.",
+  "synonyms": [
+   "övermod",
+   "förhävelse",
+   "arrogans"
+  ],
+  "origin": "Sammansatt av hög och mod ’sinne’, efter lågtyska hōmōt (tyska Hochmut)."
+ },
+ {
+  "lemma": "omsorg",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈɔmːˌsɔrj",
+  "definition": "Kärleksfull vård och noggrann uppmärksamhet",
+  "example": "Varje bok i samlingen var inbunden med stor omsorg.",
+  "synonyms": [
+   "omvårdnad",
+   "omtanke",
+   "noggrannhet"
+  ],
+  "origin": "Sammansatt av om och sorg i den äldre betydelsen ’bekymmer, omtanke’; jfr tyska Sorge."
+ },
+ {
+  "lemma": "eftertanke",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈɛftɛrˌtaŋːkɛ",
+  "definition": "Lugnt och grundligt övervägande av något",
+  "example": "Vid närmare eftertanke bestämde hon sig för att tacka nej.",
+  "synonyms": [
+   "begrundan",
+   "reflektion",
+   "besinning"
+  ],
+  "origin": "Sammansatt av efter och tanke; jfr tyska Nachdenken."
+ },
+ {
+  "lemma": "svek",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "sveːk",
+  "definition": "Brott mot ett förtroende eller ett löfte",
+  "example": "Han kunde aldrig förlåta broderns svek under arvstvisten.",
+  "synonyms": [
+   "förräderi",
+   "trolöshet",
+   "bedrägeri"
+  ],
+  "origin": "Av fornsvenska svik ’bedrägeri’, till verbet svika; jfr isländska svik."
+ },
+ {
+  "lemma": "sorl",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "soːɭ",
+  "definition": "Dämpat, blandat ljud av röster eller vatten",
+  "example": "Sorlet från gästerna hördes ända ut på gatan.",
+  "synonyms": [
+   "mummel",
+   "brus",
+   "porlande"
+  ],
+  "origin": "Ljudhärmande ord, bildat till verbet sorla; jfr surra och porla."
+ },
+ {
+  "lemma": "bryderi",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "bryːdɛˈriː",
+  "definition": "Tillstånd av villrådighet inför ett besvärligt val",
+  "example": "Inbjudan till två bröllop samma dag försatte honom i bryderi.",
+  "synonyms": [
+   "förlägenhet",
+   "knipa",
+   "dilemma"
+  ],
+  "origin": "Bildat till verbet bry, äldre bryda ’besvära, förvirra’, som är lånat från lågtyska brüden, med ändelsen -eri."
+ },
+ {
+  "lemma": "huvudbry",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈhʉːvɵdˌbryː",
+  "definition": "Besvärligt tankearbete; något som vållar bekymmer",
+  "example": "Den nya tidtabellen vållade pendlarna en hel del huvudbry.",
+  "synonyms": [
+   "bekymmer",
+   "grubbel",
+   "problem"
+  ],
+  "origin": "Sammansatt av huvud och bry, till verbet bry ’besvära, förvirra’, som är lånat från lågtyska brüden."
+ },
+ {
+  "lemma": "lynne",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈlʏnːɛ",
+  "definition": "En människas grundläggande sinnelag eller tillfälliga humör",
+  "example": "Hon hade ett soligt lynne som smittade av sig på alla.",
+  "synonyms": [
+   "humör",
+   "sinnelag",
+   "temperament"
+  ],
+  "origin": "Av fornsvenska lynde ’sinnelag, art’, besläktat med isländska lyndi och med lund ’sätt’ (jfr ingalunda)."
+ },
+ {
+  "lemma": "nyck",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "nʏkː",
+  "definition": "Plötsligt och oberäkneligt infall",
+  "example": "Av en ren nyck köpte han en enkel biljett till Lissabon.",
+  "synonyms": [
+   "infall",
+   "kapris",
+   "påhitt"
+  ],
+  "origin": "Lån från lågtyska nuck, nück ’lömskt infall, lynnesutbrott’."
+ },
+ {
+  "lemma": "tvekan",
+  "level": 1,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈtveːkan",
+  "definition": "Osäkerhet inför ett beslut eller en handling",
+  "example": "Utan minsta tvekan hoppade hon i det iskalla vattnet.",
+  "synonyms": [
+   "tvivel",
+   "vacklan",
+   "obeslutsamhet"
+  ],
+  "origin": "Bildat till verbet tveka, avlett av tve- ’två’; den som tvekar står mellan två möjligheter."
+ },
+ {
+  "lemma": "skimmer",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈɧɪmːɛr",
+  "definition": "Svagt, skiftande sken över en yta",
+  "example": "Månen lade ett silvervitt skimmer över den stilla sjön.",
+  "synonyms": [
+   "glans",
+   "sken",
+   "skiftning"
+  ],
+  "origin": "Lån från lågtyska schimmer; besläktat med skina."
+ },
+ {
+  "lemma": "tålamod",
+  "level": 1,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈtoːlaˌmuːd",
+  "definition": "Förmåga att lugnt vänta eller uthärda motgångar",
+  "example": "Det krävs tålamod för att lära en katt att komma när man ropar.",
+  "synonyms": [
+   "uthållighet",
+   "långmod",
+   "fördragsamhet"
+  ],
+  "origin": "Sammansatt av verbet tåla och mod ’sinne’; fornsvenska tholomodh."
+ },
+ {
+  "lemma": "skönja",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈɧœnːja",
+  "definition": "Urskilja något svagt eller på långt håll",
+  "example": "Genom dimman kunde vi skönja konturerna av en fyr.",
+  "synonyms": [
+   "urskilja",
+   "ana",
+   "märka"
+  ],
+  "origin": "Av fornsvenska skynia ’förstå, märka’, besläktat med isländska skynja och med skön i den äldre betydelsen ’omdöme’."
+ },
+ {
+  "lemma": "dröja",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈdrœjːa",
+  "definition": "Vänta med något eller stanna kvar länge",
+  "example": "Vi dröjde kvar på verandan tills den sista gästen hade gått.",
+  "synonyms": [
+   "vänta",
+   "tveka",
+   "söla"
+  ],
+  "origin": "Av fornsvenska dröghia ’uppehålla, förhala’, besläktat med dryg i betydelsen ’långvarig’."
+ },
+ {
+  "lemma": "grubbla",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈɡrɵbːla",
+  "definition": "Tänka länge och ängsligt på samma sak",
+  "example": "Han låg vaken och grubblade över vad chefen egentligen hade menat.",
+  "synonyms": [
+   "fundera",
+   "älta",
+   "ruva"
+  ],
+  "origin": "Lån från tyska grübeln, egentligen ’gräva, rota’, besläktat med gräva."
+ },
+ {
+  "lemma": "sträva",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈstrɛːva",
+  "definition": "Arbeta hårt och uthålligt för att nå ett mål",
+  "example": "Forskarna strävar efter att förstå hur minnet egentligen fungerar.",
+  "synonyms": [
+   "kämpa",
+   "trakta",
+   "arbeta"
+  ],
+  "origin": "Lån från lågtyska streven ’spjärna emot, anstränga sig’; jfr tyska streben."
+ },
+ {
+  "lemma": "förmå",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "fœrˈmoː",
+  "definition": "Kunna eller orka; även få någon att göra något",
+  "example": "Ingen förmådde svara när domaren ställde sin sista fråga.",
+  "synonyms": [
+   "kunna",
+   "orka",
+   "övertala"
+  ],
+  "origin": "Efter lågtyska vormogen (tyska vermögen), av för- och må i den äldre betydelsen ’kunna, ha kraft’."
+ },
+ {
+  "lemma": "trösta",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈtrœsːta",
+  "definition": "Lindra någons sorg med ord eller närhet",
+  "example": "Hon försökte trösta sin lillebror när ballongen flög iväg.",
+  "synonyms": [
+   "hugsvala",
+   "lugna",
+   "uppmuntra"
+  ],
+  "origin": "Bildat till tröst, som troligen är lånat från lågtyska trōst; besläktat med isländska traust ’förtröstan’ och med trygg."
+ },
+ {
+  "lemma": "värna",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈvæːɳa",
+  "definition": "Skydda och försvara något värdefullt",
+  "example": "Föreningen vill värna om de gamla ekarna i parken.",
+  "synonyms": [
+   "skydda",
+   "försvara",
+   "bevara"
+  ],
+  "origin": "Bildat till värn ’skydd, försvar’, fornsvenska værn, besläktat med värja och tyska wehren."
+ },
+ {
+  "lemma": "mildra",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈmɪldra",
+  "definition": "Göra något mindre hårt eller smärtsamt",
+  "example": "Ett vänligt ord kan mildra även det hårdaste beskedet.",
+  "synonyms": [
+   "lindra",
+   "dämpa",
+   "lätta"
+  ],
+  "origin": "Bildat till komparativen mildare av mild; jfr tyska mildern."
+ },
+ {
+  "lemma": "unna",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈɵnːa",
+  "definition": "Gärna se att någon får något gott",
+  "example": "Efter en så lång vecka kan du väl unna dig en ledig dag?",
+  "synonyms": [
+   "önska",
+   "tillönska",
+   "bevilja"
+  ],
+  "origin": "Av fornsvenska unna, besläktat med isländska unna ’älska, unna’ och med ynnest och gunst."
+ },
+ {
+  "lemma": "skymta",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈɧʏmːta",
+  "definition": "Synas eller se helt hastigt och otydligt",
+  "example": "Mellan träden skymtade vi en älg som snabbt försvann.",
+  "synonyms": [
+   "glimta",
+   "skönja",
+   "urskilja"
+  ],
+  "origin": "Hör troligen samman med skymma och skum ’halvmörk’; grundbetydelsen är att synas som i halvmörker."
+ },
+ {
+  "lemma": "strosa",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈstruːsa",
+  "definition": "Gå långsamt och planlöst för nöjes skull",
+  "example": "På söndagarna strosar vi gärna längs kanalen och tittar på båtarna.",
+  "synonyms": [
+   "flanera",
+   "släntra",
+   "promenera"
+  ],
+  "origin": "Ursprunget är ovisst; ordet har satts i samband med dialektala ord för att gå långsamt."
+ },
+ {
+  "lemma": "tjusa",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈɕʉːsa",
+  "definition": "Fängsla och förtrolla genom skönhet eller charm",
+  "example": "Hennes röst kunde tjusa en hel konsertsal till tystnad.",
+  "synonyms": [
+   "förtrolla",
+   "bedåra",
+   "charmera"
+  ],
+  "origin": "Av fornsvenska kiusa ’förhäxa’, samma ord som isländska kjósa ’välja’; jfr förtjusa."
+ },
+ {
+  "lemma": "häpna",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈhɛːpna",
+  "definition": "Bli mycket förvånad, nästan mållös",
+  "example": "Publiken häpnade när trollkarlen plötsligt stod längst bak i salongen.",
+  "synonyms": [
+   "förvånas",
+   "förbluffas",
+   "baxna"
+  ],
+  "origin": "Bildat till adjektivet häpen, fornsvenska häpin; det vidare ursprunget är inte säkert klarlagt."
+ },
+ {
+  "lemma": "skänka",
+  "level": 1,
+  "part_of_speech": "verb",
+  "ipa": "ˈɧɛŋːka",
+  "definition": "Ge bort som gåva; även bereda, ge",
+  "example": "Hon skänkte hela sitt bibliotek till den lilla byskolan.",
+  "synonyms": [
+   "ge",
+   "donera",
+   "förära"
+  ],
+  "origin": "Lån från lågtyska schenken, ursprungligen ’hälla upp dryck’ (jfr iskänka), därav ’bjuda, ge’."
+ },
+ {
+  "lemma": "omsider",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "ɔmˈsiːdɛr",
+  "definition": "Efter lång väntan; till slut",
+  "example": "Omsider kom tåget, tre timmar försenat och fullt av trötta resenärer.",
+  "synonyms": [
+   "slutligen",
+   "äntligen"
+  ],
+  "origin": "Av fornsvenska um sidhir ’till sist’, där senare leden hör till ett gammalt ord för ’sen’ (jfr sedan och sist)."
+ },
+ {
+  "lemma": "stundom",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "ˈstɵnːdɔm",
+  "definition": "Någon gång då och då; ibland",
+  "example": "Stundom önskar jag att jag hade valt ett helt annat yrke.",
+  "synonyms": [
+   "ibland",
+   "emellanåt",
+   "understundom"
+  ],
+  "origin": "Stelnad dativ pluralis av stund, fornsvenska stundom ’vid vissa tider’."
+ },
+ {
+  "lemma": "måhända",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "moːˈhɛnːda",
+  "definition": "Kanske; det är möjligt att",
+  "example": "Måhända hade han rätt, men ingen ville lyssna just då.",
+  "synonyms": [
+   "kanske",
+   "möjligen",
+   "kanhända"
+  ],
+  "origin": "Sammandragning av må hända ’kan inträffa’, med må i den äldre betydelsen ’kunna’."
+ }
+]

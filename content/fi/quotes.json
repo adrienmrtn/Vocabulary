@@ -1,0 +1,470 @@
+{
+ "haikea": {
+  "quote": "Minä jo haaveilin ja uneksin, joskus laulelin haikeita lauluja ja vietin suuren osan päivistä kuvastimen edessä koristellen itseäni.",
+  "source": "Maiju Lassila, Rakkautta"
+ },
+ "hento": {
+  "quote": "Me miehet olemme voimakkaita kuin leijonat, mutta kuitenkin voi hento tyttönen yhdellä suortuvainsa hapsella vetää meidät vaikka kadotukseen.",
+  "source": "Johannes Linnankoski, Laulu tulipunaisesta kukasta"
+ },
+ "lempeä": {
+  "quote": "Nyt hän näki hänet lempeänä istuvan vuoteessaan, kirjoittamassa helliä, liikuttavia lohdutuksen sanoja näille ihmisille täällä kaukana.",
+  "source": "Juhani Aho, Kevät ja takatalvi"
+ },
+ "uljas": {
+  "quote": "Sulhanen oli komea, morsian sulhasen vertainen—ei oltu ennen nähty niin uljasta paria, sen tiesi jokainen omasta näkemästään.",
+  "source": "Johannes Linnankoski, Laulu tulipunaisesta kukasta"
+ },
+ "jalo": {
+  "quote": "Sinulla on niin kovasti jalo luonto ja suuri sydän, ihan sinä olet kuin patriarkka meidän kylässä.",
+  "source": "Jalmari Finne, Hämäläisiä"
+ },
+ "harras": {
+  "quote": "Syvästi harras, heleä, tyyni ja luottamuksessaan voimakas on mummon laulu, vaikka ääni on jo vapiseva ja heikko.",
+  "source": "Joel Lehtonen, Putkinotko"
+ },
+ "tyyni": {
+  "quote": "Kuinka se oli tyyni ja hiljainen, hymysuin vaan katseli häntä vastaan, eikä välittänyt mitään hänen tuskastaan.",
+  "source": "Minna Canth, Hanna"
+ },
+ "ylväs": {
+  "quote": "Mut hän, min vuoksi sodan sodin ma ylvään, mua katseli lailla vain marmoripylvään.",
+  "source": "Eino Leino, Kivesjärveläiset; Simo Hurtta; Bellerophon"
+ },
+ "nöyrä": {
+  "quote": "Vaimo oli aina ollut hellä ja nöyrä ja uskollinen miehelleen, ja koettanut kaikessa täyttää hänen tahtonsa.",
+  "source": "Johannes Linnankoski, Laulu tulipunaisesta kukasta"
+ },
+ "sitkeä": {
+  "quote": "Laiva kyllä kestää, kokka on lujaa tekoa, laidat ovat sitkeät ja kone voimakas.",
+  "source": "Juhani Aho, Katajainen kansani"
+ },
+ "viekas": {
+  "quote": "Hänen hiuksensa olivat ruosteenkarvaiset, katsanto viekas ja terävä, suu myös sulava, ehkä melkein liian leveä.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "ponteva": {
+  "quote": "Mutta kylläpä hän huomasi pontevain lauseittensa menneen hukkaan, kun vastaus viimein saapui.",
+  "source": "Kauppis-Heikki, Aliina"
+ },
+ "verkkainen": {
+  "quote": "Emännän, isännän ja Ellin verkkainen vuoropuhelu soveltui niin hyvin tähän kaikkeen, Olavi kuunteli sitä nyt mielellään ja otti siihen osaakin.",
+  "source": "Juhani Aho, Papin rouva"
+ },
+ "vaatimaton": {
+  "quote": "Vaatimaton ja yksinkertainen sen tulisi olla, niin ettei sitä ensi silmäyksellä huomattaisi.",
+  "source": "Juhani Aho, Papin rouva"
+ },
+ "herkkä": {
+  "quote": "Hänen herkkä mielensä innostui siitä niin, että hän juoksujalassa riensi jatkamaan tehtäväänsä, jonka oli pastorilta saanut.",
+  "source": "Juhani Aho, Panu"
+ },
+ "ankara": {
+  "quote": "Tuli vielä harjaksi kaikelle tälle, että pitäjän uusi rovasti oli kaikessa virkansa toimessa peloittavan ankara mies.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "huoleton": {
+  "quote": "Heillähän oli hyvä ja huoleton olo pappilassa, kohtuullinen palkka kummallakin, talon vaate ja talon ruoka.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "utelias": {
+  "quote": "Saan hänetkin samaan mielentilaan ja minusta näyttää, että hän tarkastaa minua omituinen, utelias kiilto silmissä.",
+  "source": "Juhani Aho, Yksin"
+ },
+ "avulias": {
+  "quote": "Ja itsekukin uskoi lujasti, että Lopo juuri hänelle oli erityisesti ystävällinen ja avulias.",
+  "source": "Minna Canth, Kauppa-Lopo"
+ },
+ "hilpeä": {
+  "quote": "Uuvuksissa olivat jäsenet oudosta työstä, mutta mieli oli hilpeä työaloja tarkastaessa.",
+  "source": "Juhani Aho, Panu"
+ },
+ "synkkä": {
+  "quote": "Ilta pimeni, poikettiin synkkään metsään, nietokset näyttivät yhä kasvavan, ja puut notkistuivat tien poikki lumen painosta.",
+  "source": "Juhani Aho, Papin rouva"
+ },
+ "karu": {
+  "quote": "Elämän karu todellisuus viluttaa, sydän ja sielu värisee, ei mikään väräjä.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "tyly": {
+  "quote": "Elli oli kääntynyt, katsonut tylyn, kylmän katseen, joka oli vähän välähtänytkin, ja kääntynyt taas takaisin ulos kadulle katsomaan.",
+  "source": "Juhani Aho, Papin tytär"
+ },
+ "kaipuu": {
+  "quote": "Täällä hän oli kaivannut kaikki suurimmat kaipuunsa, täällä kaikista haikeimmin halunnut ystävää, toveria ja rakkautta.",
+  "source": "Juhani Aho, Papin rouva"
+ },
+ "aavistus": {
+  "quote": "Ei ole koko maailmassa sitä ihmistä, jolla olisi etäisintä aavistusta siitä, missä olen ja kussa kuljen.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "lumo": {
+  "quote": "Ukon leuka värähti kerta pari, hän pudistihe liikutuksensa lumoista, koetti turhaan hymähtää, mutta onnistui lopulta voittaa itsensä.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "sopu": {
+  "quote": "Antti ei virkkanut siihen mitään, mutta oli hyvillään, kun sopu alkoi noin rakentua.",
+  "source": "Maiju Lassila, Tulitikkuja lainaamassa"
+ },
+ "tarmo": {
+  "quote": "Hänestä näytti työskentely tässä huoneessa niin viekottelevalta ja lämpimältä, että vaan senkin vuoksi hän oli työskentelevä kaksinkertaisella tarmolla.",
+  "source": "Arvid Järnefelt, Veljekset"
+ },
+ "vaisto": {
+  "quote": "Tätä vaatimusta me punnitsemme niitä vaistoja vastaan, jotka tekevät meille vastenmieliseksi aiheuttaa kipua ja kuolemaa.",
+  "source": "Juhani Aho, Lohilastuja ja kalakaskuja"
+ },
+ "kohtalo": {
+  "quote": "Vieläkö katsahtaa silmänne yhtä tarkasti kuin ennen kämmenen piirroksiin, joihin, niinkuin sanotaan, on kirjoitettuna elämämme kohtalo?",
+  "source": "Aleksis Kivi, Karkurit"
+ },
+ "sisu": {
+  "quote": "Kyllä niillä naisilla nuorna monet hameet on päällä, mutta vielä useammat niillä on pahaa sisua verhoamassa.",
+  "source": "Jalmari Finne, Hämäläisiä"
+ },
+ "into": {
+  "quote": "Kiihkeinkin kalamies, ellei hän ole aivan vasta-alkaja, koettaa tekeytyä välinpitämättömäksi, hillitä intoaan, sitä enemmän kuta suurempi se on.",
+  "source": "Juhani Aho, Lohilastuja ja kalakaskuja"
+ },
+ "vaalia": {
+  "quote": "Hoiteli lehtoaan, tuomiaan tuuhistutti, pihlajoita ja haapapuitaan vaali, odotellen uusia ystäviä, joille nekin kerran lahjaksi kelpaisivat.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "uhmata": {
+  "quote": "Olemme hänelle vihoissamme siitä, että hän uskaltaa meitä, viittä miestä, tällä tavalla uhmata.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "empiä": {
+  "quote": "Mies empi vielä ja mietti uusia syitä, joilla voisi vaikuttaa Gyllenmarckiin.",
+  "source": "Juho Koskimaa, Erään miehen omatunto"
+ },
+ "houkutella": {
+  "quote": "Huudan täällä sinua uupumatta joka ilta ja aamu huoneeni ovelta ja koetan houkutella saloja sinua ilmaisemaan.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "kukoistaa": {
+  "quote": "Vihertävät vainiot, kukoistavat lait ja asetukset, mutta entisyyden muistot maatuvat korven sammalien alla.",
+  "source": "Arvid Järnefelt, Maaemon lapsia"
+ },
+ "vaeltaa": {
+  "quote": "Päätinpä, etten enään lähtisi kotia, vaan vaeltaisin kaukamaille, mutta luulen toki asiain kääntyvän nyt toisin.",
+  "source": "Aleksis Kivi, Nummisuutarit"
+ },
+ "hillitä": {
+  "quote": "Kiihkeinkin kalamies, ellei hän ole aivan vasta-alkaja, koettaa tekeytyä välinpitämättömäksi, hillitä intoaan, sitä enemmän kuta suurempi se on.",
+  "source": "Juhani Aho, Lohilastuja ja kalakaskuja"
+ },
+ "ihailla": {
+  "quote": "Minulla ei ole koskaan ollut sellaista ystävää, jota voisin rakastaa ja samalla ihailla, johon täydellisesti luottaa.",
+  "source": "Juhani Aho, Kevät ja takatalvi"
+ },
+ "rohjeta": {
+  "quote": "Maria en saanut sen jälkeen nähdä, hän ei tullut meille käymään, enkä minäkään rohjennut mennä häntä tapaamaan.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "vaieta": {
+  "quote": "Sinä kävelit vaieten, katsahtaen vain kerran toiselle puolelle tien, missä minä kävelin, ja näytit olevan jossain kaukana.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "punnita": {
+  "quote": "Sinun täytyy myöskin punnita ja tarkkaan miettiä sanojani, ja siihen vaaditaan, että kokoot ajatuksesi.",
+  "source": "Minna Canth, Sylvi; Kovan onnen lapsia"
+ },
+ "viipyä": {
+  "quote": "Kuta kauemmin katse viipyi muodossa vastapäätä, sitä enemmän pelko haihtui, ja rintaan iloista toivoa kasvoi.",
+  "source": "Minna Canth, Hanna"
+ },
+ "kiiruhtaa": {
+  "quote": "Pudistaen kaikki synkät kuvat mielestään kiiruhti hän uunin luo, kaatoi padasta lämmintä maitoa kupposeen ja ojensi sen tulijalle.",
+  "source": "Juhani Aho, Panu"
+ },
+ "hehkua": {
+  "quote": "Heitä tuossa veräjällä vielä viimeinen lentosuudelma isiesi asunnolle, jonka ikkunoissa hehkuu sinulle hyvästiksi illan sammuva rusko!",
+  "source": "Juhani Aho, Yksin"
+ },
+ "varjella": {
+  "quote": "Onpa se yhtäkaikki siunattu asia, että maassa on laki ja oikeus, joka varjelee ihmisten turvallisuutta.",
+  "source": "Minna Canth, Työmiehen vaimo"
+ },
+ "moittia": {
+  "quote": "Ei tainnut häntä väkensä moittia, ei pellolla, ei niitulla, ei metsässä, jyrisevän hirren kimpussa.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "kernaasti": {
+  "quote": "Uistinta en käytä kiusallakaan, mutta jos hyvä toveri sallii, niin minä sitä hänelle kernaasti soudan.",
+  "source": "Juhani Aho, Lohilastuja ja kalakaskuja"
+ },
+ "ylevä": {
+  "quote": "Ota minun sydämeni ja paina se omaasi vastaan, että ylevä rauha ja pyhä tuli sitä lämmittäisi!",
+  "source": "Juhani Aho, Kevät ja takatalvi"
+ },
+ "alakuloinen": {
+  "quote": "Vaimo oli ollut alakuloinen hänen lähtiessään, oli silmissä ollut pyyntö, jota ei suu ilmaissut.",
+  "source": "Juhani Aho, Panu"
+ },
+ "apea": {
+  "quote": "Mieli apeana hän lähti, ei enää veli veljelle tuntunut, joka yöt päivät naisensa kanssa eleli.",
+  "source": "Juhani Aho, Panu"
+ },
+ "vilpitön": {
+  "quote": "Sydämellinen, vilpitön ja vakaa oli tämä sovinto, vaikka kankeastikin käsiä iskettiin, vaikka jotenkin kyräilevillä silmillä katseltiinkin toinentoistansa.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "vuolas": {
+  "quote": "Vetelen virtoja ja vuolaita suvantoja, joiden rannoilla nukkuu suuria taloja äyräillä ja kuvastuu taivasta vastaan kaivonvinttejä.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "itsepintainen": {
+  "quote": "Itsepintainen on härkä, ja nämät tässä ovat vihan vimmoissaan kumppaniensa surman tähden, jota nyt mielisivät koirillemme monenkertaisesti kostaa.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "uuttera": {
+  "quote": "Yhtä uuttera vieras oli kansakoulunopettaja Tavelakin, joka oli rakastunut vanhimpaan tyttäreen, mutta jota tämä, yhtä vähän kuin muutkaan, tuskin huomasikaan.",
+  "source": "Juhani Aho, Papin rouva"
+ },
+ "sävyisä": {
+  "quote": "Kuka olisi uskonut, että minun hiljainen, sävyisä ja hyväluontoinen isäni juomaan rupeisi, hän, joka ei ennen viinan tippaakaan maistanut.",
+  "source": "Minna Canth, Murtovarkaus; Roinilan talossa"
+ },
+ "ynseä": {
+  "quote": "Tuomas katsahti siihen ynseällä syrjäsilmäyksellä ja meni vähäksi aikaa pois tuvasta.",
+  "source": "Kauppis-Heikki, Laara"
+ },
+ "leppoisa": {
+  "quote": "Virratessaan joki välkkyilee kuin kultavirta, eikä kosken kohina enää kuulosta raivoisan koiran ulvonnalta, vaan on tasaisesti haastelevaa, leppoisaa ja lohduttavaa.",
+  "source": "Juho Koskimaa, Erään miehen omatunto"
+ },
+ "lauhkea": {
+  "quote": "Ja silloin en tyydykään yhteen enkä kahteen, vaan suutelen sinua siksi, että tulet lauhkeaksi kuin lammas.",
+  "source": "Minna Canth, Sylvi; Kovan onnen lapsia"
+ },
+ "kaiho": {
+  "quote": "Jäi muutakin, jäi kaiho johonkin, jota ei saa eikä usko koskaan saavansa, mutta jota kuitenkin ihmeenä odottaa.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "ylenkatse": {
+  "quote": "Liikahtamatta tuijotti hän vähän aikaa eteensä maahan, ja niin siinä seistessään hän päätti kostaa ylenkatseen ylenkatseella.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "aatos": {
+  "quote": "Irtaimena lähtee aatos nousemaan omiin avaruuksiinsa, ja tunne löytää uusia teitä, joita ei siltä kukaan tiedä tuketa.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "riemu": {
+  "quote": "Heidät otettiin vastaan suurella riemulla ja heille valmistettiin heti paikalla sija pöydässä toinen toisensa vieressä.",
+  "source": "Juhani Aho, Papin rouva"
+ },
+ "tenho": {
+  "quote": "Se myrkyttää sisimmän olemuksemme kuvauksillaan maallisen rakkauden tenhosta, jonka se asettaa ihmisen korkeimmaksi saavuttamisen pyrinnöksi.",
+  "source": "Juhani Aho, Kevät ja takatalvi"
+ },
+ "mielijohde": {
+  "quote": "Mutta ajatus teki ankaraa työtä, ja hänen silmissään paloi äkkinäisen mielijohteen lieska, kun hän kohotti päänsä.",
+  "source": "Johannes Linnankoski, Laulu tulipunaisesta kukasta"
+ },
+ "kuje": {
+  "quote": "Tämmöisiä kujeita on hänen elämänsä ollut täynnä, ja joka vuosi hän keksii jonkun uuden.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "ahdinko": {
+  "quote": "Niilo tarjoo isälleni lunastimet, joilla isäni voi päästä vaikeasta ahdingosta, mutta ehdolla, joka sydämmeni pantiksi panee.",
+  "source": "Aleksis Kivi, Karkurit"
+ },
+ "sarastus": {
+  "quote": "On se aika yöstä, kun taivaan valo on vaaleimmillaan illan viimeisen ruskon ja aamun ensimäisen sarastuksen vaiheilla.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "hekumoida": {
+  "quote": "Niin kallistuu kaikki hitaasti siihen suureen valoon päin, mutta kevät ei täällä hekumoitse omasta olemassaolostaan ja vehmaudestaan, se antaa aavistella vain, niinkuin kaikki muukin täällä kaukana, kuinka hyvin saattaisi olla.",
+  "source": "Juho Koskimaa, Erään miehen omatunto"
+ },
+ "nuhdella": {
+  "quote": "Sentähdenpä, suutari, rohkenen sanoa sinulle muutaman sanan, rohkenen nuhdella sinua kiittämättömyydestä häntä kohtaan, jolta kaikki hyvyys tulee.",
+  "source": "Aleksis Kivi, Nummisuutarit"
+ },
+ "vitkastella": {
+  "quote": "Isännistö vitkastelee tavallisuuden mukaan ja lähettää lastin vasta viimeisellä hetkellä.",
+  "source": "Juhani Aho, Katajainen kansani"
+ },
+ "hairahtua": {
+  "quote": "Isäntä oli vaiti, hän jo katui, että oli hairahtunut puhumaan.",
+  "source": "Kauppis-Heikki, Laara"
+ },
+ "uhkua": {
+  "quote": "Elämän voima uhkui povissa ja pyrki vapaaksi kaikista siteistä.",
+  "source": "Minna Canth, Hanna"
+ },
+ "karttaa": {
+  "quote": "Siitä asti on minun mielessäni ollut ikäänkuin tyhjä paikka, jota minä ajatuksillani olen karttanut.",
+  "source": "Volter Kilpi, Bathseba"
+ },
+ "tyrehtyä": {
+  "quote": "Meidän kehityksessämme on aina ollut jotain keskeytynyttä, pysähtynyttä, tyrehtynyttä.",
+  "source": "Juhani Aho, Kevät ja takatalvi"
+ },
+ "ammentaa": {
+  "quote": "Käkriäinen valitsee itselleen kodan nurkasta vastan ja ammentaa kipan täyteen kuumaa vettä padasta.",
+  "source": "Joel Lehtonen, Putkinotko"
+ },
+ "viheliäinen": {
+  "quote": "Mutta viheliäinen oli heidän muotonsa: vaatteensa pahoin revityt, kasvonsa kirjavat mustelmista ja haavoista.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "katala": {
+  "quote": "Hän, se katala, nyt vimmoissansa riehuu ja etsii myrkkypulloansa, jonka hän jo kauan aikaa on pitänyt varalla.",
+  "source": "Aleksis Kivi, Karkurit"
+ },
+ "kavala": {
+  "quote": "Minä en tahdo kuulla mitään, enkä usko teitä enää ollenkaan, koska olette noin kauhean kavala.",
+  "source": "Minna Canth, Työmiehen vaimo"
+ },
+ "hurskas": {
+  "quote": "Siitä astui ojan partahalle hurskas uros, ja seurasi häntä joukko, joka, luopuen pakanuudesta, antoi itsensä kastaa Kristuksen uskoon.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "äveriäs": {
+  "quote": "Jouduinpa paimeneksi äveriäälle pohatalle; myös ankaran kiivas mies: mutta kuitenkin, häntä palvellessani vuosia kymmenen, vaan kerran selkääni sain.",
+  "source": "Aleksis Kivi, Kullervo"
+ },
+ "korskea": {
+  "quote": "Tosin on hän korskea, ei sietäis hän suinkaan miesivaltaa, ja miehen, taipuvan naisen tohvelin alle, hylkäis hän perin.",
+  "source": "Aleksis Kivi, Olviretki Schleusingenissä; Leo ja Liina; Alma"
+ },
+ "nyreä": {
+  "quote": "Hän oli nyreällä mielellä siitä, ettei tuo vaimo ollut toisella tavoin vastaanottanut hänen hyväntahtoisuuttaan.",
+  "source": "Teuvo Pakkala, Vaaralla"
+ },
+ "pöyhkeä": {
+  "quote": "Pöyhkeänä ja välinpitämättömänä maailman puheista hallitsi hän talouttaan.",
+  "source": "Kauppis-Heikki, Laara"
+ },
+ "rietas": {
+  "quote": "Mutta ne olivat tuntuneet Rosinasta paitsi riettailta ja hullunkurisilta myöskin kalliilta, mokomiksi tavaroiksi.",
+  "source": "Joel Lehtonen, Putkinotko"
+ },
+ "kerkeä": {
+  "quote": "Onpa minulla ihana halu vähän pehmittää sinun kruununmaatas, koska olet armottoman kerkeä tekemään mitä muut sinua käskevät naapuriesi vahingoksi.",
+  "source": "Aleksis Kivi, Karkurit"
+ },
+ "auvo": {
+  "quote": "Seestyy seinät Hurtan majan, liittyy käsi käteen varmaan; kesken suuren, synkän ajan syttyy auvo kahden armaan.",
+  "source": "Eino Leino, Kivesjärveläiset; Simo Hurtta; Bellerophon"
+ },
+ "ehtoo": {
+  "quote": "Riutuva päivä paistaa iltaisia pihoja pitkin, ilottoman sunnuntain sanomattoman ikävä ehtoo, kuva eletystä ja vielä elettävästä.",
+  "source": "Juhani Aho, Muistatko"
+ },
+ "tuonela": {
+  "quote": "Voi, taukoa jo, sa rinnan polte, rauhoitu, sydän poloinen, onhan turva turpehessa, armo kirkon aidan alla, toivo tuonelan tuvissa.",
+  "source": "Minna Canth, Murtovarkaus; Roinilan talossa"
+ },
+ "kalma": {
+  "quote": "Toki jätti hän meidät, jotka vielä kovempi onni orjuuteen heitti; mutta eipä meistäkään sillon Kalma kaukana ollut.",
+  "source": "Aleksis Kivi, Kullervo"
+ },
+ "suvanto": {
+  "quote": "Olen jo kotvan aikaa istunut herttaisessa paikassa suvannon rannalla korkeiden koivujen ja ikivanhojen haapojen alla.",
+  "source": "Juhani Aho, Lohilastuja ja kalakaskuja"
+ },
+ "ies": {
+  "quote": "Parempi on hommata toisten puolesta voimiensa takaa ja auttaa nuoria miehiä saamaan niskaansa avioliiton paksua iestä.",
+  "source": "Jalmari Finne, Hämäläisiä"
+ },
+ "sananparsi": {
+  "quote": "Sananparreksi on tullut maisemien rumuus meidän rautateittemme varsilla.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "korulause": {
+  "quote": "Ja hänellä voi olla pää täynnä korulauseita ja kirjavernissaa—koulujen armosta.",
+  "source": "Johannes Linnankoski, Laulu tulipunaisesta kukasta"
+ },
+ "joutilaisuus": {
+  "quote": "He yllyttivät kansaa papistoa ja esivaltaa vastaan, kylvivät riitaa ja eripuraisuutta perheisiin ja viettelivät joutilaisuuteen ja työttömyyteen.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "pahe": {
+  "quote": "Heikommat murtuivat, joilla enemmän oli elonhalua, heittäytyivät paheisin ja niin ajallinen kurjuus tuotti heille vielä iankaikkisen kadotuksen.",
+  "source": "Minna Canth, Köyhää kansaa; Salakari"
+ },
+ "ilakoida": {
+  "quote": "Taas lapset siellä ilakoivat uimarannassa, pärskyttävät, kirkuvat, juosten ruumiit ruskeina ylös lämpimän kallion pankolle ja paiskautuen siitä pää edellä veteen.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "riutua": {
+  "quote": "Makeasti he makasivat, ja kauan vielä lämmitti heitä loimottava valkea, kunnes se riutui ja hiiltyi.",
+  "source": "Aleksis Kivi, Seitsemän veljestä"
+ },
+ "herjata": {
+  "quote": "Ei monta sanaa vouti hänelle virka, usein herjaa häntä, ajaa hänet usein piesten pois, mutta ei salli loitoksi poistua.",
+  "source": "Juhani Aho, Panu"
+ },
+ "parjata": {
+  "quote": "Sillä hän on hirveän epäluuloinen, varsinkin mummoa kohtaan, joka aina parjaa häntä.",
+  "source": "Joel Lehtonen, Putkinotko"
+ },
+ "panetella": {
+  "quote": "Hän oli vihoissaan ihmisille, jotka eivät osanneet muuta kuin juoruta ja panetella.",
+  "source": "Juhani Aho, Helsinkiin"
+ },
+ "soimata": {
+  "quote": "Voiko häntä soimata siitä, että hän jätti mustalaistytön, kun hänellä oli vara valita parempia.",
+  "source": "Minna Canth, Työmiehen vaimo"
+ },
+ "sadatella": {
+  "quote": "Hän ei raivonnut, sadatellut, ei kohottanut kättään kiroten taivasta kohti.",
+  "source": "Juhani Aho, Kevät ja takatalvi"
+ },
+ "manata": {
+  "quote": "Kuinkas hänen äiti vainajansa, joka täällä kuoli, manasi ennen tulta, kun se kaskesta röyhäsi metsään leviämään?",
+  "source": "Joel Lehtonen, Putkinotko"
+ },
+ "kavahtaa": {
+  "quote": "Samalla hän kavahti ylös ja vuovasi kädet harallaan sinnepäin, jonne katsekin oli jännitetty.",
+  "source": "Minna Canth, Köyhää kansaa; Salakari"
+ },
+ "vavista": {
+  "quote": "Ja sitten vasta hän pääsee avaamaan omia karamellejään, työntämään niitä innosta ja ilosta vavisten omaan punaiseen suuhunsa.",
+  "source": "Joel Lehtonen, Putkinotko"
+ },
+ "väreillä": {
+  "quote": "Kynä hiljaa vaipui, tottumattomat rypyt silisivät silmien välistä pois, lapsellisen hyvänmielen ilme alkoi väreillä huulilla.",
+  "source": "Arvid Järnefelt, Maaemon lapsia"
+ },
+ "kimmeltää": {
+  "quote": "Luonto oli keväinen ja kaunis, katot kimmeltivät auringonpaisteessa, puut tekivät lehteä ja kaikkien kävelijäin rinnassa helotti tuoreita kukkasia.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "siintää": {
+  "quote": "Siihen hän seisahtui vasten vinhaa aamutuulta, niin ettei laivan tukutusta kuulunut, ja katseli saarien välistä siintävää avomerta.",
+  "source": "Arvid Järnefelt, Veljekset"
+ },
+ "häämöttää": {
+  "quote": "Suuri tervasnuotio roihusi heidän keskellään valaisten laajalti harvaa metsää, jossa puuhun kytketyn poron sarvet häämöttivät.",
+  "source": "Juhani Aho, Panu"
+ },
+ "uinua": {
+  "quote": "Oli kuutamoinen yö, ja metsä oli hiljainen ja maat uinuivat, mutta ilmassa oli hääilojen enteitä ja havun neulan lemua ja hongan tuoksua.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "virvoittaa": {
+  "quote": "Juhlain aikana tosin virvoittaa vähäksi aikaa hilpeys mieliä.",
+  "source": "Juhani Aho, Lastuja"
+ },
+ "tyystin": {
+  "quote": "Tytön ja hänen suhteesta toisiinsa ei Henrik sentään parhaalla tahdollakaan saanut mitään urkituksi, kun tahtoi pitää näitä asioita tyystin salassa kaikilta.",
+  "source": "Arvid Järnefelt, Veljekset"
+ },
+ "oitis": {
+  "quote": "Hänen toverinsa olivat vakuuttaneet, että niin pian kuin saavat valkolakin päähänsä, alkavat he oitis elää uutta elämää.",
+  "source": "Juhani Aho, Helsinkiin"
+ },
+ "alati": {
+  "quote": "Minä ajattelin että kun sinä olisit pieni kukka, niin minä kiinnittäisin sinut rintaani, että voisin alati sinua katsella.",
+  "source": "Johannes Linnankoski, Laulu tulipunaisesta kukasta"
+ },
+ "visusti": {
+  "quote": "Ja kannattaako enää tällä ijällä mennä naimisiin, kun tähän asti on itseään siitä visusti varjellut?",
+  "source": "Jalmari Finne, Hämäläisiä"
+ }
+}

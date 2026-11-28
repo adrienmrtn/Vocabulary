@@ -1,0 +1,639 @@
+{
+ "безмятежный": [
+  "emotions",
+  "nature"
+ ],
+ "упоительный": [
+  "emotions",
+  "nature"
+ ],
+ "чуткий": [
+  "character",
+  "emotions"
+ ],
+ "кроткий": [
+  "character"
+ ],
+ "пылкий": [
+  "emotions",
+  "character"
+ ],
+ "статный": [
+  "character",
+  "society"
+ ],
+ "вдумчивый": [
+  "character",
+  "literature"
+ ],
+ "изысканный": [
+  "society",
+  "literature"
+ ],
+ "невозмутимый": [
+  "character"
+ ],
+ "проницательный": [
+  "character",
+  "debate"
+ ],
+ "томный": [
+  "emotions"
+ ],
+ "задушевный": [
+  "emotions",
+  "society"
+ ],
+ "беспечный": [
+  "character"
+ ],
+ "пытливый": [
+  "character",
+  "science"
+ ],
+ "зыбкий": [
+  "nature",
+  "debate"
+ ],
+ "величавый": [
+  "nature",
+  "character"
+ ],
+ "ветхий": [
+  "society",
+  "nature"
+ ],
+ "тщетный": [
+  "debate",
+  "emotions"
+ ],
+ "заветный": [
+  "emotions"
+ ],
+ "радушный": [
+  "society",
+  "character"
+ ],
+ "опрометчивый": [
+  "character",
+  "business"
+ ],
+ "внимать": [
+  "persuasion",
+  "literature"
+ ],
+ "лелеять": [
+  "emotions"
+ ],
+ "созерцать": [
+  "nature",
+  "literature"
+ ],
+ "роптать": [
+  "society",
+  "emotions"
+ ],
+ "трепетать": [
+  "emotions",
+  "nature"
+ ],
+ "озарять": [
+  "nature",
+  "science"
+ ],
+ "ликовать": [
+  "emotions",
+  "society"
+ ],
+ "скитаться": [
+  "travel"
+ ],
+ "грезить": [
+  "emotions",
+  "literature"
+ ],
+ "сетовать": [
+  "emotions",
+  "society"
+ ],
+ "мерцать": [
+  "nature"
+ ],
+ "угасать": [
+  "nature",
+  "emotions"
+ ],
+ "пленять": [
+  "persuasion",
+  "emotions"
+ ],
+ "терзать": [
+  "emotions"
+ ],
+ "изнемогать": [
+  "emotions",
+  "travel"
+ ],
+ "вторить": [
+  "persuasion",
+  "nature"
+ ],
+ "взирать": [
+  "literature"
+ ],
+ "блуждать": [
+  "travel"
+ ],
+ "отрада": [
+  "emotions"
+ ],
+ "истома": [
+  "emotions"
+ ],
+ "уныние": [
+  "emotions"
+ ],
+ "блаженство": [
+  "emotions"
+ ],
+ "смятение": [
+  "emotions"
+ ],
+ "благодать": [
+  "nature",
+  "emotions"
+ ],
+ "раздолье": [
+  "nature",
+  "travel"
+ ],
+ "тоска": [
+  "emotions"
+ ],
+ "нега": [
+  "emotions"
+ ],
+ "бездна": [
+  "nature"
+ ],
+ "прихоть": [
+  "character"
+ ],
+ "зарево": [
+  "nature"
+ ],
+ "сумрак": [
+  "nature"
+ ],
+ "отголосок": [
+  "literature",
+  "nature"
+ ],
+ "участь": [
+  "society"
+ ],
+ "удаль": [
+  "character"
+ ],
+ "обитель": [
+  "society",
+  "travel"
+ ],
+ "невзгода": [
+  "society",
+  "emotions"
+ ],
+ "хандра": [
+  "emotions"
+ ],
+ "мимолётный": [
+  "emotions",
+  "literature"
+ ],
+ "эфемерный": [
+  "literature",
+  "science"
+ ],
+ "бренный": [
+  "literature",
+  "society"
+ ],
+ "тленный": [
+  "literature"
+ ],
+ "суетный": [
+  "society",
+  "character"
+ ],
+ "незыблемый": [
+  "debate",
+  "society"
+ ],
+ "сокровенный": [
+  "emotions"
+ ],
+ "вероломный": [
+  "character",
+  "society"
+ ],
+ "праздный": [
+  "character",
+  "society"
+ ],
+ "дерзновенный": [
+  "character",
+  "science"
+ ],
+ "благодушный": [
+  "character",
+  "emotions"
+ ],
+ "витиеватый": [
+  "literature",
+  "persuasion"
+ ],
+ "неистовый": [
+  "emotions",
+  "nature"
+ ],
+ "кромешный": [
+  "nature",
+  "literature"
+ ],
+ "недюжинный": [
+  "character"
+ ],
+ "непреложный": [
+  "debate",
+  "science"
+ ],
+ "смиренный": [
+  "character"
+ ],
+ "зловещий": [
+  "emotions",
+  "nature"
+ ],
+ "строптивый": [
+  "character"
+ ],
+ "тщеславный": [
+  "character",
+  "society"
+ ],
+ "малодушный": [
+  "character"
+ ],
+ "щепетильный": [
+  "character",
+  "business"
+ ],
+ "надменный": [
+  "character"
+ ],
+ "подобострастный": [
+  "character",
+  "business"
+ ],
+ "неприкаянный": [
+  "emotions",
+  "society"
+ ],
+ "пресловутый": [
+  "debate",
+  "society"
+ ],
+ "уповать": [
+  "emotions",
+  "persuasion"
+ ],
+ "превозмогать": [
+  "character"
+ ],
+ "благоволить": [
+  "society",
+  "business"
+ ],
+ "попрать": [
+  "society",
+  "debate"
+ ],
+ "снискать": [
+  "society",
+  "business"
+ ],
+ "вкушать": [
+  "literature",
+  "emotions"
+ ],
+ "воздавать": [
+  "society",
+  "debate"
+ ],
+ "прозябать": [
+  "society",
+  "character"
+ ],
+ "кичиться": [
+  "character"
+ ],
+ "изобличать": [
+  "debate",
+  "society"
+ ],
+ "витать": [
+  "literature",
+  "emotions"
+ ],
+ "сокрушаться": [
+  "emotions"
+ ],
+ "увещевать": [
+  "persuasion"
+ ],
+ "корпеть": [
+  "business",
+  "science"
+ ],
+ "посягать": [
+  "society",
+  "debate"
+ ],
+ "кручина": [
+  "emotions",
+  "literature"
+ ],
+ "стезя": [
+  "travel",
+  "business"
+ ],
+ "благоговение": [
+  "emotions"
+ ],
+ "провидение": [
+  "literature",
+  "society"
+ ],
+ "мытарство": [
+  "society",
+  "travel"
+ ],
+ "зодчий": [
+  "society",
+  "science"
+ ],
+ "чертог": [
+  "literature",
+  "society"
+ ],
+ "чело": [
+  "literature"
+ ],
+ "наитие": [
+  "emotions",
+  "literature"
+ ],
+ "оторопь": [
+  "emotions"
+ ],
+ "подвижник": [
+  "character",
+  "society"
+ ],
+ "поприще": [
+  "business"
+ ],
+ "кумир": [
+  "society"
+ ],
+ "пучина": [
+  "nature",
+  "travel"
+ ],
+ "твердь": [
+  "nature",
+  "literature"
+ ],
+ "лоно": [
+  "nature",
+  "literature"
+ ],
+ "исступление": [
+  "emotions"
+ ],
+ "лихолетье": [
+  "society"
+ ],
+ "предтеча": [
+  "literature",
+  "science"
+ ],
+ "юдоль": [
+  "literature",
+  "emotions"
+ ],
+ "десница": [
+  "literature"
+ ],
+ "длань": [
+  "literature"
+ ],
+ "алкать": [
+  "emotions",
+  "literature"
+ ],
+ "вотще": [
+  "literature"
+ ],
+ "втуне": [
+  "literature",
+  "debate"
+ ],
+ "всуе": [
+  "literature",
+  "society"
+ ],
+ "присный": [
+  "society",
+  "literature"
+ ],
+ "сонм": [
+  "society",
+  "literature"
+ ],
+ "вертоград": [
+  "nature",
+  "literature"
+ ],
+ "стогна": [
+  "literature",
+  "travel"
+ ],
+ "ристалище": [
+  "society",
+  "debate"
+ ],
+ "зиждитель": [
+  "literature",
+  "society"
+ ],
+ "велелепие": [
+  "literature"
+ ],
+ "фимиам": [
+  "literature",
+  "persuasion"
+ ],
+ "скрижаль": [
+  "literature",
+  "science"
+ ],
+ "наперсник": [
+  "society",
+  "literature"
+ ],
+ "соглядатай": [
+  "society"
+ ],
+ "мздоимец": [
+  "society",
+  "business"
+ ],
+ "клеврет": [
+  "society"
+ ],
+ "тенёта": [
+  "nature"
+ ],
+ "пажить": [
+  "nature"
+ ],
+ "сень": [
+  "nature",
+  "literature"
+ ],
+ "окоём": [
+  "nature",
+  "travel"
+ ],
+ "предвечный": [
+  "literature",
+  "nature"
+ ],
+ "нетленный": [
+  "literature"
+ ],
+ "тлетворный": [
+  "society"
+ ],
+ "велеречивый": [
+  "persuasion",
+  "debate"
+ ],
+ "лепта": [
+  "society",
+  "business"
+ ],
+ "синклит": [
+  "society",
+  "debate"
+ ],
+ "ареопаг": [
+  "society",
+  "debate"
+ ],
+ "ипостась": [
+  "literature",
+  "society"
+ ],
+ "апофеоз": [
+  "literature",
+  "society"
+ ],
+ "паллиатив": [
+  "science",
+  "business"
+ ],
+ "эпигон": [
+  "literature"
+ ],
+ "апологет": [
+  "debate",
+  "persuasion"
+ ],
+ "филиппика": [
+  "debate",
+  "persuasion"
+ ],
+ "панегирик": [
+  "persuasion",
+  "literature"
+ ],
+ "квинтэссенция": [
+  "science",
+  "literature"
+ ],
+ "идиосинкразия": [
+  "science",
+  "emotions"
+ ],
+ "сибарит": [
+  "character",
+  "society"
+ ],
+ "мизантроп": [
+  "character",
+  "society"
+ ],
+ "обскурант": [
+  "science",
+  "debate"
+ ],
+ "фанаберия": [
+  "character"
+ ],
+ "имманентный": [
+  "science",
+  "debate"
+ ],
+ "трансцендентный": [
+  "science",
+  "debate"
+ ],
+ "лапидарный": [
+  "literature",
+  "persuasion"
+ ],
+ "пиетет": [
+  "emotions",
+  "society"
+ ],
+ "одиозный": [
+  "society",
+  "debate"
+ ],
+ "сакраментальный": [
+  "literature",
+  "society"
+ ],
+ "неофит": [
+  "society",
+  "persuasion"
+ ],
+ "инсинуация": [
+  "debate",
+  "society"
+ ],
+ "резонёр": [
+  "character",
+  "literature"
+ ],
+ "фрондёр": [
+  "society",
+  "debate"
+ ],
+ "сентенция": [
+  "literature",
+  "persuasion"
+ ]
+}

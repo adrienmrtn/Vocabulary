@@ -1,0 +1,945 @@
+[
+ {
+  "lemma": "ľúty",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈʎuːti",
+  "definition": "Krutý a neľútostný, plný zúrivosti",
+  "example": "V rozprávke sa rytier stretol s ľútym drakom.",
+  "synonyms": [
+   "krutý",
+   "divý",
+   "zúrivý"
+  ],
+  "origin": "Z praslovanského *ľutъ „krutý, prudký“; z neho je aj ľútosť a ľutovať."
+ },
+ {
+  "lemma": "spanilý",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈspaɲiliː",
+  "definition": "Vznešene a jemne krásny",
+  "example": "Básnik ospieval spanilú devu s vencom na hlave.",
+  "synonyms": [
+   "krásny",
+   "pôvabný",
+   "ľúbezný"
+  ],
+  "origin": "Pravdepodobne od slova pán: pôvodne „panský, urodzený“, potom „krásny“."
+ },
+ {
+  "lemma": "luzný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈluzniː",
+  "definition": "Čarovne krásny, vábivý",
+  "example": "Nad jazerom sa rozprestieral luzný letný večer.",
+  "synonyms": [
+   "čarovný",
+   "prekrásny",
+   "vábny"
+  ],
+  "origin": "Knižné slovo spoločné s češtinou; pôvod nie je istý, spája sa so slovesom lúdiť „vábiť“."
+ },
+ {
+  "lemma": "dumný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈdumniː",
+  "definition": "Pohrúžený do vážnych myšlienok",
+  "example": "Dumný pútnik sedel na medzi a hľadel do doliny.",
+  "synonyms": [
+   "zamyslený",
+   "zádumčivý",
+   "vážny"
+  ],
+  "origin": "Od slova duma „zamyslenie“, z praslovanského *duma, ktorého pôvod je sporný."
+ },
+ {
+  "lemma": "ošemetný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈoʃemetniː",
+  "definition": "Zradne chúlostivý, ťažko zvládnuteľný",
+  "example": "Novinárka položila ministrovi ošemetnú otázku o zmluvách.",
+  "synonyms": [
+   "chúlostivý",
+   "háklivý",
+   "zradný"
+  ],
+  "origin": "Pôvod nie je jasný; staršie znamenalo „klamný, falošný“."
+ },
+ {
+  "lemma": "nedozerný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈɲedozerniː",
+  "definition": "Taký veľký, že ho nemožno obsiahnuť zrakom",
+  "example": "Pred nami ležala nedozerná step bez jediného stromu.",
+  "synonyms": [
+   "nesmierny",
+   "nekonečný",
+   "šíry"
+  ],
+  "origin": "Zápor od dozrieť „dovidieť“, od zrieť (praslovanské *zьrěti „pozerať“)."
+ },
+ {
+  "lemma": "bohorovný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈboɦorovniː",
+  "definition": "Sebaisto povýšený, akoby stál nad všetkými",
+  "example": "S bohorovným pokojom ignoroval všetky výčitky.",
+  "synonyms": [
+   "povýšený",
+   "sebaistý",
+   "nadutý"
+  ],
+  "origin": "Zloženie slov boh a rovný: doslova „rovný bohu“."
+ },
+ {
+  "lemma": "všetečný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈfʃecet͡ʃniː",
+  "definition": "Dotieravo zvedavý, do všetkého sa miešajúci",
+  "example": "Všetečné dieťa sa pýtalo na všetko, čo videlo.",
+  "synonyms": [
+   "zvedavý",
+   "dotieravý",
+   "všadebol"
+  ],
+  "origin": "Zloženie vše- a základu tek- (tiecť, pôvodne aj „bežať“): doslova „všade bežiaci“."
+ },
+ {
+  "lemma": "šalebný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈʃaʎebniː",
+  "definition": "Klamlivý, zvodne mätúci",
+  "example": "Šalebné svetielka nad močiarom zviedli nejedného pútnika.",
+  "synonyms": [
+   "klamný",
+   "mámivý",
+   "ošemetný"
+  ],
+  "origin": "Od slovesa šialiť „klamať, mámiť“, z praslovanského *šaliti; z toho istého základu je šialený."
+ },
+ {
+  "lemma": "nevýslovný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈɲeviːslovniː",
+  "definition": "Taký silný, že ho nemožno vyjadriť rečou",
+  "example": "Pocítila nevýslovnú úľavu, keď sa lietadlo dotklo zeme.",
+  "synonyms": [
+   "neopísateľný",
+   "nesmierny",
+   "nevypovedateľný"
+  ],
+  "origin": "Zápor od vysloviť, od slovo (praslovanské *slovo)."
+ },
+ {
+  "lemma": "blahosklonný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈblaɦosklonːiː",
+  "definition": "Povýšene láskavý voči slabším či nižším",
+  "example": "Blahosklonný úsmev riaditeľa ju nahneval viac než výčitka.",
+  "synonyms": [
+   "povýšenecký",
+   "zhovievavý",
+   "milostivý"
+  ],
+  "origin": "Zloženie blaho a skloniť; pravdepodobne prevzaté z ruského blagosklonnyj."
+ },
+ {
+  "lemma": "jarý",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈjariː",
+  "definition": "Plný sviežej sily a života",
+  "example": "Jarý starček ešte v osemdesiatke kosil lúku sám.",
+  "synonyms": [
+   "svieži",
+   "čulý",
+   "bujarý"
+  ],
+  "origin": "Z praslovanského *jarъ „prudký, silný“; súvis so slovom jar ako ročným obdobím je sporný."
+ },
+ {
+  "lemma": "rujný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈrujniː",
+  "definition": "Bujný a prudký, prekypujúci silou",
+  "example": "Pri rujnom víne sa spievalo až do rána.",
+  "synonyms": [
+   "bujný",
+   "ohnivý",
+   "silný"
+  ],
+  "origin": "Súvisí so slovom ruja „párenie zveri“, z praslovanského základu *ru- „revať“."
+ },
+ {
+  "lemma": "vetchý",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈvetxiː",
+  "definition": "Zoslabnutý starobou, rozpadávajúci sa",
+  "example": "Vetchý plot sa pod váhou snehu zosypal.",
+  "synonyms": [
+   "chatrný",
+   "starý",
+   "schátraný"
+  ],
+  "origin": "Z praslovanského *vetъxъ „starý“, príbuzného s latinským vetus."
+ },
+ {
+  "lemma": "mrzký",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈmr̩skiː",
+  "definition": "Budiaci odpor, hanebný",
+  "example": "Bol to mrzký čin, za ktorý sa hanbila celá obec.",
+  "synonyms": [
+   "ohavný",
+   "hnusný",
+   "podlý"
+  ],
+  "origin": "Z praslovanského *mьrzъkъ, od *mьrzěti „hnusiť sa“; z toho istého základu je mrzieť."
+ },
+ {
+  "lemma": "útly",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈuːtli",
+  "definition": "Jemnej, drobnej a krehkej postavy",
+  "example": "Hoci bol útly, nosil vrecia ako ostatní chlapi.",
+  "synonyms": [
+   "drobný",
+   "krehký",
+   "štíhly"
+  ],
+  "origin": "Pravdepodobne z praslovanského *ǫtьlъ „deravý, slabý“, zloženého zo záporu a *tьlo „dno“: pôvodne „bezodný“."
+ },
+ {
+  "lemma": "prostoreký",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈprostorekiː",
+  "definition": "Hovoriaci priamo, bez obalu a ohľadov",
+  "example": "Prostoreká teta povedala nahlas, čo si ostatní len mysleli.",
+  "synonyms": [
+   "otvorený",
+   "úprimný",
+   "jazyčnatý"
+  ],
+  "origin": "Zloženie slov prostý a riecť (praslovanské *rekti „hovoriť“)."
+ },
+ {
+  "lemma": "trudný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈtrudniː",
+  "definition": "Plný námahy a smútku",
+  "example": "Po trudnej zime prišla konečne jar aj do hôr.",
+  "synonyms": [
+   "ťažký",
+   "namáhavý",
+   "strastiplný"
+  ],
+  "origin": "Od slova trud „námaha, trápenie“, z praslovanského *trudъ."
+ },
+ {
+  "lemma": "snivý",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈsɲiviː",
+  "definition": "Pohrúžený do predstáv, akoby v polospánku",
+  "example": "Snivý pohľad jej blúdil kdesi za oknom.",
+  "synonyms": [
+   "zasnený",
+   "rojčivý",
+   "zamyslený"
+  ],
+  "origin": "Od slova sen, z praslovanského *sъnъ."
+ },
+ {
+  "lemma": "zunivý",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈzuɲiviː",
+  "definition": "Znejúci dlhým, jasným tónom",
+  "example": "Zunivý hlas zvona sa niesol ponad strechy.",
+  "synonyms": [
+   "zvonivý",
+   "zvučný",
+   "jasavý"
+  ],
+  "origin": "Od slovesa zunieť, zvukomalebného pôvodu."
+ },
+ {
+  "lemma": "strmhlavý",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈstr̩mɦlaviː",
+  "definition": "Prudký a nerozvážny, rútiaci sa dolu",
+  "example": "Strmhlavý pád akcií vydesil aj skúsených maklérov.",
+  "synonyms": [
+   "prudký",
+   "bezhlavý",
+   "náhly"
+  ],
+  "origin": "Zloženie strmý a hlava: doslova „hlavou strmo nadol“."
+ },
+ {
+  "lemma": "zlopovestný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈzlopovestniː",
+  "definition": "Všeobecne známy niečím zlým",
+  "example": "Zlopovestná väznica na ostrove je dnes múzeom.",
+  "synonyms": [
+   "neslávny",
+   "smutnoznámy",
+   "notorický"
+  ],
+  "origin": "Zloženie zlý a povesť, ktoré je od praslovanského *věstь „správa“."
+ },
+ {
+  "lemma": "lakotný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈlakotniː",
+  "definition": "Chorobne túžiaci hromadiť majetok",
+  "example": "Lakotný gazda nedal žobrákovi ani kôrku chleba.",
+  "synonyms": [
+   "chamtivý",
+   "skúpy",
+   "lakomý"
+  ],
+  "origin": "Od slova lakota, zo základu lak- (praslovanské *lakomъ „hladný, žiadostivý“)."
+ },
+ {
+  "lemma": "driečny",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈdri̯et͡ʃni",
+  "definition": "Pekne urastený, statný",
+  "example": "Driečny šuhaj si na zábave vykrútil každé dievča.",
+  "synonyms": [
+   "urastený",
+   "švárny",
+   "statný"
+  ],
+  "origin": "Od slova driek „trup, pás“: pôvodne „majúci pekný driek“."
+ },
+ {
+  "lemma": "lapidárny",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈlapidaːrni",
+  "definition": "Stručný a výstižný ako nápis vytesaný do kameňa",
+  "example": "Lapidárny odkaz na dverách znel: Som na hubách.",
+  "synonyms": [
+   "stručný",
+   "úsečný",
+   "výstižný"
+  ],
+  "origin": "Z latinského lapidarius „kamenný“, od lapis „kameň“; podľa štýlu nápisov tesaných do kameňa."
+ },
+ {
+  "lemma": "vehementný",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈveɦementniː",
+  "definition": "Prudký, dôrazný a vášnivý v prejave",
+  "example": "Návrh narazil na vehementný odpor opozície.",
+  "synonyms": [
+   "prudký",
+   "dôrazný",
+   "búrlivý"
+  ],
+  "origin": "Z latinského vehemens „prudký, náruživý“."
+ },
+ {
+  "lemma": "pietny",
+  "level": 3,
+  "part_of_speech": "príd.",
+  "ipa": "ˈpi.etni",
+  "definition": "Vyjadrujúci úctu k mŕtvym alebo k pamiatke",
+  "example": "Na pietnom mieste pri pamätníku horeli stovky sviečok.",
+  "synonyms": [
+   "úctivý",
+   "spomienkový",
+   "zbožný"
+  ],
+  "origin": "Od slova pieta, z latinského pietas „zbožnosť, oddaná úcta“."
+ },
+ {
+  "lemma": "trúchliť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈtruːxʎic",
+  "definition": "Hlboko smútiť, najmä za mŕtvym",
+  "example": "Celé mesto trúchlilo za obľúbeným lekárom.",
+  "synonyms": [
+   "žialiť",
+   "smútiť",
+   "nariekať"
+  ],
+  "origin": "Od staršieho truchlý „smutný“, pravdepodobne z praslovanského *truxlъ „spráchnivený, zvädnutý“."
+ },
+ {
+  "lemma": "kvíliť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈkviːʎic",
+  "definition": "Vydávať vysoký žalostný zvuk",
+  "example": "Vietor kvílil v komíne celú noc.",
+  "synonyms": [
+   "nariekať",
+   "zavýjať",
+   "skučať"
+  ],
+  "origin": "Z praslovanského *kviliti „nariekať“, zvukomalebného pôvodu."
+ },
+ {
+  "lemma": "plesať",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈplesac",
+  "definition": "Prejavovať veľkú radosť",
+  "example": "Srdce jej plesalo, keď uvidela syna vo dverách.",
+  "synonyms": [
+   "jasať",
+   "výskať"
+  ],
+  "origin": "Z praslovanského *plęsati „tancovať“; z toho istého základu je ples."
+ },
+ {
+  "lemma": "hynúť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈɦinuːc",
+  "definition": "Postupne zanikať, umierať",
+  "example": "Bez dažďa hynú na poliach celé lány kukurice.",
+  "synonyms": [
+   "zanikať",
+   "umierať",
+   "chradnúť"
+  ],
+  "origin": "Z praslovanského *gybnǫti „zanikať“, príbuzného so slovesom hýbať."
+ },
+ {
+  "lemma": "hatiť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈɦacic",
+  "definition": "Klásť prekážky, brzdiť",
+  "example": "Nedostatok peňazí hatil stavbu nemocnice celé desaťročie.",
+  "synonyms": [
+   "mariť",
+   "brzdiť",
+   "prekážať"
+  ],
+  "origin": "Od slova hať „hrádza z prútia“, z praslovanského *gatь."
+ },
+ {
+  "lemma": "čnieť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "t͡ʃɲi̯ec",
+  "definition": "Vysoko a nápadne sa týčiť nad okolím",
+  "example": "Nad dedinou čnie biela veža kostola.",
+  "synonyms": [
+   "trčať",
+   "vyčnievať"
+  ],
+  "origin": "Príbuzné je české čnít; ďalší pôvod nie je istý."
+ },
+ {
+  "lemma": "rmútiť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈr̩muːcic",
+  "definition": "Napĺňať niekoho smútkom",
+  "example": "Rmútilo ho, že sa s otcom nestihol zmieriť.",
+  "synonyms": [
+   "trápiť",
+   "zarmucovať",
+   "kormútiť"
+  ],
+  "origin": "Súvisí so slovami smútok a zármutok, z praslovanského *mǫtiti „kaliť, miasť“; začiatočné r- nie je uspokojivo vysvetlené."
+ },
+ {
+  "lemma": "blčať",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈbl̩t͡ʃac",
+  "definition": "Horieť jasným, vysokým plameňom",
+  "example": "V krbe blčal oheň a za oknami snežilo.",
+  "synonyms": [
+   "plápolať",
+   "horieť",
+   "planúť"
+  ],
+  "origin": "Pravdepodobne zvukomalebného pôvodu, podobne ako blkotať."
+ },
+ {
+  "lemma": "striehnuť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈstri̯eɦnuːc",
+  "definition": "Číhať, skryto a pozorne vyčkávať",
+  "example": "Mačka striehla pri diere celé popoludnie.",
+  "synonyms": [
+   "číhať",
+   "sliediť",
+   "vyčkávať"
+  ],
+  "origin": "Z praslovanského *stergti „strážiť“, z ktorého je aj stráž."
+ },
+ {
+  "lemma": "znivočiť",
+  "level": 3,
+  "part_of_speech": "slov.",
+  "ipa": "ˈzɲivot͡ʃic",
+  "definition": "Úplne zničiť, obrátiť navnivoč",
+  "example": "Krupobitie znivočilo vinice na celom svahu.",
+  "synonyms": [
+   "zničiť",
+   "spustošiť",
+   "zmariť"
+  ],
+  "origin": "Od staršieho nivoč „nič, nazmar“ (ako v príslovke navnivoč), zrejme zloženého zo záporu ni a zámenného základu."
+ },
+ {
+  "lemma": "šumot",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ˈʃumot",
+  "definition": "Tichý súvislý zvuk lístia či vody",
+  "example": "Šumot lístia nás uspával lepšie než uspávanka.",
+  "synonyms": [
+   "šelest",
+   "šuchot",
+   "šum"
+  ],
+  "origin": "Od slovesa šumieť, zvukomalebného pôvodu (praslovanské *šumъ)."
+ },
+ {
+  "lemma": "vesna",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈvesna",
+  "definition": "Básnické pomenovanie jari",
+  "example": "Štúrovci vítali vesnu ako obraz prebudenia národa.",
+  "synonyms": [
+   "jar"
+  ],
+  "origin": "Z praslovanského *vesna „jar“, príbuzného s latinským ver a litovským vasara „leto“."
+ },
+ {
+  "lemma": "luna",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈluna",
+  "definition": "Básnické pomenovanie Mesiaca",
+  "example": "Bledá luna sa zrkadlila na hladine plesa.",
+  "synonyms": [
+   "mesiac"
+  ],
+  "origin": "Z praslovanského *luna „žiara, Mesiac“, príbuzného s latinským luna; oboje zo základu s významom „svietiť“."
+ },
+ {
+  "lemma": "junák",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ˈjunaːk",
+  "definition": "Mladý udatný muž, hrdina",
+  "example": "V baladách junák odchádza do boja a deva čaká.",
+  "synonyms": [
+   "hrdina",
+   "šuhaj",
+   "bohatier"
+  ],
+  "origin": "Od staršieho jun- „mladý“, z praslovanského *junъ, príbuzného s latinským iuvenis."
+ },
+ {
+  "lemma": "mohyla",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈmoɦila",
+  "definition": "Navŕšený pahorok nad hrobom",
+  "example": "Na Bradle stojí mohyla generála Štefánika.",
+  "synonyms": [
+   "násyp",
+   "hrob",
+   "pomník"
+  ],
+  "origin": "Z praslovanského *mogyla; pôvod je sporný, uvažuje sa aj o prevzatí z neslovanského jazyka."
+ },
+ {
+  "lemma": "tieseň",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈci̯eseɲ",
+  "definition": "Stav núdze alebo zvierajúcej úzkosti",
+  "example": "V časovej tiesni urobil šachista osudnú chybu.",
+  "synonyms": [
+   "núdza",
+   "úzkosť",
+   "stiesnenosť"
+  ],
+  "origin": "Od prídavného mena tesný, z praslovanského *těsnъ, od *tiskati „tlačiť“."
+ },
+ {
+  "lemma": "blaho",
+  "level": 3,
+  "part_of_speech": "podst. s.",
+  "ipa": "ˈblaɦo",
+  "definition": "Stav hlbokej spokojnosti a dobra",
+  "example": "Pracoval pre blaho obce, nie pre vlastný prospech.",
+  "synonyms": [
+   "dobro",
+   "šťastie",
+   "blaženosť"
+  ],
+  "origin": "Z praslovanského *bolgo „dobro“; do slovenčiny sa dostalo pravdepodobne knižnou cestou cez češtinu."
+ },
+ {
+  "lemma": "zora",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈzora",
+  "definition": "Červenkastá žiara na oblohe pred východom slnka",
+  "example": "Ranná zora sfarbila štíty hôr do ružova.",
+  "synonyms": [
+   "úsvit",
+   "svitanie"
+  ],
+  "origin": "Z praslovanského *zoŕa „žiara“, od *zьrěti „pozerať, žiariť“."
+ },
+ {
+  "lemma": "nebosklon",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ˈɲebosklon",
+  "definition": "Nebeská klenba, obloha",
+  "example": "Na nočnom nebosklone žiarili tisíce hviezd.",
+  "synonyms": [
+   "obloha",
+   "nebo",
+   "obzor"
+  ],
+  "origin": "Zloženie nebo a sklon; pravdepodobne podľa ruského nebosklon."
+ },
+ {
+  "lemma": "trýzeň",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈtriːzeɲ",
+  "definition": "Veľké telesné alebo duševné utrpenie",
+  "example": "Čakanie na výsledky bolo pre ňu hotová trýzeň.",
+  "synonyms": [
+   "muka",
+   "utrpenie",
+   "trápenie"
+  ],
+  "origin": "Od slovesa trýzniť, spoločného s češtinou (trýznit); ďalší pôvod nie je istý."
+ },
+ {
+  "lemma": "jarmo",
+  "level": 3,
+  "part_of_speech": "podst. s.",
+  "ipa": "ˈjarmo",
+  "definition": "Drevený postroj záprahu; prenesene útlak",
+  "example": "Národ napokon striasol jarmo cudzej nadvlády.",
+  "synonyms": [
+   "útlak",
+   "poroba",
+   "otroctvo"
+  ],
+  "origin": "Z praslovanského *arьmo, príbuzného s latinským arma a gréckym harmos „spoj“."
+ },
+ {
+  "lemma": "žalár",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ˈʒalaːr",
+  "definition": "Väzenie, najmä staré a temné",
+  "example": "Jánošíka držali v žalári v Liptovskom Svätom Mikuláši.",
+  "synonyms": [
+   "väzenie",
+   "temnica",
+   "basa"
+  ],
+  "origin": "Pôvod nie je istý; spája sa so stredovekým latinským cellarium „komora, pivnica“."
+ },
+ {
+  "lemma": "vnada",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈvnada",
+  "definition": "Príťažlivý pôvab, niečo lákavé",
+  "example": "Ani vnady veľkomesta ho neodlákali z rodného kraja.",
+  "synonyms": [
+   "pôvab",
+   "čaro",
+   "lákadlo"
+  ],
+  "origin": "Zo základu, ktorý je aj v slove návnada, pravdepodobne od praslovanského *děti „klásť“: to, čo sa kladie ako lákadlo."
+ },
+ {
+  "lemma": "zdar",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "zdar",
+  "definition": "Šťastný, úspešný výsledok",
+  "example": "Výprave na Gerlach zaželali všetci veľa zdaru.",
+  "synonyms": [
+   "úspech",
+   "šťastie",
+   "výsledok"
+  ],
+  "origin": "Od slovesa zdariť sa, zo základu dar (praslovanské *darъ), od *dati „dať“."
+ },
+ {
+  "lemma": "strasť",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "strasc",
+  "definition": "Veľké trápenie a útrapy",
+  "example": "Po strastiach vojny túžili ľudia len po pokoji.",
+  "synonyms": [
+   "útrapa",
+   "súženie",
+   "utrpenie"
+  ],
+  "origin": "Z praslovanského *strastь „utrpenie“, od *stradati „trpieť“."
+ },
+ {
+  "lemma": "prelud",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ˈprelut",
+  "definition": "Klamný obraz, ktorý v skutočnosti nejestvuje",
+  "example": "Oáza na obzore bola iba prelud vyčerpaných pútnikov.",
+  "synonyms": [
+   "vidina",
+   "fatamorgána",
+   "ilúzia"
+  ],
+  "origin": "Od slovesa lúdiť „klamať, vábiť“, z praslovanského *luditi."
+ },
+ {
+  "lemma": "des",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ɟes",
+  "definition": "Hrôza, ktorá ochromuje",
+  "example": "S desom v očiach hľadeli na stúpajúcu vodu.",
+  "synonyms": [
+   "hrôza",
+   "zdesenie",
+   "strach"
+  ],
+  "origin": "Od slovesa desiť, z praslovanského *děsiti; ďalší pôvod nie je celkom jasný."
+ },
+ {
+  "lemma": "bôľ",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "bu̯oʎ",
+  "definition": "Hlboká telesná či duševná bolesť",
+  "example": "Čas otupil bôľ, no spomienku nevymazal.",
+  "synonyms": [
+   "žiaľ",
+   "bolesť",
+   "trápenie"
+  ],
+  "origin": "Z praslovanského *bolь „bolesť, choroba“; knižná podoba popri bežnom slove bolesť."
+ },
+ {
+  "lemma": "pahreba",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈpaɦreba",
+  "definition": "Žeravé uhlíky po dohorenom ohni",
+  "example": "V pahrebe sme si upiekli zemiaky.",
+  "synonyms": [
+   "žeravina",
+   "popol"
+  ],
+  "origin": "Zloženie predpony pa- a základu hreb- (hrabať, praslovanské *grebti): to, čo sa zhŕňa."
+ },
+ {
+  "lemma": "grúň",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "gruːɲ",
+  "definition": "Zalesnený či trávnatý horský chrbát alebo svah",
+  "example": "Zelený grúň nad dedinou bol od rána plný oviec.",
+  "synonyms": [
+   "úbočie",
+   "hrebeň",
+   "stráň"
+  ],
+  "origin": "Karpatské pastierske slovo prevzaté z rumunčiny (grui „kopec“)."
+ },
+ {
+  "lemma": "hoľa",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈɦoʎa",
+  "definition": "Bezlesný horský chrbát s pasienkami",
+  "example": "Kráľova hoľa je opradená povesťami aj piesňami.",
+  "synonyms": [
+   "polonina",
+   "pasienok",
+   "planina"
+  ],
+  "origin": "Od prídavného mena holý, z praslovanského *golъ: doslova „holé miesto“."
+ },
+ {
+  "lemma": "plápol",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "ˈplaːpol",
+  "definition": "Jasné, mihotavé horenie plameňa",
+  "example": "Plápol vatry osvetľoval tváre mladých spevákov.",
+  "synonyms": [
+   "plameň",
+   "žiara",
+   "blkot"
+  ],
+  "origin": "Od slovesa plápolať, zdvojeného útvaru z praslovanského *polpolati; príbuzné je slovo plameň."
+ },
+ {
+  "lemma": "sudba",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈsudba",
+  "definition": "Neodvratný údel určený vyššou mocou",
+  "example": "Zmieril sa so svojou sudbou a viac neprosil.",
+  "synonyms": [
+   "osud",
+   "údel",
+   "fátum"
+  ],
+  "origin": "Od základu súd, súdiť (praslovanské *sǫdъ); knižné slovo, zrejme podľa ruského suďba."
+ },
+ {
+  "lemma": "chýr",
+  "level": 3,
+  "part_of_speech": "podst. m.",
+  "ipa": "xiːr",
+  "definition": "Správa šíriaca sa ústnym podaním; povesť",
+  "example": "Chýr o jeho remesle sa doniesol až do Viedne.",
+  "synonyms": [
+   "zvesť",
+   "povesť",
+   "sláva"
+  ],
+  "origin": "Prevzaté z maďarského hír „správa, povesť“."
+ },
+ {
+  "lemma": "tôňa",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈtu̯oɲa",
+  "definition": "Tieň, chladné zatienené miesto",
+  "example": "Tôňa starej lipy lákala koscov na oddych.",
+  "synonyms": [
+   "tieň",
+   "chládok",
+   "zátišie"
+  ],
+  "origin": "Súvisí so slovom tieň; presný vzťah oboch slov nie je celkom jasný."
+ },
+ {
+  "lemma": "mrákava",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈmraːkava",
+  "definition": "Hustý tmavý oblak",
+  "example": "Od západu sa hnala čierna mrákava.",
+  "synonyms": [
+   "mračno",
+   "chmára",
+   "oblak"
+  ],
+  "origin": "Od slova mrak, z praslovanského *morkъ „tma, súmrak“."
+ },
+ {
+  "lemma": "úvrať",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈuːvrac",
+  "definition": "Okraj poľa, kde sa obracal pluh",
+  "example": "Na úvrati poľa stával starý drevený kríž.",
+  "synonyms": [
+   "okraj",
+   "medza"
+  ],
+  "origin": "Od slovesa vrátiť vo význame „obrátiť“, z praslovanského *vortiti."
+ },
+ {
+  "lemma": "erudícia",
+  "level": 3,
+  "part_of_speech": "podst. ž.",
+  "ipa": "ˈerudiːt͡si̯a",
+  "definition": "Hlboká a široká vzdelanosť",
+  "example": "Jej erudícia v dejinách umenia ohromila celú komisiu.",
+  "synonyms": [
+   "vzdelanosť",
+   "učenosť",
+   "sčítanosť"
+  ],
+  "origin": "Z latinského eruditio „vzdelanie“, od erudire „zbaviť hrubosti“ (rudis „surový“)."
+ },
+ {
+  "lemma": "znenazdajky",
+  "level": 3,
+  "part_of_speech": "prísl.",
+  "ipa": "ˈzɲenazdajki",
+  "definition": "Celkom nečakane, bez varovania",
+  "example": "Búrka prišla znenazdajky a zastihla nás na hrebeni.",
+  "synonyms": [
+   "nečakane",
+   "náhle",
+   "zrazu"
+  ],
+  "origin": "Od slovesa nazdať sa „tušiť, domnievať sa“ so záporom: „keď sa nik nenazdá“."
+ },
+ {
+  "lemma": "napospol",
+  "level": 3,
+  "part_of_speech": "prísl.",
+  "ipa": "ˈnapospol",
+  "definition": "Všetci bez výnimky, vo všeobecnosti",
+  "example": "Dedinčania boli napospol proti stavbe priehrady.",
+  "synonyms": [
+   "všeobecne",
+   "vcelku",
+   "všetci"
+  ],
+  "origin": "Zrastené spojenie predložiek na a po so základom spol-, ktorý je aj v slove spolu."
+ },
+ {
+  "lemma": "zavše",
+  "level": 3,
+  "part_of_speech": "prísl.",
+  "ipa": "ˈzafʃe",
+  "definition": "Z času na čas",
+  "example": "Zavše sa zastavil pri plote a zadíval sa na hory.",
+  "synonyms": [
+   "občas",
+   "niekedy",
+   "chvíľami"
+  ],
+  "origin": "Zo spojenia predložky za a zámenného základu vš- (praslovanské *vьśь „všetok“)."
+ }
+]

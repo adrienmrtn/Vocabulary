@@ -5,35 +5,84 @@ import SwiftUI
 enum AppLanguage: String, CaseIterable, Identifiable {
     case english = "en"
     case french = "fr"
+    case spanish = "es"
+    case italian = "it"
+    case german = "de"
+    case portugueseBrazil = "pt-BR"
+    case portuguesePortugal = "pt-PT"
+    case dutch = "nl"
+    case swedish = "sv"
+    case danish = "da"
+    case norwegian = "nb"
+    case finnish = "fi"
+    case polish = "pl"
+    case czech = "cs"
+    case slovak = "sk"
+    case slovenian = "sl"
+    case croatian = "hr"
+    case hungarian = "hu"
+    case romanian = "ro"
+    case greek = "el"
+    case russian = "ru"
+    case turkish = "tr"
+    case arabic = "ar"
+    case hebrew = "he"
+    case japanese = "ja"
 
     var id: String { rawValue }
 
-    /// The language's own name, never translated.
-    var name: String {
+    /// The language's own name (never translated), its flag, and the voice used
+    /// until the member picks one.
+    private var details: (name: String, flag: String, voice: String) {
         switch self {
-        case .english: return "English"
-        case .french: return "Français"
+        case .english: return ("English", "🇬🇧", "en-US")
+        case .french: return ("Français", "🇫🇷", "fr-FR")
+        case .spanish: return ("Español", "🇪🇸", "es-ES")
+        case .italian: return ("Italiano", "🇮🇹", "it-IT")
+        case .german: return ("Deutsch", "🇩🇪", "de-DE")
+        case .portugueseBrazil: return ("Português (Brasil)", "🇧🇷", "pt-BR")
+        case .portuguesePortugal: return ("Português (Portugal)", "🇵🇹", "pt-PT")
+        case .dutch: return ("Nederlands", "🇳🇱", "nl-NL")
+        case .swedish: return ("Svenska", "🇸🇪", "sv-SE")
+        case .danish: return ("Dansk", "🇩🇰", "da-DK")
+        case .norwegian: return ("Norsk", "🇳🇴", "nb-NO")
+        case .finnish: return ("Suomi", "🇫🇮", "fi-FI")
+        case .polish: return ("Polski", "🇵🇱", "pl-PL")
+        case .czech: return ("Čeština", "🇨🇿", "cs-CZ")
+        case .slovak: return ("Slovenčina", "🇸🇰", "sk-SK")
+        case .slovenian: return ("Slovenščina", "🇸🇮", "sl-SI")
+        case .croatian: return ("Hrvatski", "🇭🇷", "hr-HR")
+        case .hungarian: return ("Magyar", "🇭🇺", "hu-HU")
+        case .romanian: return ("Română", "🇷🇴", "ro-RO")
+        case .greek: return ("Ελληνικά", "🇬🇷", "el-GR")
+        case .russian: return ("Русский", "🇷🇺", "ru-RU")
+        case .turkish: return ("Türkçe", "🇹🇷", "tr-TR")
+        case .arabic: return ("العربية", "🇸🇦", "ar-SA")
+        case .hebrew: return ("עברית", "🇮🇱", "he-IL")
+        case .japanese: return ("日本語", "🇯🇵", "ja-JP")
         }
     }
 
-    var flag: String {
-        switch self {
-        case .english: return "🇬🇧"
-        case .french: return "🇫🇷"
-        }
-    }
+    var name: String { details.name }
+    var flag: String { details.flag }
+    var defaultVoice: String { details.voice }
 
-    /// The voice used until the member picks one.
-    var defaultVoice: String {
-        switch self {
-        case .english: return "en-US"
-        case .french: return "fr-FR"
-        }
-    }
+    /// Arabic and Hebrew are laid out from right to left.
+    var isRightToLeft: Bool { self == .arabic || self == .hebrew }
 
     /// What the device is set to, when the app teaches that language.
     static var device: AppLanguage {
-        (Locale.preferredLanguages.first ?? "en").hasPrefix("fr") ? .french : .english
+        let preferred = Locale.preferredLanguages.first ?? "en"
+        if preferred.hasPrefix("pt") {
+            return preferred.contains("PT") ? .portuguesePortugal : .portugueseBrazil
+        }
+        if preferred.hasPrefix("no") || preferred.hasPrefix("nn") {
+            return .norwegian
+        }
+        if preferred.hasPrefix("iw") {
+            return .hebrew
+        }
+        return AppLanguage(rawValue: String(preferred.prefix(2))) ?? .english
     }
 }
 

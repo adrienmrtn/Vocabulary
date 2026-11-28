@@ -1,0 +1,822 @@
+[
+  {
+    "lemma": "behutsam",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈhuːtzaːm",
+    "definition": "Vorsichtig und mit zarter Rücksicht vorgehend",
+    "example": "Behutsam legte sie das schlafende Kind in die Wiege zurück.",
+    "synonyms": [
+      "vorsichtig",
+      "sachte",
+      "achtsam"
+    ],
+    "origin": "Im 16. Jahrhundert zu dem heute veralteten Substantiv Behut „Bewahrung, Vorsicht“ gebildet, das zu behüten gehört."
+  },
+  {
+    "lemma": "beharrlich",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈhaʁlɪç",
+    "definition": "Ausdauernd und unbeirrt an einem Ziel festhaltend",
+    "example": "Beharrlich fragte er nach, bis er endlich eine klare Antwort bekam.",
+    "synonyms": [
+      "ausdauernd",
+      "hartnäckig",
+      "standhaft"
+    ],
+    "origin": "Abgeleitet von beharren, einer Verstärkung von harren „warten, ausharren“, dessen weitere Herkunft unsicher ist."
+  },
+  {
+    "lemma": "anmutig",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈanmuːtɪç",
+    "definition": "Von natürlicher, gewinnender Schönheit der Bewegung",
+    "example": "Die Tänzerin bewegte sich so anmutig, dass der ganze Saal verstummte.",
+    "synonyms": [
+      "graziös",
+      "lieblich",
+      "reizend"
+    ],
+    "origin": "Von Anmut, spätmittelhochdeutsch anemuot „Verlangen, Lust“, eigentlich „der an etwas gesetzte Sinn“. Die Bedeutung „Liebreiz“ setzte sich erst in der Neuzeit durch."
+  },
+  {
+    "lemma": "redlich",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʁeːtlɪç",
+    "definition": "Aufrichtig und anständig im Denken und Handeln",
+    "example": "Er hat sich redlich bemüht, allen Beteiligten gerecht zu werden.",
+    "synonyms": [
+      "ehrlich",
+      "rechtschaffen",
+      "aufrichtig"
+    ],
+    "origin": "Mittelhochdeutsch redelich „vernünftig, rechtschaffen“, zu Rede in der alten Bedeutung „Rechenschaft, Vernunft“."
+  },
+  {
+    "lemma": "wehmütig",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈveːmyːtɪç",
+    "definition": "Von leiser Trauer um Vergangenes erfüllt",
+    "example": "Wehmütig blätterte sie in den Fotoalben ihrer Kindheit.",
+    "synonyms": [
+      "melancholisch",
+      "traurig",
+      "nostalgisch"
+    ],
+    "origin": "Im 15. Jahrhundert aus dem Niederdeutschen übernommen (mittelniederdeutsch wēmōdich), aus weh und Mut im alten Sinn von „Gemüt“."
+  },
+  {
+    "lemma": "bedächtig",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈdɛçtɪç",
+    "definition": "Langsam und mit ruhiger Überlegung handelnd",
+    "example": "Bedächtig stopfte der alte Mann seine Pfeife, bevor er antwortete.",
+    "synonyms": [
+      "besonnen",
+      "gemächlich",
+      "überlegt"
+    ],
+    "origin": "Mittelhochdeutsch bedæhtic, zu bedāht, dem Partizip von bedenken."
+  },
+  {
+    "lemma": "gelassen",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ɡəˈlasn̩",
+    "definition": "Innerlich ruhig, durch nichts aus der Fassung gebracht",
+    "example": "Sie blieb gelassen, obwohl ringsum alle die Nerven verloren.",
+    "synonyms": [
+      "ruhig",
+      "gefasst",
+      "gleichmütig"
+    ],
+    "origin": "Eigentlich Partizip von mittelhochdeutsch gelāzen. Die Mystiker nannten so den, der sich Gott überlassen und die Welt losgelassen hat; daraus „ruhig, gefasst“."
+  },
+  {
+    "lemma": "heiter",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈhaɪ̯tɐ",
+    "definition": "Fröhlich und unbeschwert; auch: hell und sonnig",
+    "example": "Trotz des Regens verlief das Fest in heiterer Stimmung.",
+    "synonyms": [
+      "fröhlich",
+      "vergnügt",
+      "sonnig"
+    ],
+    "origin": "Althochdeutsch heitar „klar, hell, wolkenlos“, zunächst vom Himmel gesagt und erst später auf das Gemüt übertragen."
+  },
+  {
+    "lemma": "innig",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈɪnɪç",
+    "definition": "Von tiefem, herzlichem Gefühl getragen",
+    "example": "Die beiden Schwestern verband zeitlebens eine innige Freundschaft.",
+    "synonyms": [
+      "herzlich",
+      "tief",
+      "zärtlich"
+    ],
+    "origin": "Mittelhochdeutsch innec „innerlich, andächtig“, abgeleitet von inne „innen“."
+  },
+  {
+    "lemma": "zaghaft",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈtsaːkhaft",
+    "definition": "Schüchtern zögernd, ohne rechten Mut",
+    "example": "Zaghaft klopfte der Junge an die Tür des Direktors.",
+    "synonyms": [
+      "schüchtern",
+      "zögerlich",
+      "ängstlich"
+    ],
+    "origin": "Mittelhochdeutsch zagehaft, zu zage „furchtsam, feige“. Die weitere Herkunft von zagen ist nicht sicher geklärt."
+  },
+  {
+    "lemma": "emsig",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈɛmzɪç",
+    "definition": "Mit unermüdlichem Fleiß bei der Arbeit",
+    "example": "Emsig trugen die Ameisen Nadel um Nadel zu ihrem Bau.",
+    "synonyms": [
+      "fleißig",
+      "eifrig",
+      "geschäftig"
+    ],
+    "origin": "Althochdeutsch emizzīg „beständig, fortwährend“. Die weitere Herkunft ist unsicher."
+  },
+  {
+    "lemma": "karg",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "kaʁk",
+    "definition": "Ärmlich und knapp, ohne jeden Überfluss",
+    "example": "Auf dem kargen Boden der Hochebene wächst nur wenig Getreide.",
+    "synonyms": [
+      "dürftig",
+      "spärlich",
+      "kümmerlich"
+    ],
+    "origin": "Althochdeutsch karag „traurig, besorgt“, zu einem germanischen Wort für „Sorge“ (vgl. englisch care). Über „sorgsam, sparsam“ entstand die heutige Bedeutung."
+  },
+  {
+    "lemma": "schlicht",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ʃlɪçt",
+    "definition": "Einfach und ohne Schmuck oder Aufwand",
+    "example": "Sie trug ein schlichtes graues Kleid und eine einzige Perle.",
+    "synonyms": [
+      "einfach",
+      "schmucklos",
+      "bescheiden"
+    ],
+    "origin": "Rückbildung aus dem Verb schlichten „glätten“. Sie übernahm die alte Bedeutung von schlecht („glatt, einfach“), als dieses den Sinn „übel“ annahm."
+  },
+  {
+    "lemma": "mürrisch",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈmʏʁɪʃ",
+    "definition": "Übel gelaunt und abweisend im Umgang",
+    "example": "Mürrisch schob er den Teller beiseite und starrte aus dem Fenster.",
+    "synonyms": [
+      "verdrossen",
+      "missmutig",
+      "grantig"
+    ],
+    "origin": "Seit dem 16. Jahrhundert bezeugt, zu murren, einem lautmalenden Verb."
+  },
+  {
+    "lemma": "kühn",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "kyːn",
+    "definition": "Mutig und entschlossen, ohne die Gefahr zu scheuen",
+    "example": "Mit einem kühnen Sprung rettete sich der Kletterer auf den Felsvorsprung.",
+    "synonyms": [
+      "mutig",
+      "beherzt",
+      "wagemutig"
+    ],
+    "origin": "Althochdeutsch kuoni „kampferfahren, tapfer“, zu einem germanischen Wort, das zunächst „kundig, verständig“ bedeutete und mit können verwandt ist."
+  },
+  {
+    "lemma": "träge",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈtʁɛːɡə",
+    "definition": "Langsam und ohne Lust, sich zu bewegen",
+    "example": "Träge floss der Fluss durch die sommerliche Ebene.",
+    "synonyms": [
+      "faul",
+      "schwerfällig",
+      "lustlos"
+    ],
+    "origin": "Althochdeutsch trāgi „langsam, verdrossen“. Die weitere Herkunft ist unsicher."
+  },
+  {
+    "lemma": "düster",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈdyːstɐ",
+    "definition": "Dunkel und bedrückend, ohne Licht und Hoffnung",
+    "example": "Das düstere Treppenhaus roch nach Kohl und feuchtem Mauerwerk.",
+    "synonyms": [
+      "finster",
+      "dunkel",
+      "trübe"
+    ],
+    "origin": "Aus dem Niederdeutschen ins Hochdeutsche gelangt: altsächsisch thiustri „finster“, verwandt mit altenglisch þēostre."
+  },
+  {
+    "lemma": "stattlich",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʃtatlɪç",
+    "definition": "Groß und eindrucksvoll in der Erscheinung",
+    "example": "Vor dem Rathaus steht eine stattliche Linde, älter als die Stadt selbst.",
+    "synonyms": [
+      "ansehnlich",
+      "imposant",
+      "beträchtlich"
+    ],
+    "origin": "Im 16. Jahrhundert aus dem Niederdeutschen übernommen, zu Staat im alten Sinn von „Aufwand, Prunk“; nicht zu Statt „Ort“."
+  },
+  {
+    "lemma": "behaglich",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈhaːklɪç",
+    "definition": "Wohlige Zufriedenheit und Bequemlichkeit verbreitend",
+    "example": "Im Kamin knisterte das Feuer, und es wurde behaglich warm.",
+    "synonyms": [
+      "gemütlich",
+      "wohlig",
+      "bequem"
+    ],
+    "origin": "Von behagen, mittelhochdeutsch behagen „gefallen, zusagen“, verwandt mit altnordisch haga „einrichten, fügen“."
+  },
+  {
+    "lemma": "zierlich",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈtsiːɐ̯lɪç",
+    "definition": "Klein, fein und zart gebaut",
+    "example": "Mit zierlicher Schrift hatte sie jede Seite des Heftes gefüllt.",
+    "synonyms": [
+      "fein",
+      "grazil",
+      "zart"
+    ],
+    "origin": "Mittelhochdeutsch zierlich „prächtig, schön“, zu Zier „Schmuck, Schönheit“. Die Bedeutung „klein und fein“ ist jünger."
+  },
+  {
+    "lemma": "argwöhnisch",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈaʁkvøːnɪʃ",
+    "definition": "Voller Misstrauen, stets Böses vermutend",
+    "example": "Argwöhnisch beobachtete der Wirt die beiden Fremden am Ecktisch.",
+    "synonyms": [
+      "misstrauisch",
+      "skeptisch"
+    ],
+    "origin": "Von Argwohn, mittelhochdeutsch arcwān, aus arg „böse“ und wān „Vermutung“ (heute Wahn): eigentlich „schlimme Vermutung“."
+  },
+  {
+    "lemma": "eitel",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈaɪ̯tl̩",
+    "definition": "Übermäßig auf das eigene Aussehen und Ansehen bedacht",
+    "example": "Er ist so eitel, dass er an keinem Spiegel vorbeigehen kann.",
+    "synonyms": [
+      "selbstgefällig",
+      "gefallsüchtig",
+      "putzsüchtig"
+    ],
+    "origin": "Althochdeutsch ītal „leer, nichtig“. Die alte Bedeutung klingt noch in der biblischen Wendung „es ist alles eitel“ nach."
+  },
+  {
+    "lemma": "hager",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈhaːɡɐ",
+    "definition": "Mager und knochig, dabei meist groß gewachsen",
+    "example": "Ein hagerer Mann mit grauem Bart öffnete uns die Tür.",
+    "synonyms": [
+      "mager",
+      "dürr",
+      "knochig"
+    ],
+    "origin": "Spätmittelhochdeutsch hager. Die Herkunft ist nicht geklärt."
+  },
+  {
+    "lemma": "schroff",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ʃʁɔf",
+    "definition": "Steil abfallend; im Umgang barsch und abweisend",
+    "example": "Seine schroffe Antwort verschlug ihr für einen Moment die Sprache.",
+    "synonyms": [
+      "barsch",
+      "brüsk",
+      "steil"
+    ],
+    "origin": "Rückbildung aus mittelhochdeutsch schroffe „Felsklippe, zerklüfteter Fels“; vom jäh abfallenden Gestein auf das Benehmen übertragen."
+  },
+  {
+    "lemma": "gediegen",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ɡəˈdiːɡn̩",
+    "definition": "Solide, sorgfältig gearbeitet und von echtem Wert",
+    "example": "Die Wohnung war mit gediegenen alten Möbeln eingerichtet.",
+    "synonyms": [
+      "solide",
+      "wertvoll",
+      "echt"
+    ],
+    "origin": "Altes Partizip von gedeihen, eigentlich „gewachsen, gereift, fest geworden“. Bergleute nannten so reines, unvermischtes Metall."
+  },
+  {
+    "lemma": "verwegen",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "fɛɐ̯ˈveːɡn̩",
+    "definition": "Tollkühn und draufgängerisch, die Gefahr geradezu suchend",
+    "example": "Es war ein verwegener Plan, doch niemand hatte einen besseren.",
+    "synonyms": [
+      "tollkühn",
+      "waghalsig",
+      "draufgängerisch"
+    ],
+    "origin": "Partizip des untergegangenen mittelhochdeutschen Verbs sich verwegen „sich rasch entschließen, etwas wagen“, zu wegen „bewegen, wiegen“."
+  },
+  {
+    "lemma": "verschmitzt",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "fɛɐ̯ˈʃmɪtst",
+    "definition": "Auf liebenswerte Weise pfiffig und schelmisch",
+    "example": "Mit einem verschmitzten Lächeln zog der Großvater die Schokolade aus der Tasche.",
+    "synonyms": [
+      "schelmisch",
+      "pfiffig",
+      "spitzbübisch"
+    ],
+    "origin": "Partizip des veralteten Verbs verschmitzen „mit Ruten schlagen“, zu Schmitze „Hieb, Peitschenschnur“. Wer Schläge bekommen hatte, galt als gewitzt; ähnlich ist verschlagen entstanden."
+  },
+  {
+    "lemma": "beklommen",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈklɔmən",
+    "definition": "Von Angst oder Unruhe bedrückt",
+    "example": "Mit beklommenem Herzen betrat sie das Krankenzimmer.",
+    "synonyms": [
+      "bedrückt",
+      "bang",
+      "ängstlich"
+    ],
+    "origin": "Partizip des untergegangenen mittelhochdeutschen Verbs beklimmen „umklammern, einengen“, verwandt mit klemmen."
+  },
+  {
+    "lemma": "rüstig",
+    "level": 1,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʁʏstɪç",
+    "definition": "Im Alter noch kräftig und beweglich",
+    "example": "Mit achtzig Jahren ist sie noch so rüstig, dass sie täglich schwimmen geht.",
+    "synonyms": [
+      "kräftig",
+      "vital",
+      "frisch"
+    ],
+    "origin": "Mittelhochdeutsch rüstec „gerüstet, bereit“, zu rüsten; erst später auf alte Menschen eingeengt."
+  },
+  {
+    "lemma": "schlendern",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃlɛndɐn",
+    "definition": "Gemächlich und ohne festes Ziel gehen",
+    "example": "Am Sonntag schlenderten wir stundenlang durch die Altstadt.",
+    "synonyms": [
+      "bummeln",
+      "flanieren",
+      "spazieren"
+    ],
+    "origin": "Im 17. Jahrhundert aus dem Niederdeutschen übernommen (slendern, vgl. niederländisch slenteren). Die weitere Herkunft ist unsicher."
+  },
+  {
+    "lemma": "grübeln",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈɡʁyːbl̩n",
+    "definition": "Lange und quälend über etwas nachdenken",
+    "example": "Nächtelang grübelte er darüber, was er falsch gemacht hatte.",
+    "synonyms": [
+      "nachsinnen",
+      "brüten",
+      "sinnieren"
+    ],
+    "origin": "Althochdeutsch grubilōn „bohren, wühlen“, eine Weiterbildung zu graben; das Bild ist das des bohrenden Nachforschens."
+  },
+  {
+    "lemma": "zaudern",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈtsaʊ̯dɐn",
+    "definition": "Unschlüssig zögern, bevor man handelt",
+    "example": "Ohne zu zaudern sprang sie ins kalte Wasser.",
+    "synonyms": [
+      "zögern",
+      "schwanken",
+      "säumen"
+    ],
+    "origin": "Seit dem 16. Jahrhundert verbreitet; wohl Weiterbildung von mitteldeutsch zūwen „ziehen“, also „sich hinziehen“. Ganz sicher ist die Herkunft nicht."
+  },
+  {
+    "lemma": "schmunzeln",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃmʊntsl̩n",
+    "definition": "Still und vergnügt vor sich hin lächeln",
+    "example": "Als er die Kinderzeichnung sah, musste er schmunzeln.",
+    "synonyms": [
+      "lächeln",
+      "grinsen"
+    ],
+    "origin": "Seit dem 15. Jahrhundert bezeugt, Weiterbildung eines älteren Verbs smutzen „den Mund zum Lächeln verziehen“."
+  },
+  {
+    "lemma": "tadeln",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈtaːdl̩n",
+    "definition": "Jemandes Verhalten missbilligend beurteilen und rügen",
+    "example": "Der Lehrer tadelte ihn vor der ganzen Klasse für seine Unpünktlichkeit.",
+    "synonyms": [
+      "rügen",
+      "kritisieren",
+      "rüffeln"
+    ],
+    "origin": "Von Tadel, mittelhochdeutsch tadel „Fehler, Makel, Gebrechen“. Die Herkunft des Wortes ist ungeklärt."
+  },
+  {
+    "lemma": "verweilen",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "fɛɐ̯ˈvaɪ̯lən",
+    "definition": "Für eine Zeit an einem Ort bleiben",
+    "example": "Vor diesem Gemälde verweilen die Besucher meist am längsten.",
+    "synonyms": [
+      "bleiben",
+      "rasten",
+      "innehalten"
+    ],
+    "origin": "Mittelhochdeutsch verwīlen, zu Weile, althochdeutsch wīla „Zeitspanne, Ruhe“."
+  },
+  {
+    "lemma": "lauschen",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈlaʊ̯ʃn̩",
+    "definition": "Aufmerksam und still zuhören",
+    "example": "Gebannt lauschten die Kinder der Stimme der Erzählerin.",
+    "synonyms": [
+      "horchen",
+      "zuhören"
+    ],
+    "origin": "Mittelhochdeutsch lūschen „horchen, aufpassen“, verwandt mit dem mundartlichen losen „hören“ und entfernt mit laut."
+  },
+  {
+    "lemma": "ergründen",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ɛɐ̯ˈɡʁʏndn̩",
+    "definition": "Bis ins Letzte erforschen und verstehen",
+    "example": "Die Forscherin will ergründen, warum die Bienen ihre Stöcke verlassen.",
+    "synonyms": [
+      "erforschen",
+      "durchdringen",
+      "klären"
+    ],
+    "origin": "Mittelhochdeutsch ergründen „bis auf den Grund kommen“, zu Grund."
+  },
+  {
+    "lemma": "schwelgen",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃvɛlɡn̩",
+    "definition": "Etwas Schönes ausgiebig und genussvoll auskosten",
+    "example": "Beim Klassentreffen schwelgten sie in Erinnerungen an die Schulzeit.",
+    "synonyms": [
+      "genießen",
+      "prassen",
+      "schlemmen"
+    ],
+    "origin": "Althochdeutsch swelgan „schlucken, verschlingen“ (vgl. englisch swallow). Aus „unmäßig essen und trinken“ wurde „genießen“."
+  },
+  {
+    "lemma": "erwägen",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ɛɐ̯ˈvɛːɡn̩",
+    "definition": "Etwas prüfend überdenken, bevor man entscheidet",
+    "example": "Die Firma erwägt, ihren Sitz nach Leipzig zu verlegen.",
+    "synonyms": [
+      "bedenken",
+      "prüfen",
+      "überlegen"
+    ],
+    "origin": "Mittelhochdeutsch erwegen „bewegen, emporheben“, zu wegen „wiegen, Gewicht haben“; das Bild ist das des Abwiegens."
+  },
+  {
+    "lemma": "beteuern",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "bəˈtɔɪ̯ɐn",
+    "definition": "Nachdrücklich und feierlich versichern",
+    "example": "Der Angeklagte beteuerte bis zuletzt seine Unschuld.",
+    "synonyms": [
+      "versichern",
+      "beschwören",
+      "bekräftigen"
+    ],
+    "origin": "Spätmittelhochdeutsch betiuren „im Wert anschlagen, schätzen“, zu teuer. Die Bedeutung „eidlich bekräftigen“ kommt aus der Rechtssprache."
+  },
+  {
+    "lemma": "stöbern",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃtøːbɐn",
+    "definition": "Neugierig und ohne Eile etwas durchsuchen",
+    "example": "Stundenlang stöberte sie in den Kisten des Antiquariats.",
+    "synonyms": [
+      "kramen",
+      "wühlen",
+      "suchen"
+    ],
+    "origin": "Zu niederdeutsch stöbern „aufscheuchen, umherfliegen“, verwandt mit stieben und Staub; zunächst vom Jagdhund gesagt, der Wild aufstöbert."
+  },
+  {
+    "lemma": "hadern",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈhaːdɐn",
+    "definition": "Unzufrieden mit etwas ringen und sich beklagen",
+    "example": "Lange haderte er mit seinem Schicksal, dann fing er neu an.",
+    "synonyms": [
+      "grollen",
+      "rechten",
+      "klagen"
+    ],
+    "origin": "Mittelhochdeutsch hadern „streiten, necken“, zu hader „Streit, Zank“, das auf ein germanisches Wort für „Kampf“ zurückgeht (vgl. den Namen Hedwig)."
+  },
+  {
+    "lemma": "munkeln",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈmʊŋkl̩n",
+    "definition": "Hinter vorgehaltener Hand Gerüchte verbreiten",
+    "example": "Im Dorf munkelt man, der Bürgermeister wolle zurücktreten.",
+    "synonyms": [
+      "tuscheln",
+      "raunen",
+      "flüstern"
+    ],
+    "origin": "Im 16. Jahrhundert aus dem Niederdeutschen übernommen; wohl lautmalend für undeutliches, heimliches Reden."
+  },
+  {
+    "lemma": "schmachten",
+    "level": 1,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃmaxtn̩",
+    "definition": "Sehnsüchtig nach etwas verlangen und darunter leiden",
+    "example": "In der Mittagshitze schmachteten die Wanderer nach einem Schluck Wasser.",
+    "synonyms": [
+      "lechzen",
+      "verlangen",
+      "hungern"
+    ],
+    "origin": "Mittelhochdeutsch smahten „hungern, dahinschwinden“, verwandt mit schmächtig; ursprünglich „klein, schwach werden“."
+  },
+  {
+    "lemma": "Sehnsucht",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈzeːnzʊxt",
+    "definition": "Schmerzliches Verlangen nach etwas Fernem oder Verlorenem",
+    "example": "Im Winter packt mich jedes Jahr die Sehnsucht nach dem Meer.",
+    "synonyms": [
+      "Verlangen",
+      "Fernweh",
+      "Heimweh"
+    ],
+    "origin": "Mittelhochdeutsch sensuht, aus sehnen und Sucht, das hier noch „Krankheit“ bedeutet: eigentlich „Krankheit des schmerzlichen Verlangens“."
+  },
+  {
+    "lemma": "Zuversicht",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈtsuːfɛɐ̯zɪçt",
+    "definition": "Festes Vertrauen auf einen guten Ausgang",
+    "example": "Voller Zuversicht blickte die Mannschaft dem Endspiel entgegen.",
+    "synonyms": [
+      "Vertrauen",
+      "Optimismus",
+      "Hoffnung"
+    ],
+    "origin": "Althochdeutsch zuofirsiht, eigentlich „das Hinsehen auf Künftiges“, zu dem alten Verb sich versehen „erwarten, hoffen“."
+  },
+  {
+    "lemma": "Geborgenheit",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ɡəˈbɔʁɡn̩haɪ̯t",
+    "definition": "Gefühl, beschützt und gut aufgehoben zu sein",
+    "example": "Das Haus der Großeltern gab ihm ein Gefühl von Geborgenheit.",
+    "synonyms": [
+      "Schutz",
+      "Sicherheit",
+      "Obhut"
+    ],
+    "origin": "Von geborgen, dem Partizip von bergen „in Sicherheit bringen“, althochdeutsch bergan."
+  },
+  {
+    "lemma": "Kummer",
+    "level": 1,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈkʊmɐ",
+    "definition": "Seelischer Schmerz über ein Unglück oder eine Sorge",
+    "example": "Aus Kummer über den Verlust aß sie tagelang kaum etwas.",
+    "synonyms": [
+      "Gram",
+      "Leid",
+      "Sorge"
+    ],
+    "origin": "Mittelhochdeutsch kumber „Schutt, Belastung, Not“, aus einem galloromanischen Wort keltischer Herkunft für „Zusammengetragenes, Verhau“ (vgl. französisch décombres „Trümmer“). Vom Schutt zur seelischen Last."
+  },
+  {
+    "lemma": "Dämmerung",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈdɛməʁʊŋ",
+    "definition": "Zwielicht zwischen Tag und Nacht",
+    "example": "In der Dämmerung kehrten die Fischer mit ihren Booten zurück.",
+    "synonyms": [
+      "Zwielicht",
+      "Halbdunkel"
+    ],
+    "origin": "Althochdeutsch demarunga, zu demar „Dämmerung“, urverwandt mit lateinisch tenebrae „Finsternis“."
+  },
+  {
+    "lemma": "Muße",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈmuːsə",
+    "definition": "Freie Zeit und innere Ruhe für eigene Neigungen",
+    "example": "Erst im Urlaub fand er die Muße, den dicken Roman zu lesen.",
+    "synonyms": [
+      "Ruhe",
+      "Freizeit"
+    ],
+    "origin": "Althochdeutsch muoza „freie Zeit, Möglichkeit“, verwandt mit müssen, das ursprünglich „Raum, Gelegenheit haben“ bedeutete."
+  },
+  {
+    "lemma": "Eifer",
+    "level": 1,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈaɪ̯fɐ",
+    "definition": "Leidenschaftlicher, unermüdlicher Einsatz für eine Sache",
+    "example": "Mit großem Eifer machten sich die Schüler an das Experiment.",
+    "synonyms": [
+      "Fleiß",
+      "Hingabe",
+      "Elan"
+    ],
+    "origin": "Erst seit dem Spätmittelalter bezeugt, zunächst im Sinn von „Eifersucht“, und durch Luthers Bibel verbreitet. Die Herkunft ist ungeklärt."
+  },
+  {
+    "lemma": "Demut",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈdeːmuːt",
+    "definition": "Bescheidene Haltung im Wissen um die eigenen Grenzen",
+    "example": "Der Blick in den Sternenhimmel erfüllte sie mit Demut.",
+    "synonyms": [
+      "Bescheidenheit",
+      "Ergebenheit"
+    ],
+    "origin": "Althochdeutsch diomuotī, aus dio „Knecht“ (vgl. dienen) und muot „Gesinnung“: „Gesinnung eines Dienenden“, gebildet für das christliche humilitas."
+  },
+  {
+    "lemma": "Zwietracht",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈtsviːtʁaxt",
+    "definition": "Streit und Uneinigkeit zwischen Menschen",
+    "example": "Das Erbe säte Zwietracht unter den drei Geschwistern.",
+    "synonyms": [
+      "Zwist",
+      "Hader",
+      "Unfrieden"
+    ],
+    "origin": "Mittelhochdeutsch zwitraht, aus dem Mittelniederdeutschen, zu twedragen „uneins sein“, eigentlich „auseinandertragen“; Gegenstück zu Eintracht."
+  },
+  {
+    "lemma": "Übermut",
+    "level": 1,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈyːbɐmuːt",
+    "definition": "Ausgelassene Fröhlichkeit, die leicht in Leichtsinn umschlägt",
+    "example": "Aus purem Übermut sprangen die Jungen in den eiskalten See.",
+    "synonyms": [
+      "Ausgelassenheit",
+      "Mutwille",
+      "Leichtsinn"
+    ],
+    "origin": "Althochdeutsch ubarmuot „Stolz, Hochmut“, aus über und Mut im alten Sinn von „Gesinnung“. Die mildere heutige Bedeutung ist jünger."
+  },
+  {
+    "lemma": "Gemüt",
+    "level": 1,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ɡəˈmyːt",
+    "definition": "Gesamtheit des Fühlens und Empfindens eines Menschen",
+    "example": "Die Nachricht erregte die Gemüter in der ganzen Stadt.",
+    "synonyms": [
+      "Seele",
+      "Herz",
+      "Wesen"
+    ],
+    "origin": "Mittelhochdeutsch gemüete, Sammelbildung zu muot „Sinn, Gesinnung“: eigentlich „Gesamtheit der Seelenkräfte“."
+  },
+  {
+    "lemma": "Fernweh",
+    "level": 1,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈfɛʁnveː",
+    "definition": "Verlangen, in die weite Welt hinauszuziehen",
+    "example": "Beim Anblick der großen Schiffe im Hafen packte ihn das Fernweh.",
+    "synonyms": [
+      "Reiselust",
+      "Wanderlust",
+      "Sehnsucht"
+    ],
+    "origin": "Im 19. Jahrhundert als Gegenstück zu Heimweh gebildet; früh bei Fürst Pückler-Muskau belegt."
+  },
+  {
+    "lemma": "Groll",
+    "level": 1,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ɡʁɔl",
+    "definition": "Lange gehegter, verborgener Ärger gegen jemanden",
+    "example": "Trotz allem hegte sie keinen Groll gegen ihren früheren Chef.",
+    "synonyms": [
+      "Zorn",
+      "Verbitterung",
+      "Hass"
+    ],
+    "origin": "Mittelhochdeutsch grolle „Zorn“, zu grellen „laut und zornig schreien“; verwandt mit grell."
+  },
+  {
+    "lemma": "Trübsal",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈtʁyːpzaːl",
+    "definition": "Anhaltende Niedergeschlagenheit; auch: Leid und Not",
+    "example": "Statt Trübsal zu blasen, solltest du lieber an die frische Luft gehen.",
+    "synonyms": [
+      "Traurigkeit",
+      "Jammer",
+      "Elend"
+    ],
+    "origin": "Mittelhochdeutsch trüebesal, zu trüebe „trüb“ mit der Nachsilbe -sal, wie in Schicksal und Mühsal."
+  },
+  {
+    "lemma": "Wonne",
+    "level": 1,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈvɔnə",
+    "definition": "Höchstes Gefühl von Glück und Genuss",
+    "example": "Es war eine Wonne, nach der langen Wanderung die Schuhe auszuziehen.",
+    "synonyms": [
+      "Entzücken",
+      "Seligkeit",
+      "Lust"
+    ],
+    "origin": "Althochdeutsch wunna „Freude, Lust“, verwandt mit Wunsch und urverwandt mit lateinisch Venus. Der Wonnemonat dagegen war ursprünglich der „Weidemonat“."
+  }
+]

@@ -1,0 +1,822 @@
+[
+  {
+    "lemma": "borneret",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "bɒˈneˀɐð",
+    "definition": "Snæversynet og selvtilfreds i sine fordomme",
+    "example": "Han fandt provinsbyens selskabsliv borneret og kvælende.",
+    "synonyms": [
+      "snæversynet",
+      "indskrænket",
+      "småborgerlig"
+    ],
+    "origin": "Fra fransk borné «begrænset», af borne «grænsesten»; formen skyldes tysk borniert."
+  },
+  {
+    "lemma": "blaseret",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "blaˈseˀɐð",
+    "definition": "Mæt af indtryk og umulig at begejstre",
+    "example": "Den blaserede kritiker gabte sig gennem hele premieren.",
+    "synonyms": [
+      "overmæt",
+      "træt",
+      "ligeglad"
+    ],
+    "origin": "Fra fransk blasé, tillægsform af blaser «sløve, overmætte»; formen skyldes tysk blasiert."
+  },
+  {
+    "lemma": "pertentlig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "pæɐ̯ˈtɛnˀdli",
+    "definition": "Overdrevent nøjagtig og ordentlig",
+    "example": "Hun var så pertentlig, at blyanterne lå ordnet efter længde.",
+    "synonyms": [
+      "pedantisk",
+      "sirlig",
+      "nøjeregnende"
+    ],
+    "origin": "Fra nedertysk; den videre oprindelse er usikker."
+  },
+  {
+    "lemma": "gesvindt",
+    "level": 3,
+    "part_of_speech": "adv.",
+    "ipa": "ɡeˈsvenˀd",
+    "definition": "Hurtigt og uden tøven",
+    "example": "Hun fik gesvindt ryddet bordet, inden gæsterne kom.",
+    "synonyms": [
+      "rask",
+      "hurtigt",
+      "kvikt"
+    ],
+    "origin": "Fra tysk geschwind «hurtig»."
+  },
+  {
+    "lemma": "ufortrøden",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈufʌˌtʁøˀðən",
+    "definition": "Som fortsætter uden at blive træt eller modløs",
+    "example": "Ufortrødent arbejdede hun videre på ordbogen i tyve år.",
+    "synonyms": [
+      "utrættelig",
+      "ihærdig",
+      "udholdende"
+    ],
+    "origin": "Af u- «ikke» og fortrøden, tillægsform af fortryde i den ældre betydning «blive ked af, trættes ved»."
+  },
+  {
+    "lemma": "uforgængelig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈufʌˌɡɛŋˀəli",
+    "definition": "Som aldrig forgår eller ødelægges",
+    "example": "Digteren drømte om at skabe et uforgængeligt værk.",
+    "synonyms": [
+      "evig",
+      "udødelig",
+      "uopslidelig"
+    ],
+    "origin": "Af u- «ikke» og forgængelig, afledt af forgå «gå til grunde»; jævnfør tysk unvergänglich."
+  },
+  {
+    "lemma": "bramfri",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈbʁɑmˌfʁiˀ",
+    "definition": "Ligefrem og uden pynt eller pral",
+    "example": "Hun gav en bramfri beskrivelse af sin egen fiasko.",
+    "synonyms": [
+      "ligefrem",
+      "usminket",
+      "djærv"
+    ],
+    "origin": "Sammensat af bram «pral, pragt», der er lånt fra nedertysk, og fri: egentlig «fri for praleri»."
+  },
+  {
+    "lemma": "kæphøj",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈkɛbˌhʌjˀ",
+    "definition": "Fræk og overlegen i sin opførsel",
+    "example": "Den nye praktikant var lidt for kæphøj over for de ældre kolleger.",
+    "synonyms": [
+      "fræk",
+      "kålhøgen",
+      "overmodig"
+    ],
+    "origin": "Sammensat af kæp og høj; hvilket billede der ligger bag, er usikkert."
+  },
+  {
+    "lemma": "pauver",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈpowˀɐ",
+    "definition": "Fattig og ussel, af ringe kvalitet",
+    "example": "Forestillingen var en pauver affære med tre kulisser og en træt tenor.",
+    "synonyms": [
+      "tarvelig",
+      "ussel",
+      "sølle"
+    ],
+    "origin": "Fra fransk pauvre «fattig», af latin pauper."
+  },
+  {
+    "lemma": "perfid",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "pæɐ̯ˈfiðˀ",
+    "definition": "Ondskabsfuld på en lumsk og troløs måde",
+    "example": "Det var et perfidt angreb, forklædt som en kompliment.",
+    "synonyms": [
+      "lumsk",
+      "troløs",
+      "nedrig"
+    ],
+    "origin": "Fra fransk perfide, af latin perfidus «troløs», egentlig «som bryder sit ord»."
+  },
+  {
+    "lemma": "svulstig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈsvulˀsdi",
+    "definition": "Opstyltet og overlæsset i sproget",
+    "example": "Talen var så svulstig, at ingen bagefter kunne huske indholdet.",
+    "synonyms": [
+      "højtravende",
+      "bombastisk",
+      "opstyltet"
+    ],
+    "origin": "Afledt af svulst; dannet efter tysk schwülstig «opsvulmet»."
+  },
+  {
+    "lemma": "træsk",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈtʁɛsɡ",
+    "definition": "Lumsk, snu og fuld af bagtanker",
+    "example": "Den træske ræv er en fast figur i de gamle fabler.",
+    "synonyms": [
+      "lumsk",
+      "snu",
+      "listig"
+    ],
+    "origin": "Vistnok samme ord som svensk tredsk «genstridig», af oldnordisk þrjózkr «trodsig»; i dansk har betydningen udviklet sig til «lumsk»."
+  },
+  {
+    "lemma": "vægelsindet",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈvɛːjəlˌsenˀəð",
+    "definition": "Ustadig og hurtig til at skifte mening",
+    "example": "Vælgerne er blevet mere vægelsindede end for tyve år siden.",
+    "synonyms": [
+      "vankelmodig",
+      "ustadig",
+      "lunefuld"
+    ],
+    "origin": "Første led hører vistnok til det ældre vægle «vakle, svaje»; andet led er sind."
+  },
+  {
+    "lemma": "nidkær",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈniðˌkæɐ̯ˀ",
+    "definition": "Brændende ivrig, ofte overdrevent, for en sag",
+    "example": "Den nidkære parkeringsvagt skrev bøder ud fra klokken otte.",
+    "synonyms": [
+      "ivrig",
+      "emsig",
+      "fanatisk"
+    ],
+    "origin": "Sammensat af nid i den ældre betydning «had, avind» og kær; kendt fra bibelsprogets «en nidkær Gud»."
+  },
+  {
+    "lemma": "ørkesløs",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈœɐ̯ɡəsˌløˀs",
+    "definition": "Uden formål eller nytte, ledig",
+    "example": "De spildte aftenen på ørkesløse diskussioner om skyld.",
+    "synonyms": [
+      "formålsløs",
+      "unyttig",
+      "ledig"
+    ],
+    "origin": "Af det gamle ørke «arbejde», beslægtet med oldnordisk yrkja «arbejde, dyrke», og -løs: egentlig «uden arbejde»."
+  },
+  {
+    "lemma": "vindskibelig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈvenˌsɡiˀbəli",
+    "definition": "Flittig og driftig i sit arbejde",
+    "example": "Den vindskibelige enke drev både gården og kroen.",
+    "synonyms": [
+      "flittig",
+      "driftig",
+      "arbejdsom"
+    ],
+    "origin": "Af det ældre vindskib «flid», hvor første led hører til vinde i betydningen «stræbe, arbejde»."
+  },
+  {
+    "lemma": "ypperlig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈybɐli",
+    "definition": "Af allerhøjeste kvalitet",
+    "example": "Kokken serverede en ypperlig suppe af jordskokker.",
+    "synonyms": [
+      "fortræffelig",
+      "fremragende",
+      "udmærket"
+    ],
+    "origin": "Afledt af den gamle komparativ ypper(e) «højere», der hører til op; jævnfør ypperst."
+  },
+  {
+    "lemma": "tilforladelig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "telfʌˈlæˀðəli",
+    "definition": "Som man trygt kan stole på",
+    "example": "Hun gav en tilforladelig forklaring på de manglende penge.",
+    "synonyms": [
+      "pålidelig",
+      "troværdig",
+      "ærlig"
+    ],
+    "origin": "Afledt af det ældre forlade sig til «stole på», efter tysk sich verlassen auf."
+  },
+  {
+    "lemma": "idel",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈiːðəl",
+    "definition": "Ren og ublandet, intet andet end",
+    "example": "Festen var idel glæde fra først til sidst.",
+    "synonyms": [
+      "lutter",
+      "ren",
+      "bar"
+    ],
+    "origin": "Fra middelnedertysk idel «tom, ren»; samme ord som tysk eitel og engelsk idle."
+  },
+  {
+    "lemma": "fager",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈfæˀjɐ",
+    "definition": "Smuk, i højtidelig eller gammeldags stil",
+    "example": "Eventyret begynder med en fager jomfru i et højt tårn.",
+    "synonyms": [
+      "skøn",
+      "dejlig",
+      "køn"
+    ],
+    "origin": "Fra oldnordisk fagr «smuk»; samme ord som engelsk fair."
+  },
+  {
+    "lemma": "dorsk",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈdɒːsɡ",
+    "definition": "Sløv, træg og uden virkelyst",
+    "example": "Varmen gjorde hele byen dorsk og langsom.",
+    "synonyms": [
+      "sløv",
+      "doven",
+      "apatisk"
+    ],
+    "origin": "Oprindelsen er usikker; ordet findes også i norsk."
+  },
+  {
+    "lemma": "skinsyg",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈsɡenˌsyˀ",
+    "definition": "Plaget af jalousi over for en elsket",
+    "example": "Han blev skinsyg, hver gang hun dansede med en anden.",
+    "synonyms": [
+      "jaloux",
+      "misundelig",
+      "mistroisk"
+    ],
+    "origin": "Ældre form skindsyg, med første led skind; hvilket billede der ligger bag, er usikkert."
+  },
+  {
+    "lemma": "sardonisk",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "saˈdoˀnisɡ",
+    "definition": "Bittert og koldt spottende",
+    "example": "Med et sardonisk smil ønskede han sin rival held og lykke.",
+    "synonyms": [
+      "hånlig",
+      "kynisk",
+      "sarkastisk"
+    ],
+    "origin": "Via fransk og latin fra græsk sardonios; i oldtiden forbundet med en sardinsk plante, der skulle fortrække ansigtet i krampelatter."
+  },
+  {
+    "lemma": "lapidarisk",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "lapiˈdɑˀisɡ",
+    "definition": "Kort og fyndig som en indskrift",
+    "example": "Telegrammet var lapidarisk og bestod af kun tre ord.",
+    "synonyms": [
+      "kortfattet",
+      "fyndig",
+      "koncis"
+    ],
+    "origin": "Af latin lapidarius «som hører til sten», af lapis «sten»: stilen i indskrifter hugget i sten."
+  },
+  {
+    "lemma": "vederstyggelig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈveðˀɐˌsdyɡəli",
+    "definition": "Afskyelig i højeste grad",
+    "example": "Den gamle præst fordømte handlingen som vederstyggelig.",
+    "synonyms": [
+      "afskyelig",
+      "modbydelig",
+      "væmmelig"
+    ],
+    "origin": "Af veder- «imod» og styg med endelsen -lig; kendt fra bibelsproget."
+  },
+  {
+    "lemma": "skæbnesvanger",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈsɡɛːbnəˌsvɑŋˀɐ",
+    "definition": "Som får alvorlige og uoprettelige følger",
+    "example": "Det blev en skæbnesvanger beslutning at sejle trods stormvarslet.",
+    "synonyms": [
+      "fatal",
+      "afgørende",
+      "ulykkelig"
+    ],
+    "origin": "Sammensat af skæbne og svanger «gravid»: egentlig «som bærer skæbnen i sig»; efter tysk schicksalsschwanger."
+  },
+  {
+    "lemma": "vankundig",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈvanˌkɔnˀdi",
+    "definition": "Uden kundskaber, uvidende",
+    "example": "Han kaldte sine modstandere både vankundige og dovne.",
+    "synonyms": [
+      "uvidende",
+      "uoplyst",
+      "ukyndig"
+    ],
+    "origin": "Af van- «manglende», som i vanære og vantro, og kundig «vidende»."
+  },
+  {
+    "lemma": "salvelsesfuld",
+    "level": 3,
+    "part_of_speech": "adj.",
+    "ipa": "ˈsalvəlsəsˌfulˀ",
+    "definition": "Højtidelig på en overdreven, præsteagtig måde",
+    "example": "Direktøren holdt en salvelsesfuld tale om fællesskabets værdier.",
+    "synonyms": [
+      "højstemt",
+      "patetisk",
+      "sødladen"
+    ],
+    "origin": "Af salvelse «indvielse med salve», siden «from, højtidelig tone», og -fuld."
+  },
+  {
+    "lemma": "forskertse",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "fʌˈsɡæɐ̯dsə",
+    "definition": "Miste noget værdifuldt ved egen skyld",
+    "example": "Med den løgn forskertsede han sin sidste chance for tilgivelse.",
+    "synonyms": [
+      "forspilde",
+      "tabe",
+      "miste"
+    ],
+    "origin": "Fra tysk verscherzen, egentlig «spøge bort», af scherzen «spøge»."
+  },
+  {
+    "lemma": "vederfares",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "ˈveðˀɐˌfɑˀɑs",
+    "definition": "Blive nogen til del, ske for én",
+    "example": "Der skal vederfares ham retfærdighed, sagde dommeren roligt.",
+    "synonyms": [
+      "times",
+      "hændes",
+      "overgå"
+    ],
+    "origin": "Efter middelnedertysk weddervaren «møde, hænde»; samme ord som tysk widerfahren."
+  },
+  {
+    "lemma": "forlibe",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "fʌˈliˀbə",
+    "definition": "Blive voldsomt betaget af nogen",
+    "example": "Han forlibede sig i en skuespillerinde og glemte alt om eksamen.",
+    "synonyms": [
+      "forelske",
+      "sværme"
+    ],
+    "origin": "Fra tysk sich verlieben «forelske sig», af lieben «elske»."
+  },
+  {
+    "lemma": "desavouere",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "desavuˈeˀɐ",
+    "definition": "Offentligt tage afstand fra en underordnets handling",
+    "example": "Ministeren måtte desavouere sin egen embedsmand i folketingssalen.",
+    "synonyms": [
+      "underkende",
+      "fornægte",
+      "afvise"
+    ],
+    "origin": "Fra fransk désavouer «ikke vedkende sig», af avouer «indrømme»."
+  },
+  {
+    "lemma": "kvie",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "ˈkviːə",
+    "definition": "Føle ulyst ved at skulle gøre noget",
+    "example": "Hun kviede sig ved at ringe og bede om hjælp.",
+    "synonyms": [
+      "vægre",
+      "grue",
+      "tøve"
+    ],
+    "origin": "Fra oldnordisk kvíða «frygte, grue for»."
+  },
+  {
+    "lemma": "mæle",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "ˈmɛːlə",
+    "definition": "Sige eller tale, især i faste vendinger",
+    "example": "Han var så forbløffet, at han ikke kunne mæle et ord.",
+    "synonyms": [
+      "sige",
+      "tale",
+      "ytre"
+    ],
+    "origin": "Fra oldnordisk mæla «tale», afledt af mál «tale, sprog»."
+  },
+  {
+    "lemma": "gebærde",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "ɡeˈbæɐ̯ˀdə",
+    "definition": "Opføre sig på en bestemt, ofte påfaldende måde",
+    "example": "Han gebærdede sig som en fyrste, skønt han intet ejede.",
+    "synonyms": [
+      "opføre",
+      "te",
+      "agere"
+    ],
+    "origin": "Fra tysk sich gebärden; samme rod som navneordet gebærde «bevægelse, fagter»."
+  },
+  {
+    "lemma": "forlene",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "fʌˈleˀnə",
+    "definition": "Give en særlig egenskab eller et særligt præg",
+    "example": "Aftenlyset forlenede de grå huse med en gylden varme.",
+    "synonyms": [
+      "skænke",
+      "give",
+      "tildele"
+    ],
+    "origin": "Fra middelnedertysk vorlenen «give som len»; oprindelig om overdragelse af jord fra kongen."
+  },
+  {
+    "lemma": "bespotte",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "beˈsbʌdə",
+    "definition": "Håne noget helligt eller ophøjet",
+    "example": "Han blev anklaget for at bespotte kirken i sine viser.",
+    "synonyms": [
+      "håne",
+      "forhåne",
+      "vanhellige"
+    ],
+    "origin": "Af be- og spotte, efter middelnedertysk bespotten."
+  },
+  {
+    "lemma": "sakke",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "ˈsɑɡə",
+    "definition": "Blive bagud og miste fart",
+    "example": "Efter den første bakke begyndte de yngste at sakke agterud.",
+    "synonyms": [
+      "nøle",
+      "forsinkes"
+    ],
+    "origin": "Sømandsord fra nedertysk eller hollandsk zakken «synke, glide ned»."
+  },
+  {
+    "lemma": "husvale",
+    "level": 3,
+    "part_of_speech": "vb.",
+    "ipa": "ˈhusˌvæːlə",
+    "definition": "Trøste og lindre i sorg",
+    "example": "Musikken husvalede hende i de mørke vintermåneder.",
+    "synonyms": [
+      "trøste",
+      "lindre",
+      "vederkvæge"
+    ],
+    "origin": "Omdannet af ældre hugsvale, af hu «sind» og svale «køle»: egentlig «svale sindet»."
+  },
+  {
+    "lemma": "armod",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈɑːˌmoðˀ",
+    "definition": "Yderste fattigdom og nød",
+    "example": "Familien levede i armod, men børnene kom alle i skole.",
+    "synonyms": [
+      "fattigdom",
+      "nød",
+      "usselhed"
+    ],
+    "origin": "Fra middelnedertysk armôt, afledt af arm «fattig»; samme ord som tysk Armut."
+  },
+  {
+    "lemma": "avind",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈɑwˌenˀ",
+    "definition": "Misundelse og nag over andres held",
+    "example": "Hans fremgang vakte avind blandt de gamle kolleger.",
+    "synonyms": [
+      "misundelse",
+      "nag",
+      "skinsyge"
+    ],
+    "origin": "Fra oldnordisk ǫfund «misundelse», af af- og unna «unde»: egentlig «det ikke at unde»."
+  },
+  {
+    "lemma": "brøde",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈbʁœːðə",
+    "definition": "Alvorlig forseelse, som man bærer skylden for",
+    "example": "Han måtte sone sin brøde med ti års landflygtighed.",
+    "synonyms": [
+      "skyld",
+      "forseelse",
+      "synd"
+    ],
+    "origin": "Fra middelnedertysk broke «brud, lovbrud»; beslægtet med bryde."
+  },
+  {
+    "lemma": "elskov",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈɛlsɡʌw",
+    "definition": "Lidenskabelig, sanselig kærlighed",
+    "example": "Digtet handler om elskov og død en lys sommernat.",
+    "synonyms": [
+      "kærlighed",
+      "erotik",
+      "lidenskab"
+    ],
+    "origin": "Fra oldnordisk elskhugi «kærlighed», af elska «elske» og hugr «sind»."
+  },
+  {
+    "lemma": "frænde",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈfʁɑnə",
+    "definition": "Slægtning, eller en åndsbeslægtet",
+    "example": "I den norske digter fandt han en frænde og en ven.",
+    "synonyms": [
+      "slægtning",
+      "pårørende",
+      "åndsfælle"
+    ],
+    "origin": "Fra oldnordisk frændi «slægtning», egentlig «den, der elsker»; samme ord som engelsk friend."
+  },
+  {
+    "lemma": "gemyt",
+    "level": 3,
+    "part_of_speech": "sb. itk.",
+    "ipa": "ɡeˈmyd",
+    "definition": "Et menneskes grundlæggende temperament og humør",
+    "example": "Bølgerne gik højt, da de to gemytter stødte sammen.",
+    "synonyms": [
+      "sind",
+      "temperament",
+      "natur"
+    ],
+    "origin": "Fra tysk Gemüt, afledt af Mut «sind»."
+  },
+  {
+    "lemma": "svig",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈsviˀ",
+    "definition": "Bevidst bedrag over for den, der stoler på én",
+    "example": "Aftalen var indgået ved svig og blev erklæret ugyldig.",
+    "synonyms": [
+      "bedrag",
+      "forræderi",
+      "falskhed"
+    ],
+    "origin": "Fra oldnordisk svik «bedrag, forræderi»."
+  },
+  {
+    "lemma": "tvedragt",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈtveˌdʁɑɡd",
+    "definition": "Dyb uenighed, der splitter en gruppe",
+    "example": "Arven såede tvedragt mellem de tre søskende.",
+    "synonyms": [
+      "splid",
+      "strid",
+      "ufred"
+    ],
+    "origin": "Fra middelnedertysk twedracht, af twe «to» og dragen «trække»: man trækker hver sin vej."
+  },
+  {
+    "lemma": "ælde",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈɛlə",
+    "definition": "Alderdommen og dens svækkelse",
+    "example": "Papiret var gulnet af ælde og smuldrede mellem fingrene.",
+    "synonyms": [
+      "alderdom",
+      "alder",
+      "affældighed"
+    ],
+    "origin": "Fra oldnordisk elli «alderdom»; beslægtet med ældre og med engelsk old."
+  },
+  {
+    "lemma": "skalkeskjul",
+    "level": 3,
+    "part_of_speech": "sb. itk.",
+    "ipa": "ˈsɡalɡəˌsɡjuˀl",
+    "definition": "Påskud, der dækker over den egentlige hensigt",
+    "example": "Besparelserne blev brugt som skalkeskjul for at lukke afdelingen.",
+    "synonyms": [
+      "påskud",
+      "dække",
+      "dækmanøvre"
+    ],
+    "origin": "Af skalk «skælm, bedrager», fra middelnedertysk schalk, og skjul: egentlig «skjul for en slyngel»."
+  },
+  {
+    "lemma": "døgenigt",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈdʌjəˌneɡd",
+    "definition": "Doven og uduelig person",
+    "example": "Onklen regnede ham for en døgenigt, der aldrig ville blive til noget.",
+    "synonyms": [
+      "drønnert",
+      "dagdriver",
+      "drivert"
+    ],
+    "origin": "Fra middelnedertysk dogenicht, egentlig «duer ikke»; samme dannelse som tysk Taugenichts."
+  },
+  {
+    "lemma": "fusentast",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈfuˀsənˌtasd",
+    "definition": "Ubesindig person, der farer frem uden omtanke",
+    "example": "Den unge fusentast købte huset uden så meget som at se taget.",
+    "synonyms": [
+      "vildbasse",
+      "brushoved"
+    ],
+    "origin": "Vistnok dannet til fuse «fare frem»; den nærmere dannelse er usikker."
+  },
+  {
+    "lemma": "pebersvend",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈpewɐˌsvɛnˀ",
+    "definition": "Ældre ugift mand",
+    "example": "Han blev aldrig gift og endte som en tilfreds pebersvend.",
+    "synonyms": [
+      "ungkarl",
+      "enspænder"
+    ],
+    "origin": "Egentlig «pebersælger»: de hanseatiske købmænds svende, der handlede med krydderier, måtte ifølge traditionen ikke gifte sig."
+  },
+  {
+    "lemma": "kleresi",
+    "level": 3,
+    "part_of_speech": "sb. itk.",
+    "ipa": "klɛʁəˈsiˀ",
+    "definition": "Præsterne som samlet stand",
+    "example": "Hele byens kleresi var mødt op til bispens jubilæum.",
+    "synonyms": [
+      "gejstlighed",
+      "præsteskab",
+      "klerus"
+    ],
+    "origin": "Via middelnedertysk fra middelalderlatin clericia; af samme rod som klerk."
+  },
+  {
+    "lemma": "ordgyderi",
+    "level": 3,
+    "part_of_speech": "sb. itk.",
+    "ipa": "ˈoɐ̯ˌɡyðəˌʁiˀ",
+    "definition": "Lang og tom talestrøm",
+    "example": "Mødet druknede i ordgyderi, og intet blev besluttet.",
+    "synonyms": [
+      "tomsnak",
+      "ordflom",
+      "snakkesalighed"
+    ],
+    "origin": "Af ord og gyde «hælde, udøse»: egentlig det at hælde ord ud."
+  },
+  {
+    "lemma": "åsyn",
+    "level": 3,
+    "part_of_speech": "sb. itk.",
+    "ipa": "ˈɔːˌsyˀn",
+    "definition": "Ansigtet, især i højtideligt sprog",
+    "example": "For Herrens åsyn er alle mennesker lige, sagde præsten.",
+    "synonyms": [
+      "ansigt",
+      "mine"
+    ],
+    "origin": "Fra oldnordisk ásýn «udseende, ansigt», af á «på» og sýn «syn»."
+  },
+  {
+    "lemma": "tant",
+    "level": 3,
+    "part_of_speech": "sb. itk.",
+    "ipa": "ˈtanˀd",
+    "definition": "Tomt og værdiløst pjank",
+    "example": "Alt det guld var kun tant og forfængelighed, tænkte hun.",
+    "synonyms": [
+      "pjank",
+      "flitter",
+      "tomhed"
+    ],
+    "origin": "Fra middelnedertysk tant «tom snak, narrestreger»; jævnfør tysk Tand."
+  },
+  {
+    "lemma": "vånde",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈvʌnə",
+    "definition": "Dyb pine eller knibe",
+    "example": "I sin vånde ringede hun til sin gamle lærer.",
+    "synonyms": [
+      "nød",
+      "kval",
+      "knibe"
+    ],
+    "origin": "Fra oldnordisk vandi «vanskelighed», afledt af vandr «vanskelig»."
+  },
+  {
+    "lemma": "tilskikkelse",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈtelˌsɡeɡəlsə",
+    "definition": "Hændelse, som skæbnen sender",
+    "example": "Ved en lykkelig tilskikkelse mødtes de igen på en perron i Hamborg.",
+    "synonyms": [
+      "skæbne",
+      "hændelse",
+      "tilfælde"
+    ],
+    "origin": "Afledt af tilskikke «sende, lade times», efter tysk zuschicken; jævnfør Schicksal «skæbne»."
+  },
+  {
+    "lemma": "ødeland",
+    "level": 3,
+    "part_of_speech": "sb. fk.",
+    "ipa": "ˈøːðəˌlanˀ",
+    "definition": "Person, der sløser sin formue bort",
+    "example": "Sønnen var en ødeland, der satte hele arven over styr.",
+    "synonyms": [
+      "ødsler",
+      "sløser"
+    ],
+    "origin": "Af øde «forbruge, gøre øde» og land: egentlig «den, der øder sit land»."
+  }
+]

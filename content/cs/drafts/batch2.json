@@ -1,0 +1,898 @@
+[
+  {
+    "lemma": "pomíjivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈpomiːjɪviː",
+    "definition": "Trvající jen krátce, rychle mizející",
+    "example": "Krása třešňových květů je pomíjivá, a proto tak vzácná.",
+    "synonyms": [
+      "prchavý",
+      "dočasný",
+      "efemérní"
+    ],
+    "origin": "Od pomíjet, tedy po- a míjet (praslovanské *minǫti „minout“): „co přejde a zmizí“."
+  },
+  {
+    "lemma": "malicherný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈmalɪxɛrniː",
+    "definition": "Zabývající se bezvýznamnými drobnostmi",
+    "example": "Kvůli malichernému sporu o plot spolu deset let nemluvili.",
+    "synonyms": [
+      "titěrný",
+      "nicotný",
+      "puntičkářský"
+    ],
+    "origin": "Ve staré češtině „maličký, nepatrný“; odvozeno od malý, tvoření přípony není zcela průhledné."
+  },
+  {
+    "lemma": "úlisný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈuːlɪsniː",
+    "definition": "Falešně milý a lichotivý",
+    "example": "Úlisný obchodník chválil každého, kdo otevřel peněženku.",
+    "synonyms": [
+      "pokrytecký",
+      "lstivý",
+      "podlézavý"
+    ],
+    "origin": "Od lísat se „lichotit“; to se nejspíš odvozuje od lis, liška, výklad však není jistý."
+  },
+  {
+    "lemma": "prostořeký",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈprostor̝ɛkiː",
+    "definition": "Říkající bez zábran, co má na jazyku",
+    "example": "Prostořeká teta se u oběda zeptala, kolik ten prsten stál.",
+    "synonyms": [
+      "otevřený",
+      "hubatý",
+      "jazyčnatý"
+    ],
+    "origin": "Složeno z prostý „přímý, volný“ a staročeského řéci „říci“: „kdo mluví zpříma“."
+  },
+  {
+    "lemma": "bodrý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈbodriː",
+    "definition": "Srdečně veselý, přímý a dobromyslný",
+    "example": "Bodrý hostinský vítal každého hosta jako starého přítele.",
+    "synonyms": [
+      "žoviální",
+      "srdečný",
+      "dobrácký"
+    ],
+    "origin": "Převzato za obrození z ruštiny (bódryj „čilý, svěží“), z praslovanského *bъdrъ, příbuzného s bdít."
+  },
+  {
+    "lemma": "rozpustilý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈrospustɪliː",
+    "definition": "Bujně veselý a neposlušný",
+    "example": "Rozpustilé děti cákaly vodu po celé koupelně.",
+    "synonyms": [
+      "dovádivý",
+      "nezbedný",
+      "bujný"
+    ],
+    "origin": "Od rozpustit „uvolnit, povolit“: původně „nevázaný, bez kázně“."
+  },
+  {
+    "lemma": "strohý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈstroɦiː",
+    "definition": "Úsporný, přísný, bez ozdob a vlídnosti",
+    "example": "Na dlouhý dopis přišla strohá odpověď o třech slovech.",
+    "synonyms": [
+      "úsečný",
+      "přísný",
+      "odměřený"
+    ],
+    "origin": "Převzato za obrození z ruštiny (strógij „přísný“); praslovanské *strogъ."
+  },
+  {
+    "lemma": "ledabylý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈlɛdabɪliː",
+    "definition": "Dělaný nebo jednající bez péče",
+    "example": "Za ledabylou práci na střeše zaplatili po první bouřce.",
+    "synonyms": [
+      "nedbalý",
+      "povrchní",
+      "lajdácký"
+    ],
+    "origin": "Ze spojení leda bylo, tedy „jen aby bylo“: hlavně ať je hotovo, ať už jakkoli."
+  },
+  {
+    "lemma": "jízlivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈjiːzlɪviː",
+    "definition": "Zlomyslně posměšný, zraňující slovem",
+    "example": "Jízlivou poznámkou o jejím věku zkazil celou oslavu.",
+    "synonyms": [
+      "kousavý",
+      "uštěpačný",
+      "sarkastický"
+    ],
+    "origin": "Nejspíš příbuzné se slovem jizva (praslovanské *jazva „rána“): „zraňující“."
+  },
+  {
+    "lemma": "nedůtklivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈnɛduːtklɪviː",
+    "definition": "Snadno se urážející, přecitlivělý na kritiku",
+    "example": "Na otázky o své minulosti byl velmi nedůtklivý.",
+    "synonyms": [
+      "urážlivý",
+      "přecitlivělý",
+      "vztahovačný"
+    ],
+    "origin": "Od dotknout se (srov. důtka): původně „nesnášející dotek“."
+  },
+  {
+    "lemma": "potměšilý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈpotmɲɛʃɪliː",
+    "definition": "Skrytě zlomyslný, jednající za zády",
+    "example": "Potměšilý úsměv prozradil, že zprávu poslal on.",
+    "synonyms": [
+      "záludný",
+      "úskočný",
+      "zákeřný"
+    ],
+    "origin": "Ze spojení po tmě: kdo své úmysly provádí potmě, skrytě."
+  },
+  {
+    "lemma": "zarputilý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈzar̩putɪliː",
+    "definition": "Tvrdošíjně setrvávající na svém",
+    "example": "Zarputilý odpůrce novot odmítal i mobilní telefon.",
+    "synonyms": [
+      "umíněný",
+      "tvrdohlavý",
+      "neústupný"
+    ],
+    "origin": "Souvisí s urputný a staročeským rpútiti sě „vzpírat se“; další původ je nejistý."
+  },
+  {
+    "lemma": "neochvějný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈnɛoxvjɛjniː",
+    "definition": "Pevný, ničím nezviklatelný",
+    "example": "Její neochvějná víra v syna ho podržela v nejtěžších chvílích.",
+    "synonyms": [
+      "pevný",
+      "nezlomný",
+      "skálopevný"
+    ],
+    "origin": "Ze záporky ne- a ochvět, chvět (praslovanské *xvějati „kývat, třást“)."
+  },
+  {
+    "lemma": "vratký",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈvratkiː",
+    "definition": "Nestabilní, snadno ztrácející rovnováhu",
+    "example": "Vratká loďka se zakymácela pod každým pohybem.",
+    "synonyms": [
+      "nestálý",
+      "kolísavý",
+      "labilní"
+    ],
+    "origin": "Od vrátit, vracet (praslovanské *vortiti „obracet“): „snadno se obracející“."
+  },
+  {
+    "lemma": "ryzí",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈrɪziː",
+    "definition": "Zcela čistý, bez příměsí a přetvářky",
+    "example": "Byla to ryzí radost, bez nejmenšího stínu závisti.",
+    "synonyms": [
+      "čistý",
+      "pravý",
+      "opravdový"
+    ],
+    "origin": "Původně „červenavý“ (praslovanské *ryďь, srov. rudý, ryšavý): ryzí zlato bylo to načervenalé, bez příměsí."
+  },
+  {
+    "lemma": "tklivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈtklɪviː",
+    "definition": "Jemně dojemný, budící lítost a něhu",
+    "example": "Housle hrály tklivou píseň o ztraceném domově.",
+    "synonyms": [
+      "dojemný",
+      "teskný",
+      "žalostný"
+    ],
+    "origin": "Od tknout se „dotknout se“ (praslovanské *tъknǫti): co se dotýká srdce."
+  },
+  {
+    "lemma": "lstivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈlscɪviː",
+    "definition": "Dosahující svého klamem a chytráctvím",
+    "example": "Lstivý lišák v bajce vyláká na vráně sýr.",
+    "synonyms": [
+      "úskočný",
+      "prohnaný",
+      "mazaný"
+    ],
+    "origin": "Od lest, z praslovanského *lьstь, převzatého z germánštiny (gótské lists; srov. německé List)."
+  },
+  {
+    "lemma": "liknavý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈlɪknaviː",
+    "definition": "Pomalý a neochotný něco vyřídit",
+    "example": "Liknavý úředník nechal žádost ležet půl roku.",
+    "synonyms": [
+      "váhavý",
+      "nedbalý",
+      "loudavý"
+    ],
+    "origin": "Od staročeského liknovati sě „zdráhat se, vyhýbat se“; další původ je nejistý."
+  },
+  {
+    "lemma": "marnivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈmarɲɪviː",
+    "definition": "Příliš si zakládající na svém zevnějšku",
+    "example": "Marnivý princ trávil před zrcadlem celá dopoledne.",
+    "synonyms": [
+      "ješitný",
+      "parádivý",
+      "fintivý"
+    ],
+    "origin": "Od marný „prázdný, klamný“, které patří ke slovesu mařit."
+  },
+  {
+    "lemma": "nabubřelý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈnabubr̝ɛliː",
+    "definition": "Nafoukaný, plný prázdné okázalosti",
+    "example": "Jeho nabubřelý projev plný cizích slov nikoho nepřesvědčil.",
+    "synonyms": [
+      "nadutý",
+      "bombastický",
+      "nafoukaný"
+    ],
+    "origin": "Od nabubřet „nabobtnat, nadout se“; základ bub- je nejspíš zvukomalebný (srov. bublina)."
+  },
+  {
+    "lemma": "okázalý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈokaːzaliː",
+    "definition": "Vystavovaný na odiv, nápadně honosný",
+    "example": "Okázalá svatba stála víc než dům, ve kterém pak bydleli.",
+    "synonyms": [
+      "honosný",
+      "pompézní",
+      "nápadný"
+    ],
+    "origin": "Od okázat „ukázat, předvést“, tedy od kázat ve starším významu „ukazovat“."
+  },
+  {
+    "lemma": "ošemetný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈoʃɛmɛtniː",
+    "definition": "Zrádně obtížný, vyžadující velkou opatrnost",
+    "example": "Dostal se do ošemetné situace, ze které nevedla dobrá cesta.",
+    "synonyms": [
+      "choulostivý",
+      "zrádný",
+      "prekérní"
+    ],
+    "origin": "Ve starší češtině znamenalo „falešný, pokrytecký“; původ není jistý."
+  },
+  {
+    "lemma": "shovívavý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈsxoviːvaviː",
+    "definition": "Mírně a s pochopením posuzující chyby druhých",
+    "example": "Shovívavá učitelka dala žákům ještě jeden pokus.",
+    "synonyms": [
+      "tolerantní",
+      "trpělivý",
+      "mírný"
+    ],
+    "origin": "Od staročeského shovieti „poshovět, dopřát odklad“, z praslovanského *gověti „projevovat úctu, vyhovovat“."
+  },
+  {
+    "lemma": "uštěpačný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈuʃcɛpat͡ʃniː",
+    "definition": "Kousavě posměšný, bodající poznámkami",
+    "example": "Uštěpačným tónem se zeptal, jestli už konečně umí hodiny.",
+    "synonyms": [
+      "jízlivý",
+      "kousavý",
+      "ironický"
+    ],
+    "origin": "Od uštípnout, štípat: řeč, která „štípe“."
+  },
+  {
+    "lemma": "všetečný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈfʃɛtɛt͡ʃniː",
+    "definition": "Dotěrně zvědavý, pletoucí se do všeho",
+    "example": "Všetečné otázky malého kluka uvedly hosty do rozpaků.",
+    "synonyms": [
+      "zvědavý",
+      "dotěrný",
+      "vlezlý"
+    ],
+    "origin": "Složeno z vše a druhé části, vykládané buď z téci „běžet“ (kdo všude běhá), nebo z týkat se (kdo se všeho dotýká)."
+  },
+  {
+    "lemma": "bezelstný",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈbɛzɛlstniː",
+    "definition": "Upřímný, bez postranních úmyslů",
+    "example": "Bezelstný úsměv dítěte odzbrojil i přísného celníka.",
+    "synonyms": [
+      "upřímný",
+      "důvěřivý",
+      "nevinný"
+    ],
+    "origin": "Složeno z beze a lest (praslovanské *lьstь, z germánštiny): „jsoucí beze lsti“."
+  },
+  {
+    "lemma": "zádumčivý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈzaːdumt͡ʃɪviː",
+    "definition": "Tiše smutný a pohroužený do sebe",
+    "example": "Po dědově smrti býval dlouho zádumčivý a málomluvný.",
+    "synonyms": [
+      "zasmušilý",
+      "melancholický",
+      "tesklivý"
+    ],
+    "origin": "Od zadumat se, tedy od duma, dumat, slov převzatých za obrození z ruštiny nebo polštiny."
+  },
+  {
+    "lemma": "pošetilý",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈpoʃɛcɪliː",
+    "definition": "Jednající nerozumně, bláhově",
+    "example": "Bylo pošetilé věřit, že se dluhy zaplatí samy.",
+    "synonyms": [
+      "bláhový",
+      "nerozumný",
+      "hloupý"
+    ],
+    "origin": "Ve staré češtině znamenalo „pomatený, šílený“; další původ je nejasný."
+  },
+  {
+    "lemma": "šibalský",
+    "level": 2,
+    "part_of_speech": "příd.",
+    "ipa": "ˈʃɪbalskiː",
+    "definition": "Rozpustile vychytralý, plný veselé lsti",
+    "example": "Šibalským mrknutím dal najevo, že o překvapení dávno ví.",
+    "synonyms": [
+      "čtverácký",
+      "uličnický",
+      "rošťácký"
+    ],
+    "origin": "Od šibal „taškář, čtverák“, které patří k šibat „švihat, mrskat“; snad „kdo zasluhuje výprask“."
+  },
+  {
+    "lemma": "brojit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈbrojɪt",
+    "definition": "Ostře proti něčemu vystupovat",
+    "example": "Celý život brojil proti plýtvání veřejnými penězi.",
+    "synonyms": [
+      "bojovat",
+      "horlit",
+      "protestovat"
+    ],
+    "origin": "Ze staročeského brojiti „bouřit, vířit, řádit“, od broj „vzbouření, hemžení“."
+  },
+  {
+    "lemma": "horlit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈɦorlɪt",
+    "definition": "Zaníceně se pro něco nebo proti něčemu vyslovovat",
+    "example": "Na schůzi horlil pro stavbu nové školy.",
+    "synonyms": [
+      "brojit",
+      "agitovat",
+      "kázat"
+    ],
+    "origin": "Od horlivý, příbuzného s hořet (praslovanské *gorěti): „hořet pro věc“."
+  },
+  {
+    "lemma": "velebit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈvɛlɛbɪt",
+    "definition": "Nadšeně a okázale chválit",
+    "example": "Kritici velebili její debut jako knihu roku.",
+    "synonyms": [
+      "chválit",
+      "opěvovat",
+      "oslavovat"
+    ],
+    "origin": "Od staročeského veleba „velikost, vznešenost“, od základu vel- „velký“."
+  },
+  {
+    "lemma": "spílat",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈspiːlat",
+    "definition": "Hrubě někomu nadávat",
+    "example": "Rozzlobení řidiči si spílali přes stažená okénka.",
+    "synonyms": [
+      "nadávat",
+      "lát",
+      "hubovat"
+    ],
+    "origin": "Nejspíš ze staročeského spíleti „žertovat, tropit si posměch“, převzatého ze středohornoněmeckého spiln „hrát“."
+  },
+  {
+    "lemma": "rmoutit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈr̩mou̯cɪt",
+    "definition": "Naplňovat smutkem, trápit",
+    "example": "Nejvíc ho rmoutilo, že mu děti přestaly psát.",
+    "synonyms": [
+      "trápit",
+      "zarmucovat",
+      "soužit"
+    ],
+    "origin": "Souvisí se slovy zármutek a smutek, tedy nejspíš s praslovanským *mǫtiti „kalit, mást“; hláska r je druhotná."
+  },
+  {
+    "lemma": "ukojit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈukojɪt",
+    "definition": "Uspokojit touhu nebo potřebu",
+    "example": "Ani třetí porce neukojila jeho vlčí hlad.",
+    "synonyms": [
+      "uspokojit",
+      "utišit",
+      "nasytit"
+    ],
+    "origin": "Od kojit ve starším významu „tišit, uklidňovat“ (praslovanské *kojiti), příbuzného s pokoj."
+  },
+  {
+    "lemma": "lpět",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈl̩pjɛt",
+    "definition": "Pevně se něčeho držet, nechtít se vzdát",
+    "example": "Není dobré lpět na věcech, které už nikomu neslouží.",
+    "synonyms": [
+      "trvat",
+      "ulpívat",
+      "viset"
+    ],
+    "origin": "Z praslovanského *lьpěti „být přilepen“; příbuzné je lepit a lep."
+  },
+  {
+    "lemma": "zdolat",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈzdolat",
+    "definition": "Překonat s úsilím překážku",
+    "example": "Horolezci zdolali vrchol až na třetí pokus.",
+    "synonyms": [
+      "překonat",
+      "pokořit",
+      "přemoci"
+    ],
+    "origin": "Z předpony z- a staročeského základu dol- „přemáhat“ (praslovanské *dolěti), který je i ve slovech odolat a udolat."
+  },
+  {
+    "lemma": "hýřit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈɦiːr̝ɪt",
+    "definition": "Bezuzdně utrácet nebo něčím překypovat",
+    "example": "Zahrada v červnu hýřila všemi barvami.",
+    "synonyms": [
+      "plýtvat",
+      "překypovat",
+      "flámovat"
+    ],
+    "origin": "Staročeské hýřiti znamenalo „chybovat, hřešit“; další původ není jistý."
+  },
+  {
+    "lemma": "konejšit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈkonɛjʃɪt",
+    "definition": "Tišit a uklidňovat laskavým slovem či dotykem",
+    "example": "Matka konejšila plačící dítě tichou ukolébavkou.",
+    "synonyms": [
+      "utěšovat",
+      "chlácholit",
+      "uklidňovat"
+    ],
+    "origin": "Původ není jistý; bývá spojováno se slovesem kojit ve starším významu „tišit“ (srov. pokoj, ukojit)."
+  },
+  {
+    "lemma": "chlácholit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈxlaːxolɪt",
+    "definition": "Uklidňovat někoho mírnými, těšivými slovy",
+    "example": "Chlácholil ji, že zkoušku napodruhé určitě udělá.",
+    "synonyms": [
+      "konejšit",
+      "utěšovat",
+      "tišit"
+    ],
+    "origin": "Z praslovanského *xolxoliti, zdvojením kořene *xol-, který je i v ruském chólit „hýčkat, opečovávat“."
+  },
+  {
+    "lemma": "reptat",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈrɛptat",
+    "definition": "Polohlasně a nespokojeně si stěžovat",
+    "example": "Vojáci reptali na studenou polévku, ale snědli ji.",
+    "synonyms": [
+      "brblat",
+      "remcat",
+      "bručet"
+    ],
+    "origin": "Z praslovanského *rъpъtati, slova zvukomalebného původu; příbuzné je ruské roptáť."
+  },
+  {
+    "lemma": "otálet",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈotaːlɛt",
+    "definition": "Zbytečně odkládat to, co se má udělat",
+    "example": "Otálel s odpovědí tak dlouho, až nabídka propadla.",
+    "synonyms": [
+      "váhat",
+      "odkládat",
+      "prodlévat"
+    ],
+    "origin": "Nejspíš z původního ot-dáleti, tedy „oddalovat“, od dál, daleký."
+  },
+  {
+    "lemma": "vábit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈvaːbɪt",
+    "definition": "Lákat něčím příjemným, přitahovat",
+    "example": "Vůně čerstvého chleba vábila kolemjdoucí do pekárny.",
+    "synonyms": [
+      "lákat",
+      "přitahovat",
+      "svádět"
+    ],
+    "origin": "Z praslovanského *vabiti „lákat, přivolávat“, původně nejspíš lovecký výraz pro lákání ptáků a zvěře."
+  },
+  {
+    "lemma": "žadonit",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈʒadoɲɪt",
+    "definition": "Úpěnlivě a opakovaně o něco prosit",
+    "example": "Děti žadonily o zmrzlinu tak dlouho, až ji dostaly.",
+    "synonyms": [
+      "prosit",
+      "škemrat",
+      "loudit"
+    ],
+    "origin": "Od žádat, z praslovanského *žędati „toužit, žíznit“."
+  },
+  {
+    "lemma": "kárat",
+    "level": 2,
+    "part_of_speech": "slov.",
+    "ipa": "ˈkaːrat",
+    "definition": "Přísně někomu vytýkat jeho chování",
+    "example": "Učitel káral žáky za pozdní příchod, ale bez hněvu.",
+    "synonyms": [
+      "napomínat",
+      "hubovat",
+      "peskovat"
+    ],
+    "origin": "Z praslovanského *karati „trestat“; od téhož základu je i kořit a pokora."
+  },
+  {
+    "lemma": "úklad",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈuːklat",
+    "definition": "Tajně připravená lest proti někomu",
+    "example": "Král unikl úkladům jen díky věrnému sluhovi.",
+    "synonyms": [
+      "nástraha",
+      "léčka",
+      "intrika"
+    ],
+    "origin": "Od ukládat (o něco), tedy od klást: původně „nastražená past“."
+  },
+  {
+    "lemma": "vrtoch",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈvr̩tox",
+    "definition": "Podivný, náladový nápad",
+    "example": "Podřídit se každému jeho vrtochu už odmítala.",
+    "synonyms": [
+      "rozmar",
+      "libůstka",
+      "manýra"
+    ],
+    "origin": "Od vrtět (praslovanské *vьrtěti „točit“), tedy něco vrtkavého, nestálého."
+  },
+  {
+    "lemma": "zášť",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈzaːʃc",
+    "definition": "Hluboká, dlouho živená nenávist",
+    "example": "Mezi oběma rody panovala zášť po celé generace.",
+    "synonyms": [
+      "nenávist",
+      "nevraživost",
+      "zloba"
+    ],
+    "origin": "Staročeské záštie, nejspíš odvozené od zajít (kořen šed- jako v šel): to, co mezi lidi „zašlo“."
+  },
+  {
+    "lemma": "zvůle",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈzvuːlɛ",
+    "definition": "Bezohledné jednání podle vlastní libosti",
+    "example": "Občané se bouřili proti zvůli místních úředníků.",
+    "synonyms": [
+      "svévole",
+      "libovůle",
+      "despocie"
+    ],
+    "origin": "Od vůle (praslovanské *voľa) s předponou z-; srov. svévole."
+  },
+  {
+    "lemma": "libůstka",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈlɪbuːstka",
+    "definition": "Drobná osobní záliba nebo zvláštnost",
+    "example": "Sbírání pivních tácků byla jeho neškodná libůstka.",
+    "synonyms": [
+      "záliba",
+      "rozmar",
+      "koníček"
+    ],
+    "origin": "Zdrobnělina od libost, od libý „příjemný“ (praslovanské *ľubъ „milý“)."
+  },
+  {
+    "lemma": "odkaz",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈotkas",
+    "definition": "To, co někdo zanechal dalším generacím",
+    "example": "Komenského odkaz žije v každé dobré škole.",
+    "synonyms": [
+      "dědictví",
+      "poselství",
+      "závěť"
+    ],
+    "origin": "Od odkázat „zanechat poslední vůlí“, tedy od kázat „ukazovat, určovat“."
+  },
+  {
+    "lemma": "žal",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈʒal",
+    "definition": "Hluboký, tichý zármutek",
+    "example": "Její žal po manželovi nezmírnil ani čas.",
+    "synonyms": [
+      "zármutek",
+      "smutek",
+      "hoře"
+    ],
+    "origin": "Z praslovanského *žalь „bolest, lítost“; od téhož základu je želet."
+  },
+  {
+    "lemma": "tíseň",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈciːsɛɲ",
+    "definition": "Svíravý stav nouze nebo úzkosti",
+    "example": "Finanční tíseň donutila rodinu prodat chalupu.",
+    "synonyms": [
+      "nouze",
+      "úzkost",
+      "stísněnost"
+    ],
+    "origin": "Od tísnit, od praslovanského *těskъ „těsný“; příbuzné je těsný a tisknout."
+  },
+  {
+    "lemma": "rozbřesk",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈrozbr̝ɛsk",
+    "definition": "Chvíle, kdy se začíná rozednívat",
+    "example": "Za rozbřesku už stáli s dalekohledy u rybníka.",
+    "synonyms": [
+      "úsvit",
+      "svítání",
+      "jitro"
+    ],
+    "origin": "Od rozbřesknout se, ze staročeského břěsk „svítání“ (praslovanské *brězgъ)."
+  },
+  {
+    "lemma": "přelud",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈpr̝̊ɛlut",
+    "definition": "Klamný obraz vytvořený smysly nebo fantazií",
+    "example": "Oáza na obzoru se ukázala jako pouhý přelud.",
+    "synonyms": [
+      "vidina",
+      "iluze",
+      "klam"
+    ],
+    "origin": "Od staročeského lúditi „mámit, vábit“ (srov. loudit, obluzovat) s předponou pře-."
+  },
+  {
+    "lemma": "újma",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈuːjma",
+    "definition": "Škoda nebo ztráta, kterou někdo utrpí",
+    "example": "Největší újma, kterou skandál způsobil, byla ztráta důvěry.",
+    "synonyms": [
+      "škoda",
+      "ztráta",
+      "poškození"
+    ],
+    "origin": "Od ujmout „ubrat“, tedy u- a jmout (praslovanské *jęti „brát“): „to, co bylo ubráno“."
+  },
+  {
+    "lemma": "podobenství",
+    "level": 2,
+    "part_of_speech": "podst. s.",
+    "ipa": "ˈpodobɛnstviː",
+    "definition": "Krátký příběh s obrazným ponaučením",
+    "example": "Podobenství o marnotratném synu zná skoro každý.",
+    "synonyms": [
+      "parabola",
+      "alegorie",
+      "přirovnání"
+    ],
+    "origin": "Od podobný, podoba; jako označení obrazného příběhu se ustálilo v biblických překladech."
+  },
+  {
+    "lemma": "úděl",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈuːɟɛl",
+    "definition": "To, co je člověku souzeno prožít",
+    "example": "Samota bývá častým údělem velkých myslitelů.",
+    "synonyms": [
+      "osud",
+      "los",
+      "sudba"
+    ],
+    "origin": "Od slovesa udělit, tedy od díl: „to, co bylo někomu přiděleno“."
+  },
+  {
+    "lemma": "bázeň",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈbaːzɛɲ",
+    "definition": "Strach spojený s úctou",
+    "example": "Před starým profesorem cítili studenti úctu i bázeň.",
+    "synonyms": [
+      "strach",
+      "obava",
+      "respekt"
+    ],
+    "origin": "Od slovesa bát se (praslovanské *bojati sę) příponou -zeň jako ve slovech kázeň a přízeň."
+  },
+  {
+    "lemma": "klam",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈklam",
+    "definition": "Mylný dojem nebo záměrné uvedení v omyl",
+    "example": "Zdálo se, že voda je blízko, ale byl to jen optický klam.",
+    "synonyms": [
+      "přelud",
+      "iluze",
+      "podvod"
+    ],
+    "origin": "Staročeské klam znamenalo i „žert, šalba“; příbuzné je polské kłam „lež“, další původ je nejistý."
+  },
+  {
+    "lemma": "pokora",
+    "level": 2,
+    "part_of_speech": "podst. ž.",
+    "ipa": "ˈpokora",
+    "definition": "Vědomí vlastních mezí a neokázalá skromnost",
+    "example": "S pokorou přijal kritiku a slíbil, že se polepší.",
+    "synonyms": [
+      "skromnost",
+      "poníženost",
+      "oddanost"
+    ],
+    "origin": "Od pokořit, z praslovanského *koriti „ponižovat, kárat“; příbuzné je kárat."
+  },
+  {
+    "lemma": "vděk",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈvɟɛk",
+    "definition": "Pocit závazku a uznání za prokázané dobro",
+    "example": "Místo vděku sklidil za svou pomoc jen výčitky.",
+    "synonyms": [
+      "vděčnost",
+      "uznání",
+      "díky"
+    ],
+    "origin": "Ze spojení v děk, od staročeského děk „dík“, převzatého ze staré horní němčiny (dank)."
+  },
+  {
+    "lemma": "rozmar",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈrozmar",
+    "definition": "Náhlý, nevypočitatelný nápad nebo nálada",
+    "example": "Podle okamžitého rozmaru změnila plán celé dovolené.",
+    "synonyms": [
+      "vrtoch",
+      "libůstka",
+      "nálada"
+    ],
+    "origin": "Novější slovo utvořené nejspíš k rozmařilý „zhýčkaný, požitkářský“, od mařit „ničit, promarňovat“."
+  },
+  {
+    "lemma": "ostych",
+    "level": 2,
+    "part_of_speech": "podst. m.",
+    "ipa": "ˈostɪx",
+    "definition": "Nesmělost a zábrana před druhými lidmi",
+    "example": "Bez ostychu přistoupil k řediteli a řekl mu svůj názor.",
+    "synonyms": [
+      "stud",
+      "nesmělost",
+      "rozpaky"
+    ],
+    "origin": "Od ostýchat se, které nejspíš souvisí se slovesem stydět se (praslovanské *styděti sę)."
+  }
+]

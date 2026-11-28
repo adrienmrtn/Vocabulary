@@ -40,6 +40,7 @@ struct RootView: View {
         .tint(Color.brandBlue)
         .preferredColorScheme(.light)
         .environment(\.locale, Locale(identifier: language.language.rawValue))
+        .environment(\.layoutDirection, language.language.isRightToLeft ? .rightToLeft : .leftToRight)
     }
 }
 

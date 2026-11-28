@@ -1,0 +1,746 @@
+[
+ {
+  "lemma": "zarif",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "zaˈɾif",
+  "definition": "İnce, hoş ve güzel görünen",
+  "example": "Davetiyeyi zarif bir el yazısıyla tek tek kendisi yazmıştı.",
+  "synonyms": [
+   "ince",
+   "şık",
+   "narin"
+  ],
+  "origin": "Arapça ẓarīf «ince, nükteli, hoş» sözünden."
+ },
+ {
+  "lemma": "naif",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "naːˈif",
+  "definition": "Saf, içten ve yapmacıksız",
+  "example": "Ressamın naif çizgileri çocukluğun dünyasını hatırlatıyor.",
+  "synonyms": [
+   "saf",
+   "temiz"
+  ],
+  "origin": "Fransızca naïf «doğal, saf» sözünden; o da Latince nativus «doğuştan gelen» sözünden."
+ },
+ {
+  "lemma": "mütevazı",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "mytevaːˈzɯ",
+  "definition": "Kendini büyük görmeyen, gösterişten uzak",
+  "example": "Ödülü alırken bile mütevazı tavrını hiç bozmadı.",
+  "synonyms": [
+   "alçakgönüllü",
+   "sade"
+  ],
+  "origin": "Arapça mutawāḍiʿ «alçakgönüllü» sözünden; tevazu ile aynı kökten."
+ },
+ {
+  "lemma": "cömert",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "dʒœˈmeɾt",
+  "definition": "Elindekini başkalarıyla seve seve paylaşan",
+  "example": "Dedem cömert bir adamdı, sofrasından kimse aç kalkmazdı.",
+  "synonyms": [
+   "eliaçık",
+   "bonkör"
+  ],
+  "origin": "Farsça cevānmerd «genç adam; yiğit, eli açık kişi» sözünden."
+ },
+ {
+  "lemma": "vefa",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "veˈfaː",
+  "definition": "Sevgide ve dostlukta sürekli bağlılık",
+  "example": "Kırk yıllık arkadaşına gösterdiği vefa herkesi duygulandırdı.",
+  "synonyms": [
+   "bağlılık",
+   "sadakat"
+  ],
+  "origin": "Arapça wafāʾ «sözünü tutma, borcunu ödeme» sözünden."
+ },
+ {
+  "lemma": "hüzün",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "hyˈzyn",
+  "definition": "İnsanın içine çöken ince keder",
+  "example": "Sonbahar akşamlarında şehre tatlı bir hüzün çöker.",
+  "synonyms": [
+   "keder",
+   "gam",
+   "tasa"
+  ],
+  "origin": "Arapça ḥuzn «üzüntü, keder» sözünden."
+ },
+ {
+  "lemma": "özlem",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "œzˈlem",
+  "definition": "Uzakta olana duyulan derin kavuşma isteği",
+  "example": "Memleketine duyduğu özlem her mektubunda biraz daha büyüyordu.",
+  "synonyms": [
+   "hasret",
+   "iştiyak"
+  ],
+  "origin": "Özlemek fiilinden -m ekiyle; 1930'larda hasret karşılığı olarak türetilmiştir."
+ },
+ {
+  "lemma": "merak",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "meˈɾak",
+  "definition": "Bir şeyi öğrenme, anlama isteği",
+  "example": "Çocuğun bitmek bilmeyen merakı öğretmenini hem yoruyor hem sevindiriyordu.",
+  "synonyms": [
+   "ilgi",
+   "tecessüs"
+  ],
+  "origin": "Arapça marāḳḳ «karın boşluğu» sözünden; eski hekimlikte kuruntu hastalığının buradan doğduğuna inanılırdı, bugünkü anlam Türkçede gelişmiştir."
+ },
+ {
+  "lemma": "samimi",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "samiːˈmiː",
+  "definition": "Duygusunu olduğu gibi gösteren, yapmacıksız",
+  "example": "Konuşması kısa ama samimi olduğu için herkesi etkiledi.",
+  "synonyms": [
+   "içten",
+   "candan"
+  ],
+  "origin": "Arapça ṣamīm «bir şeyin özü, içi» sözünden nispet ekiyle."
+ },
+ {
+  "lemma": "sükûnet",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "sykuːˈnet",
+  "definition": "Gürültünün ve telaşın olmadığı durum",
+  "example": "Sabahın erken saatlerinde göl kıyısında derin bir sükûnet vardı.",
+  "synonyms": [
+   "dinginlik",
+   "sessizlik"
+  ],
+  "origin": "Arapça sukūnat «durgunluk, hareketsizlik» sözünden; sükûn ile aynı kökten."
+ },
+ {
+  "lemma": "huzur",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "huˈzuɾ",
+  "definition": "Kaygıdan uzak iç rahatlığı",
+  "example": "Köy evinin bahçesinde uzun zamandır aradığı huzuru buldu.",
+  "synonyms": [
+   "rahat",
+   "dirlik"
+  ],
+  "origin": "Arapça ḥuḍūr «hazır bulunma, bir büyüğün önü» sözünden; «gönül rahatlığı» anlamı Türkçede gelişmiştir."
+ },
+ {
+  "lemma": "telaş",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "teˈlaʃ",
+  "definition": "Aceleyle karışık tedirginlik",
+  "example": "Misafirler gelmeden önce evde tatlı bir telaş başladı.",
+  "synonyms": [
+   "acele",
+   "panik"
+  ],
+  "origin": "Farsça talāş «çaba, koşuşturma» sözünden; bu sözün Farsçaya Türkçeden geçtiği de ileri sürülür."
+ },
+ {
+  "lemma": "gurur",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "ɡuˈɾuɾ",
+  "definition": "Kişinin kendine ya da yakınına duyduğu övünç",
+  "example": "Kızının sahnede diplomasını alışını gururla izledi.",
+  "synonyms": [
+   "kıvanç",
+   "övünç",
+   "onur"
+  ],
+  "origin": "Arapça ġurūr «aldanma, boş şeye güvenme» sözünden; olumlu anlam Türkçede öne çıkmıştır."
+ },
+ {
+  "lemma": "şefkat",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "ʃefˈkat",
+  "definition": "Koruyup esirgeyen sevgi",
+  "example": "Hemşire, yaşlı hastanın elini şefkatle tuttu.",
+  "synonyms": [
+   "sevecenlik",
+   "merhamet"
+  ],
+  "origin": "Arapça şafaḳat «acıyarak sevme» sözünden."
+ },
+ {
+  "lemma": "merhamet",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "meɾhaˈmet",
+  "definition": "Başkasının acısını paylaşıp ona kıyamama",
+  "example": "Hâkimden adalet kadar merhamet de bekliyorlardı.",
+  "synonyms": [
+   "acıma",
+   "şefkat"
+  ],
+  "origin": "Arapça marḥamat «acıma» sözünden; rahmet ile aynı kökten."
+ },
+ {
+  "lemma": "tebessüm",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "tebesˈsym",
+  "definition": "Sessiz, hafif gülüş",
+  "example": "Fotoğrafa bakarken yüzüne belli belirsiz bir tebessüm yayıldı.",
+  "synonyms": [
+   "gülümseme"
+  ],
+  "origin": "Arapça tabassum «gülümseme» sözünden."
+ },
+ {
+  "lemma": "keyif",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "keˈjif",
+  "definition": "İnsanın içini hoş eden rahatlık duygusu",
+  "example": "Pazar sabahı balkonda keyifle çayımızı içtik.",
+  "synonyms": [
+   "neşe",
+   "haz",
+   "zevk"
+  ],
+  "origin": "Arapça kayf «nasıl; hal, durum» sözünden; «hoşluk» anlamı sonradan gelişmiştir."
+ },
+ {
+  "lemma": "ferah",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "feˈɾah",
+  "definition": "Bol ışık ve hava alan, iç açıcı",
+  "example": "Yeni ev eskisinden çok daha ferah ve aydınlık.",
+  "synonyms": [
+   "geniş",
+   "havadar"
+  ],
+  "origin": "Arapça faraḥ «sevinç» sözünden; mekân için kullanımı Türkçede gelişmiştir."
+ },
+ {
+  "lemma": "sade",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "saːˈde",
+  "definition": "Süssüz, gösterişsiz ve karışık olmayan",
+  "example": "Yazar en zor konuları bile sade bir dille anlatıyor.",
+  "synonyms": [
+   "yalın",
+   "süssüz",
+   "basit"
+  ],
+  "origin": "Farsça sāde «düz, katışıksız» sözünden."
+ },
+ {
+  "lemma": "muhabbet",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "muhabˈbet",
+  "definition": "Dostça, tatlı söyleşi",
+  "example": "Çay bahçesinde saatlerce süren koyu bir muhabbete daldılar.",
+  "synonyms": [
+   "söyleşi",
+   "sohbet"
+  ],
+  "origin": "Arapça maḥabbat «sevgi» sözünden; «dostça konuşma» anlamı Türkçede gelişmiştir."
+ },
+ {
+  "lemma": "gönül",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "ɡœˈnyl",
+  "definition": "Sevgi ve isteğin kaynağı sayılan iç dünya",
+  "example": "Gönül ister ki bu güzel günler hiç bitmesin.",
+  "synonyms": [
+   "yürek",
+   "kalp"
+  ],
+  "origin": "Eski Türkçe köŋül «yürek, düşünce, his» sözünden."
+ },
+ {
+  "lemma": "sezgi",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "sezˈɡi",
+  "definition": "Kanıta dayanmadan doğrudan kavrama yeteneği",
+  "example": "Doktor, sezgisine güvenerek bir tahlil daha istedi.",
+  "synonyms": [
+   "önsezi",
+   "içgüdü"
+  ],
+  "origin": "Sezmek fiilinden -gi ekiyle; 1930'larda türetilmiştir."
+ },
+ {
+  "lemma": "özen",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "œˈzen",
+  "definition": "Bir işi kusursuz yapmak için gösterilen dikkat",
+  "example": "Bayram sofrasını her zamanki özeniyle tek başına hazırlamıştı.",
+  "synonyms": [
+   "itina",
+   "dikkat"
+  ],
+  "origin": "Özenmek fiilinden; 1930'larda itina karşılığı olarak yazı diline alınmıştır."
+ },
+ {
+  "lemma": "çaba",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "tʃaˈba",
+  "definition": "Bir işi başarmak için harcanan güç",
+  "example": "Bütün çabasına rağmen sabah trenini birkaç dakikayla kaçırdı.",
+  "synonyms": [
+   "gayret",
+   "uğraş",
+   "emek"
+  ],
+  "origin": "Çabalamak fiilinden geri türetmeyle; 1930'larda yaygınlaşmıştır."
+ },
+ {
+  "lemma": "erdem",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "eɾˈdem",
+  "definition": "İnsanı iyi kılan ahlaki üstünlük",
+  "example": "Sözünde durmak onun gözünde en büyük erdemdi.",
+  "synonyms": [
+   "fazilet",
+   "meziyet"
+  ],
+  "origin": "Eski Türkçe erdem «yiğitlik, hüner, fazilet» sözünden; er «erkek, yiğit» kökünden."
+ },
+ {
+  "lemma": "bilge",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "bilˈɡe",
+  "definition": "Derin kavrayışı olan, olgun düşünen",
+  "example": "Köyün bilge kadını her derde bir söz bulurdu.",
+  "synonyms": [
+   "arif",
+   "hikmetli"
+  ],
+  "origin": "Eski Türkçe bilge «akıllı; danışman» sözünden; bil- kökünden."
+ },
+ {
+  "lemma": "ılık",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "ɯˈlɯk",
+  "definition": "Ne sıcak ne soğuk, hoş bir sıcaklıkta",
+  "example": "Pencereden içeri ılık bir bahar havası doldu.",
+  "synonyms": [
+   "ılıman"
+  ],
+  "origin": "Eski Türkçe yılıġ «ılık» sözünden."
+ },
+ {
+  "lemma": "dingin",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "diŋˈɡin",
+  "definition": "Hareketi ve gürültüsü yatışmış, sakin",
+  "example": "Fırtınadan sonra deniz yeniden dingin ve masmaviydi.",
+  "synonyms": [
+   "sakin",
+   "durgun"
+  ],
+  "origin": "Dinmek «durmak, yatışmak» fiilinden -gin ekiyle."
+ },
+ {
+  "lemma": "coşku",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "dʒoʃˈku",
+  "definition": "Taşkın sevinç ve heyecan",
+  "example": "Gol atılınca tribünlerdeki coşku görülmeye değerdi.",
+  "synonyms": [
+   "heyecan",
+   "şevk"
+  ],
+  "origin": "Coşmak fiilinden -ku ekiyle; 1930'larda türetilmiştir."
+ },
+ {
+  "lemma": "kaygı",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "kajˈɡɯ",
+  "definition": "Kötü bir şey olacağı düşüncesiyle duyulan huzursuzluk",
+  "example": "Sınav sonucunu beklerken kaygıdan bütün gece uyuyamadı.",
+  "synonyms": [
+   "endişe",
+   "tasa"
+  ],
+  "origin": "Eski Türkçe ḳadġu «üzüntü, tasa» sözünden."
+ },
+ {
+  "lemma": "umursamak",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "umuɾsaˈmak",
+  "definition": "Bir şeye önem verip üzerinde durmak",
+  "example": "Eleştirileri hiç umursamadan bildiği yolda yürüdü.",
+  "synonyms": [
+   "önemsemek",
+   "aldırmak"
+  ],
+  "origin": "Umur «işler, önem verilen şey» (Arapça umūr, emr'in çoğulu) sözünden -sa- ekiyle."
+ },
+ {
+  "lemma": "kavramak",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "kavɾaˈmak",
+  "definition": "Bir şeyi bütünüyle anlamak",
+  "example": "Konunun inceliğini ancak üçüncü okuyuşta kavradım.",
+  "synonyms": [
+   "anlamak",
+   "algılamak"
+  ],
+  "origin": "Eski Türkçe ḳavra- «bir araya toplamak, sıkıca tutmak» fiilinden."
+ },
+ {
+  "lemma": "gözetmek",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "ɡœzetˈmek",
+  "definition": "Koruyup kollamak, hakkını düşünmek",
+  "example": "Annem her zaman en küçük kardeşimizi gözetirdi.",
+  "synonyms": [
+   "kollamak",
+   "korumak"
+  ],
+  "origin": "Eski Türkçe közet- «beklemek, korumak» fiilinden; köz «göz» kökünden."
+ },
+ {
+  "lemma": "esirgemek",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "esiɾɡeˈmek",
+  "definition": "Bir şeyi vermekten kaçınmak",
+  "example": "Zor günlerimizde bizden yardımını hiçbir zaman esirgemedi.",
+  "synonyms": [
+   "sakınmak",
+   "kıskanmak"
+  ],
+  "origin": "Eski Türkçe esirke- «acımak, kıyamamak» fiilinden."
+ },
+ {
+  "lemma": "avutmak",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "avutˈmak",
+  "definition": "Üzülen birini oyalayıp acısını hafifletmek",
+  "example": "Ağlayan bebeği kucağına alıp ninni söyleyerek avuttu.",
+  "synonyms": [
+   "oyalamak",
+   "yatıştırmak"
+  ],
+  "origin": "Eski Türkçe avıt- «teselli etmek, oyalamak» fiilinden."
+ },
+ {
+  "lemma": "kıvanç",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "kɯˈvantʃ",
+  "definition": "Başarıdan doğan haklı sevinç",
+  "example": "Öğrencilerinin başarısını herkese büyük bir kıvançla anlatıyordu.",
+  "synonyms": [
+   "övünç",
+   "gurur"
+  ],
+  "origin": "Eski Türkçe küvenç «övünme, gurur» sözünden; küven- «güvenmek, övünmek» fiilinden."
+ },
+ {
+  "lemma": "özveri",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "œzveˈɾi",
+  "definition": "Bir amaç uğruna kendi çıkarından vazgeçme",
+  "example": "Annesinin yıllarca gösterdiği özveriyi hiç unutmadı.",
+  "synonyms": [
+   "fedakârlık"
+  ],
+  "origin": "Öz ve veri sözlerinden; 20. yüzyılda fedakârlık karşılığı olarak türetilmiştir."
+ },
+ {
+  "lemma": "mahcup",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "mahˈdʒup",
+  "definition": "Utanıp sıkılan, çekinerek davranan",
+  "example": "Övgüler karşısında mahcup bir gülümsemeyle başını eğdi.",
+  "synonyms": [
+   "utangaç",
+   "sıkılgan"
+  ],
+  "origin": "Arapça maḥcūb «perdelenmiş, örtülü» sözünden."
+ },
+ {
+  "lemma": "kibar",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "kiˈbaɾ",
+  "definition": "Davranışı ve sözü ince, görgülü",
+  "example": "Teklifi kibar ama kesin bir dille geri çevirdi.",
+  "synonyms": [
+   "nazik",
+   "ince",
+   "görgülü"
+  ],
+  "origin": "Arapça kibār «büyükler, ileri gelenler» sözünden; kebīr «büyük» sözünün çoğuludur."
+ },
+ {
+  "lemma": "sitem",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "siˈtem",
+  "definition": "Kırgınlığı öfkesiz, üzüntüyle dile getirme",
+  "example": "Mektubunun son satırında ince bir sitem vardı.",
+  "synonyms": [
+   "serzeniş",
+   "yakınma"
+  ],
+  "origin": "Farsça sitem «zulüm, haksızlık» sözünden; bugünkü anlam Türkçede gelişmiştir."
+ },
+ {
+  "lemma": "emek",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "eˈmek",
+  "definition": "Bir işe harcanan beden ve kafa gücü",
+  "example": "Bu bahçe, annemin otuz yıllık emekle büyüttüğü küçük bir cennet.",
+  "synonyms": [
+   "çaba",
+   "zahmet"
+  ],
+  "origin": "Eski Türkçe emgek «sıkıntı, zahmet» sözünden."
+ },
+ {
+  "lemma": "tereddüt",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "teɾedˈdyt",
+  "definition": "Karar veremeyip iki şık arasında kalma",
+  "example": "Teklifi kısa bir tereddütten sonra kabul etti.",
+  "synonyms": [
+   "duraksama",
+   "kararsızlık"
+  ],
+  "origin": "Arapça taraddud «gidip gelme» sözünden."
+ },
+ {
+  "lemma": "itina",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "iːtiˈnaː",
+  "definition": "Bir işe gösterilen titiz dikkat",
+  "example": "Eski kitapları büyük bir itinayla ciltletti.",
+  "synonyms": [
+   "özen",
+   "dikkat"
+  ],
+  "origin": "Arapça iʿtināʾ «önem verme, özenle ilgilenme» sözünden."
+ },
+ {
+  "lemma": "ahenk",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "aːˈheŋk",
+  "definition": "Parçaların birbirine yakışarak oluşturduğu uyum",
+  "example": "Renklerin ahengi odaya sakin bir hava veriyordu.",
+  "synonyms": [
+   "uyum",
+   "armoni"
+  ],
+  "origin": "Farsça āheng «niyet; ezgi, makam» sözünden."
+ },
+ {
+  "lemma": "tutku",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "tutˈku",
+  "definition": "Önüne geçilmez güçlü istek ya da bağlılık",
+  "example": "Denize olan tutkusu onu sonunda kaptan yaptı.",
+  "synonyms": [
+   "ihtiras",
+   "sevda"
+  ],
+  "origin": "Tutmak fiilinden -ku ekiyle; 1930'larda ihtiras karşılığı olarak türetilmiştir."
+ },
+ {
+  "lemma": "esinti",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "esinˈti",
+  "definition": "Hafif hafif esen yel",
+  "example": "Akşamüstü çıkan esinti sıcağı biraz olsun kırdı.",
+  "synonyms": [
+   "meltem",
+   "yel"
+  ],
+  "origin": "Esmek fiilinden; esin- gövdesine -ti ekiyle."
+ },
+ {
+  "lemma": "ıssız",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "ɯsˈsɯz",
+  "definition": "İnsanı ve sesi olmayan, tenha",
+  "example": "Yol, kilometrelerce uzanan ıssız bir bozkırdan geçiyordu.",
+  "synonyms": [
+   "tenha",
+   "kimsesiz"
+  ],
+  "origin": "Eski Türkçe idi, sonradan ıssı «sahip» sözünden -sız ekiyle: «sahipsiz»."
+ },
+ {
+  "lemma": "şafak",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "ʃaˈfak",
+  "definition": "Güneş doğmadan önceki aydınlık",
+  "example": "Balıkçılar şafak sökmeden ağlarını toplayıp denize açıldı.",
+  "synonyms": [
+   "tan",
+   "seher"
+  ],
+  "origin": "Arapça şafaḳ «akşam kızıllığı» sözünden; Türkçede sabah aydınlığı için kullanılır."
+ },
+ {
+  "lemma": "macera",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "maːdʒeˈɾaː",
+  "definition": "Baştan geçen heyecanlı, tehlikeli olay",
+  "example": "Çocukken okuduğu macera romanları onu denizlere çağırıyordu.",
+  "synonyms": [
+   "serüven"
+  ],
+  "origin": "Arapça mā cerā «olup biten şey» sözünden."
+ },
+ {
+  "lemma": "sakınmak",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "sakɯnˈmak",
+  "definition": "Zarar verebilecek şeyden uzak durmak",
+  "example": "Soğuktan sakınmak için atkısını burnuna kadar çekti.",
+  "synonyms": [
+   "kaçınmak",
+   "korunmak"
+  ],
+  "origin": "Eski Türkçe saḳın- «düşünmek, kaygılanmak» fiilinden."
+ },
+ {
+  "lemma": "yadırgamak",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "jadɯɾɡaˈmak",
+  "definition": "Alışılmadık bulup garipsemek",
+  "example": "Şehrin gürültüsünü ilk haftalarda çok yadırgadı.",
+  "synonyms": [
+   "garipsemek",
+   "yabancılamak"
+  ],
+  "origin": "Eski Türkçe yat «yabancı» sözünden -ırga- ekiyle."
+ },
+ {
+  "lemma": "gücenmek",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "ɡydʒenˈmek",
+  "definition": "Bir söz ya da davranıştan kırılmak",
+  "example": "Davet edilmediği için bize biraz gücenmiş.",
+  "synonyms": [
+   "kırılmak",
+   "darılmak",
+   "alınmak"
+  ],
+  "origin": "Güç «zor» sözünden: bir şeyin insana güç gelmesi."
+ },
+ {
+  "lemma": "direnmek",
+  "level": 1,
+  "part_of_speech": "f.",
+  "ipa": "diɾenˈmek",
+  "definition": "Baskıya boyun eğmeyip karşı koymak",
+  "example": "Uykuya ne kadar direndiyse de gözleri kapandı.",
+  "synonyms": [
+   "dayanmak",
+   "diretmek"
+  ],
+  "origin": "Diremek «dayamak» fiilinden; Eski Türkçe tire- «desteklemek» ile aynı kökten."
+ },
+ {
+  "lemma": "armağan",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "aɾmaˈan",
+  "definition": "Sevindirmek için karşılıksız verilen şey",
+  "example": "Doğum gününde ona el yapımı bir armağan hazırladık.",
+  "synonyms": [
+   "hediye"
+  ],
+  "origin": "Farsça armaġān ile ortaktır; sözün Türkçeden Farsçaya geçtiği görüşü yaygındır, kökeni kesin değildir."
+ },
+ {
+  "lemma": "nafile",
+  "level": 1,
+  "part_of_speech": "sf.",
+  "ipa": "naːfiˈle",
+  "definition": "Hiçbir yararı ve sonucu olmayan",
+  "example": "Onu fikrinden döndürmeye çalışmak nafile bir uğraştı.",
+  "synonyms": [
+   "boş",
+   "yararsız",
+   "beyhude"
+  ],
+  "origin": "Arapça nāfila «zorunlu olmayan, fazladan yapılan ibadet» sözünden; «boşuna» anlamı Türkçede gelişmiştir."
+ },
+ {
+  "lemma": "ikna",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "ikˈnaː",
+  "definition": "Birini bir şeye inandırıp razı etme",
+  "example": "Onu tatile gelmeye ikna etmek tam bir hafta sürdü.",
+  "synonyms": [
+   "inandırma"
+  ],
+  "origin": "Arapça iḳnāʿ «razı etme, yetindirme» sözünden; kanaat ile aynı kökten."
+ },
+ {
+  "lemma": "evren",
+  "level": 1,
+  "part_of_speech": "a.",
+  "ipa": "evˈɾen",
+  "definition": "Var olan her şeyin bütünü",
+  "example": "Teleskop, evrenin en uzak köşelerinden gelen ışığı yakalıyor.",
+  "synonyms": [
+   "kâinat",
+   "kozmos"
+  ],
+  "origin": "Eski Türkçe evren «gök kubbe, felek» sözünden; evir- «döndürmek» kökünden."
+ }
+]

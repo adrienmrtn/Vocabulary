@@ -1,0 +1,639 @@
+{
+ "garbato": [
+  "character",
+  "society"
+ ],
+ "schietto": [
+  "character"
+ ],
+ "mite": [
+  "character",
+  "nature"
+ ],
+ "sgomento": [
+  "emotions"
+ ],
+ "indugiare": [
+  "character",
+  "business"
+ ],
+ "scorgere": [
+  "travel",
+  "nature"
+ ],
+ "struggente": [
+  "emotions",
+  "literature"
+ ],
+ "svogliato": [
+  "character"
+ ],
+ "uggioso": [
+  "emotions",
+  "nature"
+ ],
+ "appagare": [
+  "emotions"
+ ],
+ "assorto": [
+  "emotions",
+  "character"
+ ],
+ "burbero": [
+  "character"
+ ],
+ "caparbio": [
+  "character",
+  "debate"
+ ],
+ "fievole": [
+  "nature",
+  "emotions"
+ ],
+ "garbuglio": [
+  "society",
+  "business"
+ ],
+ "goffo": [
+  "character"
+ ],
+ "impacciato": [
+  "character",
+  "emotions"
+ ],
+ "ingordo": [
+  "character"
+ ],
+ "losco": [
+  "society",
+  "business"
+ ],
+ "mesto": [
+  "emotions"
+ ],
+ "pacato": [
+  "character",
+  "debate"
+ ],
+ "rammarico": [
+  "emotions"
+ ],
+ "ritroso": [
+  "character"
+ ],
+ "sbigottire": [
+  "emotions"
+ ],
+ "scaltro": [
+  "character",
+  "business"
+ ],
+ "sfarzo": [
+  "society"
+ ],
+ "smarrire": [
+  "travel",
+  "emotions"
+ ],
+ "sollievo": [
+  "emotions"
+ ],
+ "spavaldo": [
+  "character"
+ ],
+ "stizza": [
+  "emotions"
+ ],
+ "tepore": [
+  "nature"
+ ],
+ "trasalire": [
+  "emotions"
+ ],
+ "vezzo": [
+  "character"
+ ],
+ "tetro": [
+  "emotions",
+  "nature"
+ ],
+ "accorato": [
+  "emotions",
+  "persuasion"
+ ],
+ "avvilire": [
+  "emotions"
+ ],
+ "baldanza": [
+  "character",
+  "emotions"
+ ],
+ "bizzarro": [
+  "character"
+ ],
+ "chiarore": [
+  "nature"
+ ],
+ "fragore": [
+  "nature"
+ ],
+ "guizzo": [
+  "nature"
+ ],
+ "lusinga": [
+  "persuasion"
+ ],
+ "meschino": [
+  "character"
+ ],
+ "oltraggio": [
+  "society",
+  "debate"
+ ],
+ "scempio": [
+  "society",
+  "nature"
+ ],
+ "vispo": [
+  "character"
+ ],
+ "arguto": [
+  "character",
+  "literature"
+ ],
+ "brusio": [
+  "society"
+ ],
+ "sciagura": [
+  "society",
+  "emotions"
+ ],
+ "scalpore": [
+  "society"
+ ],
+ "spensierato": [
+  "emotions",
+  "character"
+ ],
+ "frastuono": [
+  "society"
+ ],
+ "affranto": [
+  "emotions"
+ ],
+ "smania": [
+  "emotions"
+ ],
+ "sdegno": [
+  "emotions",
+  "debate"
+ ],
+ "gongolare": [
+  "emotions"
+ ],
+ "tentennare": [
+  "character",
+  "business"
+ ],
+ "frottola": [
+  "persuasion",
+  "literature"
+ ],
+ "sornione": [
+  "character"
+ ],
+ "sbadato": [
+  "character"
+ ],
+ "brioso": [
+  "character",
+  "emotions"
+ ],
+ "frugale": [
+  "character"
+ ],
+ "effimero": [
+  "nature",
+  "literature"
+ ],
+ "alacre": [
+  "character",
+  "business"
+ ],
+ "ammaliare": [
+  "persuasion",
+  "emotions"
+ ],
+ "ardimento": [
+  "character"
+ ],
+ "astruso": [
+  "debate",
+  "science"
+ ],
+ "avvezzo": [
+  "character"
+ ],
+ "beffardo": [
+  "character"
+ ],
+ "bieco": [
+  "character"
+ ],
+ "blandire": [
+  "persuasion"
+ ],
+ "cipiglio": [
+  "emotions",
+  "character"
+ ],
+ "contegno": [
+  "character",
+  "society"
+ ],
+ "cruccio": [
+  "emotions"
+ ],
+ "dileggio": [
+  "society",
+  "debate"
+ ],
+ "dovizia": [
+  "business",
+  "literature"
+ ],
+ "impervio": [
+  "travel",
+  "nature"
+ ],
+ "ghermire": [
+  "nature"
+ ],
+ "accidia": [
+  "character",
+  "emotions"
+ ],
+ "imbelle": [
+  "character",
+  "society"
+ ],
+ "indole": [
+  "character"
+ ],
+ "inerpicarsi": [
+  "travel",
+  "nature"
+ ],
+ "inviso": [
+  "society"
+ ],
+ "lambire": [
+  "nature"
+ ],
+ "lezioso": [
+  "character",
+  "literature"
+ ],
+ "livore": [
+  "emotions"
+ ],
+ "mellifluo": [
+  "persuasion",
+  "character"
+ ],
+ "parvenza": [
+  "society",
+  "debate"
+ ],
+ "pervicace": [
+  "character",
+  "debate"
+ ],
+ "rampogna": [
+  "debate"
+ ],
+ "recondito": [
+  "literature"
+ ],
+ "riottoso": [
+  "character",
+  "society"
+ ],
+ "scevro": [
+  "debate"
+ ],
+ "sollazzo": [
+  "emotions",
+  "society"
+ ],
+ "solerte": [
+  "business",
+  "character"
+ ],
+ "sopruso": [
+  "society"
+ ],
+ "tracotante": [
+  "character"
+ ],
+ "bramosia": [
+  "emotions"
+ ],
+ "ossequio": [
+  "society"
+ ],
+ "sommesso": [
+  "emotions",
+  "nature"
+ ],
+ "tracollo": [
+  "business"
+ ],
+ "vagheggiare": [
+  "emotions",
+  "literature"
+ ],
+ "vessare": [
+  "society",
+  "business"
+ ],
+ "arcigno": [
+  "character"
+ ],
+ "ciarliero": [
+  "character",
+  "society"
+ ],
+ "fandonia": [
+  "persuasion",
+  "debate"
+ ],
+ "fremito": [
+  "emotions"
+ ],
+ "ghigno": [
+  "emotions",
+  "character"
+ ],
+ "gozzoviglia": [
+  "society"
+ ],
+ "indefesso": [
+  "character",
+  "business"
+ ],
+ "lungimirante": [
+  "business",
+  "character"
+ ],
+ "scialbo": [
+  "literature",
+  "character"
+ ],
+ "smunto": [
+  "nature",
+  "emotions"
+ ],
+ "scherno": [
+  "society",
+  "debate"
+ ],
+ "meriggio": [
+  "nature",
+  "literature"
+ ],
+ "millantare": [
+  "persuasion",
+  "character"
+ ],
+ "farneticare": [
+  "debate",
+  "science"
+ ],
+ "lesinare": [
+  "business"
+ ],
+ "abbindolare": [
+  "persuasion",
+  "business"
+ ],
+ "sussiego": [
+  "character",
+  "society"
+ ],
+ "tronfio": [
+  "character"
+ ],
+ "abbacinare": [
+  "nature",
+  "persuasion"
+ ],
+ "algido": [
+  "character",
+  "nature"
+ ],
+ "alterigia": [
+  "character"
+ ],
+ "apodittico": [
+  "debate",
+  "science"
+ ],
+ "aulico": [
+  "literature"
+ ],
+ "bolso": [
+  "nature",
+  "character"
+ ],
+ "cachinno": [
+  "emotions",
+  "literature"
+ ],
+ "cogitabondo": [
+  "character",
+  "emotions"
+ ],
+ "desueto": [
+  "literature",
+  "society"
+ ],
+ "edotto": [
+  "business",
+  "debate"
+ ],
+ "esiziale": [
+  "science",
+  "society"
+ ],
+ "facondia": [
+  "persuasion",
+  "debate"
+ ],
+ "fedifrago": [
+  "character",
+  "society"
+ ],
+ "fellone": [
+  "literature",
+  "character"
+ ],
+ "forbito": [
+  "literature"
+ ],
+ "giulivo": [
+  "emotions"
+ ],
+ "improbo": [
+  "business"
+ ],
+ "inclito": [
+  "literature",
+  "society"
+ ],
+ "ineluttabile": [
+  "literature",
+  "emotions"
+ ],
+ "lapalissiano": [
+  "debate"
+ ],
+ "luculliano": [
+  "society"
+ ],
+ "nequizia": [
+  "character",
+  "society"
+ ],
+ "procace": [
+  "character"
+ ],
+ "ramingo": [
+  "travel",
+  "literature"
+ ],
+ "redarguire": [
+  "debate",
+  "society"
+ ],
+ "sardonico": [
+  "emotions",
+  "character"
+ ],
+ "sesquipedale": [
+  "literature",
+  "debate"
+ ],
+ "sicumera": [
+  "character",
+  "debate"
+ ],
+ "stentoreo": [
+  "literature",
+  "persuasion"
+ ],
+ "tapino": [
+  "emotions",
+  "literature"
+ ],
+ "tetragono": [
+  "character",
+  "literature"
+ ],
+ "tralignare": [
+  "society",
+  "character"
+ ],
+ "ubertoso": [
+  "nature"
+ ],
+ "verecondia": [
+  "character",
+  "emotions"
+ ],
+ "vilipendere": [
+  "society",
+  "debate"
+ ],
+ "zotico": [
+  "character",
+  "society"
+ ],
+ "beota": [
+  "character"
+ ],
+ "bislacco": [
+  "character"
+ ],
+ "garrulo": [
+  "nature",
+  "character"
+ ],
+ "mefitico": [
+  "science",
+  "nature"
+ ],
+ "nembo": [
+  "nature",
+  "literature"
+ ],
+ "obliare": [
+  "literature",
+  "emotions"
+ ],
+ "peritoso": [
+  "character",
+  "emotions"
+ ],
+ "piaggeria": [
+  "persuasion",
+  "society"
+ ],
+ "rabbuffo": [
+  "society",
+  "debate"
+ ],
+ "rorido": [
+  "nature",
+  "literature"
+ ],
+ "scaturigine": [
+  "nature",
+  "science"
+ ],
+ "smargiasso": [
+  "character"
+ ],
+ "sollucchero": [
+  "emotions"
+ ],
+ "trasecolare": [
+  "emotions"
+ ],
+ "arzigogolo": [
+  "debate"
+ ],
+ "ghiribizzo": [
+  "character",
+  "emotions"
+ ],
+ "ubbia": [
+  "emotions",
+  "science"
+ ],
+ "manigoldo": [
+  "character",
+  "society"
+ ],
+ "masnada": [
+  "society",
+  "literature"
+ ],
+ "ferale": [
+  "emotions",
+  "literature"
+ ],
+ "esimio": [
+  "society"
+ ]
+}

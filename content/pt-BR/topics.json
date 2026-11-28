@@ -1,0 +1,642 @@
+{
+  "aconchego": [
+    "emotions"
+  ],
+  "afago": [
+    "emotions"
+  ],
+  "alento": [
+    "emotions"
+  ],
+  "almejar": [
+    "emotions"
+  ],
+  "ameno": [
+    "nature"
+  ],
+  "anseio": [
+    "emotions"
+  ],
+  "apreço": [
+    "society"
+  ],
+  "audaz": [
+    "character"
+  ],
+  "brando": [
+    "character",
+    "nature"
+  ],
+  "cativar": [
+    "persuasion"
+  ],
+  "cautela": [
+    "character"
+  ],
+  "singelo": [
+    "character"
+  ],
+  "sereno": [
+    "emotions",
+    "nature"
+  ],
+  "sutil": [
+    "character",
+    "debate"
+  ],
+  "ternura": [
+    "emotions"
+  ],
+  "zelo": [
+    "character",
+    "business"
+  ],
+  "vigor": [
+    "nature",
+    "character"
+  ],
+  "vislumbrar": [
+    "travel",
+    "nature"
+  ],
+  "esmero": [
+    "character",
+    "business"
+  ],
+  "desvelo": [
+    "emotions",
+    "character"
+  ],
+  "deleite": [
+    "emotions"
+  ],
+  "primor": [
+    "literature",
+    "character"
+  ],
+  "afável": [
+    "character",
+    "society"
+  ],
+  "altivo": [
+    "character"
+  ],
+  "árduo": [
+    "business",
+    "nature"
+  ],
+  "ávido": [
+    "emotions",
+    "character"
+  ],
+  "cordial": [
+    "society",
+    "character"
+  ],
+  "formoso": [
+    "nature",
+    "literature"
+  ],
+  "ousadia": [
+    "character"
+  ],
+  "pudor": [
+    "emotions",
+    "society"
+  ],
+  "saudade": [
+    "emotions"
+  ],
+  "sossego": [
+    "emotions",
+    "nature"
+  ],
+  "lisonja": [
+    "persuasion",
+    "society"
+  ],
+  "mágoa": [
+    "emotions"
+  ],
+  "enlevo": [
+    "emotions",
+    "literature"
+  ],
+  "fulgor": [
+    "nature"
+  ],
+  "júbilo": [
+    "emotions"
+  ],
+  "lúcido": [
+    "character",
+    "debate"
+  ],
+  "nítido": [
+    "science",
+    "nature"
+  ],
+  "perene": [
+    "nature",
+    "science"
+  ],
+  "tenaz": [
+    "character"
+  ],
+  "vasto": [
+    "nature",
+    "travel"
+  ],
+  "íntegro": [
+    "character",
+    "society"
+  ],
+  "esboçar": [
+    "literature",
+    "business"
+  ],
+  "ponderar": [
+    "debate",
+    "business"
+  ],
+  "zombar": [
+    "society",
+    "character"
+  ],
+  "acalentar": [
+    "emotions"
+  ],
+  "murmurar": [
+    "nature",
+    "society"
+  ],
+  "hesitar": [
+    "character",
+    "debate"
+  ],
+  "devaneio": [
+    "emotions",
+    "literature"
+  ],
+  "capricho": [
+    "character"
+  ],
+  "cafuné": [
+    "emotions"
+  ],
+  "dengo": [
+    "emotions"
+  ],
+  "moleque": [
+    "society",
+    "character"
+  ],
+  "xodó": [
+    "emotions"
+  ],
+  "garoa": [
+    "nature"
+  ],
+  "gentileza": [
+    "society"
+  ],
+  "quietude": [
+    "nature",
+    "emotions"
+  ],
+  "caçoar": [
+    "society"
+  ],
+  "efêmero": [
+    "nature",
+    "literature"
+  ],
+  "lânguido": [
+    "emotions",
+    "literature"
+  ],
+  "taciturno": [
+    "character"
+  ],
+  "soturno": [
+    "emotions",
+    "nature"
+  ],
+  "lúgubre": [
+    "emotions",
+    "literature"
+  ],
+  "plácido": [
+    "nature",
+    "emotions"
+  ],
+  "lívido": [
+    "emotions"
+  ],
+  "pérfido": [
+    "character"
+  ],
+  "sagaz": [
+    "character",
+    "debate"
+  ],
+  "mordaz": [
+    "debate",
+    "literature"
+  ],
+  "fugaz": [
+    "nature",
+    "literature"
+  ],
+  "perspicaz": [
+    "character",
+    "science"
+  ],
+  "austero": [
+    "character",
+    "society"
+  ],
+  "frívolo": [
+    "character",
+    "society"
+  ],
+  "tênue": [
+    "nature"
+  ],
+  "ingênuo": [
+    "character"
+  ],
+  "atônito": [
+    "emotions"
+  ],
+  "insólito": [
+    "literature",
+    "society"
+  ],
+  "inóspito": [
+    "nature",
+    "travel"
+  ],
+  "recôndito": [
+    "nature",
+    "literature"
+  ],
+  "ermo": [
+    "nature",
+    "travel"
+  ],
+  "prolixo": [
+    "literature",
+    "debate"
+  ],
+  "indolente": [
+    "character"
+  ],
+  "veemente": [
+    "persuasion",
+    "debate"
+  ],
+  "pungente": [
+    "emotions",
+    "literature"
+  ],
+  "arguto": [
+    "debate",
+    "science"
+  ],
+  "esquivo": [
+    "character"
+  ],
+  "arredio": [
+    "character",
+    "society"
+  ],
+  "matreiro": [
+    "character"
+  ],
+  "faceiro": [
+    "character",
+    "emotions"
+  ],
+  "brejeiro": [
+    "character"
+  ],
+  "ufano": [
+    "character",
+    "society"
+  ],
+  "desdém": [
+    "emotions",
+    "society"
+  ],
+  "escárnio": [
+    "society",
+    "debate"
+  ],
+  "alarido": [
+    "society"
+  ],
+  "algazarra": [
+    "society"
+  ],
+  "balbúrdia": [
+    "society"
+  ],
+  "burburinho": [
+    "society"
+  ],
+  "penumbra": [
+    "nature",
+    "science"
+  ],
+  "crepúsculo": [
+    "nature"
+  ],
+  "relento": [
+    "nature",
+    "travel"
+  ],
+  "vereda": [
+    "nature",
+    "travel"
+  ],
+  "mormaço": [
+    "nature"
+  ],
+  "labuta": [
+    "business",
+    "society"
+  ],
+  "alcunha": [
+    "society",
+    "literature"
+  ],
+  "quimera": [
+    "literature",
+    "emotions"
+  ],
+  "desatino": [
+    "character",
+    "emotions"
+  ],
+  "torpor": [
+    "emotions",
+    "science"
+  ],
+  "fastio": [
+    "emotions"
+  ],
+  "cobiça": [
+    "character",
+    "business"
+  ],
+  "aquiescer": [
+    "debate",
+    "persuasion"
+  ],
+  "vociferar": [
+    "debate",
+    "emotions"
+  ],
+  "esmorecer": [
+    "emotions",
+    "character"
+  ],
+  "enaltecer": [
+    "persuasion",
+    "society"
+  ],
+  "definhar": [
+    "nature",
+    "emotions"
+  ],
+  "titubear": [
+    "character",
+    "debate"
+  ],
+  "ludibriar": [
+    "persuasion",
+    "society"
+  ],
+  "cismar": [
+    "emotions",
+    "character"
+  ],
+  "matutar": [
+    "character"
+  ],
+  "vicejar": [
+    "nature"
+  ],
+  "bajular": [
+    "persuasion",
+    "society"
+  ],
+  "inefável": [
+    "emotions",
+    "literature"
+  ],
+  "inexorável": [
+    "character",
+    "nature"
+  ],
+  "indelével": [
+    "emotions",
+    "literature"
+  ],
+  "impávido": [
+    "character"
+  ],
+  "plangente": [
+    "emotions",
+    "literature"
+  ],
+  "lhano": [
+    "character",
+    "society"
+  ],
+  "pusilânime": [
+    "character"
+  ],
+  "pertinaz": [
+    "character"
+  ],
+  "contumaz": [
+    "character",
+    "society"
+  ],
+  "proceloso": [
+    "nature",
+    "literature"
+  ],
+  "vetusto": [
+    "society",
+    "literature"
+  ],
+  "provecto": [
+    "society"
+  ],
+  "néscio": [
+    "character"
+  ],
+  "ignóbil": [
+    "character"
+  ],
+  "parco": [
+    "character",
+    "business"
+  ],
+  "exíguo": [
+    "business",
+    "science"
+  ],
+  "impoluto": [
+    "character",
+    "society"
+  ],
+  "ilibado": [
+    "society",
+    "character"
+  ],
+  "probo": [
+    "character",
+    "business"
+  ],
+  "casmurro": [
+    "character",
+    "literature"
+  ],
+  "sorumbático": [
+    "emotions",
+    "character"
+  ],
+  "macambúzio": [
+    "emotions"
+  ],
+  "jururu": [
+    "emotions"
+  ],
+  "tíbio": [
+    "emotions"
+  ],
+  "falaz": [
+    "debate",
+    "persuasion"
+  ],
+  "pachorra": [
+    "character"
+  ],
+  "modorra": [
+    "emotions",
+    "nature"
+  ],
+  "desdita": [
+    "emotions",
+    "literature"
+  ],
+  "opróbrio": [
+    "society"
+  ],
+  "ignomínia": [
+    "society"
+  ],
+  "beneplácito": [
+    "business",
+    "society"
+  ],
+  "idiossincrasia": [
+    "character",
+    "science"
+  ],
+  "parcimônia": [
+    "business",
+    "character"
+  ],
+  "ósculo": [
+    "literature",
+    "emotions"
+  ],
+  "ocaso": [
+    "nature",
+    "literature"
+  ],
+  "arrebol": [
+    "nature",
+    "literature"
+  ],
+  "fragor": [
+    "nature"
+  ],
+  "celeuma": [
+    "debate",
+    "society"
+  ],
+  "sanha": [
+    "emotions",
+    "society"
+  ],
+  "denodo": [
+    "character"
+  ],
+  "galhardia": [
+    "character"
+  ],
+  "banzo": [
+    "emotions",
+    "society"
+  ],
+  "muxoxo": [
+    "society",
+    "emotions"
+  ],
+  "arapuca": [
+    "nature",
+    "business"
+  ],
+  "tapera": [
+    "nature",
+    "travel"
+  ],
+  "tergiversar": [
+    "debate",
+    "persuasion"
+  ],
+  "procrastinar": [
+    "business",
+    "character"
+  ],
+  "perscrutar": [
+    "science"
+  ],
+  "vilipendiar": [
+    "debate",
+    "society"
+  ],
+  "soçobrar": [
+    "business",
+    "travel"
+  ],
+  "medrar": [
+    "nature",
+    "business"
+  ],
+  "fenecer": [
+    "nature",
+    "literature"
+  ],
+  "lobrigar": [
+    "nature",
+    "travel"
+  ],
+  "arrefecer": [
+    "emotions",
+    "science"
+  ],
+  "tripudiar": [
+    "society"
+  ],
+  "locupletar": [
+    "business",
+    "society"
+  ]
+}

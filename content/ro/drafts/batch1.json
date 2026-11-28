@@ -1,0 +1,875 @@
+[
+ {
+  "lemma": "duios",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "duˈjos",
+  "definition": "Plin de o tandrețe blândă și ușor tristă",
+  "example": "Bunica ne privea cu un zâmbet duios de pe prispă.",
+  "synonyms": [
+   "tandru",
+   "înduioșător",
+   "gingaș"
+  ],
+  "origin": "Probabil din latina populară *doliosus, derivat de la dolium «durere»."
+ },
+ {
+  "lemma": "sfios",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "sfiˈos",
+  "definition": "Care se poartă cu timiditate și reținere",
+  "example": "Băiatul sfios abia a îndrăznit să ridice mâna.",
+  "synonyms": [
+   "timid",
+   "rușinos",
+   "sfielnic"
+  ],
+  "origin": "Derivat din verbul a se sfii, de origine slavă veche, cu sufixul -os."
+ },
+ {
+  "lemma": "dor",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "dor",
+  "definition": "Tânjire adâncă după cineva sau ceva drag aflat departe",
+  "example": "M-a cuprins un dor nespus de casa bunicilor.",
+  "synonyms": [
+   "nostalgie",
+   "alean",
+   "tânjire"
+  ],
+  "origin": "Din latina populară dolus «durere», derivat de la dolere «a durea»."
+ },
+ {
+  "lemma": "tihnă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈtihnə",
+  "definition": "Liniște deplină, netulburată de griji",
+  "example": "După o săptămână grea, își dorea doar puțină tihnă.",
+  "synonyms": [
+   "liniște",
+   "pace",
+   "odihnă"
+  ],
+  "origin": "Derivat regresiv din a tihni, verb de origine slavă (cf. slavonul tihŭ «liniștit»)."
+ },
+ {
+  "lemma": "răgaz",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "rəˈɡaz",
+  "definition": "Timp liber în care poți respira sau gândi",
+  "example": "Lasă-mi un răgaz de câteva zile ca să mă hotărăsc.",
+  "synonyms": [
+   "pauză",
+   "repaus",
+   "păsuire"
+  ],
+  "origin": "Origine necunoscută; etimologiile propuse nu sunt sigure."
+ },
+ {
+  "lemma": "mângâia",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "mɨnɡɨˈja",
+  "definition": "A atinge ușor, cu drag, ori a consola",
+  "example": "O vorbă bună poate mângâia mai mult decât un dar.",
+  "synonyms": [
+   "dezmierda",
+   "alina",
+   "alinta"
+  ],
+  "origin": "Din latina populară *manganeare «a vrăji, a fermeca», de la grecescul mánganon «farmec»."
+ },
+ {
+  "lemma": "ivi",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "iˈvi",
+  "definition": "A apărea pe neașteptate la vedere",
+  "example": "Luna s-a ivit dintre nori chiar deasupra satului.",
+  "synonyms": [
+   "apărea",
+   "răsări",
+   "arăta"
+  ],
+  "origin": "Din slavonul javiti «a arăta, a face cunoscut»."
+ },
+ {
+  "lemma": "negură",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈneɡurə",
+  "definition": "Ceață deasă care întunecă zarea",
+  "example": "Dimineața, negura acoperea toată valea râului.",
+  "synonyms": [
+   "ceață",
+   "pâclă",
+   "abur"
+  ],
+  "origin": "Din latinescul nebula «ceață, nor»."
+ },
+ {
+  "lemma": "văzduh",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "vəzˈduh",
+  "definition": "Spațiul de aer de deasupra pământului",
+  "example": "Un stol de cocori a străbătut văzduhul spre miazăzi.",
+  "synonyms": [
+   "aer",
+   "cer",
+   "atmosferă"
+  ],
+  "origin": "Din slavonul vŭzduhŭ «aer»."
+ },
+ {
+  "lemma": "codru",
+  "level": 1,
+  "part_of_speech": "s.m.",
+  "ipa": "ˈkodru",
+  "definition": "Pădure mare, veche și deasă",
+  "example": "Poteca se pierdea în codrul întunecat de fagi.",
+  "synonyms": [
+   "pădure",
+   "dumbravă"
+  ],
+  "origin": "Probabil din latina populară *quodrum (din quadrum «pătrat»); unii lingviști îl apropie de albanezul kodër «deal»."
+ },
+ {
+  "lemma": "potecă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "poˈtekə",
+  "definition": "Drum îngust pe care se merge numai cu piciorul",
+  "example": "Am urcat pe o potecă abruptă până la stână.",
+  "synonyms": [
+   "cărare",
+   "drumeag"
+  ],
+  "origin": "Din bulgarul pŭteka «cărare»."
+ },
+ {
+  "lemma": "taină",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈtajnə",
+  "definition": "Lucru ascuns, neștiut sau greu de pătruns",
+  "example": "Bătrâna a dus taina familiei cu ea în mormânt.",
+  "synonyms": [
+   "secret",
+   "mister",
+   "enigmă"
+  ],
+  "origin": "Din slavonul tajna «secret»."
+ },
+ {
+  "lemma": "vrajă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈvraʒə",
+  "definition": "Farmec care robește simțurile sau gândul",
+  "example": "Vraja serii s-a rupt când a sunat telefonul.",
+  "synonyms": [
+   "farmec",
+   "magie",
+   "descântec"
+  ],
+  "origin": "Din slavonul vraža «vrăjitorie, ghicit»."
+ },
+ {
+  "lemma": "spaimă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈspajmə",
+  "definition": "Frică puternică, venită pe neașteptate",
+  "example": "A tresărit de spaimă când ușa s-a trântit singură.",
+  "synonyms": [
+   "groază",
+   "frică",
+   "teroare"
+  ],
+  "origin": "Derivat regresiv din a spăimânta, moștenit din latina populară *expavimentare, de la pavor «frică»."
+ },
+ {
+  "lemma": "fior",
+  "level": 1,
+  "part_of_speech": "s.m.",
+  "ipa": "fiˈor",
+  "definition": "Tremur ușor provocat de frig sau de emoție",
+  "example": "Un fior rece i-a trecut pe șira spinării.",
+  "synonyms": [
+   "tremur",
+   "înfiorare",
+   "frison"
+  ],
+  "origin": "Din latinescul febris «friguri, febră»."
+ },
+ {
+  "lemma": "ciudă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈt͡ʃudə",
+  "definition": "Supărare amestecată cu invidie sau neputință",
+  "example": "Îi era ciudă că pierduse trenul pentru un minut.",
+  "synonyms": [
+   "necaz",
+   "pică",
+   "invidie"
+  ],
+  "origin": "Din slavonul čudo «minune, lucru de mirare», cu sensul schimbat în română."
+ },
+ {
+  "lemma": "batjocură",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "batˈʒokurə",
+  "definition": "Vorbă sau faptă prin care îți râzi de cineva",
+  "example": "Nu merita o asemenea batjocură în fața colegilor.",
+  "synonyms": [
+   "derâdere",
+   "zeflemea",
+   "persiflare"
+  ],
+  "origin": "Derivat regresiv din a batjocori, verb format din a bate și joc."
+ },
+ {
+  "lemma": "vrednic",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈvrednik",
+  "definition": "Capabil și destoinic, demn de laudă",
+  "example": "S-a dovedit un urmaș vrednic al părinților săi.",
+  "synonyms": [
+   "destoinic",
+   "harnic",
+   "demn"
+  ],
+  "origin": "Din slavonul vrĕdĭnŭ «folositor, de preț»."
+ },
+ {
+  "lemma": "viteaz",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "viˈte̯az",
+  "definition": "Care înfruntă primejdia fără să se teamă",
+  "example": "Pompierul viteaz a scos copilul din casa în flăcări.",
+  "synonyms": [
+   "curajos",
+   "brav",
+   "neînfricat"
+  ],
+  "origin": "Din slavonul vitęzĭ «războinic, erou»."
+ },
+ {
+  "lemma": "viclean",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "viˈkle̯an",
+  "definition": "Care înșală cu șiretenie și prefăcătorie",
+  "example": "Vulpea vicleană s-a prefăcut moartă în drum.",
+  "synonyms": [
+   "șiret",
+   "perfid",
+   "fățarnic"
+  ],
+  "origin": "Din maghiarul hitlen «necredincios»."
+ },
+ {
+  "lemma": "strașnic",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈstraʃnik",
+  "definition": "Neobișnuit de mare, de tare sau de bun",
+  "example": "A venit o furtună strașnică dinspre munte.",
+  "synonyms": [
+   "grozav",
+   "cumplit",
+   "năprasnic"
+  ],
+  "origin": "Din slavonul strašĭnŭ «înfricoșător»."
+ },
+ {
+  "lemma": "lesne",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "ˈlesne",
+  "definition": "Fără greutate, cu ușurință",
+  "example": "Un asemenea obicei nu se schimbă lesne.",
+  "synonyms": [
+   "ușor",
+   "simplu",
+   "facil"
+  ],
+  "origin": "Din bulgarul lesno «ușor»."
+ },
+ {
+  "lemma": "anevoie",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "aneˈvoje",
+  "definition": "Cu mare greutate, cu trudă",
+  "example": "Bătrânul urca anevoie treptele spre mansardă.",
+  "synonyms": [
+   "greu",
+   "dificil",
+   "anevoios"
+  ],
+  "origin": "Format din a + nevoie (din slavonul nevolja «silă, necaz»)."
+ },
+ {
+  "lemma": "aievea",
+  "level": 1,
+  "part_of_speech": "adv.",
+  "ipa": "aˈjeve̯a",
+  "definition": "În realitate, nu în vis sau în închipuire",
+  "example": "I se părea că aude aievea glasul mamei.",
+  "synonyms": [
+   "real",
+   "adevărat",
+   "efectiv"
+  ],
+  "origin": "Din slavonul javĕ «pe față, în chip vădit»."
+ },
+ {
+  "lemma": "hotar",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "hoˈtar",
+  "definition": "Linie care desparte două țări, moșii sau lumi",
+  "example": "Râul acesta a fost multă vreme hotar între două împărății.",
+  "synonyms": [
+   "graniță",
+   "frontieră",
+   "margine"
+  ],
+  "origin": "Din maghiarul határ «graniță»."
+ },
+ {
+  "lemma": "ispravă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "isˈpravə",
+  "definition": "Faptă dusă la bun sfârșit, adesea vrednică de laudă",
+  "example": "Toată școala vorbea despre isprava celor doi frați.",
+  "synonyms": [
+   "faptă",
+   "reușită",
+   "izbândă"
+  ],
+  "origin": "Derivat regresiv din a isprăvi, din slavonul ispraviti «a îndrepta, a duce la capăt»."
+ },
+ {
+  "lemma": "zestre",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈzestre",
+  "definition": "Avere pe care o primea fata la măritiș",
+  "example": "Lada de zestre a bunicii stă și azi în odaie.",
+  "synonyms": [
+   "dotă",
+   "avere"
+  ],
+  "origin": "Din latinescul dextrae «strângere de mână, făgăduință solemnă»."
+ },
+ {
+  "lemma": "pridvor",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "pridˈvor",
+  "definition": "Galerie deschisă, cu stâlpi, la intrarea unei case",
+  "example": "Vara, bunicul își bea cafeaua în pridvor.",
+  "synonyms": [
+   "cerdac",
+   "prispă",
+   "tindă"
+  ],
+  "origin": "Din slavonul pritvorŭ «tindă a bisericii»."
+ },
+ {
+  "lemma": "prisos",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "priˈsos",
+  "definition": "Ceea ce trece peste cât este nevoie",
+  "example": "Orice cuvânt în plus ar fi fost de prisos.",
+  "synonyms": [
+   "surplus",
+   "exces",
+   "belșug"
+  ],
+  "origin": "Din neogrecescul perissós «care trece peste măsură»."
+ },
+ {
+  "lemma": "pagubă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈpaɡubə",
+  "definition": "Pierdere de bani sau de bunuri",
+  "example": "Grindina a făcut mare pagubă în livezile satului.",
+  "synonyms": [
+   "pierdere",
+   "daună",
+   "stricăciune"
+  ],
+  "origin": "Din slavonul paguba «pierzanie»."
+ },
+ {
+  "lemma": "patimă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈpatimə",
+  "definition": "Pasiune puternică, greu de stăpânit",
+  "example": "Colecționa cărți vechi cu o adevărată patimă.",
+  "synonyms": [
+   "pasiune",
+   "ardoare"
+  ],
+  "origin": "Din neogrecescul páthima «suferință, pățanie»."
+ },
+ {
+  "lemma": "jertfă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈʒertfə",
+  "definition": "Renunțare dureroasă făcută pentru cineva sau ceva",
+  "example": "Părinții au făcut multe jertfe ca să-l țină la școală.",
+  "synonyms": [
+   "sacrificiu",
+   "ofrandă",
+   "prinos"
+  ],
+  "origin": "Din slavonul žrŭtva «sacrificiu»."
+ },
+ {
+  "lemma": "primejdie",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "priˈmeʒdi.e",
+  "definition": "Împrejurare care amenință viața sau liniștea cuiva",
+  "example": "Alpiniștii au trecut printr-o mare primejdie pe creastă.",
+  "synonyms": [
+   "pericol",
+   "risc",
+   "amenințare"
+  ],
+  "origin": "Din slavonul prĕmeždije."
+ },
+ {
+  "lemma": "prăpastie",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "prəˈpasti.e",
+  "definition": "Adâncitură uriașă cu pereți abrupți",
+  "example": "Dincolo de parapet se căsca o prăpastie amețitoare.",
+  "synonyms": [
+   "abis",
+   "hău",
+   "genune"
+  ],
+  "origin": "Din slavonul propastĭ «abis»."
+ },
+ {
+  "lemma": "potoli",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "potoˈli",
+  "definition": "A face să scadă o durere, o furie, o sete",
+  "example": "Un pahar cu apă rece i-a potolit setea.",
+  "synonyms": [
+   "domoli",
+   "liniști",
+   "alina"
+  ],
+  "origin": "Din slavonul potoliti «a liniști»."
+ },
+ {
+  "lemma": "cuteza",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "kuteˈza",
+  "definition": "A avea curajul să faci ceva",
+  "example": "Nimeni nu cuteza să-l contrazică pe bătrânul profesor.",
+  "synonyms": [
+   "îndrăzni",
+   "încumeta"
+  ],
+  "origin": "Din latina populară *cottizare «a juca zaruri», de la grecescul kottízein."
+ },
+ {
+  "lemma": "ispiti",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "ispiˈti",
+  "definition": "A atrage pe cineva spre ceva oprit sau plăcut",
+  "example": "Mirosul de cozonac cald îl ispitea de la ușă.",
+  "synonyms": [
+   "tenta",
+   "ademeni",
+   "momi"
+  ],
+  "origin": "Din slavonul ispytati «a pune la încercare, a cerceta»."
+ },
+ {
+  "lemma": "dezmierda",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "dezmjerˈda",
+  "definition": "A mângâia cu duioșie, a răsfăța",
+  "example": "Mama își dezmierda copilul până când acesta adormea.",
+  "synonyms": [
+   "mângâia",
+   "alinta",
+   "răsfăța"
+  ],
+  "origin": "Din latina populară *dismerdare, la origine «a curăța un prunc»."
+ },
+ {
+  "lemma": "amurg",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "aˈmurɡ",
+  "definition": "Lumina slabă de după apusul soarelui",
+  "example": "În amurg, dealurile capătă o culoare vineție.",
+  "synonyms": [
+   "înserare",
+   "asfințit",
+   "crepuscul"
+  ],
+  "origin": "Format din a + murg «de culoare închisă, întunecat»."
+ },
+ {
+  "lemma": "molcom",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈmolkom",
+  "definition": "Liniștit și domol în vorbă sau în mișcare",
+  "example": "Bunicul povestea cu glasul lui molcom până târziu.",
+  "synonyms": [
+   "domol",
+   "blând",
+   "potolit"
+  ],
+  "origin": "Probabil din slavonul mlŭkomŭ «tăcut»."
+ },
+ {
+  "lemma": "rost",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "rost",
+  "definition": "Sens, menire sau rânduială a unui lucru",
+  "example": "Nu vedea niciun rost în a continua cearta.",
+  "synonyms": [
+   "sens",
+   "noimă",
+   "scop"
+  ],
+  "origin": "Din latinescul rostrum «cioc, bot», apoi «gură», de unde «vorbire, rânduială»."
+ },
+ {
+  "lemma": "nădejde",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "nəˈdeʒde",
+  "definition": "Așteptare încrezătoare ca un lucru dorit să se împlinească",
+  "example": "Mai avea o singură nădejde: scrisoarea fratelui său.",
+  "synonyms": [
+   "speranță",
+   "încredere"
+  ],
+  "origin": "Din slavonul nadežda «speranță»."
+ },
+ {
+  "lemma": "limpede",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "ˈlimpede",
+  "definition": "Curat și străveziu; ușor de înțeles",
+  "example": "Apa izvorului era atât de limpede încât se vedeau pietrele.",
+  "synonyms": [
+   "clar",
+   "transparent",
+   "deslușit"
+  ],
+  "origin": "Din latinescul limpidus «clar, străveziu»."
+ },
+ {
+  "lemma": "iscusit",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "iskuˈsit",
+  "definition": "Priceput și îndemânatic în ceea ce face",
+  "example": "Un meșter iscusit a reparat ceasul bunicului.",
+  "synonyms": [
+   "abil",
+   "dibaci",
+   "destoinic"
+  ],
+  "origin": "Participiul verbului a iscusi, din slavonul iskusiti «a încerca, a pune la probă»."
+ },
+ {
+  "lemma": "chibzui",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "kibzuˈi",
+  "definition": "A cântări bine înainte de a hotărî",
+  "example": "A chibzuit îndelung înainte să semneze contractul.",
+  "synonyms": [
+   "cumpăni",
+   "socoti",
+   "judeca"
+  ],
+  "origin": "Din maghiarul képezni «a-și închipui, a forma»."
+ },
+ {
+  "lemma": "stărui",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "stəruˈi",
+  "definition": "A cere ori a continua cu insistență",
+  "example": "A stăruit atât de mult, încât până la urmă am acceptat.",
+  "synonyms": [
+   "insista",
+   "persevera",
+   "persista"
+  ],
+  "origin": "De origine slavă; cf. slavonul starati sę «a se strădui»."
+ },
+ {
+  "lemma": "îngădui",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "ɨnɡəduˈi",
+  "definition": "A da voie, a lăsa să se întâmple",
+  "example": "Părinții nu i-au îngăduit să plece singură în excursie.",
+  "synonyms": [
+   "permite",
+   "tolera",
+   "accepta"
+  ],
+  "origin": "Din maghiarul engedni «a ceda, a permite»."
+ },
+ {
+  "lemma": "hoinar",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "hojˈnar",
+  "definition": "Căruia îi place să umble fără țintă",
+  "example": "Un câine hoinar ne-a însoțit până la marginea satului.",
+  "synonyms": [
+   "rătăcitor",
+   "vagabond",
+   "pribeag"
+  ],
+  "origin": "Origine nesigură; a fost apropiat de turcescul haymana «vagabond»."
+ },
+ {
+  "lemma": "meleag",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "meˈle̯aɡ",
+  "definition": "Ținut, loc natal sau îndepărtat",
+  "example": "După ani de zile s-a întors pe meleagurile copilăriei.",
+  "synonyms": [
+   "ținut",
+   "loc",
+   "plai"
+  ],
+  "origin": "Din maghiarul mellék «împrejurime»."
+ },
+ {
+  "lemma": "belșug",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "belˈʃuɡ",
+  "definition": "Cantitate mare de bunuri, îndestulare",
+  "example": "A fost un an cu belșug de fructe în toată țara.",
+  "synonyms": [
+   "abundență",
+   "bogăție",
+   "prisos"
+  ],
+  "origin": "Din maghiarul bőség «abundență»."
+ },
+ {
+  "lemma": "cugeta",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "kud͡ʒeˈta",
+  "definition": "A gândi adânc și îndelung asupra unui lucru",
+  "example": "A cugetat toată noaptea la vorbele tatălui său.",
+  "synonyms": [
+   "medita",
+   "reflecta",
+   "chibzui"
+  ],
+  "origin": "Din latinescul cogitare «a gândi»."
+ },
+ {
+  "lemma": "amăgi",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "aməˈd͡ʒi",
+  "definition": "A înșela pe cineva cu promisiuni frumoase",
+  "example": "Nu te lăsa amăgit de reclamele prea strălucitoare.",
+  "synonyms": [
+   "păcăli",
+   "ademeni",
+   "minți"
+  ],
+  "origin": "Din latina populară *ammagire, de la grecescul mageúein «a vrăji»."
+ },
+ {
+  "lemma": "îndupleca",
+  "level": 1,
+  "part_of_speech": "vb.",
+  "ipa": "ɨndupleˈka",
+  "definition": "A convinge pe cineva să cedeze",
+  "example": "Abia l-am înduplecat să vină cu noi la munte.",
+  "synonyms": [
+   "îmbuna",
+   "determina",
+   "muia"
+  ],
+  "origin": "Din latina populară *induplicare «a îndoi»."
+ },
+ {
+  "lemma": "mireasmă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "miˈre̯asmə",
+  "definition": "Miros plăcut și pătrunzător răspândit în aer",
+  "example": "Din grădină venea o mireasmă de tei înflorit.",
+  "synonyms": [
+   "parfum",
+   "aromă"
+  ],
+  "origin": "Din neogrecescul mírisma «miros»."
+ },
+ {
+  "lemma": "pildă",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈpildə",
+  "definition": "Faptă sau povestire din care se trage o învățătură",
+  "example": "Viața ei a rămas o pildă de curaj pentru toți.",
+  "synonyms": [
+   "exemplu",
+   "model",
+   "parabolă"
+  ],
+  "origin": "Din maghiarul példa «exemplu»."
+ },
+ {
+  "lemma": "popas",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "poˈpas",
+  "definition": "Odihnă scurtă luată în timpul unui drum lung",
+  "example": "Am făcut un scurt popas la marginea pădurii.",
+  "synonyms": [
+   "oprire",
+   "haltă"
+  ],
+  "origin": "Din slavonul popasŭ, de la pasti «a paște»."
+ },
+ {
+  "lemma": "tocmeală",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "tokˈme̯alə",
+  "definition": "Discuție asupra prețului; înțelegere între două părți",
+  "example": "După o lungă tocmeală, a luat covorul la jumătate de preț.",
+  "synonyms": [
+   "târguială",
+   "negociere",
+   "învoială"
+  ],
+  "origin": "Format din a tocmi (din slavonul tŭkŭmiti «a potrivi») cu sufixul -eală."
+ },
+ {
+  "lemma": "meșteșug",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "meʃteˈʃuɡ",
+  "definition": "Îndeletnicire manuală care cere pricepere și răbdare",
+  "example": "Olăritul este un meșteșug vechi de mii de ani.",
+  "synonyms": [
+   "meserie",
+   "artă"
+  ],
+  "origin": "Din maghiarul mesterség «meserie»."
+ },
+ {
+  "lemma": "pricină",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈprit͡ʃinə",
+  "definition": "Ceea ce dă naștere unui fapt; neînțelegere",
+  "example": "Nimeni din casă nu știa pricina supărării lui.",
+  "synonyms": [
+   "cauză",
+   "motiv",
+   "ceartă"
+  ],
+  "origin": "Din bulgarul pričina «cauză»."
+ },
+ {
+  "lemma": "temei",
+  "level": 1,
+  "part_of_speech": "s.n.",
+  "ipa": "teˈmej",
+  "definition": "Bază solidă pe care se sprijină ceva",
+  "example": "Zvonul s-a dovedit a fi fără niciun temei.",
+  "synonyms": [
+   "fundament",
+   "motiv",
+   "justificare"
+  ],
+  "origin": "Din greaca medie themélion «fundament», intrat în română prin slavonă."
+ },
+ {
+  "lemma": "cinste",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "ˈt͡ʃinste",
+  "definition": "Purtare dreaptă și curată; prețuire arătată cuiva",
+  "example": "A muncit toată viața cu cinste și fără lăcomie.",
+  "synonyms": [
+   "onoare",
+   "onestitate",
+   "probitate"
+  ],
+  "origin": "Din slavonul čĭstĭ «onoare»."
+ },
+ {
+  "lemma": "omenie",
+  "level": 1,
+  "part_of_speech": "s.f.",
+  "ipa": "omeˈni.e",
+  "definition": "Purtare blândă și dreaptă față de semeni",
+  "example": "Ne-a primit cu omenie, deși nu ne cunoștea.",
+  "synonyms": [
+   "bunătate",
+   "umanitate",
+   "cumsecădenie"
+  ],
+  "origin": "Format din om (plural oameni) cu sufixul -ie."
+ },
+ {
+  "lemma": "zadarnic",
+  "level": 1,
+  "part_of_speech": "adj.",
+  "ipa": "zaˈdarnik",
+  "definition": "Care nu aduce niciun folos sau rezultat",
+  "example": "Toate încercările de a-l opri au fost zadarnice.",
+  "synonyms": [
+   "inutil",
+   "van",
+   "deșert"
+  ],
+  "origin": "Format din zadar (din slavonul za darŭ «în dar, degeaba») cu sufixul -nic."
+ }
+]

@@ -1,0 +1,549 @@
+{
+ "duios": [
+  "emotions"
+ ],
+ "sfios": [
+  "character"
+ ],
+ "dor": [
+  "emotions"
+ ],
+ "tihnă": [
+  "emotions"
+ ],
+ "răgaz": [
+  "society"
+ ],
+ "mângâia": [
+  "emotions"
+ ],
+ "ivi": [
+  "nature"
+ ],
+ "negură": [
+  "nature"
+ ],
+ "văzduh": [
+  "nature"
+ ],
+ "codru": [
+  "nature"
+ ],
+ "potecă": [
+  "nature",
+  "travel"
+ ],
+ "taină": [
+  "literature"
+ ],
+ "vrajă": [
+  "literature",
+  "emotions"
+ ],
+ "spaimă": [
+  "emotions"
+ ],
+ "fior": [
+  "emotions"
+ ],
+ "ciudă": [
+  "emotions"
+ ],
+ "batjocură": [
+  "society"
+ ],
+ "vrednic": [
+  "character"
+ ],
+ "viteaz": [
+  "character"
+ ],
+ "viclean": [
+  "character"
+ ],
+ "strașnic": [
+  "emotions"
+ ],
+ "lesne": [
+  "society"
+ ],
+ "anevoie": [
+  "society"
+ ],
+ "aievea": [
+  "literature"
+ ],
+ "hotar": [
+  "travel",
+  "society"
+ ],
+ "ispravă": [
+  "society"
+ ],
+ "zestre": [
+  "society"
+ ],
+ "pridvor": [
+  "society"
+ ],
+ "prisos": [
+  "business"
+ ],
+ "pagubă": [
+  "business"
+ ],
+ "patimă": [
+  "emotions"
+ ],
+ "jertfă": [
+  "society"
+ ],
+ "primejdie": [
+  "travel"
+ ],
+ "prăpastie": [
+  "nature"
+ ],
+ "potoli": [
+  "emotions"
+ ],
+ "cuteza": [
+  "character"
+ ],
+ "ispiti": [
+  "persuasion"
+ ],
+ "dezmierda": [
+  "emotions"
+ ],
+ "amurg": [
+  "nature"
+ ],
+ "molcom": [
+  "character"
+ ],
+ "rost": [
+  "society"
+ ],
+ "nădejde": [
+  "emotions"
+ ],
+ "limpede": [
+  "nature",
+  "debate"
+ ],
+ "iscusit": [
+  "character"
+ ],
+ "chibzui": [
+  "debate"
+ ],
+ "stărui": [
+  "persuasion"
+ ],
+ "îngădui": [
+  "society"
+ ],
+ "hoinar": [
+  "travel"
+ ],
+ "meleag": [
+  "travel"
+ ],
+ "belșug": [
+  "business"
+ ],
+ "cugeta": [
+  "debate"
+ ],
+ "amăgi": [
+  "persuasion"
+ ],
+ "îndupleca": [
+  "persuasion"
+ ],
+ "mireasmă": [
+  "nature"
+ ],
+ "pildă": [
+  "literature"
+ ],
+ "popas": [
+  "travel"
+ ],
+ "tocmeală": [
+  "business"
+ ],
+ "meșteșug": [
+  "business"
+ ],
+ "pricină": [
+  "debate"
+ ],
+ "temei": [
+  "debate"
+ ],
+ "cinste": [
+  "character"
+ ],
+ "omenie": [
+  "character"
+ ],
+ "zadarnic": [
+  "emotions"
+ ],
+ "freamăt": [
+  "nature"
+ ],
+ "alean": [
+  "emotions"
+ ],
+ "noimă": [
+  "debate"
+ ],
+ "tâlc": [
+  "literature"
+ ],
+ "tăgădui": [
+  "debate"
+ ],
+ "osândi": [
+  "society"
+ ],
+ "dăinui": [
+  "society"
+ ],
+ "pribeag": [
+  "travel"
+ ],
+ "huzur": [
+  "society"
+ ],
+ "sfadă": [
+  "debate"
+ ],
+ "șugubăț": [
+  "character"
+ ],
+ "semeț": [
+  "character"
+ ],
+ "ursită": [
+  "literature"
+ ],
+ "obidă": [
+  "emotions"
+ ],
+ "stingher": [
+  "emotions"
+ ],
+ "tălmăci": [
+  "literature"
+ ],
+ "cuviință": [
+  "society"
+ ],
+ "deșertăciune": [
+  "literature"
+ ],
+ "efemer": [
+  "literature",
+  "nature"
+ ],
+ "diafan": [
+  "literature"
+ ],
+ "taciturn": [
+  "character"
+ ],
+ "circumspect": [
+  "business",
+  "character"
+ ],
+ "laconic": [
+  "literature",
+  "debate"
+ ],
+ "elocvent": [
+  "persuasion"
+ ],
+ "mărinimos": [
+  "character"
+ ],
+ "reverie": [
+  "emotions"
+ ],
+ "chintesență": [
+  "literature",
+  "science"
+ ],
+ "tertip": [
+  "persuasion"
+ ],
+ "zâzanie": [
+  "society"
+ ],
+ "chilipir": [
+  "business"
+ ],
+ "berechet": [
+  "business"
+ ],
+ "taifas": [
+  "society"
+ ],
+ "agonisi": [
+  "business"
+ ],
+ "irosi": [
+  "business"
+ ],
+ "pregeta": [
+  "character"
+ ],
+ "tămădui": [
+  "science"
+ ],
+ "adulmeca": [
+  "nature"
+ ],
+ "scruta": [
+  "science"
+ ],
+ "eluda": [
+  "debate"
+ ],
+ "acalmie": [
+  "nature"
+ ],
+ "apogeu": [
+  "science"
+ ],
+ "puzderie": [
+  "nature"
+ ],
+ "pâclă": [
+  "nature"
+ ],
+ "obârșie": [
+  "society"
+ ],
+ "urzi": [
+  "society"
+ ],
+ "plăsmui": [
+  "literature"
+ ],
+ "snoavă": [
+  "literature"
+ ],
+ "liman": [
+  "travel"
+ ],
+ "negoț": [
+  "business"
+ ],
+ "dobândă": [
+  "business"
+ ],
+ "breaslă": [
+  "business"
+ ],
+ "obște": [
+  "society"
+ ],
+ "vrajbă": [
+  "society"
+ ],
+ "ademeni": [
+  "persuasion"
+ ],
+ "empiric": [
+  "science"
+ ],
+ "axiomă": [
+  "science",
+  "debate"
+ ],
+ "simbioză": [
+  "science"
+ ],
+ "inerție": [
+  "science"
+ ],
+ "hâtru": [
+  "character"
+ ],
+ "mucalit": [
+  "character"
+ ],
+ "sindrofie": [
+  "society"
+ ],
+ "filotimie": [
+  "character"
+ ],
+ "galanton": [
+  "character"
+ ],
+ "levent": [
+  "character"
+ ],
+ "zaiafet": [
+  "society"
+ ],
+ "catadicsi": [
+  "society"
+ ],
+ "chivernisi": [
+  "business"
+ ],
+ "adăsta": [
+  "travel"
+ ],
+ "purcede": [
+  "travel"
+ ],
+ "ostoi": [
+  "emotions"
+ ],
+ "persifla": [
+  "debate",
+  "literature"
+ ],
+ "tergiversa": [
+  "debate",
+  "business"
+ ],
+ "obnubila": [
+  "science",
+  "emotions"
+ ],
+ "sagace": [
+  "character"
+ ],
+ "sibilinic": [
+  "literature"
+ ],
+ "abscons": [
+  "literature"
+ ],
+ "inefabil": [
+  "literature",
+  "emotions"
+ ],
+ "vetust": [
+  "literature"
+ ],
+ "prolix": [
+  "literature"
+ ],
+ "beatitudine": [
+  "emotions"
+ ],
+ "vicisitudine": [
+  "society"
+ ],
+ "genune": [
+  "nature",
+  "literature"
+ ],
+ "noian": [
+  "nature"
+ ],
+ "colnic": [
+  "nature"
+ ],
+ "hrisov": [
+  "society"
+ ],
+ "letopiseț": [
+  "literature"
+ ],
+ "pravilă": [
+  "society"
+ ],
+ "stirpe": [
+  "society"
+ ],
+ "hărăzi": [
+  "literature"
+ ],
+ "urgisi": [
+  "society"
+ ],
+ "surghiuni": [
+  "society"
+ ],
+ "cazanie": [
+  "literature"
+ ],
+ "hagialâc": [
+  "travel"
+ ],
+ "zălog": [
+  "business"
+ ],
+ "chezaș": [
+  "business"
+ ],
+ "precupeț": [
+  "business"
+ ],
+ "dregător": [
+  "society"
+ ],
+ "ocârmui": [
+  "society"
+ ],
+ "oploși": [
+  "society"
+ ],
+ "nimicnicie": [
+  "literature",
+  "emotions"
+ ],
+ "palimpsest": [
+  "literature"
+ ],
+ "panaceu": [
+  "science"
+ ],
+ "sinecură": [
+  "business"
+ ],
+ "ubicuu": [
+  "science",
+  "society"
+ ],
+ "sempitern": [
+  "literature"
+ ],
+ "apoftegmă": [
+  "literature"
+ ],
+ "perora": [
+  "debate"
+ ],
+ "diatribă": [
+  "debate"
+ ],
+ "sofism": [
+  "debate"
+ ],
+ "prozelit": [
+  "persuasion"
+ ],
+ "parcimonie": [
+  "business"
+ ],
+ "lapidar": [
+  "literature"
+ ],
+ "oniric": [
+  "literature"
+ ],
+ "paradigmă": [
+  "science"
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "zarif": [
+  "character",
+  "society"
+ ],
+ "naif": [
+  "character"
+ ],
+ "mütevazı": [
+  "character"
+ ],
+ "cömert": [
+  "character",
+  "society"
+ ],
+ "vefa": [
+  "character",
+  "emotions"
+ ],
+ "hüzün": [
+  "emotions"
+ ],
+ "özlem": [
+  "emotions"
+ ],
+ "merak": [
+  "emotions",
+  "science"
+ ],
+ "samimi": [
+  "character",
+  "emotions"
+ ],
+ "sükûnet": [
+  "emotions",
+  "nature"
+ ],
+ "huzur": [
+  "emotions"
+ ],
+ "telaş": [
+  "emotions"
+ ],
+ "gurur": [
+  "emotions",
+  "character"
+ ],
+ "şefkat": [
+  "emotions"
+ ],
+ "merhamet": [
+  "emotions",
+  "society"
+ ],
+ "tebessüm": [
+  "emotions"
+ ],
+ "keyif": [
+  "emotions"
+ ],
+ "ferah": [
+  "emotions",
+  "travel"
+ ],
+ "sade": [
+  "literature",
+  "character"
+ ],
+ "muhabbet": [
+  "society"
+ ],
+ "gönül": [
+  "emotions"
+ ],
+ "sezgi": [
+  "science",
+  "character"
+ ],
+ "özen": [
+  "character",
+  "business"
+ ],
+ "çaba": [
+  "business",
+  "character"
+ ],
+ "erdem": [
+  "character",
+  "society"
+ ],
+ "bilge": [
+  "character"
+ ],
+ "ılık": [
+  "nature"
+ ],
+ "dingin": [
+  "nature",
+  "emotions"
+ ],
+ "coşku": [
+  "emotions"
+ ],
+ "kaygı": [
+  "emotions"
+ ],
+ "umursamak": [
+  "character"
+ ],
+ "kavramak": [
+  "science"
+ ],
+ "gözetmek": [
+  "society"
+ ],
+ "esirgemek": [
+  "character"
+ ],
+ "avutmak": [
+  "emotions"
+ ],
+ "kıvanç": [
+  "emotions"
+ ],
+ "özveri": [
+  "character"
+ ],
+ "mahcup": [
+  "emotions",
+  "character"
+ ],
+ "kibar": [
+  "society",
+  "character"
+ ],
+ "sitem": [
+  "emotions"
+ ],
+ "emek": [
+  "business",
+  "society"
+ ],
+ "tereddüt": [
+  "emotions",
+  "debate"
+ ],
+ "itina": [
+  "character",
+  "business"
+ ],
+ "ahenk": [
+  "literature",
+  "nature"
+ ],
+ "tutku": [
+  "emotions"
+ ],
+ "esinti": [
+  "nature"
+ ],
+ "ıssız": [
+  "nature",
+  "travel"
+ ],
+ "şafak": [
+  "nature"
+ ],
+ "macera": [
+  "travel",
+  "literature"
+ ],
+ "sakınmak": [
+  "character"
+ ],
+ "yadırgamak": [
+  "society",
+  "travel"
+ ],
+ "gücenmek": [
+  "emotions"
+ ],
+ "direnmek": [
+  "debate",
+  "character"
+ ],
+ "armağan": [
+  "society"
+ ],
+ "nafile": [
+  "debate"
+ ],
+ "ikna": [
+  "persuasion"
+ ],
+ "evren": [
+  "science",
+  "nature"
+ ],
+ "yakamoz": [
+  "nature"
+ ],
+ "hülya": [
+  "emotions",
+  "literature"
+ ],
+ "müşfik": [
+  "character",
+  "emotions"
+ ],
+ "ihtişam": [
+  "society",
+  "travel"
+ ],
+ "nadide": [
+  "literature",
+  "business"
+ ],
+ "mahir": [
+  "business",
+  "character"
+ ],
+ "münzevi": [
+  "character",
+  "society"
+ ],
+ "meşakkat": [
+  "travel",
+  "business"
+ ],
+ "muğlak": [
+  "debate",
+  "business"
+ ],
+ "feragat": [
+  "character",
+  "business"
+ ],
+ "feraset": [
+  "character"
+ ],
+ "basiret": [
+  "business",
+  "character"
+ ],
+ "hicran": [
+  "emotions",
+  "literature"
+ ],
+ "hazan": [
+  "nature",
+  "literature"
+ ],
+ "hercai": [
+  "character",
+  "emotions"
+ ],
+ "pervasız": [
+  "character",
+  "debate"
+ ],
+ "serzeniş": [
+  "emotions"
+ ],
+ "lakayt": [
+  "character",
+  "society"
+ ],
+ "laubali": [
+  "society",
+  "character"
+ ],
+ "mütemadiyen": [
+  "society"
+ ],
+ "tumturaklı": [
+  "literature",
+  "persuasion"
+ ],
+ "debdebe": [
+  "society"
+ ],
+ "safsata": [
+  "debate",
+  "persuasion"
+ ],
+ "tezat": [
+  "debate",
+  "literature"
+ ],
+ "mizaç": [
+  "character",
+  "science"
+ ],
+ "evham": [
+  "emotions"
+ ],
+ "efkâr": [
+  "emotions"
+ ],
+ "rehavet": [
+  "emotions"
+ ],
+ "atalet": [
+  "business",
+  "science"
+ ],
+ "nüans": [
+  "literature",
+  "debate"
+ ],
+ "vuslat": [
+  "emotions",
+  "literature"
+ ],
+ "tefekkür": [
+  "science",
+  "literature"
+ ],
+ "iltifat": [
+  "society",
+  "persuasion"
+ ],
+ "istihza": [
+  "literature",
+  "debate"
+ ],
+ "nezaket": [
+  "society",
+  "character"
+ ],
+ "buruk": [
+  "emotions"
+ ],
+ "sağduyu": [
+  "debate",
+  "character"
+ ],
+ "yadsımak": [
+  "debate"
+ ],
+ "irdelemek": [
+  "debate",
+  "science"
+ ],
+ "hayıflanmak": [
+  "emotions"
+ ],
+ "yeltenmek": [
+  "character"
+ ],
+ "kayırmak": [
+  "society",
+  "business"
+ ],
+ "kanıksamak": [
+  "society"
+ ],
+ "yozlaşmak": [
+  "society"
+ ],
+ "betimlemek": [
+  "literature"
+ ],
+ "ikilem": [
+  "debate"
+ ],
+ "özgün": [
+  "literature",
+  "business"
+ ],
+ "tını": [
+  "literature",
+  "science"
+ ],
+ "görkem": [
+  "nature",
+  "travel"
+ ],
+ "meltem": [
+  "nature"
+ ],
+ "esin": [
+  "literature"
+ ],
+ "imge": [
+  "literature"
+ ],
+ "güzergâh": [
+  "travel"
+ ],
+ "seyyah": [
+  "travel"
+ ],
+ "hatip": [
+  "persuasion"
+ ],
+ "telkin": [
+  "persuasion"
+ ],
+ "olgu": [
+  "science"
+ ],
+ "varsayım": [
+  "science"
+ ],
+ "namütenahi": [
+  "literature",
+  "nature"
+ ],
+ "mütehassis": [
+  "emotions"
+ ],
+ "sermest": [
+  "emotions",
+  "literature"
+ ],
+ "efsunkâr": [
+  "literature"
+ ],
+ "esrik": [
+  "emotions",
+  "literature"
+ ],
+ "melal": [
+  "emotions",
+  "literature"
+ ],
+ "firak": [
+  "emotions",
+  "literature"
+ ],
+ "vaveyla": [
+  "emotions",
+  "literature"
+ ],
+ "revnak": [
+  "literature"
+ ],
+ "istiğna": [
+  "character"
+ ],
+ "layemut": [
+  "literature"
+ ],
+ "bedbin": [
+  "character"
+ ],
+ "nikbin": [
+  "character"
+ ],
+ "hodbin": [
+  "character"
+ ],
+ "diğerkâm": [
+  "character"
+ ],
+ "hemhal": [
+  "emotions",
+  "society"
+ ],
+ "dilhun": [
+  "emotions"
+ ],
+ "canhıraş": [
+  "emotions"
+ ],
+ "tarumar": [
+  "nature"
+ ],
+ "velhasıl": [
+  "debate",
+  "persuasion"
+ ],
+ "tecahülüarif": [
+  "literature"
+ ],
+ "tecessüs": [
+  "character",
+  "society"
+ ],
+ "tahassür": [
+  "emotions"
+ ],
+ "inşirah": [
+  "emotions"
+ ],
+ "inkisar": [
+  "emotions"
+ ],
+ "izmihlal": [
+  "society"
+ ],
+ "istiğrak": [
+  "emotions"
+ ],
+ "cezbe": [
+  "emotions"
+ ],
+ "huşu": [
+  "emotions"
+ ],
+ "nisyan": [
+  "literature"
+ ],
+ "nevmit": [
+  "emotions"
+ ],
+ "müreffeh": [
+  "society",
+  "business"
+ ],
+ "mutantan": [
+  "society"
+ ],
+ "münevver": [
+  "society"
+ ],
+ "müşkülpesent": [
+  "character"
+ ],
+ "serazat": [
+  "character"
+ ],
+ "şebnem": [
+  "nature",
+  "literature"
+ ],
+ "tansık": [
+  "literature"
+ ],
+ "erek": [
+  "business"
+ ],
+ "sanrı": [
+  "science"
+ ],
+ "yetke": [
+  "society"
+ ],
+ "uzam": [
+  "science",
+  "literature"
+ ],
+ "bengi": [
+  "literature"
+ ],
+ "yalvaç": [
+  "literature",
+  "society"
+ ],
+ "sağaltmak": [
+  "science"
+ ],
+ "yüksünmek": [
+  "character"
+ ],
+ "öykünmek": [
+  "literature"
+ ],
+ "erinmek": [
+  "character"
+ ],
+ "ağınmak": [
+  "nature"
+ ],
+ "onulmaz": [
+  "emotions"
+ ],
+ "imlemek": [
+  "literature"
+ ],
+ "müptezel": [
+  "literature"
+ ],
+ "mutena": [
+  "society"
+ ],
+ "muhayyile": [
+  "literature",
+  "science"
+ ],
+ "ulvi": [
+  "emotions"
+ ],
+ "serencam": [
+  "literature"
+ ],
+ "belagat": [
+  "persuasion",
+  "literature"
+ ]
+}

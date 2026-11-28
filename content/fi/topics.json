@@ -1,0 +1,563 @@
+{
+ "haikea": [
+  "emotions"
+ ],
+ "hento": [
+  "character",
+  "nature"
+ ],
+ "lempeä": [
+  "character"
+ ],
+ "uljas": [
+  "character"
+ ],
+ "jalo": [
+  "character",
+  "society"
+ ],
+ "harras": [
+  "character",
+  "society"
+ ],
+ "tyyni": [
+  "nature"
+ ],
+ "vieno": [
+  "literature"
+ ],
+ "ylväs": [
+  "character"
+ ],
+ "nöyrä": [
+  "character"
+ ],
+ "sitkeä": [
+  "character"
+ ],
+ "viekas": [
+  "character"
+ ],
+ "ponteva": [
+  "persuasion"
+ ],
+ "verkkainen": [
+  "nature",
+  "travel"
+ ],
+ "vaatimaton": [
+  "character"
+ ],
+ "herkkä": [
+  "emotions",
+  "character"
+ ],
+ "ankara": [
+  "character"
+ ],
+ "huoleton": [
+  "emotions",
+  "character"
+ ],
+ "utelias": [
+  "character"
+ ],
+ "avulias": [
+  "character"
+ ],
+ "hilpeä": [
+  "emotions"
+ ],
+ "synkkä": [
+  "emotions",
+  "nature"
+ ],
+ "karu": [
+  "nature"
+ ],
+ "tyly": [
+  "character"
+ ],
+ "kaipuu": [
+  "emotions"
+ ],
+ "tuokio": [
+  "travel"
+ ],
+ "aavistus": [
+  "emotions"
+ ],
+ "hämärä": [
+  "nature"
+ ],
+ "lumo": [
+  "literature"
+ ],
+ "sopu": [
+  "business",
+  "society"
+ ],
+ "tarmo": [
+  "character",
+  "business"
+ ],
+ "vaisto": [
+  "science"
+ ],
+ "lohtu": [
+  "emotions"
+ ],
+ "kohtalo": [
+  "literature",
+  "society"
+ ],
+ "maine": [
+  "persuasion",
+  "business"
+ ],
+ "sisu": [
+  "character"
+ ],
+ "into": [
+  "emotions"
+ ],
+ "taakka": [
+  "business"
+ ],
+ "oivallus": [
+  "debate",
+  "science"
+ ],
+ "vaalia": [
+  "society"
+ ],
+ "uhmata": [
+  "character",
+  "debate"
+ ],
+ "empiä": [
+  "character"
+ ],
+ "houkutella": [
+  "persuasion"
+ ],
+ "kukoistaa": [
+  "business"
+ ],
+ "vaeltaa": [
+  "travel"
+ ],
+ "hillitä": [
+  "character"
+ ],
+ "ihailla": [
+  "persuasion"
+ ],
+ "rohjeta": [
+  "character"
+ ],
+ "vaieta": [
+  "debate"
+ ],
+ "punnita": [
+  "debate",
+  "business"
+ ],
+ "viipyä": [
+  "travel"
+ ],
+ "sinnitellä": [
+  "character"
+ ],
+ "kiiruhtaa": [
+  "business"
+ ],
+ "hehkua": [
+  "emotions",
+  "nature"
+ ],
+ "varjella": [
+  "society"
+ ],
+ "moittia": [
+  "debate"
+ ],
+ "kernaasti": [
+  "persuasion"
+ ],
+ "seesteinen": [
+  "character"
+ ],
+ "raukea": [
+  "emotions"
+ ],
+ "vähäeleinen": [
+  "character"
+ ],
+ "ylevä": [
+  "character"
+ ],
+ "alakuloinen": [
+  "emotions"
+ ],
+ "apea": [
+  "emotions"
+ ],
+ "karski": [
+  "character"
+ ],
+ "vilpitön": [
+  "character"
+ ],
+ "vankkumaton": [
+  "character"
+ ],
+ "kopea": [
+  "character"
+ ],
+ "jäyhä": [
+  "character"
+ ],
+ "kuulas": [
+  "nature"
+ ],
+ "ilkikurinen": [
+  "character"
+ ],
+ "väkevä": [
+  "nature"
+ ],
+ "vuolas": [
+  "nature"
+ ],
+ "saita": [
+  "character"
+ ],
+ "nuiva": [
+  "character"
+ ],
+ "itsepintainen": [
+  "character"
+ ],
+ "uuttera": [
+  "character",
+  "business"
+ ],
+ "rehti": [
+  "character"
+ ],
+ "kaino": [
+  "character"
+ ],
+ "sävyisä": [
+  "character"
+ ],
+ "ynseä": [
+  "character"
+ ],
+ "penseä": [
+  "character"
+ ],
+ "leppoisa": [
+  "character"
+ ],
+ "lauhkea": [
+  "character",
+  "nature"
+ ],
+ "kaiho": [
+  "emotions"
+ ],
+ "hurmio": [
+  "emotions"
+ ],
+ "kajo": [
+  "nature"
+ ],
+ "kauna": [
+  "emotions",
+  "society"
+ ],
+ "ylenkatse": [
+  "debate",
+  "society"
+ ],
+ "kiihko": [
+  "emotions",
+  "debate"
+ ],
+ "aatos": [
+  "literature"
+ ],
+ "riemu": [
+  "emotions"
+ ],
+ "tenho": [
+  "literature"
+ ],
+ "mielijohde": [
+  "literature"
+ ],
+ "häivähdys": [
+  "literature",
+  "science"
+ ],
+ "kuje": [
+  "character"
+ ],
+ "ahdinko": [
+  "business",
+  "society"
+ ],
+ "vivahde": [
+  "debate",
+  "literature"
+ ],
+ "enne": [
+  "literature"
+ ],
+ "sarastus": [
+  "nature"
+ ],
+ "hekumoida": [
+  "society"
+ ],
+ "nuhdella": [
+  "persuasion",
+  "debate"
+ ],
+ "liehitellä": [
+  "persuasion"
+ ],
+ "vitkastella": [
+  "character",
+  "business"
+ ],
+ "jahkailla": [
+  "character"
+ ],
+ "hairahtua": [
+  "character"
+ ],
+ "uhkua": [
+  "nature"
+ ],
+ "piintyä": [
+  "character"
+ ],
+ "havitella": [
+  "persuasion"
+ ],
+ "hiipua": [
+  "nature"
+ ],
+ "karttaa": [
+  "travel"
+ ],
+ "tyrehtyä": [
+  "business"
+ ],
+ "ammentaa": [
+  "business",
+  "literature"
+ ],
+ "vaivihkaa": [
+  "society"
+ ],
+ "auliisti": [
+  "persuasion"
+ ],
+ "viheliäinen": [
+  "character",
+  "society"
+ ],
+ "katala": [
+  "character"
+ ],
+ "kavala": [
+  "character"
+ ],
+ "hurskas": [
+  "character",
+  "society"
+ ],
+ "äveriäs": [
+  "business"
+ ],
+ "korskea": [
+  "character"
+ ],
+ "ylenpalttinen": [
+  "business"
+ ],
+ "kärkäs": [
+  "character"
+ ],
+ "nyreä": [
+  "emotions",
+  "character"
+ ],
+ "pöyhkeä": [
+  "character"
+ ],
+ "rietas": [
+  "character"
+ ],
+ "kerkeä": [
+  "character"
+ ],
+ "pateettinen": [
+  "debate",
+  "literature"
+ ],
+ "efemeerinen": [
+  "literature",
+  "science"
+ ],
+ "auvo": [
+  "emotions",
+  "literature"
+ ],
+ "ehtoo": [
+  "literature",
+  "travel"
+ ],
+ "tuonela": [
+  "literature",
+  "society"
+ ],
+ "kalma": [
+  "literature"
+ ],
+ "sulous": [
+  "literature"
+ ],
+ "suvanto": [
+  "nature",
+  "travel"
+ ],
+ "ies": [
+  "society"
+ ],
+ "airut": [
+  "literature",
+  "society"
+ ],
+ "hiisi": [
+  "literature",
+  "society"
+ ],
+ "sananparsi": [
+  "literature",
+  "society"
+ ],
+ "korulause": [
+  "persuasion",
+  "literature"
+ ],
+ "joutilaisuus": [
+  "business",
+  "society"
+ ],
+ "katoavaisuus": [
+  "literature",
+  "society"
+ ],
+ "paatos": [
+  "persuasion",
+  "debate"
+ ],
+ "katarsis": [
+  "literature"
+ ],
+ "eufemismi": [
+  "persuasion",
+  "literature"
+ ],
+ "anakronismi": [
+  "literature",
+  "science"
+ ],
+ "tautologia": [
+  "debate",
+  "literature"
+ ],
+ "allegoria": [
+  "literature"
+ ],
+ "pahe": [
+  "character",
+  "society"
+ ],
+ "ilakoida": [
+  "emotions"
+ ],
+ "kirvoittaa": [
+  "persuasion"
+ ],
+ "riutua": [
+  "emotions"
+ ],
+ "herjata": [
+  "debate"
+ ],
+ "parjata": [
+  "debate"
+ ],
+ "panetella": [
+  "debate"
+ ],
+ "soimata": [
+  "debate"
+ ],
+ "sadatella": [
+  "debate"
+ ],
+ "manata": [
+  "literature"
+ ],
+ "anoa": [
+  "persuasion"
+ ],
+ "kavahtaa": [
+  "emotions"
+ ],
+ "vavista": [
+  "emotions"
+ ],
+ "väreillä": [
+  "nature"
+ ],
+ "kimmeltää": [
+  "nature"
+ ],
+ "siintää": [
+  "nature",
+  "travel"
+ ],
+ "häämöttää": [
+  "nature",
+  "travel"
+ ],
+ "uinua": [
+  "nature"
+ ],
+ "virvoittaa": [
+  "nature"
+ ],
+ "nujertaa": [
+  "character"
+ ],
+ "tyystin": [
+  "debate"
+ ],
+ "oitis": [
+  "debate"
+ ],
+ "alati": [
+  "literature"
+ ],
+ "visusti": [
+  "business"
+ ]
+}

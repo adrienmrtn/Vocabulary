@@ -1,0 +1,855 @@
+[
+  {
+    "lemma": "vergänglich",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "fɛɐ̯ˈɡɛŋlɪç",
+    "definition": "Nicht von Dauer, dem Vergehen unterworfen",
+    "example": "Schönheit ist vergänglich, doch ein gutes Herz bleibt.",
+    "synonyms": [
+      "flüchtig",
+      "kurzlebig",
+      "endlich"
+    ],
+    "origin": "Mittelhochdeutsch vergenclich, abgeleitet von vergān „vergehen“."
+  },
+  {
+    "lemma": "erhaben",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ɛɐ̯ˈhaːbn̩",
+    "definition": "Von feierlicher Größe; über Niedriges hinausgehoben",
+    "example": "Vom Gipfel bot sich ein erhabener Blick über das ganze Gebirge.",
+    "synonyms": [
+      "majestätisch",
+      "feierlich",
+      "würdevoll"
+    ],
+    "origin": "Altes Partizip von erheben (heute erhoben): eigentlich „emporgehoben“."
+  },
+  {
+    "lemma": "unverhohlen",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʊnfɛɐ̯hoːlən",
+    "definition": "Ganz offen gezeigt, nicht verborgen",
+    "example": "Mit unverhohlener Neugier musterte sie den neuen Nachbarn.",
+    "synonyms": [
+      "offen",
+      "unverblümt",
+      "unverhüllt"
+    ],
+    "origin": "Verneinung von verhohlen, dem alten Partizip von verhehlen „verbergen“; zu hehlen, althochdeutsch helan."
+  },
+  {
+    "lemma": "lakonisch",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "laˈkoːnɪʃ",
+    "definition": "Kurz und treffend, ohne ein Wort zu viel",
+    "example": "Auf die lange Anfrage antwortete er lakonisch mit einem einzigen Wort.",
+    "synonyms": [
+      "knapp",
+      "wortkarg",
+      "bündig"
+    ],
+    "origin": "Über lateinisch Laconicus aus griechisch Lakōnikós „spartanisch“: Die Bewohner Lakoniens waren für ihre knappe Redeweise berühmt."
+  },
+  {
+    "lemma": "überschwänglich",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈyːbɐʃvɛŋlɪç",
+    "definition": "Übertrieben gefühlvoll und begeistert",
+    "example": "Überschwänglich bedankte sie sich für das kleine Geschenk.",
+    "synonyms": [
+      "euphorisch",
+      "exaltiert",
+      "begeistert"
+    ],
+    "origin": "Mittelhochdeutsch überswenclich, zu überswanc „Überfließen, Überfülle“ (vgl. Überschwang), von schwingen; daher seit 1996 mit ä geschrieben."
+  },
+  {
+    "lemma": "beflissen",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈflɪsn̩",
+    "definition": "Eifrig und fast übertrieben um etwas bemüht",
+    "example": "Beflissen eilte der Kellner herbei, um ihr den Mantel abzunehmen.",
+    "synonyms": [
+      "eifrig",
+      "dienstfertig",
+      "bemüht"
+    ],
+    "origin": "Partizip des veralteten Verbs sich befleißen „sich eifrig bemühen“, zu Fleiß."
+  },
+  {
+    "lemma": "vermessen",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "fɛɐ̯ˈmɛsn̩",
+    "definition": "Die eigenen Grenzen in dreister Anmaßung verkennend",
+    "example": "Es wäre vermessen zu behaupten, wir hätten alle Antworten.",
+    "synonyms": [
+      "anmaßend",
+      "überheblich",
+      "dreist"
+    ],
+    "origin": "Partizip von sich vermessen, mittelhochdeutsch sich vermezzen „sein Maß falsch einschätzen, sich zu viel zutrauen“."
+  },
+  {
+    "lemma": "unwirsch",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʊnvɪʁʃ",
+    "definition": "Unfreundlich und gereizt im Ton",
+    "example": "Unwirsch winkte der Beamte ab und schloss den Schalter.",
+    "synonyms": [
+      "barsch",
+      "ungehalten",
+      "mürrisch"
+    ],
+    "origin": "Aus mittelhochdeutsch unwirdesch „unwert, verächtlich, unwillig“, zu unwirde „Unwert, Geringschätzung“."
+  },
+  {
+    "lemma": "wankelmütig",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈvaŋkl̩myːtɪç",
+    "definition": "Unbeständig in Meinungen und Entschlüssen",
+    "example": "Auf einen so wankelmütigen Verbündeten kann sich niemand verlassen.",
+    "synonyms": [
+      "launenhaft",
+      "unbeständig",
+      "unstet"
+    ],
+    "origin": "Zu mittelhochdeutsch wankelmuot „unbeständige Gesinnung“, aus wankel „schwankend“ (zu wanken) und muot „Sinn“."
+  },
+  {
+    "lemma": "ruchlos",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʁuːxloːs",
+    "definition": "Ohne Gewissen und Scheu vor dem Bösen",
+    "example": "Der ruchlose Mord erschütterte die ganze Stadt.",
+    "synonyms": [
+      "gewissenlos",
+      "skrupellos",
+      "niederträchtig"
+    ],
+    "origin": "Mittelhochdeutsch ruochelōs „sorglos, unbekümmert“, zu ruoche „Sorge, Bedacht“. Aus „unbekümmert“ wurde „gewissenlos“."
+  },
+  {
+    "lemma": "unerbittlich",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ʊnʔɛɐ̯ˈbɪtlɪç",
+    "definition": "Durch nichts umzustimmen, ohne Nachsicht",
+    "example": "Unerbittlich rückte der Zeiger auf Mitternacht vor.",
+    "synonyms": [
+      "gnadenlos",
+      "unnachgiebig",
+      "hart"
+    ],
+    "origin": "Verneinung von erbittlich „durch Bitten zu bewegen“, zu erbitten: eigentlich „durch keine Bitte zu erweichen“."
+  },
+  {
+    "lemma": "schwülstig",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʃvʏlstɪç",
+    "definition": "Mit Schmuck und großen Worten überladen",
+    "example": "Die schwülstige Festrede wollte und wollte kein Ende nehmen.",
+    "synonyms": [
+      "bombastisch",
+      "überladen",
+      "pathetisch"
+    ],
+    "origin": "Von Schwulst, mittelhochdeutsch swulst „Geschwulst“, zu schwellen; seit dem 17. Jahrhundert auf den aufgeblähten Stil übertragen."
+  },
+  {
+    "lemma": "verdrießlich",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "fɛɐ̯ˈdʁiːslɪç",
+    "definition": "Missmutig und leicht zu verärgern; auch: ärgerlich",
+    "example": "Verdrießlich blickte er auf den Stapel unerledigter Akten.",
+    "synonyms": [
+      "missmutig",
+      "mürrisch",
+      "grämlich"
+    ],
+    "origin": "Von verdrießen, mittelhochdeutsch verdriezen „Überdruss, Langeweile erregen“; dazu auch Verdruss und Überdruss."
+  },
+  {
+    "lemma": "fahl",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "faːl",
+    "definition": "Blass und nahezu ohne Farbe",
+    "example": "Im fahlen Licht des Mondes wirkte der Garten fremd.",
+    "synonyms": [
+      "bleich",
+      "blass",
+      "farblos"
+    ],
+    "origin": "Althochdeutsch falo „blass, gelblich“, urverwandt mit lateinisch pallidus „bleich“; falb ist eine Nebenform desselben Wortes."
+  },
+  {
+    "lemma": "ungestüm",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʊnɡəʃtyːm",
+    "definition": "Stürmisch und heftig, ohne sich zu zügeln",
+    "example": "Ungestüm fiel der Junge seiner Mutter um den Hals.",
+    "synonyms": [
+      "stürmisch",
+      "wild",
+      "heftig"
+    ],
+    "origin": "Althochdeutsch ungistuomi, Verneinung eines untergegangenen Adjektivs (mittelhochdeutsch gestüeme „ruhig, sanft“), dessen weitere Herkunft nicht sicher ist."
+  },
+  {
+    "lemma": "umsichtig",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʊmzɪçtɪç",
+    "definition": "Alle Umstände klug und sorgfältig bedenkend",
+    "example": "Dank der umsichtigen Planung verlief der Umzug ohne Zwischenfälle.",
+    "synonyms": [
+      "besonnen",
+      "vorausschauend",
+      "bedacht"
+    ],
+    "origin": "Mittelhochdeutsch umbesihtec, Lehnübersetzung von lateinisch circumspectus „umherblickend, bedachtsam“. Das Substantiv Umsicht ist erst später daraus rückgebildet."
+  },
+  {
+    "lemma": "weitschweifig",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈvaɪ̯tʃvaɪ̯fɪç",
+    "definition": "Allzu ausführlich und umständlich im Reden oder Schreiben",
+    "example": "Sein weitschweifiger Bericht ermüdete selbst die geduldigsten Zuhörer.",
+    "synonyms": [
+      "langatmig",
+      "umständlich",
+      "ausschweifend"
+    ],
+    "origin": "Mittelhochdeutsch wītsweific „weit ausholend“, zu sweif „Schwung, Umschweif“, von sweifen „schweifen, schwingen“."
+  },
+  {
+    "lemma": "unstet",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʊnʃteːt",
+    "definition": "Ruhelos, ohne festen Halt und Ort",
+    "example": "Nach Jahren eines unsteten Wanderlebens ließ er sich in Wien nieder.",
+    "synonyms": [
+      "ruhelos",
+      "rastlos",
+      "unbeständig"
+    ],
+    "origin": "Mittelhochdeutsch unstæte „unbeständig“, Verneinung von stæte „fest, beständig“ (heute stet), das zu stehen gehört."
+  },
+  {
+    "lemma": "unsäglich",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ʊnˈzɛːklɪç",
+    "definition": "So groß, dass es sich nicht ausdrücken lässt",
+    "example": "Nach dem Marathon überkam sie eine unsägliche Müdigkeit.",
+    "synonyms": [
+      "unsagbar",
+      "unbeschreiblich",
+      "namenlos"
+    ],
+    "origin": "Mittelhochdeutsch unsegelich, zu sagen: „was sich nicht sagen lässt“."
+  },
+  {
+    "lemma": "erquicklich",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ɛɐ̯ˈkvɪklɪç",
+    "definition": "Angenehm belebend und erfreulich",
+    "example": "Das Gespräch mit dem Anwalt war alles andere als erquicklich.",
+    "synonyms": [
+      "erfreulich",
+      "wohltuend",
+      "labend"
+    ],
+    "origin": "Von erquicken, althochdeutsch irquicken „lebendig machen“, zu quick „lebendig“, einer Nebenform von keck (vgl. englisch quick und Quecksilber)."
+  },
+  {
+    "lemma": "dünkelhaft",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈdʏŋkl̩haft",
+    "definition": "Eingebildet und voller Geringschätzung für andere",
+    "example": "Sein dünkelhaftes Auftreten machte ihn im Kollegium rasch unbeliebt.",
+    "synonyms": [
+      "eingebildet",
+      "arrogant",
+      "hochmütig"
+    ],
+    "origin": "Von Dünkel „Einbildung“, im 16. Jahrhundert zu dünken „scheinen, meinen“ gebildet: was einer von sich bloß meint."
+  },
+  {
+    "lemma": "einfältig",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈaɪ̯nfɛltɪç",
+    "definition": "Arglos und beschränkt im Denken, leicht zu täuschen",
+    "example": "Er war nicht dumm, nur ein wenig einfältig und allzu gutgläubig.",
+    "synonyms": [
+      "naiv",
+      "töricht",
+      "arglos"
+    ],
+    "origin": "Mittelhochdeutsch einvaltec, zu einvalt „Einfachheit“, einer Lehnübersetzung von lateinisch simplex, eigentlich „einmal gefaltet“."
+  },
+  {
+    "lemma": "anheimelnd",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈanhaɪ̯ml̩nt",
+    "definition": "Vertraut und gemütlich wirkend, wie zu Hause",
+    "example": "Die kleine Gaststube mit dem Kachelofen wirkte sofort anheimelnd.",
+    "synonyms": [
+      "gemütlich",
+      "traulich",
+      "heimelig"
+    ],
+    "origin": "Partizip von anheimeln „an die Heimat erinnern“, einem ursprünglich alemannischen Wort zu Heim, das erst spät in die Schriftsprache kam."
+  },
+  {
+    "lemma": "verschroben",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "fɛɐ̯ˈʃʁoːbn̩",
+    "definition": "Auf wunderliche, absonderliche Weise eigenartig",
+    "example": "Der verschrobene Gelehrte sprach nur noch mit seinen Katzen.",
+    "synonyms": [
+      "schrullig",
+      "wunderlich",
+      "skurril"
+    ],
+    "origin": "Altes starkes Partizip von verschrauben: eigentlich „verkehrt geschraubt, verdreht“."
+  },
+  {
+    "lemma": "garstig",
+    "level": 2,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈɡaʁstɪç",
+    "definition": "Abstoßend hässlich oder böse im Benehmen",
+    "example": "Der garstige Wind riss ihr den Schirm aus der Hand.",
+    "synonyms": [
+      "hässlich",
+      "abscheulich",
+      "widerlich"
+    ],
+    "origin": "Zu mittelhochdeutsch garst „ranzig, verdorben schmeckend“; vom verdorbenen Geschmack auf alles Widerwärtige übertragen."
+  },
+  {
+    "lemma": "frönen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈfʁøːnən",
+    "definition": "Sich einer Neigung hemmungslos hingeben",
+    "example": "Am Wochenende frönt er seiner Leidenschaft für alte Motorräder.",
+    "synonyms": [
+      "huldigen",
+      "nachgehen"
+    ],
+    "origin": "Mittelhochdeutsch vrœnen „Frondienst leisten“, zu vrōn „dem Herrn gehörig“ (vgl. Fron, Fronleichnam). Aus „dienen“ wurde „sich ergeben“."
+  },
+  {
+    "lemma": "ersinnen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ɛɐ̯ˈzɪnən",
+    "definition": "Durch Nachdenken etwas Neues ausdenken",
+    "example": "Um die Wächter abzulenken, ersinnt der Held eine List.",
+    "synonyms": [
+      "erfinden",
+      "ausdenken",
+      "erdenken"
+    ],
+    "origin": "Mittelhochdeutsch ersinnen „erforschen, erdenken“, zu sinnen, das ursprünglich „gehen, reisen“, dann „mit den Gedanken nachgehen“ bedeutete."
+  },
+  {
+    "lemma": "ergötzen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ɛɐ̯ˈɡœtsn̩",
+    "definition": "Vergnügen und Freude bereiten; reflexiv: sich erfreuen",
+    "example": "Die Zuschauer ergötzten sich an den Kunststücken des Clowns.",
+    "synonyms": [
+      "erfreuen",
+      "vergnügen",
+      "belustigen"
+    ],
+    "origin": "Mittelhochdeutsch ergetzen „vergessen machen, entschädigen“, Veranlassungsverb zu ergezzen „vergessen“: Wer sich ergötzt, vergisst sein Leid."
+  },
+  {
+    "lemma": "bezichtigen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "bəˈtsɪçtɪɡn̩",
+    "definition": "Jemandem die Schuld an etwas zuschreiben",
+    "example": "Der Nachbar bezichtigte ihn, den Zaun beschädigt zu haben.",
+    "synonyms": [
+      "beschuldigen",
+      "anklagen",
+      "zeihen"
+    ],
+    "origin": "Zu mittelhochdeutsch beziht „Beschuldigung“, von bezīhen „beschuldigen“ (vgl. zeihen, verzeihen)."
+  },
+  {
+    "lemma": "vereiteln",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "fɛɐ̯ˈʔaɪ̯tl̩n",
+    "definition": "Einen Plan zum Scheitern bringen",
+    "example": "Ein aufmerksamer Passant vereitelte den Einbruch in letzter Minute.",
+    "synonyms": [
+      "verhindern",
+      "durchkreuzen",
+      "hintertreiben"
+    ],
+    "origin": "Zu eitel in der alten Bedeutung „leer, nichtig“: eigentlich „zunichtemachen“."
+  },
+  {
+    "lemma": "entbehren",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ɛntˈbeːʁən",
+    "definition": "Etwas Nötiges oder Geliebtes nicht haben",
+    "example": "In den Nachkriegsjahren mussten die Familien vieles entbehren.",
+    "synonyms": [
+      "missen",
+      "vermissen",
+      "ermangeln"
+    ],
+    "origin": "Althochdeutsch inberan „nicht tragen, nicht haben“, aus einer Verneinung und beran „tragen“ (vgl. gebären, Bahre)."
+  },
+  {
+    "lemma": "beschwichtigen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "bəˈʃvɪçtɪɡn̩",
+    "definition": "Aufgeregte Menschen mit sanften Worten beruhigen",
+    "example": "Mit ruhiger Stimme versuchte die Lehrerin, die streitenden Kinder zu beschwichtigen.",
+    "synonyms": [
+      "beruhigen",
+      "besänftigen",
+      "begütigen"
+    ],
+    "origin": "Im 18. Jahrhundert aus dem Niederdeutschen übernommen: mittelniederdeutsch swichten „zum Schweigen bringen“ entspricht mittelhochdeutsch swiften „stillen“. Die weitere Herkunft ist unsicher."
+  },
+  {
+    "lemma": "bekunden",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "bəˈkʊndn̩",
+    "definition": "Deutlich zum Ausdruck bringen oder bezeugen",
+    "example": "Zahlreiche Bürger bekundeten ihr Mitgefühl mit den Opfern des Brandes.",
+    "synonyms": [
+      "zeigen",
+      "äußern",
+      "bezeugen"
+    ],
+    "origin": "Aus der Rechtssprache: zu Kunde „Kenntnis, Zeugnis“, das zu kund „bekannt“ und kennen gehört."
+  },
+  {
+    "lemma": "verschmähen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "fɛɐ̯ˈʃmɛːən",
+    "definition": "Aus Geringschätzung zurückweisen",
+    "example": "Die Katze verschmähte das teure Futter und fraß lieber Reste.",
+    "synonyms": [
+      "ablehnen",
+      "zurückweisen",
+      "ausschlagen"
+    ],
+    "origin": "Mittelhochdeutsch versmæhen „verächtlich behandeln“, zu smæhe „gering, verächtlich“; verwandt mit schmähen und Schmach."
+  },
+  {
+    "lemma": "darben",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈdaʁbn̩",
+    "definition": "Not leiden und das Nötigste entbehren",
+    "example": "Während das Volk darbte, feierte der Hof rauschende Feste.",
+    "synonyms": [
+      "hungern",
+      "schmachten",
+      "entbehren"
+    ],
+    "origin": "Althochdeutsch darbēn „entbehren, Mangel haben“, verwandt mit dürfen, das ursprünglich „brauchen, nötig haben“ bedeutete (vgl. bedürfen)."
+  },
+  {
+    "lemma": "schelten",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃɛltn̩",
+    "definition": "Mit lauten, tadelnden Worten zurechtweisen",
+    "example": "Die Großmutter pflegte uns zu schelten, wenn wir barfuß liefen.",
+    "synonyms": [
+      "schimpfen",
+      "rügen",
+      "zanken"
+    ],
+    "origin": "Althochdeutsch sceltan „tadeln, schmähen“. Die weitere Herkunft ist unsicher."
+  },
+  {
+    "lemma": "verunglimpfen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "fɛɐ̯ˈʔʊnɡlɪmp͡fn̩",
+    "definition": "Jemandes Ruf durch Schmähungen herabsetzen",
+    "example": "Im Wahlkampf versuchte man, den Gegner mit Gerüchten zu verunglimpfen.",
+    "synonyms": [
+      "schmähen",
+      "diffamieren",
+      "verleumden"
+    ],
+    "origin": "Zu dem veralteten Substantiv Unglimpf „Schmach, Unrecht“, der Verneinung von Glimpf „Angemessenheit, Schonung“ (vgl. glimpflich)."
+  },
+  {
+    "lemma": "läutern",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈlɔɪ̯tɐn",
+    "definition": "Von Unreinem befreien; innerlich reifer machen",
+    "example": "Das Leid läuterte ihn und machte ihn zu einem milderen Menschen.",
+    "synonyms": [
+      "reinigen",
+      "klären",
+      "bessern"
+    ],
+    "origin": "Althochdeutsch hlūttaren „rein machen“, zu lauter in der Bedeutung „rein, klar“."
+  },
+  {
+    "lemma": "erörtern",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ɛɐ̯ˈʔœʁtɐn",
+    "definition": "Eingehend und von allen Seiten besprechen",
+    "example": "Auf der Sitzung wurde die Frage der Finanzierung ausführlich erörtert.",
+    "synonyms": [
+      "diskutieren",
+      "besprechen",
+      "abhandeln"
+    ],
+    "origin": "Im 16. Jahrhundert in der Rechtssprache gebildet, zu Ort im alten Sinn von „Spitze, Ende“: eine Sache bis ans Ende bringen; wohl nach lateinisch determinare."
+  },
+  {
+    "lemma": "schmälern",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈʃmɛːlɐn",
+    "definition": "Den Wert oder Umfang von etwas verringern",
+    "example": "Der knappe Sieg schmälert die Leistung der Mannschaft keineswegs.",
+    "synonyms": [
+      "mindern",
+      "verringern",
+      "herabsetzen"
+    ],
+    "origin": "Abgeleitet von schmäler, dem Komparativ von schmal, das althochdeutsch noch „klein, gering“ bedeutete."
+  },
+  {
+    "lemma": "liebäugeln",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈliːpʔɔɪ̯ɡl̩n",
+    "definition": "Mit dem Gedanken an etwas Verlockendes spielen",
+    "example": "Seit Jahren liebäugelt sie mit einem Häuschen an der Ostsee.",
+    "synonyms": [
+      "kokettieren",
+      "flirten",
+      "erwägen"
+    ],
+    "origin": "Im 16. Jahrhundert aus lieb und äugeln „Blicke werfen“ gebildet: zunächst „verliebte Blicke zuwerfen“."
+  },
+  {
+    "lemma": "hegen",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈheːɡn̩",
+    "definition": "Sorgsam pflegen und schützen; ein Gefühl in sich tragen",
+    "example": "Seit dreißig Jahren hegen und pflegen die Förster diesen jungen Wald.",
+    "synonyms": [
+      "pflegen",
+      "behüten",
+      "umsorgen"
+    ],
+    "origin": "Althochdeutsch hegen „mit einem Zaun umgeben“, zu Hag „Einfriedung, Hecke“. Aus dem Umzäunen wurde das Schützen und Pflegen."
+  },
+  {
+    "lemma": "anprangern",
+    "level": 2,
+    "part_of_speech": "Verb",
+    "ipa": "ˈanpʁaŋɐn",
+    "definition": "Einen Missstand öffentlich und scharf verurteilen",
+    "example": "Die Reportage will die Zustände in den Schlachthöfen anprangern.",
+    "synonyms": [
+      "brandmarken",
+      "geißeln",
+      "verurteilen"
+    ],
+    "origin": "Zu Pranger, dem Schandpfahl, an dem Verurteilte zur Schau gestellt wurden; mittelniederdeutsch prenger, zu prangen „drücken, klemmen“."
+  },
+  {
+    "lemma": "Zwiespalt",
+    "level": 2,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈtsviːʃpalt",
+    "definition": "Innere Zerrissenheit zwischen zwei Möglichkeiten",
+    "example": "Sie geriet in einen Zwiespalt zwischen Pflichtgefühl und Freiheitsdrang.",
+    "synonyms": [
+      "Konflikt",
+      "Dilemma",
+      "Zerrissenheit"
+    ],
+    "origin": "Im 16. Jahrhundert aus dem älteren Adjektiv zwiespältig rückgebildet; aus zwie- „zwei, entzwei“ und spalten."
+  },
+  {
+    "lemma": "Kleinod",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈklaɪ̯noːt",
+    "definition": "Kostbares Schmuckstück; etwas besonders Wertvolles",
+    "example": "Die Dorfkirche ist ein Kleinod der romanischen Baukunst.",
+    "synonyms": [
+      "Juwel",
+      "Kostbarkeit",
+      "Schatz"
+    ],
+    "origin": "Mittelhochdeutsch kleinōt „fein gearbeitete Sache“, aus klein in der alten Bedeutung „fein, zierlich“ und einer Nachsilbe, die auch in Einöde und Heimat steckt."
+  },
+  {
+    "lemma": "Müßiggang",
+    "level": 2,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈmyːsɪçɡaŋ",
+    "definition": "Untätiges Dahinleben ohne Arbeit und Pflichten",
+    "example": "Nach Wochen des Müßiggangs fiel ihr der Arbeitsalltag schwer.",
+    "synonyms": [
+      "Nichtstun",
+      "Faulheit",
+      "Trägheit"
+    ],
+    "origin": "Mittelhochdeutsch müezecganc, aus müßig (zu Muße) und Gang: eigentlich „das müßige Umhergehen“."
+  },
+  {
+    "lemma": "Scharfsinn",
+    "level": 2,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈʃaʁfzɪn",
+    "definition": "Fähigkeit, das Wesentliche rasch und genau zu durchschauen",
+    "example": "Mit bewundernswertem Scharfsinn löste die Kommissarin den verwickelten Fall.",
+    "synonyms": [
+      "Klugheit",
+      "Spürsinn",
+      "Verstand"
+    ],
+    "origin": "Aus dem älteren Adjektiv scharfsinnig rückgebildet, das seit dem Spätmittelalter bezeugt ist; aus scharf und Sinn."
+  },
+  {
+    "lemma": "Trugbild",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈtʁuːkbɪlt",
+    "definition": "Täuschende Erscheinung, die nicht wirklich ist",
+    "example": "Die Oase am Horizont erwies sich als bloßes Trugbild.",
+    "synonyms": [
+      "Illusion",
+      "Täuschung",
+      "Blendwerk"
+    ],
+    "origin": "Zusammensetzung aus Trug (zu trügen, althochdeutsch triogan) und Bild."
+  },
+  {
+    "lemma": "Ehrfurcht",
+    "level": 2,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈeːɐ̯fʊʁçt",
+    "definition": "Tiefe, scheue Achtung vor etwas Großem",
+    "example": "Mit Ehrfurcht betraten die Besucher die tausendjährige Kathedrale.",
+    "synonyms": [
+      "Respekt",
+      "Achtung",
+      "Scheu"
+    ],
+    "origin": "Im 17. Jahrhundert aus dem Adjektiv ehrfürchtig rückgebildet; aus Ehre und Furcht: Scheu, die aus Achtung entspringt."
+  },
+  {
+    "lemma": "Langmut",
+    "level": 2,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈlaŋmuːt",
+    "definition": "Große Geduld im Ertragen von Kränkungen",
+    "example": "Die Langmut der Lehrerin wurde von der Klasse hart geprüft.",
+    "synonyms": [
+      "Geduld",
+      "Nachsicht",
+      "Milde"
+    ],
+    "origin": "Rückbildung aus langmütig, althochdeutsch langmuotīg, einer Lehnübersetzung von lateinisch longanimis aus der Kirchensprache."
+  },
+  {
+    "lemma": "Inbrunst",
+    "level": 2,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈɪnbʁʊnst",
+    "definition": "Glühende Leidenschaft und Hingabe des Gefühls",
+    "example": "Der Chor sang das Abendlied mit solcher Inbrunst, dass viele weinten.",
+    "synonyms": [
+      "Leidenschaft",
+      "Glut",
+      "Hingabe"
+    ],
+    "origin": "Mittelhochdeutsch inbrunst „innere Glut“, aus in und Brunst „Brand, Glut“ (zu brennen); ein Wort der Mystiker."
+  },
+  {
+    "lemma": "Ungemach",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈʊnɡəmaːx",
+    "definition": "Unannehmlichkeit, Ärger oder Unglück, das einen trifft",
+    "example": "Kaum war der Wasserschaden behoben, drohte schon neues Ungemach.",
+    "synonyms": [
+      "Ärger",
+      "Unheil",
+      "Verdruss"
+    ],
+    "origin": "Mittelhochdeutsch ungemach „Unruhe, Leid“, Verneinung von gemach „Bequemlichkeit, Ruhe“ (vgl. gemächlich)."
+  },
+  {
+    "lemma": "Antlitz",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈantlɪts",
+    "definition": "Gesicht, in gehobener oder feierlicher Sprache",
+    "example": "Im Antlitz der alten Bäuerin hatte das Leben tiefe Spuren hinterlassen.",
+    "synonyms": [
+      "Gesicht",
+      "Angesicht",
+      "Miene"
+    ],
+    "origin": "Althochdeutsch antlizzi, aus ant- „entgegen“ und einem Wort für „Blick, Aussehen“: „das Entgegenblickende“."
+  },
+  {
+    "lemma": "Gebaren",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ɡəˈbaːʁən",
+    "definition": "Auffälliges Benehmen und Auftreten einer Person",
+    "example": "Sein herrisches Gebaren stieß bei den Mitarbeitern auf Ablehnung.",
+    "synonyms": [
+      "Benehmen",
+      "Auftreten",
+      "Verhalten"
+    ],
+    "origin": "Substantivierter Infinitiv von mittelhochdeutsch gebāren „sich benehmen“, zu althochdeutsch beran „tragen“ (vgl. Gebärde): wie einer sich „trägt“."
+  },
+  {
+    "lemma": "Vermächtnis",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "fɛɐ̯ˈmɛçtnɪs",
+    "definition": "Was jemand der Nachwelt als Erbe hinterlässt",
+    "example": "Die Stiftung gilt als das eigentliche Vermächtnis des Unternehmers.",
+    "synonyms": [
+      "Erbe",
+      "Nachlass",
+      "Testament"
+    ],
+    "origin": "Aus der Rechtssprache: zu vermachen „durch letzten Willen zuwenden“ gebildet."
+  },
+  {
+    "lemma": "Zerwürfnis",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "tsɛɐ̯ˈvʏʁfnɪs",
+    "definition": "Tiefer Streit, der eine Beziehung zerbricht",
+    "example": "Nach dem Zerwürfnis sprachen die Brüder zwanzig Jahre kein Wort miteinander.",
+    "synonyms": [
+      "Bruch",
+      "Entzweiung",
+      "Streit"
+    ],
+    "origin": "Zu sich zerwerfen „sich entzweien“, mittelhochdeutsch zerwerfen „auseinanderwerfen“."
+  },
+  {
+    "lemma": "Sinnbild",
+    "level": 2,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈzɪnbɪlt",
+    "definition": "Anschauliches Zeichen für einen abstrakten Gedanken",
+    "example": "Die Taube gilt seit Jahrhunderten als Sinnbild des Friedens.",
+    "synonyms": [
+      "Symbol",
+      "Emblem",
+      "Zeichen"
+    ],
+    "origin": "Im 17. Jahrhundert im Umkreis der barocken Sprachgesellschaften als Verdeutschung von Emblem geprägt."
+  },
+  {
+    "lemma": "Obhut",
+    "level": 2,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈɔphuːt",
+    "definition": "Schützende Aufsicht und Fürsorge",
+    "example": "Während der Reise blieb der Hund in der Obhut der Nachbarin.",
+    "synonyms": [
+      "Schutz",
+      "Fürsorge",
+      "Aufsicht"
+    ],
+    "origin": "Im 17. Jahrhundert aus ob „über“ und Hut „Bewachung, Schutz“ (zu hüten) gebildet."
+  },
+  {
+    "lemma": "Bürde",
+    "level": 2,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈbʏʁdə",
+    "definition": "Schwere Last, die jemand zu tragen hat",
+    "example": "Die Verantwortung für den Betrieb wurde ihm zur Bürde.",
+    "synonyms": [
+      "Last",
+      "Joch",
+      "Belastung"
+    ],
+    "origin": "Althochdeutsch burdī, zu beran „tragen“ (vgl. gebären, Bahre, englisch burden)."
+  },
+  {
+    "lemma": "Inbegriff",
+    "level": 2,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈɪnbəɡʁɪf",
+    "definition": "Vollkommenste Verkörperung einer Eigenschaft oder Idee",
+    "example": "Für viele ist Venedig der Inbegriff einer romantischen Stadt.",
+    "synonyms": [
+      "Verkörperung",
+      "Musterbild",
+      "Ausbund"
+    ],
+    "origin": "Zu inbegreifen, einbegreifen „in sich fassen“ gebildet; zunächst „Zusammenfassung, Gesamtheit“, dann „reinste Verkörperung“."
+  },
+  {
+    "lemma": "Schabernack",
+    "level": 2,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈʃaːbɐnak",
+    "definition": "Mutwilliger Streich, der jemanden necken soll",
+    "example": "Die Kinder trieben mit dem gutmütigen Nachbarn allerlei Schabernack.",
+    "synonyms": [
+      "Streich",
+      "Possen",
+      "Ulk"
+    ],
+    "origin": "Mittelhochdeutsch schabernac „Spott, Hohn“, auch Name einer Pelzmütze. Die Herkunft ist ungeklärt."
+  }
+]

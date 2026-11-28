@@ -1,0 +1,64 @@
+{
+ "parts": [
+  "adj.",
+  "verb",
+  "subst. m.",
+  "subst. f.",
+  "subst. n.",
+  "adv."
+ ],
+ "featured": "vemod",
+ "books": [
+  13041,
+  15291,
+  15748,
+  16665,
+  14686,
+  15669,
+  30027,
+  32245,
+  43724,
+  43725,
+  12844
+ ],
+ "abbreviations": [
+  "Hr",
+  "hr",
+  "Dr",
+  "dr",
+  "St",
+  "Frk",
+  "frk",
+  "Kr",
+  "kr",
+  "Nr",
+  "nr",
+  "osv",
+  "bl",
+  "Kapt",
+  "Prof"
+ ],
+ "openers": [
+  "Han",
+  "Hun",
+  "Det",
+  "Den",
+  "De",
+  "Dette",
+  "Men",
+  "Og",
+  "Så",
+  "Da",
+  "For",
+  "Der",
+  "Ja",
+  "Nei"
+ ],
+ "authors": {},
+ "titles": {
+  "Gildet På Solhaug": "Gildet på Solhaug",
+  "Kærlighedens Komedie": "Kærlighedens komedie",
+  "Fru inger til Østråt": "Fru Inger til Østråt",
+  "Den engelske Lods": "Den engelske lods"
+ }
+}
