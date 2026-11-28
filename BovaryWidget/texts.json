@@ -15,6 +15,10 @@
   "name": "Mot du jour",
   "summary": "Un nouveau mot chaque jour, avec son sens."
  },
+ "he": {
+  "name": "מילת היום",
+  "summary": "מילה חדשה בכל יום, עם המשמעות שלה."
+ },
  "it": {
   "name": "Parola del giorno",
   "summary": "Una parola nuova ogni giorno, con il suo significato."
@@ -22,5 +26,9 @@
  "ja": {
   "name": "今日の言葉",
   "summary": "毎日ひとつ、新しい言葉とその意味を。"
+ },
+ "pt-BR": {
+  "name": "Palavra do dia",
+  "summary": "Uma palavra nova por dia, com o significado."
  }
 }
