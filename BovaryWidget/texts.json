@@ -27,6 +27,10 @@
   "name": "מילת היום",
   "summary": "מילה חדשה בכל יום, עם המשמעות שלה."
  },
+ "hu": {
+  "name": "A nap szava",
+  "summary": "Minden nap egy új szó, a jelentésével együtt."
+ },
  "it": {
   "name": "Parola del giorno",
   "summary": "Una parola nuova ogni giorno, con il suo significato."

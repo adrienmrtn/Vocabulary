@@ -1,1 +1,558 @@
-{}
+{
+ "stillsam": {
+  "quote": "Hon var vacker, ljus, med krusigt hår, och hon hade ett stillsamt och blygsamt sätt.",
+  "source": "Selma Lagerlöf, Bannlyst"
+ },
+ "ödmjuk": {
+  "quote": "Denna ödmjuka fråga hade den verkan, att brodern beslöt att ge ett uttryck åt sin välvilja.",
+  "source": "August Strindberg, Röda rummet"
+ },
+ "varsam": {
+  "quote": "Noga och varsamt mätte han sedan ut på vågen åt var och en den utlovade andelen.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "trofast": {
+  "quote": "Jag visste inte, att det var möjligt att under alla omständigheter förbli god, sann, trofast och barmhärtig.",
+  "source": "Selma Lagerlöf, Bannlyst"
+ },
+ "ljuv": {
+  "quote": "Huru ljuva voro ej hans smekningar för den arma, vars allt han varit från hennes första ungdomsår!",
+  "source": "Viktor Rydberg, Singoalla"
+ },
+ "dyster": {
+  "quote": "Blotta tanken på att slippa ut från detta dystra chouanslott kom hennes unga hjärta att klappa.",
+  "source": "Mathilda Malling, En roman om förste konsuln"
+ },
+ "karg": {
+  "quote": "Karga och dystra obygder bredde sig åt alla sidor, men här i sänkan blommade ändå en yppig vår.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "lågmäld": {
+  "quote": "Professorn talade sakta och lågmält, som om varje ord kostat honom en övervinnelse.",
+  "source": "Gustaf af Geijerstam, Boken om lille-bror"
+ },
+ "frikostig": {
+  "quote": "Frikostig som han är, vår broder, har han lovat öar och landskap, om han får utländsk hjälp.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "uppriktig": {
+  "quote": "Varje ord hon sade kom helt förtjusande, uppriktigt och allvarligt, med en liten, svagt läspande röst.",
+  "source": "Selma Lagerlöf, Bannlyst"
+ },
+ "högtidlig": {
+  "quote": "Stellan kände det, som om han inträtt i ett nytt och högtidligt skede av sitt liv.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "målmedveten": {
+  "quote": "Han tog onödigt långa steg och hans ögon voro beslöjade men målmedvetna.",
+  "source": "Albert Engström, Bläck och saltvatten"
+ },
+ "ihärdig": {
+  "quote": "Det duggregnade ihärdigt, och gatan luktade våt makadam, och klockorna ringde till högmässa, ty det var söndag.",
+  "source": "Hjalmar Söderberg, Förvillelser"
+ },
+ "godtrogen": {
+  "quote": "Och är man inte godtrogen, kallas man misstänksam; alltså hur man handlar, så är det galet!",
+  "source": "August Strindberg, Svarta fanor"
+ },
+ "tankfull": {
+  "quote": "Allt emellanåt lyfte hon den lilla elfenbenssolfjädern och gned därmed tankfullt sin kind eller sina läppar.",
+  "source": "Mathilda Malling, En roman om förste konsuln"
+ },
+ "yrvaken": {
+  "quote": "Vid halvåttatiden vaknade han, såg sig yrvaken och orolig omkring och vacklade bort till dörren.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "påpasslig": {
+  "quote": "Bokhållarne äro artiga, men påpassliga när fadern tilltalar dem.",
+  "source": "August Strindberg, Tjänstekvinnans son"
+ },
+ "längtan": {
+  "quote": "Ens längtan efter is och snö satt som en klump i halsen, man aldrig lyckades riktigt svälja.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "skymning": {
+  "quote": "Platsen låg tom i skymningen, och kvällshimlen välvde sig kall och grönblå över deras huvuden.",
+  "source": "Hjalmar Söderberg, Förvillelser"
+ },
+ "gryning": {
+  "quote": "Mellan träden stod redan gryningen svag och blott som en aning om färg.",
+  "source": "Albert Engström, Kryss och landkänning"
+ },
+ "glänta": {
+  "quote": "När han red in på gläntan fick han se, att där hade flyktingarna stannat för ett ögonblick.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "dunkel": {
+  "quote": "Bakom flickan famna skuggorna ett hörn av rummet, och ur dunklet där låter en fiol.",
+  "source": "Albert Engström, Mitt liv och leverne"
+ },
+ "tillit": {
+  "quote": "Vilken andaktsfull och glad tillit över allt det dagliga i en värld, som hade en gud!",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "omsorg": {
+  "quote": "Vi nutidsmenniskor ha ju alla ett med omsorg utarbetadt sätt att vara.",
+  "source": "Victoria Benedictsson, Modern"
+ },
+ "eftertanke": {
+  "quote": "Ofta lade eftertanken en sky på hans panna, och hans ögon fästes granskande på Erland.",
+  "source": "Viktor Rydberg, Singoalla"
+ },
+ "svek": {
+  "quote": "Jag har lovat vara din moders slav, fast min trohet är henne mindre dyrbar än din faders svek.",
+  "source": "Viktor Rydberg, Singoalla"
+ },
+ "sorl": {
+  "quote": "Som de sutto vid kaffekopparna och småpratade, hörde de ett sorl av folket nerifrån stranden.",
+  "source": "August Strindberg, I havsbandet"
+ },
+ "bryderi": {
+  "quote": "Hon har gjort mig mer bryderi än alla andra kvinnor tillsammans.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "lynne": {
+  "quote": "Ett torrt tonfall i hennes stämma, ett ögonblicks förströddhet var nog för att förstöra hans lynne.",
+  "source": "Anne Charlotte Leffler, Kvinnlighet och erotik"
+ },
+ "tvekan": {
+  "quote": "En kväll, efter en lång tvekan, beslöt han att öppna sitt hjärta för farmor.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "skimmer": {
+  "quote": "Det var sagans doft och äventyrets skimmer över bilden, över henne själv och allt omkring henne.",
+  "source": "Hjalmar Söderberg, Förvillelser"
+ },
+ "tålamod": {
+  "quote": "Därför får du ha tålamod med mig, husbonde, och inte taga det illa.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "dröja": {
+  "quote": "Alhejdi ville fly, hon ville dröja, hon ville se ned, hon ville blicka i hans ögon.",
+  "source": "Fredrika Runeberg, Teckningar och drömmar"
+ },
+ "grubbla": {
+  "quote": "Umgänget med kamrater undvek han, stängde sig inne på sina rum, rökte tobak, läste och grubblade.",
+  "source": "August Strindberg, Tjänstekvinnans son"
+ },
+ "förmå": {
+  "quote": "Fattigdomen, mot vilken han fört en oavbruten kamp, hade han dock städse förmått hålla på avstånd.",
+  "source": "Gustaf af Geijerstam, Boken om lille-bror"
+ },
+ "trösta": {
+  "quote": "Vi behöva trösta en vanlottad och vi dikta på oss hans lyte för att lätta bördan.",
+  "source": "August Strindberg, Svarta fanor"
+ },
+ "värna": {
+  "quote": "Spegla ljuvligt din mildhets stjärna i det stål, som vår panna kröner, faderlösa och arma att värna!",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "mildra": {
+  "quote": "En outsäglig ömhet låg i hennes blick, mulen, skrämmande, plågsam, ty den mildrades ej af glädje nu.",
+  "source": "Johan Ludvig Runeberg, Samlade arbeten"
+ },
+ "unna": {
+  "quote": "Du är min värsta ovän, och därför unnar jag dig inte en så lätt död på blomstergräset.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "skymta": {
+  "quote": "Även konstapeln stannade och en tredje person, som skymtade som en skugga på andra sidan körbanan.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "tjusa": {
+  "quote": "Atenaren var bunden vid sina fäders tro av ärofulla historiska minnen, av filosofiens och konstens tjusande makt.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "häpna": {
+  "quote": "Mest häpnade han över att den unga kvinnan bar en dräkt, som påminde om en nunnas.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "skänka": {
+  "quote": "Valdemar skänkte slösaktigt åt alla sidor sina egna prydnader för att få höra ett belåtet ord.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "omsider": {
+  "quote": "Stellan stod och väntade länge, till dess han omsider började ströva omkring på stor- och smalgatorna.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "stundom": {
+  "quote": "Stundom kunde han ju sörja över skönhetens förgänglighet, men tröstade sig straxt med att nu voro de lika fula, och följaktligen jämnspelta.",
+  "source": "August Strindberg, Svarta fanor"
+ },
+ "måhända": {
+  "quote": "Hela denna historia var för mig varken så obetydlig eller narraktig, som den måhända kan låta.",
+  "source": "Gustaf af Geijerstam, Boken om lille-bror"
+ },
+ "förgänglig": {
+  "quote": "Vi måste leva som om vi vore förgängliga väsen, görande det goda för dess egen skull.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "obeveklig": {
+  "quote": "Tysta, obevekliga som ödet avancerade de genom terrängen mot den fruktansvärda fiende, som väntade.",
+  "source": "Sigge Strömberg, Krigskorrespondenter och andra lögnare"
+ },
+ "andäktig": {
+  "quote": "Hon satte sig på något avstånd under ett träd och hörde andäktigt på.",
+  "source": "Mathilda Malling, En roman om förste konsuln"
+ },
+ "fager": {
+  "quote": "Hon hade en enda dotter, en flicka så fager och fin som den vackraste ros.",
+  "source": "Fredrika Runeberg, Teckningar och drömmar"
+ },
+ "ståndaktig": {
+  "quote": "Han föresatte sig att det skulle dröja innan han nästa gång lät henne höra af sig och han höll sin föresats ståndaktigt i tre dagar.",
+  "source": "Victoria Benedictsson, Modern"
+ },
+ "högdragen": {
+  "quote": "Ännu en gång stötte jarlen med en högdragen rörelse ifrån sig sin hjälpare och gick sedan till drotthuset.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "förnäm": {
+  "quote": "Tänk så förnäm han måste vara, efter som han kunde bo i ett så gentilt hus!",
+  "source": "Ina Lange, Berättelser från Finland"
+ },
+ "missmodig": {
+  "quote": "Det låg något olycksbådande och hotande i hans röst, och detta kände Falk, ty han blev missmodig.",
+  "source": "August Strindberg, Röda rummet"
+ },
+ "oförvägen": {
+  "quote": "Ångern över brudrovet drunknade i en känsla av, att det var en stolt och oförvägen bragd.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "ymnig": {
+  "quote": "Hans tårar flöto så ymnigt, som om ett källsprång lossnat inom honom.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "ödslig": {
+  "quote": "Sorgbarns sång var vemodig och omfattade endast några toner, som bildade en enformig, ödslig och främmande melodi.",
+  "source": "Viktor Rydberg, Singoalla"
+ },
+ "förstulen": {
+  "quote": "I detta ögonblick vände hon en smula på huvudet och såg förstulet på honom från sidan.",
+  "source": "Mathilda Malling, En roman om förste konsuln"
+ },
+ "vresig": {
+  "quote": "Skärsliparen satt kvar på slädkanten, såg vresig och sur ut, men talade lugnt och fridsamt som förut.",
+  "source": "Selma Lagerlöf, Bannlyst"
+ },
+ "sävlig": {
+  "quote": "Han satte sig sävligt ned och höll sig långt borta från de andra.",
+  "source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder"
+ },
+ "lömsk": {
+  "quote": "Han talade kort och häftigt och det fanns en ond, nästan lömsk glimt i blicken.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "flyktig": {
+  "quote": "Ett eget leende, men helt flyktigt, krusade jungfruns läpp, under det hon såg ned framför sig.",
+  "source": "Carl Georg Starbäck, Mäster Olofs bröllop"
+ },
+ "finkänslig": {
+  "quote": "Han är blott för finkänslig, han vill icke lägga något band på din frihet, icke tvinga dina känslor.",
+  "source": "Mathilda Malling, En roman om förste konsuln"
+ },
+ "frimodig": {
+  "quote": "Slutligen sprang hon frimodigt fram och drog honom med sig in i leken.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "omutlig": {
+  "quote": "Han var i själva verket så omutligt rättfärdig, att han häktade själve stadsfiskalen för fylleri.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "anlete": {
+  "quote": "Åsynen av hans bleka, kraftfulla anlete mitt under stormen var den bästa predikan, ett bekännelsens halleluja!",
+  "source": "Carl Georg Starbäck, Mäster Olofs bröllop"
+ },
+ "fåfänga": {
+  "quote": "Hans fåfänga var ännu inte tillräckligt raffinerad för att tillåta honom lysa med sin frånvaro.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "tillförsikt": {
+  "quote": "Hade hon då ingen längre att få skydd hos, ingen som hon kunde akta och följa med tillförsikt?",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "bävan": {
+  "quote": "Nattvandrarna på murställningen fortsatte från stege till stege, fast med bävan, när de sviktade.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "hänförelse": {
+  "quote": "Han var i ett drömlikt tillstånd, vari hänförelse, lugn och värme blandade sig med obestämd längtan.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "samförstånd": {
+  "quote": "Tanken slog eld inom honom och värmde hans medlidande till en känsla av hemligt samförstånd, av hemlig släktskap.",
+  "source": "Gustaf Hellström, Dagdrömmar"
+ },
+ "förtröstan": {
+  "quote": "Sorgbarn fyllde deras bägare, och priorn tömde sin med förtröstan, emedan den räcktes honom av en from pilgrim.",
+  "source": "Viktor Rydberg, Singoalla"
+ },
+ "eftermäle": {
+  "quote": "En lång bred graf tillreddes i sanden, och dit lades vänner och fiender broderligt om hvarandra, utan vårdtecken, utan annat eftermäle, än ett fadervår för dem alla.",
+  "source": "Zacharias Topelius, Stjärnornas kungabarn"
+ },
+ "irrfärd": {
+  "quote": "Det hade händt nyligen vid en af hans förtviflade irrfärder efter arbete.",
+  "source": "Henning Berger, Ysaïl"
+ },
+ "töcken": {
+  "quote": "Solen hade nyss gått ned och brett ett rödviolett töcken över den smala landremsan längst i väster.",
+  "source": "Hjalmar Söderberg, Förvillelser"
+ },
+ "vånda": {
+  "quote": "I sådan vånda gick han och hade ingen, till vilken han kunde tala.",
+  "source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder"
+ },
+ "fröjd": {
+  "quote": "Gifte av kärlek, det blir sorg, men gifte av klokhet, det blir fröjd i borg.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "häpnad": {
+  "quote": "Till sin häpnad fann han, att det var fullt av människor innanför ringen av de väldiga stenarna.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "förnimma": {
+  "quote": "Krigsfångarne, som fördes i triumf genom staden för att interneras i fästningarna, fingo förnimma mycket hån.",
+  "source": "Zacharias Topelius, Stjärnornas kungabarn"
+ },
+ "begrunda": {
+  "quote": "Han stannade vid varje punkt för att begrunda den, söka sammanhanget med det föregående och det efterföljande.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "förkunna": {
+  "quote": "Vårdkasarna, som oaktadt de ljusa försommarnätterna flammade på höjderna söderut, förkunnade, att fienden blivit sedd.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "vedergälla": {
+  "quote": "Ack, det gives brott, som, när de skola vedergällas, göra den allsmäktige hämnaren till en nödställd gud.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "besinna": {
+  "quote": "—Jag vet bara ett att råda, svarade slutligen bergmästaren, efter att ett ögonblick ha besinnat sig.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "förtälja": {
+  "quote": "Legenden förtäljer, att greven en gång hade överraskat henne på bar gärning och i sin besinningslösa svartsjuka velat döda henne.",
+  "source": "Alma Söderhjelm, Revolutionärer och emigranter"
+ },
+ "vederkvicka": {
+  "quote": "Han hade ingenting att förtära, och den snö, som han ibland lade på tungan, brände mer än den vederkvickte.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "utröna": {
+  "quote": "Ejdrar och skarvar lyfta ur vår kurs och måsarna göra en sväng för att utröna vår matnyttighet.",
+  "source": "Albert Engström, Äventyr och hugskott"
+ },
+ "framhärda": {
+  "quote": "Smålänningarna framhärdade i synden, de voro slappa i tron, och det hade de för resten varit sedan många hundra år.",
+  "source": "Albert Engström, Mitt liv och leverne"
+ },
+ "bedyra": {
+  "quote": "Förgäves hade Olle bedyrat sin oskuld, förgäves hade han vädjat till deras rättskänsla och humanitet.",
+  "source": "August Strindberg, Röda rummet"
+ },
+ "förebrå": {
+  "quote": "Aldrig skulle det fallit henne in att nu förebrå honom, för att han egentligen varit olydig.",
+  "source": "Gustaf af Geijerstam, Boken om lille-bror"
+ },
+ "blidka": {
+  "quote": "Vi kallade det att offra trälar i konungens ställe och blidkade därmed gudarna, ty deras är landet.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "tillika": {
+  "quote": "Här, viskade sergeanten, bor den rika färgaren, som tillika håller en artig och proper restaurang.",
+  "source": "Carl Jonas Love Almqvist, Det går an"
+ },
+ "lakonisk": {
+  "quote": "Så småningom lyckades han framviska en ytterst lakonisk men icke desto mindre fullt tillfredsställande beskrivning på sitt tillstånd.",
+  "source": "Albert Engström, Kryss och landkänning"
+ },
+ "förmäten": {
+  "quote": "Jag är inte nog förmäten att förlikna mig vid världarnas styresman, men i ett afseende är jag lik Gud: jag tål ingen rival!",
+  "source": "Zacharias Topelius, Stjärnornas kungabarn"
+ },
+ "fåvitsk": {
+  "quote": "Ditt tal är fåvitskt, gamle, jag förstår dig ej.",
+  "source": "Johan Ludvig Runeberg, Samlade arbeten"
+ },
+ "snöd": {
+  "quote": "Flitens sparpenning och ockrarens snöda guld gingo lika lätt ur en hand i en annan.",
+  "source": "Zacharias Topelius, Stjärnornas kungabarn"
+ },
+ "beskäftig": {
+  "quote": "En liten beskäftig herre skrev just upp hans namn och adress när jag hann fram, och ett par bekanta hade redan tagit hand om honom.",
+  "source": "Sigge Strömberg, Baron Olson och andra historier"
+ },
+ "illmarig": {
+  "quote": "—Han ser ut som en tjuv, sade Sellén, där han stod i fönstret och tittade illmarigt ut åt vägen.",
+  "source": "August Strindberg, Röda rummet"
+ },
+ "huld": {
+  "quote": "Jag ler, hon ler, min hulda drömda maka, Ty inga tomma kval vi skapa själfva.",
+  "source": "Johan Ludvig Runeberg, Samlade arbeten"
+ },
+ "gängse": {
+  "quote": "Min bok är buddistiskt ren, men vänder upp och ned på en del gängse begrepp.",
+  "source": "Albert Engström, Äventyr och hugskott"
+ },
+ "ödesdiger": {
+  "quote": "Huru ödesdigert detta uppskov var, skulle senare visa sig.",
+  "source": "Alma Söderhjelm, Revolutionärer och emigranter"
+ },
+ "fryntlig": {
+  "quote": "—Gott, sade herr Hugo, såg sig omkring med en fryntlig blick och steg upp.",
+  "source": "Carl Jonas Love Almqvist, Det går an"
+ },
+ "förnumstig": {
+  "quote": "—Jag kunde nog se det, sade hon och nickade förnumstigt.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "vederhäftig": {
+  "quote": "Det var något visst manligt över baron Grothusen; något manligt och vederhäftigt.",
+  "source": "Hjalmar Söderberg, Förvillelser"
+ },
+ "illfundig": {
+  "quote": "Rundqvist var dock seg och illfundig, och en lördagsnatt tog han och strök avträdet pinande rött.",
+  "source": "August Strindberg, Hemsöborna"
+ },
+ "storvulen": {
+  "quote": "Det var ett ståtligt hus, storvulet byggt, raklinjigt som en lada men med torn och tinnar i fasadens båda hörn.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "grannlaga": {
+  "quote": "Uppdraget var grannlaga; de häftigaste känslorna hade lagt sig, festtalets rus hade gått om och nu blev det annat av.",
+  "source": "August Strindberg, Det nya riket"
+ },
+ "valhänt": {
+  "quote": "Emellertid måste jag ju kalla den här samlingen något för att skilja den från de andra skaldernas valhänta försök i samma riktning.",
+  "source": "Albert Engström, Kryss och landkänning"
+ },
+ "okonstlad": {
+  "quote": "Hennes glädje öfver återseendet var uppriktig och okonstlad.",
+  "source": "Victoria Benedictsson, Modern"
+ },
+ "hugskott": {
+  "quote": "Fadern kunde uppoffra allt för en stor idé, modern allt för ett litet hugskott.",
+  "source": "Zacharias Topelius, Stjärnornas kungabarn"
+ },
+ "spörsmål": {
+  "quote": "En vacker dag vände han sig till sin herre med det spörsmål, om själens odödlighet är viss eller endast sannolik.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "vederdeloman": {
+  "quote": "För var gång han lyfte sin vederdeloman, hördes dennes rop på hjälp allt svagare.",
+  "source": "Albert Engström, Bläck och saltvatten"
+ },
+ "bråddjup": {
+  "quote": "Vildmarken upplystes, så att bråddjupen blottades men också den säkra stigen.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "hägring": {
+  "quote": "Vad livet skänkte mig, vad mitt jag kallar, allt, allt är hägringar och drömmar blott.",
+  "source": "Arvid Mörne, Skärgårdens vår"
+ },
+ "fägring": {
+  "quote": "Klemens hade förlorat sin fägring och därmed allt, som fängslade henne vid honom.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "vedermöda": {
+  "quote": "Jag släpar, som ni ser, ännu min usla varelse i värk och vedermöda och utan glädje af lifvet.",
+  "source": "Fredrika Runeberg, Teckningar och drömmar"
+ },
+ "lisa": {
+  "quote": "Blir det dig till någon lisa, så tag gärna hämnd på mig.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "näpst": {
+  "quote": "Han däremot älskade bråk, för så vitt det kunde lända till sedernas förbättrande, brottslingars upptäckande och de ondas näpst.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "snille": {
+  "quote": "Julianus var endast trettio år gammal, full av kraft, klokhet, snille och hängivenhet.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "gunst": {
+  "quote": "Madame de Balbis budoar ansågs allmänt vara vägen till gunst och makt vid emigranternas högkvarter.",
+  "source": "Alma Söderhjelm, Revolutionärer och emigranter"
+ },
+ "järtecken": {
+  "quote": "Vart järtecken förskräcker honom, och hela hösten har det stått hotande stjärnbilder på himmelen.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "svada": {
+  "quote": "Vi voro redan ute på gatan och kvinnosakskvinnans svada höggs av av dubbeldörrarna, som föllo igen.",
+  "source": "Albert Engström, Mitt liv och leverne"
+ },
+ "trångmål": {
+  "quote": "Det föll honom icke in att grubbla över, om han själv bar skulden och om det fanns något sätt att taga sig upp ur trångmålet.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "nesa": {
+  "quote": "Och han, som en gång trodde, att han skulle bliva den skam, vilken tryckte honom, kvitt, måste nu till straff bära en ännu större nesa.",
+  "source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder"
+ },
+ "dväljas": {
+  "quote": "Måhända dväljes hon någonstädes i det mörka djupet.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "hugsvala": {
+  "quote": "Hon talade till den döende fru Helena sköna ord och hugsvalade henne med att ofta nämna ditt namn.",
+  "source": "Viktor Rydberg, Singoalla"
+ },
+ "förtörna": {
+  "quote": "Han steg förtörnad ur stugan och begynte att gå bredvid den ridande.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "dryfta": {
+  "quote": "Summan uppgår till över hundra dollars och frågan om vad man skall använda den till har mycket dryftats i styrande kretsar.",
+  "source": "Sigge Strömberg, Baron Olson och andra historier"
+ },
+ "rannsaka": {
+  "quote": "—Skänk mig ditt barn, så få vi pröva och rannsaka, vad som är möjligt eller omöjligt.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "undfägna": {
+  "quote": "I stället att taga ifrån honom hästen, undfägnade de honom och skänkte nya skor åt hans träl.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "hemfalla": {
+  "quote": "Han var till börden överliggare vid universitetet och hade hemfallit åt litteraturen av brist.",
+  "source": "August Strindberg, Röda rummet"
+ },
+ "beveka": {
+  "quote": "Det är icke längesedan hon nästan låg på knä för mig för att beveka mig.",
+  "source": "Mathilda Malling, En roman om förste konsuln"
+ },
+ "vanhelga": {
+  "quote": "Är detta ett heligt rum, så vanhelgas det inte genom en god gärning.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "förgäta": {
+  "quote": "I sin första överraskning förgäter han det gudomliga budet, att en son skall hedra sin fader.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "föresväva": {
+  "quote": "Det föresvävar mig några ord ur din gudomliga mun om gröna träd och britanniska ostron.",
+  "source": "Viktor Rydberg, Den siste atenaren"
+ },
+ "begabba": {
+  "quote": "Vi begabba dem som svagheten begabbar övermakten, som människorna bespotta sina egna gudar.",
+  "source": "Verner von Heidenstam, Folkungaträdet"
+ },
+ "allenast": {
+  "quote": "Ni nekar mig icke allenast er kärlek, utan äfven tron på uppriktigheten utaf min.",
+  "source": "Marie Linder, En kvinna av vår tid"
+ },
+ "ingalunda": {
+  "quote": "Lönrot, som ingalunda var någon konstapel, eftersom han ägde kommissaries rang och värdighet, svarade:",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "tillförne": {
+  "quote": "Kontorsarbetet tillät honom att vårda sitt yttre med mera framgång än tillförne.",
+  "source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar"
+ },
+ "städse": {
+  "quote": "Stod hon icke i begrepp att svika allt, vad hon själv städse hållit dyrast och högst?",
+  "source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder"
+ }
+}

@@ -16,8 +16,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hon var vacker, ljus, med krusigt hår, och hon hade ett stillsamt och blygsamt sätt.",
+    "quote_source": "Selma Lagerlöf, Bannlyst",
     "zipf": 2.92,
     "issues": []
   },
@@ -37,8 +37,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Denna ödmjuka fråga hade den verkan, att brodern beslöt att ge ett uttryck åt sin välvilja.",
+    "quote_source": "August Strindberg, Röda rummet",
     "zipf": 3.63,
     "issues": []
   },
@@ -58,8 +58,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Noga och varsamt mätte han sedan ut på vågen åt var och en den utlovade andelen.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.93,
     "issues": []
   },
@@ -79,8 +79,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jag visste inte, att det var möjligt att under alla omständigheter förbli god, sann, trofast och barmhärtig.",
+    "quote_source": "Selma Lagerlöf, Bannlyst",
     "zipf": 2.89,
     "issues": []
   },
@@ -101,8 +101,8 @@
       "emotions",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Huru ljuva voro ej hans smekningar för den arma, vars allt han varit från hennes första ungdomsår!",
+    "quote_source": "Viktor Rydberg, Singoalla",
     "zipf": 3.01,
     "issues": []
   },
@@ -122,8 +122,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Blotta tanken på att slippa ut från detta dystra chouanslott kom hennes unga hjärta att klappa.",
+    "quote_source": "Mathilda Malling, En roman om förste konsuln",
     "zipf": 3.47,
     "issues": []
   },
@@ -144,8 +144,8 @@
       "nature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Karga och dystra obygder bredde sig åt alla sidor, men här i sänkan blommade ändå en yppig vår.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.46,
     "issues": []
   },
@@ -209,8 +209,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Professorn talade sakta och lågmält, som om varje ord kostat honom en övervinnelse.",
+    "quote_source": "Gustaf af Geijerstam, Boken om lille-bror",
     "zipf": 2.7,
     "issues": []
   },
@@ -274,8 +274,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Frikostig som han är, vår broder, har han lovat öar och landskap, om han får utländsk hjälp.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.57,
     "issues": []
   },
@@ -295,8 +295,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Varje ord hon sade kom helt förtjusande, uppriktigt och allvarligt, med en liten, svagt läspande röst.",
+    "quote_source": "Selma Lagerlöf, Bannlyst",
     "zipf": 3.57,
     "issues": []
   },
@@ -338,8 +338,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Stellan kände det, som om han inträtt i ett nytt och högtidligt skede av sitt liv.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 2.61,
     "issues": []
   },
@@ -360,8 +360,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han tog onödigt långa steg och hans ögon voro beslöjade men målmedvetna.",
+    "quote_source": "Albert Engström, Bläck och saltvatten",
     "zipf": 2.79,
     "issues": []
   },
@@ -381,8 +381,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det duggregnade ihärdigt, och gatan luktade våt makadam, och klockorna ringde till högmässa, ty det var söndag.",
+    "quote_source": "Hjalmar Söderberg, Förvillelser",
     "zipf": 2.66,
     "issues": []
   },
@@ -402,8 +402,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Och är man inte godtrogen, kallas man misstänksam; alltså hur man handlar, så är det galet!",
+    "quote_source": "August Strindberg, Svarta fanor",
     "zipf": 2.59,
     "issues": []
   },
@@ -423,8 +423,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Allt emellanåt lyfte hon den lilla elfenbenssolfjädern och gned därmed tankfullt sin kind eller sina läppar.",
+    "quote_source": "Mathilda Malling, En roman om förste konsuln",
     "zipf": 1.76,
     "issues": []
   },
@@ -444,8 +444,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vid halvåttatiden vaknade han, såg sig yrvaken och orolig omkring och vacklade bort till dörren.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 1.44,
     "issues": []
   },
@@ -466,8 +466,8 @@
       "character",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Bokhållarne äro artiga, men påpassliga när fadern tilltalar dem.",
+    "quote_source": "August Strindberg, Tjänstekvinnans son",
     "zipf": 1.55,
     "issues": []
   },
@@ -508,8 +508,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ens längtan efter is och snö satt som en klump i halsen, man aldrig lyckades riktigt svälja.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 3.88,
     "issues": []
   },
@@ -528,8 +528,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Platsen låg tom i skymningen, och kvällshimlen välvde sig kall och grönblå över deras huvuden.",
+    "quote_source": "Hjalmar Söderberg, Förvillelser",
     "zipf": 3.08,
     "issues": []
   },
@@ -549,8 +549,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Mellan träden stod redan gryningen svag och blott som en aning om färg.",
+    "quote_source": "Albert Engström, Kryss och landkänning",
     "zipf": 3.24,
     "issues": []
   },
@@ -569,8 +569,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "När han red in på gläntan fick han se, att där hade flyktingarna stannat för ett ögonblick.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.71,
     "issues": []
   },
@@ -591,8 +591,8 @@
       "nature",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Bakom flickan famna skuggorna ett hörn av rummet, och ur dunklet där låter en fiol.",
+    "quote_source": "Albert Engström, Mitt liv och leverne",
     "zipf": 2.94,
     "issues": []
   },
@@ -613,8 +613,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vilken andaktsfull och glad tillit över allt det dagliga i en värld, som hade en gud!",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 4.0,
     "issues": []
   },
@@ -656,8 +656,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vi nutidsmenniskor ha ju alla ett med omsorg utarbetadt sätt att vara.",
+    "quote_source": "Victoria Benedictsson, Modern",
     "zipf": 4.15,
     "issues": []
   },
@@ -677,8 +677,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ofta lade eftertanken en sky på hans panna, och hans ögon fästes granskande på Erland.",
+    "quote_source": "Viktor Rydberg, Singoalla",
     "zipf": 3.6,
     "issues": []
   },
@@ -699,8 +699,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jag har lovat vara din moders slav, fast min trohet är henne mindre dyrbar än din faders svek.",
+    "quote_source": "Viktor Rydberg, Singoalla",
     "zipf": 4.08,
     "issues": []
   },
@@ -721,8 +721,8 @@
       "nature",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Som de sutto vid kaffekopparna och småpratade, hörde de ett sorl av folket nerifrån stranden.",
+    "quote_source": "August Strindberg, I havsbandet",
     "zipf": 2.25,
     "issues": []
   },
@@ -742,8 +742,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hon har gjort mig mer bryderi än alla andra kvinnor tillsammans.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 1.8,
     "issues": []
   },
@@ -784,8 +784,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ett torrt tonfall i hennes stämma, ett ögonblicks förströddhet var nog för att förstöra hans lynne.",
+    "quote_source": "Anne Charlotte Leffler, Kvinnlighet och erotik",
     "zipf": 3.02,
     "issues": []
   },
@@ -827,8 +827,8 @@
       "emotions",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "En kväll, efter en lång tvekan, beslöt han att öppna sitt hjärta för farmor.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 4.39,
     "issues": []
   },
@@ -848,8 +848,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det var sagans doft och äventyrets skimmer över bilden, över henne själv och allt omkring henne.",
+    "quote_source": "Hjalmar Söderberg, Förvillelser",
     "zipf": 2.83,
     "issues": []
   },
@@ -869,8 +869,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Därför får du ha tålamod med mig, husbonde, och inte taga det illa.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 4.21,
     "issues": []
   },
@@ -911,8 +911,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Alhejdi ville fly, hon ville dröja, hon ville se ned, hon ville blicka i hans ögon.",
+    "quote_source": "Fredrika Runeberg, Teckningar och drömmar",
     "zipf": 3.82,
     "issues": []
   },
@@ -932,8 +932,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Umgänget med kamrater undvek han, stängde sig inne på sina rum, rökte tobak, läste och grubblade.",
+    "quote_source": "August Strindberg, Tjänstekvinnans son",
     "zipf": 2.97,
     "issues": []
   },
@@ -975,8 +975,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Fattigdomen, mot vilken han fört en oavbruten kamp, hade han dock städse förmått hålla på avstånd.",
+    "quote_source": "Gustaf af Geijerstam, Boken om lille-bror",
     "zipf": 3.38,
     "issues": []
   },
@@ -996,8 +996,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vi behöva trösta en vanlottad och vi dikta på oss hans lyte för att lätta bördan.",
+    "quote_source": "August Strindberg, Svarta fanor",
     "zipf": 3.68,
     "issues": []
   },
@@ -1018,8 +1018,8 @@
       "society",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Spegla ljuvligt din mildhets stjärna i det stål, som vår panna kröner, faderlösa och arma att värna!",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.93,
     "issues": []
   },
@@ -1040,8 +1040,8 @@
       "emotions",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "En outsäglig ömhet låg i hennes blick, mulen, skrämmande, plågsam, ty den mildrades ej af glädje nu.",
+    "quote_source": "Johan Ludvig Runeberg, Samlade arbeten",
     "zipf": 2.9,
     "issues": []
   },
@@ -1062,8 +1062,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Du är min värsta ovän, och därför unnar jag dig inte en så lätt död på blomstergräset.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.78,
     "issues": []
   },
@@ -1083,8 +1083,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Även konstapeln stannade och en tredje person, som skymtade som en skugga på andra sidan körbanan.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 2.39,
     "issues": []
   },
@@ -1126,8 +1126,8 @@
       "emotions",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Atenaren var bunden vid sina fäders tro av ärofulla historiska minnen, av filosofiens och konstens tjusande makt.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 1.36,
     "issues": []
   },
@@ -1147,8 +1147,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Mest häpnade han över att den unga kvinnan bar en dräkt, som påminde om en nunnas.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.25,
     "issues": []
   },
@@ -1168,8 +1168,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Valdemar skänkte slösaktigt åt alla sidor sina egna prydnader för att få höra ett belåtet ord.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.89,
     "issues": []
   },
@@ -1188,8 +1188,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Stellan stod och väntade länge, till dess han omsider började ströva omkring på stor- och smalgatorna.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 2.8,
     "issues": []
   },
@@ -1209,8 +1209,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Stundom kunde han ju sörja över skönhetens förgänglighet, men tröstade sig straxt med att nu voro de lika fula, och följaktligen jämnspelta.",
+    "quote_source": "August Strindberg, Svarta fanor",
     "zipf": 3.08,
     "issues": []
   },
@@ -1231,8 +1231,8 @@
       "literature",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hela denna historia var för mig varken så obetydlig eller narraktig, som den måhända kan låta.",
+    "quote_source": "Gustaf af Geijerstam, Boken om lille-bror",
     "zipf": 3.45,
     "issues": []
   },
@@ -1253,8 +1253,8 @@
       "literature",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vi måste leva som om vi vore förgängliga väsen, görande det goda för dess egen skull.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 1.39,
     "issues": []
   },
@@ -1274,8 +1274,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Tysta, obevekliga som ödet avancerade de genom terrängen mot den fruktansvärda fiende, som väntade.",
+    "quote_source": "Sigge Strömberg, Krigskorrespondenter och andra lögnare",
     "zipf": 2.25,
     "issues": []
   },
@@ -1296,8 +1296,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hon satte sig på något avstånd under ett träd och hörde andäktigt på.",
+    "quote_source": "Mathilda Malling, En roman om förste konsuln",
     "zipf": 1.26,
     "issues": []
   },
@@ -1317,8 +1317,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hon hade en enda dotter, en flicka så fager och fin som den vackraste ros.",
+    "quote_source": "Fredrika Runeberg, Teckningar och drömmar",
     "zipf": 2.87,
     "issues": []
   },
@@ -1360,8 +1360,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han föresatte sig att det skulle dröja innan han nästa gång lät henne höra af sig och han höll sin föresats ståndaktigt i tre dagar.",
+    "quote_source": "Victoria Benedictsson, Modern",
     "zipf": 1.92,
     "issues": []
   },
@@ -1402,8 +1402,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ännu en gång stötte jarlen med en högdragen rörelse ifrån sig sin hjälpare och gick sedan till drotthuset.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.79,
     "issues": []
   },
@@ -1423,8 +1423,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Tänk så förnäm han måste vara, efter som han kunde bo i ett så gentilt hus!",
+    "quote_source": "Ina Lange, Berättelser från Finland",
     "zipf": 2.49,
     "issues": []
   },
@@ -1465,8 +1465,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det låg något olycksbådande och hotande i hans röst, och detta kände Falk, ty han blev missmodig.",
+    "quote_source": "August Strindberg, Röda rummet",
     "zipf": 1.82,
     "issues": []
   },
@@ -1486,8 +1486,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ångern över brudrovet drunknade i en känsla av, att det var en stolt och oförvägen bragd.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.32,
     "issues": []
   },
@@ -1507,8 +1507,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hans tårar flöto så ymnigt, som om ett källsprång lossnat inom honom.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 1.87,
     "issues": []
   },
@@ -1529,8 +1529,8 @@
       "nature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Sorgbarns sång var vemodig och omfattade endast några toner, som bildade en enformig, ödslig och främmande melodi.",
+    "quote_source": "Viktor Rydberg, Singoalla",
     "zipf": 2.33,
     "issues": []
   },
@@ -1592,8 +1592,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I detta ögonblick vände hon en smula på huvudet och såg förstulet på honom från sidan.",
+    "quote_source": "Mathilda Malling, En roman om förste konsuln",
     "zipf": 1.17,
     "issues": []
   },
@@ -1613,8 +1613,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Skärsliparen satt kvar på slädkanten, såg vresig och sur ut, men talade lugnt och fridsamt som förut.",
+    "quote_source": "Selma Lagerlöf, Bannlyst",
     "zipf": 2.38,
     "issues": []
   },
@@ -1634,8 +1634,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han satte sig sävligt ned och höll sig långt borta från de andra.",
+    "quote_source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder",
     "zipf": 1.22,
     "issues": []
   },
@@ -1655,8 +1655,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han talade kort och häftigt och det fanns en ond, nästan lömsk glimt i blicken.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 2.97,
     "issues": []
   },
@@ -1677,8 +1677,8 @@
       "nature",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ett eget leende, men helt flyktigt, krusade jungfruns läpp, under det hon såg ned framför sig.",
+    "quote_source": "Carl Georg Starbäck, Mäster Olofs bröllop",
     "zipf": 2.77,
     "issues": []
   },
@@ -1698,8 +1698,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han är blott för finkänslig, han vill icke lägga något band på din frihet, icke tvinga dina känslor.",
+    "quote_source": "Mathilda Malling, En roman om förste konsuln",
     "zipf": 1.79,
     "issues": []
   },
@@ -1719,8 +1719,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Slutligen sprang hon frimodigt fram och drog honom med sig in i leken.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.52,
     "issues": []
   },
@@ -1741,8 +1741,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han var i själva verket så omutligt rättfärdig, att han häktade själve stadsfiskalen för fylleri.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 1.74,
     "issues": []
   },
@@ -1783,8 +1783,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Åsynen av hans bleka, kraftfulla anlete mitt under stormen var den bästa predikan, ett bekännelsens halleluja!",
+    "quote_source": "Carl Georg Starbäck, Mäster Olofs bröllop",
     "zipf": 2.38,
     "issues": []
   },
@@ -1825,8 +1825,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hans fåfänga var ännu inte tillräckligt raffinerad för att tillåta honom lysa med sin frånvaro.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 2.97,
     "issues": []
   },
@@ -1867,8 +1867,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hade hon då ingen längre att få skydd hos, ingen som hon kunde akta och följa med tillförsikt?",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.52,
     "issues": []
   },
@@ -1888,8 +1888,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Nattvandrarna på murställningen fortsatte från stege till stege, fast med bävan, när de sviktade.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.96,
     "issues": []
   },
@@ -1909,8 +1909,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han var i ett drömlikt tillstånd, vari hänförelse, lugn och värme blandade sig med obestämd längtan.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 2.22,
     "issues": []
   },
@@ -1973,8 +1973,8 @@
       "society",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Tanken slog eld inom honom och värmde hans medlidande till en känsla av hemligt samförstånd, av hemlig släktskap.",
+    "quote_source": "Gustaf Hellström, Dagdrömmar",
     "zipf": 3.26,
     "issues": []
   },
@@ -1994,8 +1994,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Sorgbarn fyllde deras bägare, och priorn tömde sin med förtröstan, emedan den räcktes honom av en from pilgrim.",
+    "quote_source": "Viktor Rydberg, Singoalla",
     "zipf": 2.75,
     "issues": []
   },
@@ -2016,8 +2016,8 @@
       "society",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "En lång bred graf tillreddes i sanden, och dit lades vänner och fiender broderligt om hvarandra, utan vårdtecken, utan annat eftermäle, än ett fadervår för dem alla.",
+    "quote_source": "Zacharias Topelius, Stjärnornas kungabarn",
     "zipf": 2.57,
     "issues": []
   },
@@ -2038,8 +2038,8 @@
       "travel",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det hade händt nyligen vid en af hans förtviflade irrfärder efter arbete.",
+    "quote_source": "Henning Berger, Ysaïl",
     "zipf": 1.18,
     "issues": []
   },
@@ -2059,8 +2059,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Solen hade nyss gått ned och brett ett rödviolett töcken över den smala landremsan längst i väster.",
+    "quote_source": "Hjalmar Söderberg, Förvillelser",
     "zipf": 2.34,
     "issues": []
   },
@@ -2080,8 +2080,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I sådan vånda gick han och hade ingen, till vilken han kunde tala.",
+    "quote_source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder",
     "zipf": 2.83,
     "issues": []
   },
@@ -2101,8 +2101,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Gifte av kärlek, det blir sorg, men gifte av klokhet, det blir fröjd i borg.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.77,
     "issues": []
   },
@@ -2122,8 +2122,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Till sin häpnad fann han, att det var fullt av människor innanför ringen av de väldiga stenarna.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.05,
     "issues": []
   },
@@ -2144,8 +2144,8 @@
       "science",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Krigsfångarne, som fördes i triumf genom staden för att interneras i fästningarna, fingo förnimma mycket hån.",
+    "quote_source": "Zacharias Topelius, Stjärnornas kungabarn",
     "zipf": 2.44,
     "issues": []
   },
@@ -2208,8 +2208,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han stannade vid varje punkt för att begrunda den, söka sammanhanget med det föregående och det efterföljande.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 3.36,
     "issues": []
   },
@@ -2230,8 +2230,8 @@
       "persuasion",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vårdkasarna, som oaktadt de ljusa försommarnätterna flammade på höjderna söderut, förkunnade, att fienden blivit sedd.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.63,
     "issues": []
   },
@@ -2251,8 +2251,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ack, det gives brott, som, när de skola vedergällas, göra den allsmäktige hämnaren till en nödställd gud.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 1.81,
     "issues": []
   },
@@ -2273,8 +2273,8 @@
       "debate",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "—Jag vet bara ett att råda, svarade slutligen bergmästaren, efter att ett ögonblick ha besinnat sig.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.65,
     "issues": []
   },
@@ -2294,8 +2294,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Legenden förtäljer, att greven en gång hade överraskat henne på bar gärning och i sin besinningslösa svartsjuka velat döda henne.",
+    "quote_source": "Alma Söderhjelm, Revolutionärer och emigranter",
     "zipf": 2.27,
     "issues": []
   },
@@ -2316,8 +2316,8 @@
       "nature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han hade ingenting att förtära, och den snö, som han ibland lade på tungan, brände mer än den vederkvickte.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.32,
     "issues": []
   },
@@ -2337,8 +2337,8 @@
     "topics": [
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ejdrar och skarvar lyfta ur vår kurs och måsarna göra en sväng för att utröna vår matnyttighet.",
+    "quote_source": "Albert Engström, Äventyr och hugskott",
     "zipf": 3.14,
     "issues": []
   },
@@ -2359,8 +2359,8 @@
       "debate",
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Smålänningarna framhärdade i synden, de voro slappa i tron, och det hade de för resten varit sedan många hundra år.",
+    "quote_source": "Albert Engström, Mitt liv och leverne",
     "zipf": 2.11,
     "issues": []
   },
@@ -2380,8 +2380,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Förgäves hade Olle bedyrat sin oskuld, förgäves hade han vädjat till deras rättskänsla och humanitet.",
+    "quote_source": "August Strindberg, Röda rummet",
     "zipf": 2.07,
     "issues": []
   },
@@ -2402,8 +2402,8 @@
       "debate",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Aldrig skulle det fallit henne in att nu förebrå honom, för att han egentligen varit olydig.",
+    "quote_source": "Gustaf af Geijerstam, Boken om lille-bror",
     "zipf": 1.85,
     "issues": []
   },
@@ -2423,8 +2423,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vi kallade det att offra trälar i konungens ställe och blidkade därmed gudarna, ty deras är landet.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 3.01,
     "issues": []
   },
@@ -2444,8 +2444,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Här, viskade sergeanten, bor den rika färgaren, som tillika håller en artig och proper restaurang.",
+    "quote_source": "Carl Jonas Love Almqvist, Det går an",
     "zipf": 3.77,
     "issues": []
   },
@@ -2488,8 +2488,8 @@
       "debate",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Så småningom lyckades han framviska en ytterst lakonisk men icke desto mindre fullt tillfredsställande beskrivning på sitt tillstånd.",
+    "quote_source": "Albert Engström, Kryss och landkänning",
     "zipf": 1.4,
     "issues": []
   },
@@ -2509,8 +2509,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jag är inte nog förmäten att förlikna mig vid världarnas styresman, men i ett afseende är jag lik Gud: jag tål ingen rival!",
+    "quote_source": "Zacharias Topelius, Stjärnornas kungabarn",
     "zipf": 1.43,
     "issues": []
   },
@@ -2531,8 +2531,8 @@
       "character",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ditt tal är fåvitskt, gamle, jag förstår dig ej.",
+    "quote_source": "Johan Ludvig Runeberg, Samlade arbeten",
     "zipf": 0.0,
     "issues": []
   },
@@ -2553,8 +2553,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Flitens sparpenning och ockrarens snöda guld gingo lika lätt ur en hand i en annan.",
+    "quote_source": "Zacharias Topelius, Stjärnornas kungabarn",
     "zipf": 1.07,
     "issues": []
   },
@@ -2574,8 +2574,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "En liten beskäftig herre skrev just upp hans namn och adress när jag hann fram, och ett par bekanta hade redan tagit hand om honom.",
+    "quote_source": "Sigge Strömberg, Baron Olson och andra historier",
     "zipf": 1.4,
     "issues": []
   },
@@ -2595,8 +2595,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "—Han ser ut som en tjuv, sade Sellén, där han stod i fönstret och tittade illmarigt ut åt vägen.",
+    "quote_source": "August Strindberg, Röda rummet",
     "zipf": 0.0,
     "issues": []
   },
@@ -2638,8 +2638,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jag ler, hon ler, min hulda drömda maka, Ty inga tomma kval vi skapa själfva.",
+    "quote_source": "Johan Ludvig Runeberg, Samlade arbeten",
     "zipf": 2.02,
     "issues": []
   },
@@ -2660,8 +2660,8 @@
       "society",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Min bok är buddistiskt ren, men vänder upp och ned på en del gängse begrepp.",
+    "quote_source": "Albert Engström, Äventyr och hugskott",
     "zipf": 3.3,
     "issues": []
   },
@@ -2682,8 +2682,8 @@
       "literature",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Huru ödesdigert detta uppskov var, skulle senare visa sig.",
+    "quote_source": "Alma Söderhjelm, Revolutionärer och emigranter",
     "zipf": 2.28,
     "issues": []
   },
@@ -2703,8 +2703,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "—Gott, sade herr Hugo, såg sig omkring med en fryntlig blick och steg upp.",
+    "quote_source": "Carl Jonas Love Almqvist, Det går an",
     "zipf": 1.3,
     "issues": []
   },
@@ -2724,8 +2724,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "—Jag kunde nog se det, sade hon och nickade förnumstigt.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 0.0,
     "issues": []
   },
@@ -2746,8 +2746,8 @@
       "business",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det var något visst manligt över baron Grothusen; något manligt och vederhäftigt.",
+    "quote_source": "Hjalmar Söderberg, Förvillelser",
     "zipf": 1.94,
     "issues": []
   },
@@ -2788,8 +2788,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Rundqvist var dock seg och illfundig, och en lördagsnatt tog han och strök avträdet pinande rött.",
+    "quote_source": "August Strindberg, Hemsöborna",
     "zipf": 0.0,
     "issues": []
   },
@@ -2832,8 +2832,8 @@
       "literature",
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det var ett ståtligt hus, storvulet byggt, raklinjigt som en lada men med torn och tinnar i fasadens båda hörn.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 0.0,
     "issues": []
   },
@@ -2854,8 +2854,8 @@
       "society",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Uppdraget var grannlaga; de häftigaste känslorna hade lagt sig, festtalets rus hade gått om och nu blev det annat av.",
+    "quote_source": "August Strindberg, Det nya riket",
     "zipf": 1.55,
     "issues": []
   },
@@ -2875,8 +2875,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Emellertid måste jag ju kalla den här samlingen något för att skilja den från de andra skaldernas valhänta försök i samma riktning.",
+    "quote_source": "Albert Engström, Kryss och landkänning",
     "zipf": 1.43,
     "issues": []
   },
@@ -2896,8 +2896,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hennes glädje öfver återseendet var uppriktig och okonstlad.",
+    "quote_source": "Victoria Benedictsson, Modern",
     "zipf": 1.81,
     "issues": []
   },
@@ -2939,8 +2939,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Fadern kunde uppoffra allt för en stor idé, modern allt för ett litet hugskott.",
+    "quote_source": "Zacharias Topelius, Stjärnornas kungabarn",
     "zipf": 1.69,
     "issues": []
   },
@@ -2960,8 +2960,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "En vacker dag vände han sig till sin herre med det spörsmål, om själens odödlighet är viss eller endast sannolik.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 2.71,
     "issues": []
   },
@@ -2982,8 +2982,8 @@
       "debate",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "För var gång han lyfte sin vederdeloman, hördes dennes rop på hjälp allt svagare.",
+    "quote_source": "Albert Engström, Bläck och saltvatten",
     "zipf": 0.0,
     "issues": []
   },
@@ -3003,8 +3003,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vildmarken upplystes, så att bråddjupen blottades men också den säkra stigen.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.35,
     "issues": []
   },
@@ -3025,8 +3025,8 @@
       "nature",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vad livet skänkte mig, vad mitt jag kallar, allt, allt är hägringar och drömmar blott.",
+    "quote_source": "Arvid Mörne, Skärgårdens vår",
     "zipf": 2.37,
     "issues": []
   },
@@ -3047,8 +3047,8 @@
       "nature",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Klemens hade förlorat sin fägring och därmed allt, som fängslade henne vid honom.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 2.54,
     "issues": []
   },
@@ -3068,8 +3068,8 @@
     "topics": [
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jag släpar, som ni ser, ännu min usla varelse i värk och vedermöda och utan glädje af lifvet.",
+    "quote_source": "Fredrika Runeberg, Teckningar och drömmar",
     "zipf": 1.62,
     "issues": []
   },
@@ -3089,8 +3089,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Blir det dig till någon lisa, så tag gärna hämnd på mig.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 4.54,
     "issues": []
   },
@@ -3110,8 +3110,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han däremot älskade bråk, för så vitt det kunde lända till sedernas förbättrande, brottslingars upptäckande och de ondas näpst.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 0.0,
     "issues": []
   },
@@ -3132,8 +3132,8 @@
       "science",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Julianus var endast trettio år gammal, full av kraft, klokhet, snille och hängivenhet.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 2.81,
     "issues": []
   },
@@ -3197,8 +3197,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Madame de Balbis budoar ansågs allmänt vara vägen till gunst och makt vid emigranternas högkvarter.",
+    "quote_source": "Alma Söderhjelm, Revolutionärer och emigranter",
     "zipf": 2.92,
     "issues": []
   },
@@ -3219,8 +3219,8 @@
       "literature",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vart järtecken förskräcker honom, och hela hösten har det stått hotande stjärnbilder på himmelen.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.87,
     "issues": []
   },
@@ -3240,8 +3240,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vi voro redan ute på gatan och kvinnosakskvinnans svada höggs av av dubbeldörrarna, som föllo igen.",
+    "quote_source": "Albert Engström, Mitt liv och leverne",
     "zipf": 1.98,
     "issues": []
   },
@@ -3261,8 +3261,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det föll honom icke in att grubbla över, om han själv bar skulden och om det fanns något sätt att taga sig upp ur trångmålet.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.42,
     "issues": []
   },
@@ -3283,8 +3283,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Och han, som en gång trodde, att han skulle bliva den skam, vilken tryckte honom, kvitt, måste nu till straff bära en ännu större nesa.",
+    "quote_source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder",
     "zipf": 1.67,
     "issues": []
   },
@@ -3305,8 +3305,8 @@
       "literature",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Måhända dväljes hon någonstädes i det mörka djupet.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 1.24,
     "issues": []
   },
@@ -3326,8 +3326,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hon talade till den döende fru Helena sköna ord och hugsvalade henne med att ofta nämna ditt namn.",
+    "quote_source": "Viktor Rydberg, Singoalla",
     "zipf": 0.0,
     "issues": []
   },
@@ -3347,8 +3347,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han steg förtörnad ur stugan och begynte att gå bredvid den ridande.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 0.0,
     "issues": []
   },
@@ -3389,8 +3389,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Summan uppgår till över hundra dollars och frågan om vad man skall använda den till har mycket dryftats i styrande kretsar.",
+    "quote_source": "Sigge Strömberg, Baron Olson och andra historier",
     "zipf": 2.21,
     "issues": []
   },
@@ -3411,8 +3411,8 @@
       "debate",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "—Skänk mig ditt barn, så få vi pröva och rannsaka, vad som är möjligt eller omöjligt.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 2.84,
     "issues": []
   },
@@ -3433,8 +3433,8 @@
       "society",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I stället att taga ifrån honom hästen, undfägnade de honom och skänkte nya skor åt hans träl.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 0.0,
     "issues": []
   },
@@ -3454,8 +3454,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han var till börden överliggare vid universitetet och hade hemfallit åt litteraturen av brist.",
+    "quote_source": "August Strindberg, Röda rummet",
     "zipf": 1.65,
     "issues": []
   },
@@ -3475,8 +3475,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det är icke längesedan hon nästan låg på knä för mig för att beveka mig.",
+    "quote_source": "Mathilda Malling, En roman om förste konsuln",
     "zipf": 1.91,
     "issues": []
   },
@@ -3496,8 +3496,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Är detta ett heligt rum, så vanhelgas det inte genom en god gärning.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 1.61,
     "issues": []
   },
@@ -3516,8 +3516,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "I sin första överraskning förgäter han det gudomliga budet, att en son skall hedra sin fader.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 1.58,
     "issues": []
   },
@@ -3537,8 +3537,8 @@
       "literature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det föresvävar mig några ord ur din gudomliga mun om gröna träd och britanniska ostron.",
+    "quote_source": "Viktor Rydberg, Den siste atenaren",
     "zipf": 0.0,
     "issues": []
   },
@@ -3559,8 +3559,8 @@
       "debate",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vi begabba dem som svagheten begabbar övermakten, som människorna bespotta sina egna gudar.",
+    "quote_source": "Verner von Heidenstam, Folkungaträdet",
     "zipf": 0.0,
     "issues": []
   },
@@ -3580,8 +3580,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ni nekar mig icke allenast er kärlek, utan äfven tron på uppriktigheten utaf min.",
+    "quote_source": "Marie Linder, En kvinna av vår tid",
     "zipf": 2.41,
     "issues": []
   },
@@ -3600,8 +3600,8 @@
     "topics": [
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Lönrot, som ingalunda var någon konstapel, eftersom han ägde kommissaries rang och värdighet, svarade:",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 2.7,
     "issues": []
   },
@@ -3621,8 +3621,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Kontorsarbetet tillät honom att vårda sitt yttre med mera framgång än tillförne.",
+    "quote_source": "Hjalmar Bergman, Vi Bookar, Krokar och Rothar",
     "zipf": 1.16,
     "issues": []
   },
@@ -3642,8 +3642,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Stod hon icke i begrepp att svika allt, vad hon själv städse hållit dyrast och högst?",
+    "quote_source": "Gustaf af Geijerstam, Nils Tufvesson och hans moder",
     "zipf": 2.03,
     "issues": []
   }
