@@ -108,10 +108,17 @@ python3 content/build_quotes.py candidates content/quote_candidates.json
 ### Other languages
 
 Each language gets its own words, chosen for that language, not a translation
-of the English list. French is the first: 164 words in `content/fr/drafts`,
-with definitions, examples, synonyms and origins written in French, and 128
-quotations from French classics in `content/fr/quotes.json`. The same two
-scripts build it with `--lang fr`:
+of the English list. Besides English the app teaches twenty-four languages:
+French, Spanish, Italian, German, Portuguese (Brazil and Portugal, as two
+languages), Dutch, Swedish, Danish, Norwegian, Finnish, Polish, Czech, Slovak,
+Slovenian, Croatian, Hungarian, Romanian, Greek, Russian, Turkish, Arabic,
+Hebrew and Japanese. Each has 160 to 200 words in `content/<code>/drafts`,
+written in that language, and whatever quotations its classics on the mirror
+allowed (`content/<code>/quotes.json`): from more than a hundred for French,
+Spanish, Swedish, Greek, Dutch or Finnish to none for Arabic, Croatian, Slovak
+and Turkish, which have no book there.
+
+The same scripts build a language with `--lang <code>`:
 
 ```bash
 python3 content/build_quotes.py --lang fr fetch
@@ -122,36 +129,46 @@ python3 content/build_quotes.py --lang fr candidates content/fr/quote_candidates
 ```
 
 ```bash
-python3 content/build_catalog.py --lang fr content/fr/pilot_words.json content/fr/words.json content/fr/drafts/*.json
+python3 content/build_catalog.py --lang fr content/fr/pilot_words.json Bovary/words_fr.json content/fr/drafts/*.json
 ```
 
-The drafts carry the pronunciation themselves (key `ipa`), since there is no
-pronouncing dictionary to convert from, and nouns are marked `n. m.` or
-`n. f.`. The build writes `Bovary/words_fr.json` (bundled in the app) and
-`BovaryWidget/words_fr.json`, and refuses a word spelled like an English one:
-the lemma is the key of a word in the database and in the member's data, for
-all languages at once. `python3 content/push_catalog.py --lang fr` publishes it.
+```bash
+python3 content/push_catalog.py --lang fr
+```
+
+A language describes itself in `content/<code>/books.json`: its parts of
+speech (`parts`), its showcase word (`featured`) and the Gutenberg numbers of
+its books. The drafts carry the pronunciation themselves (key `ipa`). The
+build writes `Bovary/words_<code>.json` and `BovaryWidget/words_<code>.json`,
+and keeps `Bovary/featured.json` and `BovaryWidget/texts.json` up to date.
 
 In the app, the second onboarding page asks which language to enrich, and
-Settings can change it later. The choice sets the catalogue, the voices and the
-interface together. The code is written in English; `tr("...")` looks each text
-up in `Bovary/strings_fr.json` (English text to French text), and a text with
-no translation is shown in English. A new language needs a case in
-`AppLanguage` (`Language.swift`), a `strings_<code>.json` and a
-`words_<code>.json`. The widget cannot read the app's choice, so it follows
-the device language.
+Settings can change it later. The choice sets the catalogue, the voice and the
+interface together; Arabic and Hebrew are laid out from right to left. The
+code is written in English; `tr("...")` looks each text up in
+`Bovary/strings_<code>.json` (English text to translation), and a text with no
+translation is shown in English. A new language needs a case in `AppLanguage`
+(`Language.swift`), a `strings_<code>.json` and a `words_<code>.json`. The
+widget cannot read the app's choice, so it follows the device language.
 
-In Supabase, `words.language` tells the catalogues apart; the app reads the
-view `catalog_localized` filtered on its language, and the older view
-`catalog` stays English only for builds released before
-(`supabase/migrations/20261128120000_languages.sql`).
+In Supabase a word is identified by its language and its lemma together
+(`words.language`), so the same spelling can be a word in several languages.
+The app reads the view `catalog_localized` filtered on its language; the older
+view `catalog` stays English only for builds released before. The member's
+favorites and history are plain spellings, shown in whichever catalogue has
+them (`supabase/migrations`).
+
+Most etymologies and pronunciations outside English were written from
+knowledge and not checked against a dictionary, and the interface texts have
+not been read by native speakers. Languages with several plural forms (the
+Slavic ones, Romanian, Arabic) use a single form per sentence, which reads
+wrongly for some numbers.
 
 ## Not done yet
 
-- **The French interface has not been built or run.** It was written without
-  Xcode at hand: build it and walk through the onboarding in French before
-  release. The migration above is applied and the French catalogue (160
-  words) is published.
+- **The language support has not been built or run.** It was written without
+  Xcode at hand: build it and walk through the onboarding in another language
+  before release.
 
 - **Nothing is locked**: every topic, game and statistic is free for now. The
   subscription is sold in the onboarding, but the limit it lifts is still to

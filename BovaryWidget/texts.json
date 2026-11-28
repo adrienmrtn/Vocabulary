@@ -1,7 +1,15 @@
 {
+ "ar": {
+  "name": "كلمة اليوم",
+  "summary": "كلمة جديدة كل يوم، مع معناها."
+ },
  "cs": {
   "name": "Slovo dne",
   "summary": "Každý den nové slovo i s významem."
+ },
+ "da": {
+  "name": "Dagens ord",
+  "summary": "Et nyt ord hver dag, med dets betydning."
  },
  "de": {
   "name": "Wort des Tages",
@@ -30,6 +38,10 @@
  "he": {
   "name": "מילת היום",
   "summary": "מילה חדשה בכל יום, עם המשמעות שלה."
+ },
+ "hr": {
+  "name": "Riječ dana",
+  "summary": "Svaki dan nova riječ, s njezinim značenjem."
  },
  "hu": {
   "name": "A nap szava",
@@ -66,5 +78,25 @@
  "ro": {
   "name": "Cuvântul zilei",
   "summary": "Un cuvânt nou în fiecare zi, cu înțelesul lui."
+ },
+ "ru": {
+  "name": "Слово дня",
+  "summary": "Новое слово каждый день — вместе с его значением."
+ },
+ "sk": {
+  "name": "Slovo dňa",
+  "summary": "Každý deň nové slovo aj s významom."
+ },
+ "sl": {
+  "name": "Beseda dneva",
+  "summary": "Vsak dan nova beseda z razlago pomena."
+ },
+ "sv": {
+  "name": "Dagens ord",
+  "summary": "Ett nytt ord varje dag, med dess betydelse."
+ },
+ "tr": {
+  "name": "Günün kelimesi",
+  "summary": "Her gün yeni bir kelime, anlamıyla birlikte."
  }
 }

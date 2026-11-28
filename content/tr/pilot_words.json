@@ -253,7 +253,7 @@
     "part_of_speech": "a.",
     "ipa": "ɡuˈɾuɾ",
     "definition": "Kişinin kendine ya da yakınına duyduğu övünç",
-    "example": "Kızının diplomasını alışını gururla izledi.",
+    "example": "Kızının sahnede diplomasını alışını gururla izledi.",
     "synonyms": [
       "kıvanç",
       "övünç",
@@ -267,9 +267,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 4.94,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "şefkat",
@@ -462,7 +460,7 @@
     "part_of_speech": "a.",
     "ipa": "œˈzen",
     "definition": "Bir işi kusursuz yapmak için gösterilen dikkat",
-    "example": "Sofrayı her zamanki özeniyle hazırlamıştı.",
+    "example": "Bayram sofrasını her zamanki özeniyle tek başına hazırlamıştı.",
     "synonyms": [
       "itina",
       "dikkat"
@@ -475,9 +473,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 4.21,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "çaba",
@@ -485,7 +481,7 @@
     "part_of_speech": "a.",
     "ipa": "tʃaˈba",
     "definition": "Bir işi başarmak için harcanan güç",
-    "example": "Bütün çabasına rağmen treni kaçırdı.",
+    "example": "Bütün çabasına rağmen sabah trenini birkaç dakikayla kaçırdı.",
     "synonyms": [
       "gayret",
       "uğraş",
@@ -499,9 +495,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 4.45,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "erdem",
@@ -610,7 +604,7 @@
     "part_of_speech": "a.",
     "ipa": "kajˈɡɯ",
     "definition": "Kötü bir şey olacağı düşüncesiyle duyulan huzursuzluk",
-    "example": "Sınav sonucunu beklerken kaygıdan uyuyamadı.",
+    "example": "Sınav sonucunu beklerken kaygıdan bütün gece uyuyamadı.",
     "synonyms": [
       "endişe",
       "tasa"
@@ -622,9 +616,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.73,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "umursamak",
@@ -692,7 +684,7 @@
     "part_of_speech": "f.",
     "ipa": "esiɾɡeˈmek",
     "definition": "Bir şeyi vermekten kaçınmak",
-    "example": "Bizden yardımını hiçbir zaman esirgemedi.",
+    "example": "Zor günlerimizde bizden yardımını hiçbir zaman esirgemedi.",
     "synonyms": [
       "sakınmak",
       "kıskanmak"
@@ -704,9 +696,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "avutmak",
@@ -714,7 +704,7 @@
     "part_of_speech": "f.",
     "ipa": "avutˈmak",
     "definition": "Üzülen birini oyalayıp acısını hafifletmek",
-    "example": "Ağlayan bebeği ninni söyleyerek avuttu.",
+    "example": "Ağlayan bebeği kucağına alıp ninni söyleyerek avuttu.",
     "synonyms": [
       "oyalamak",
       "yatıştırmak"
@@ -726,9 +716,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "kıvanç",
@@ -736,7 +724,7 @@
     "part_of_speech": "a.",
     "ipa": "kɯˈvantʃ",
     "definition": "Başarıdan doğan haklı sevinç",
-    "example": "Öğrencilerinin başarısını kıvançla anlatıyordu.",
+    "example": "Öğrencilerinin başarısını herkese büyük bir kıvançla anlatıyordu.",
     "synonyms": [
       "övünç",
       "gurur"
@@ -748,9 +736,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.86,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "özveri",
@@ -985,7 +971,7 @@
     "part_of_speech": "a.",
     "ipa": "ʃaˈfak",
     "definition": "Güneş doğmadan önceki aydınlık",
-    "example": "Balıkçılar şafak sökmeden denize açıldı.",
+    "example": "Balıkçılar şafak sökmeden ağlarını toplayıp denize açıldı.",
     "synonyms": [
       "tan",
       "seher"
@@ -997,9 +983,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 4.27,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "macera",
@@ -1210,7 +1194,7 @@
     "part_of_speech": "a.",
     "ipa": "hylˈjaː",
     "definition": "Gerçekleşmesi istenen tatlı düş",
-    "example": "Gençlik hülyalarını anlatırken gözleri parlıyordu.",
+    "example": "Gençlik hülyalarını anlatırken gözleri hâlâ çocuk gibi parlıyordu.",
     "synonyms": [
       "hayal",
       "düş"
@@ -1223,9 +1207,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 4.21,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "müşfik",
@@ -1233,7 +1215,7 @@
     "part_of_speech": "sf.",
     "ipa": "myʃˈfik",
     "definition": "Sevgiyle koruyan, sevecen",
-    "example": "Öğretmenimizin müşfik sesi hâlâ kulaklarımda.",
+    "example": "İlkokul öğretmenimizin müşfik sesi bugün bile kulaklarımda.",
     "synonyms": [
       "sevecen",
       "şefkatli"
@@ -1246,9 +1228,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.22,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "ihtişam",
@@ -1277,7 +1257,7 @@
     "part_of_speech": "sf.",
     "ipa": "naːdiːˈde",
     "definition": "Az bulunan, çok değerli",
-    "example": "Müzede nadide el yazmaları sergileniyor.",
+    "example": "Müzede bu ay nadide el yazmaları sergileniyor.",
     "synonyms": [
       "ender",
       "eşsiz"
@@ -1290,9 +1270,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.58,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "mahir",
@@ -1364,7 +1342,7 @@
     "part_of_speech": "sf.",
     "ipa": "muːˈlak",
     "definition": "Anlaşılması güç, kapalı",
-    "example": "Sözleşmenin muğlak maddeleri yeniden yazılmalı.",
+    "example": "Sözleşmenin muğlak maddeleri imzadan önce yeniden yazılmalı.",
     "synonyms": [
       "karışık",
       "çapraşık",
@@ -1378,9 +1356,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.09,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "feragat",
@@ -1408,7 +1384,7 @@
     "part_of_speech": "a.",
     "ipa": "feɾaːˈset",
     "definition": "Çabuk sezip doğru anlama yeteneği",
-    "example": "Ferasetiyle karşısındakinin niyetini hemen anladı.",
+    "example": "Ferasetiyle karşısındakinin asıl niyetini daha ilk görüşmede anladı.",
     "synonyms": [
       "sezgi",
       "anlayış"
@@ -1420,9 +1396,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "basiret",
@@ -1472,7 +1446,7 @@
     "part_of_speech": "a.",
     "ipa": "haˈzan",
     "definition": "Sonbahar; yaprakların döküldüğü mevsim",
-    "example": "Parkın yolları hazan yapraklarıyla örtülmüştü.",
+    "example": "Parkın bütün yolları sarı hazan yapraklarıyla örtülmüştü.",
     "synonyms": [
       "güz",
       "sonbahar"
@@ -1485,9 +1459,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.26,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "hercai",
@@ -1665,7 +1637,7 @@
     "part_of_speech": "a.",
     "ipa": "safsaˈta",
     "definition": "Doğru gibi görünen yanıltıcı akıl yürütme",
-    "example": "Tartışmada kanıt yerine safsataya başvurdu.",
+    "example": "Tartışmada kanıt göstermek yerine yine safsataya başvurdu.",
     "synonyms": [
       "mugalata",
       "yanıltmaca"
@@ -1678,9 +1650,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "tezat",
@@ -1979,7 +1949,7 @@
     "part_of_speech": "f.",
     "ipa": "jadsɯˈmak",
     "definition": "Bir gerçeği kabul etmemek, yok saymak",
-    "example": "Hatasını yadsımak yerine açıkça üstlendi.",
+    "example": "Hatasını yadsımak yerine herkesin önünde açıkça üstlendi.",
     "synonyms": [
       "reddetmek",
       "tanımamak"
@@ -1991,9 +1961,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "irdelemek",
@@ -2022,7 +1990,7 @@
     "part_of_speech": "f.",
     "ipa": "hajɯflanˈmak",
     "definition": "Elden kaçmış bir şeye üzülmek",
-    "example": "Gençliğinde keman öğrenmediğine hâlâ hayıflanır.",
+    "example": "Dedem, gençliğinde keman öğrenmediğine hâlâ hayıflanır.",
     "synonyms": [
       "yazıklanmak",
       "üzülmek"
@@ -2034,9 +2002,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "yeltenmek",
@@ -2185,7 +2151,7 @@
     "part_of_speech": "a.",
     "ipa": "tɯˈnɯ",
     "definition": "Bir sesi ötekilerden ayıran renk",
-    "example": "Kemanın sıcak tınısı salonu doldurdu.",
+    "example": "Eski kemanın sıcak tınısı bütün salonu doldurdu.",
     "synonyms": [
       "ton",
       "ses"
@@ -2198,9 +2164,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "görkem",
@@ -2268,7 +2232,7 @@
     "part_of_speech": "a.",
     "ipa": "imˈɡe",
     "definition": "Zihinde canlanan görüntü",
-    "example": "Şiirdeki deniz imgesi özgürlüğü çağrıştırıyor.",
+    "example": "Şiirdeki deniz imgesi okura özgürlüğü çağrıştırıyor.",
     "synonyms": [
       "hayal",
       "imaj"
@@ -2280,9 +2244,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.44,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "güzergâh",
@@ -2347,7 +2309,7 @@
     "part_of_speech": "a.",
     "ipa": "telˈkin",
     "definition": "Bir düşünceyi yavaş yavaş zihne yerleştirme",
-    "example": "Antrenörün telkinleri oyuncuların özgüvenini artırdı.",
+    "example": "Antrenörün maç öncesi telkinleri oyuncuların özgüvenini artırdı.",
     "synonyms": [
       "aşılama"
     ],
@@ -2358,9 +2320,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.35,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "olgu",
@@ -2388,7 +2348,7 @@
     "part_of_speech": "a.",
     "ipa": "vaɾsaˈjɯm",
     "definition": "Doğruluğu sınanmak üzere öne sürülen düşünce",
-    "example": "Deney sonuçları araştırmacıların varsayımını doğruladı.",
+    "example": "Deney sonuçları araştırmacıların ilk varsayımını büyük ölçüde doğruladı.",
     "synonyms": [
       "hipotez",
       "faraziye"
@@ -2400,9 +2360,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.57,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   },
   {
     "lemma": "namütenahi",
@@ -3298,7 +3256,7 @@
     "lemma": "sağaltmak",
     "level": 3,
     "part_of_speech": "f.",
-    "ipa": "saaltˈmak",
+    "ipa": "saːltˈmak",
     "definition": "Hastalığı ya da yarayı geçirip esenliğe kavuşturmak",
     "example": "Köyün yaşlı ebesi yaraları otlarla sağaltırdı.",
     "synonyms": [
@@ -3394,7 +3352,7 @@
     "lemma": "onulmaz",
     "level": 3,
     "part_of_speech": "sf.",
-    "ipa": "onulˈmaz",
+    "ipa": "oˈnulmaz",
     "definition": "İyileşmesi, düzelmesi olanaksız",
     "example": "Savaş, şehrin belleğinde onulmaz yaralar bıraktı.",
     "synonyms": [
@@ -3536,7 +3494,7 @@
     "part_of_speech": "a.",
     "ipa": "belaːˈɡat",
     "definition": "Sözü etkili ve yerinde söyleme sanatı",
-    "example": "Avukatın belagati jüriyi derinden etkiledi.",
+    "example": "Genç avukatın belagati jüriyi derinden etkiledi.",
     "synonyms": [
       "retorik",
       "hitabet"
@@ -3549,8 +3507,6 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example length"
-    ]
+    "issues": []
   }
 ]
