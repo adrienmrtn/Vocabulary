@@ -1,0 +1,3702 @@
+[
+  {
+    "lemma": "derűs",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈdɛryːʃ",
+    "definition": "Vidám, nyugodt, felhőtlen kedvű vagy idejű",
+    "example": "Derűs mosollyal fogadta a vendégeket, mintha semmi gondja nem volna.",
+    "synonyms": [
+      "vidám",
+      "felhőtlen",
+      "napfényes"
+    ],
+    "origin": "A derű főnév -s képzős származéka; a derű a derül, derít igék tövéből a nyelvújítás korában elvont szó, a tő eredete ismeretlen.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.61,
+    "issues": []
+  },
+  {
+    "lemma": "szelíd",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈsɛliːd",
+    "definition": "Jámbor, nem vad, gyengéd természetű",
+    "example": "A szelíd öreg kutya hagyta, hogy a gyerekek a fülét húzogassák.",
+    "synonyms": [
+      "jámbor",
+      "kezes",
+      "békés"
+    ],
+    "origin": "Eredete ismeretlen; a régi nyelvben főként a megszelídített, emberhez szokott állatra mondták.",
+    "topics": [
+      "character",
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.71,
+    "issues": []
+  },
+  {
+    "lemma": "fürge",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈfyrɡɛ",
+    "definition": "Gyors és könnyed mozgású, eleven",
+    "example": "A fürge mókus egy pillanat alatt eltűnt a fa koronájában.",
+    "synonyms": [
+      "gyors",
+      "eleven",
+      "mozgékony"
+    ],
+    "origin": "Valószínűleg a régi fürög ’sürög, forog’ ige melléknévi igenévi származéka, amely a forog ige családjával függ össze.",
+    "topics": [
+      "nature",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.49,
+    "issues": []
+  },
+  {
+    "lemma": "büszke",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈbyskɛ",
+    "definition": "Saját értékének tudatában lévő, önérzetes",
+    "example": "Az apja büszke volt rá, amikor átvette a diplomáját.",
+    "synonyms": [
+      "önérzetes",
+      "rátarti",
+      "öntudatos"
+    ],
+    "origin": "Bizonytalan eredetű; egyes magyarázatok a bűz szóval hozzák kapcsolatba, de ez nem bizonyított.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.71,
+    "issues": []
+  },
+  {
+    "lemma": "komor",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈkomor",
+    "definition": "Sötét hangulatú, zárkózott, nem mosolygó",
+    "example": "Komor arccal hallgatta végig a híreket, és egy szót sem szólt.",
+    "synonyms": [
+      "sötét",
+      "mogorva",
+      "borús"
+    ],
+    "origin": "Eredete bizonytalan, talán szláv jövevényszó. Belőle alkották a nyelvújítók a komoly szót.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.68,
+    "issues": []
+  },
+  {
+    "lemma": "gyengéd",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈɟɛŋɡeːd",
+    "definition": "Szeretettel teli, finoman óvó",
+    "example": "Gyengéd mozdulattal igazította meg a kisfia takaróját.",
+    "synonyms": [
+      "szerető",
+      "finom",
+      "lágy"
+    ],
+    "origin": "A gyenge melléknévből -d képzővel alkotott, nyelvújítás kori szó.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.8,
+    "issues": []
+  },
+  {
+    "lemma": "hűvös",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈhyːvøʃ",
+    "definition": "Kissé hideg; tartózkodó, nem barátságos",
+    "example": "Hűvös szél fújt a folyó felől, ezért magunkra vettük a kabátot.",
+    "synonyms": [
+      "hideg",
+      "friss",
+      "tartózkodó"
+    ],
+    "origin": "A hűl, hűt igék hű- tövéből képzett szó; a tő ősi, finnugor kori örökség.",
+    "topics": [
+      "nature",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.16,
+    "issues": []
+  },
+  {
+    "lemma": "ravasz",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈrɒvɒs",
+    "definition": "Furfangos, célját cselekkel elérő",
+    "example": "A ravasz kereskedő mindig úgy alkudott, hogy végül ő járjon jól.",
+    "synonyms": [
+      "furfangos",
+      "agyafúrt",
+      "fortélyos"
+    ],
+    "origin": "Eredeti jelentése ’róka’ volt: ősi, finnugor kori tő származéka, amely a róka szóban is megvan.",
+    "topics": [
+      "character",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.79,
+    "issues": []
+  },
+  {
+    "lemma": "nyájas",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈɲaːjɒʃ",
+    "definition": "Barátságos, megnyerően kedves modorú",
+    "example": "A nyájas házigazda mindenkit név szerint üdvözölt az ajtóban.",
+    "synonyms": [
+      "barátságos",
+      "szívélyes",
+      "kedves"
+    ],
+    "origin": "A nyáj főnév -s képzős származéka; eredetileg azt jelentette: társaságban élő, társaságot kedvelő.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.01,
+    "issues": []
+  },
+  {
+    "lemma": "szerény",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈsɛreːɲ",
+    "definition": "Nem hivalkodó, igényeit és érdemeit visszafogó",
+    "example": "Szerény ember volt, a díjról még a barátainak sem beszélt.",
+    "synonyms": [
+      "igénytelen",
+      "visszafogott",
+      "alázatos"
+    ],
+    "origin": "A nyelvújítás korában alkották a szer ’rend, mód, mérték’ főnévből.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.14,
+    "issues": []
+  },
+  {
+    "lemma": "hiú",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈhiuː",
+    "definition": "Külsejével és sikereivel túlzottan törődő; hiábavaló",
+    "example": "A hiú színész minden kirakat üvegében megnézte magát.",
+    "synonyms": [
+      "önhitt",
+      "tetszelgő",
+      "hiábavaló"
+    ],
+    "origin": "A hiány, hiába szavakban is meglévő hi- ’üres’ tő származéka; eredeti jelentése ’üres, hiábavaló’.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.53,
+    "issues": []
+  },
+  {
+    "lemma": "merész",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈmɛreːs",
+    "definition": "Bátor, a kockázattól vissza nem riadó",
+    "example": "Merész tervvel állt elő, amelyben eleinte senki sem hitt.",
+    "synonyms": [
+      "bátor",
+      "vakmerő",
+      "kockázatos"
+    ],
+    "origin": "A mer ige -ész képzős származéka.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.09,
+    "issues": []
+  },
+  {
+    "lemma": "zord",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈzord",
+    "definition": "Rideg, kemény, barátságtalan",
+    "example": "A zord tél hetekre elvágta a falut a külvilágtól.",
+    "synonyms": [
+      "rideg",
+      "kemény",
+      "mostoha"
+    ],
+    "origin": "A nyelvújítás korában vonták el a zordon melléknévből, amelynek eredete bizonytalan.",
+    "topics": [
+      "nature",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.72,
+    "issues": []
+  },
+  {
+    "lemma": "kecses",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈkɛt͡ʃɛʃ",
+    "definition": "Könnyed és szép mozgású vagy formájú",
+    "example": "A kecses őz megállt a tisztás szélén, és ránk nézett.",
+    "synonyms": [
+      "könnyed",
+      "légies",
+      "bájos"
+    ],
+    "origin": "Valószínűleg a kecsegtet ige hangfestő eredetű tövével függ össze; a kecs főnevet a nyelvújítók vonták el belőle.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.28,
+    "issues": []
+  },
+  {
+    "lemma": "pompás",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈpompaːʃ",
+    "definition": "Fényűzően szép; nagyszerű, kitűnő",
+    "example": "A teraszról pompás kilátás nyílt az egész völgyre.",
+    "synonyms": [
+      "nagyszerű",
+      "fényes",
+      "remek"
+    ],
+    "origin": "A pompa főnév származéka, amely a latin pompa ’díszmenet’ szóból ered; ennek forrása a görög pompé ’ünnepi menet’.",
+    "topics": [
+      "society",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.02,
+    "issues": []
+  },
+  {
+    "lemma": "dús",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈduːʃ",
+    "definition": "Bőséges, gazdag, sűrűn növő",
+    "example": "A kertet dús lombú diófák árnyékolták egész nyáron.",
+    "synonyms": [
+      "gazdag",
+      "bőséges",
+      "buja"
+    ],
+    "origin": "Olasz eredetű: a velencei dose, doxe ’dózse’ szóból, amely a latin dux ’vezér’ folytatása; eredetileg gazdag főurat jelentett.",
+    "topics": [
+      "nature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.62,
+    "issues": []
+  },
+  {
+    "lemma": "halvány",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈhɒlvaːɲ",
+    "definition": "Sápadt, gyenge színű vagy fényű",
+    "example": "Halvány fény szűrődött be a függöny résein át.",
+    "synonyms": [
+      "sápadt",
+      "fakó",
+      "bágyadt"
+    ],
+    "origin": "A hal ’meghal’ ige származéka a régi halovány alakon át: eredetileg a halott színére utalt.",
+    "topics": [
+      "nature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.98,
+    "issues": []
+  },
+  {
+    "lemma": "ragyog",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈrɒɟoɡ",
+    "definition": "Erős, tiszta fénnyel fénylik; sugárzik",
+    "example": "A frissen esett hó ragyogott a reggeli napsütésben.",
+    "synonyms": [
+      "fénylik",
+      "tündököl",
+      "csillog"
+    ],
+    "origin": "Hangfestő eredetű tőből alakult -g gyakorító képzővel.",
+    "topics": [
+      "nature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.85,
+    "issues": []
+  },
+  {
+    "lemma": "suttog",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈʃutːoɡ",
+    "definition": "Nagyon halkan, hang nélkül beszél",
+    "example": "A gyerekek a takaró alatt suttogtak, hogy a szüleik meg ne hallják.",
+    "synonyms": [
+      "súg",
+      "susog",
+      "pusmog"
+    ],
+    "origin": "Hangutánzó eredetű szó, a halk beszéd neszét idézi.",
+    "topics": [
+      "society",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "töpreng",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈtøprɛŋɡ",
+    "definition": "Hosszan, gyötrődve gondolkodik valamin",
+    "example": "Egész éjjel azon töprengett, elfogadja-e az állást.",
+    "synonyms": [
+      "tűnődik",
+      "rágódik",
+      "gondolkodik"
+    ],
+    "origin": "Valószínűleg a töpörödik, töpped szavak hangfestő tövéből ered; régi jelentése ’összeaszik, sorvad’ volt.",
+    "topics": [
+      "emotions",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "mereng",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈmɛrɛŋɡ",
+    "definition": "Gondolataiba mélyedve, álmodozva néz maga elé",
+    "example": "Az ablaknál ült, és a régi nyarakon merengett.",
+    "synonyms": [
+      "ábrándozik",
+      "révedezik",
+      "álmodozik"
+    ],
+    "origin": "Valószínűleg a mered, merev szavak tövéből alakult -ng gyakorító képzővel, az egy pontra szegeződő tekintetre utalva.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "csodál",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈt͡ʃodaːl",
+    "definition": "Elismeréssel és ámulattal tekint valakire vagy valamire",
+    "example": "Mindig csodáltam a nagyanyám türelmét és nyugalmát.",
+    "synonyms": [
+      "bámul",
+      "tisztel",
+      "ámul"
+    ],
+    "origin": "A csoda főnév származéka, amely szláv jövevényszó (vö. ószláv čudo).",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "tűnődik",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈtyːnøːdik",
+    "definition": "Csendesen, elmélyülten gondolkodik",
+    "example": "Sokáig tűnődött a levél fölött, mielőtt válaszolt volna.",
+    "synonyms": [
+      "töpreng",
+      "elmélkedik",
+      "mereng"
+    ],
+    "origin": "A tűnik ige családjába tartozó képzett szó; a tő eredete bizonytalan.",
+    "topics": [
+      "emotions",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "bolyong",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈbojoŋɡ",
+    "definition": "Cél nélkül, tévelyegve jár ide-oda",
+    "example": "Órákig bolyongtunk az óváros szűk utcáin.",
+    "synonyms": [
+      "kóborol",
+      "barangol",
+      "tévelyeg"
+    ],
+    "origin": "A régi bolyog ige változata; ugyanebből a hangfestő tőből való a bolygó is.",
+    "topics": [
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "sóhajt",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈʃoːhɒjt",
+    "definition": "Mély lélegzetet vesz és hallhatóan kifújja",
+    "example": "Nagyot sóhajtott, amikor végre letette a nehéz bőröndöt.",
+    "synonyms": [
+      "fohászkodik",
+      "liheg",
+      "nyög"
+    ],
+    "origin": "Hangutánzó eredetű ige; a sóhaj főnevet a nyelvújítás korában vonták el belőle.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.04,
+    "issues": []
+  },
+  {
+    "lemma": "báj",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈbaːj",
+    "definition": "Megnyerő, kedves szépség, vonzó kellem",
+    "example": "A kisváros régi házainak különös báj kölcsönöz hangulatot.",
+    "synonyms": [
+      "kellem",
+      "vonzerő",
+      "kedvesség"
+    ],
+    "origin": "Ótörök jövevényszó; eredeti jelentése ’kötés, megkötő varázslat’ volt, ezt őrzi a bűbáj összetétel.",
+    "topics": [
+      "character",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.08,
+    "issues": []
+  },
+  {
+    "lemma": "alkony",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈɒlkoɲ",
+    "definition": "A naplemente utáni félhomály ideje",
+    "example": "Az alkony lassan ereszkedett le a tóra, a víz bíborszínűre váltott.",
+    "synonyms": [
+      "szürkület",
+      "esthajnal",
+      "naplemente"
+    ],
+    "origin": "A nyelvújítás korában vonták el az alkonyodik igéből, amelynek előtagja az al ’alsó’, utótagja a konyul ’lehajlik’ ige rokona.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.26,
+    "issues": []
+  },
+  {
+    "lemma": "pirkadat",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈpirkɒdɒt",
+    "definition": "A hajnal első világossága",
+    "example": "Pirkadatkor indultak útnak, hogy délre felérjenek a csúcsra.",
+    "synonyms": [
+      "hajnal",
+      "virradat"
+    ],
+    "origin": "A pirkad ige származéka; töve a piros, pirul szavakban is élő hangfestő pir-.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ábránd",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈaːbraːnd",
+    "definition": "Valóságtól elszakadó, vágyakból szőtt elképzelés",
+    "example": "Gyerekkori ábrándja volt, hogy egyszer körbehajózza a Földet.",
+    "synonyms": [
+      "álom",
+      "vágykép",
+      "illúzió"
+    ],
+    "origin": "Nyelvújítás kori szó: az ábrándozik igéből vonták el, amely az ábra, ábrázat családjába tartozik.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "gyönyör",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈɟøɲør",
+    "definition": "Nagy, mély élvezet és öröm",
+    "example": "A zene tiszta gyönyör volt mindenkinek, aki a teremben ült.",
+    "synonyms": [
+      "élvezet",
+      "öröm",
+      "kéj"
+    ],
+    "origin": "A nyelvújítás korában vonták el a gyönyörű, gyönyörködik szavakból; a tő eredete ismeretlen.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.48,
+    "issues": []
+  },
+  {
+    "lemma": "becsület",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈbɛt͡ʃylɛt",
+    "definition": "Erkölcsi tisztesség és a belőle fakadó jó hírnév",
+    "example": "A becsület nála többet ért minden pénznél és rangnál.",
+    "synonyms": [
+      "tisztesség",
+      "jóhír",
+      "feddhetetlenség"
+    ],
+    "origin": "A becsül ige származéka; a becs ’érték’ alapszót többen Bécs város nevével, a bécsi pénzzel hozzák kapcsolatba, de ez nem biztos.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.57,
+    "issues": []
+  },
+  {
+    "lemma": "türelem",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈtyrɛlɛm",
+    "definition": "Nyugodt kitartás a várakozásban és a nehézségekben",
+    "example": "A kertészkedéshez mindenekelőtt türelem kell, a növény nem siet.",
+    "synonyms": [
+      "béketűrés",
+      "kitartás",
+      "nyugalom"
+    ],
+    "origin": "A tűr ige származéka; -elem képzős alakja a nyelvújítás korában keletkezett.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.71,
+    "issues": []
+  },
+  {
+    "lemma": "szeszély",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈsɛseːj",
+    "definition": "Hirtelen támadt, indokolatlan ötlet vagy kívánság",
+    "example": "Az időjárás szeszélye miatt kétszer is el kellett halasztani a kirándulást.",
+    "synonyms": [
+      "hóbort",
+      "rigolya",
+      "önkény"
+    ],
+    "origin": "A nyelvújítás korában alkották a régi szesz ’ötlet, ürügy’ szóból -ély képzővel.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "varázs",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈvɒraːʒ",
+    "definition": "Titokzatos, ellenállhatatlan vonzóerő",
+    "example": "A karácsonyi vásár varázsa minden évben odacsalja a családot.",
+    "synonyms": [
+      "bűvölet",
+      "igézet",
+      "báj"
+    ],
+    "origin": "A nyelvújítás korában vonták el a varázsol, varázsló szavakból, amelyek szláv eredetűek.",
+    "topics": [
+      "literature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.41,
+    "issues": []
+  },
+  {
+    "lemma": "fuvallat",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈfuvɒlːɒt",
+    "definition": "Gyenge, rövid ideig tartó szél",
+    "example": "Egy hűs fuvallat végre megmozdította a fülledt levegőt.",
+    "synonyms": [
+      "szellő",
+      "légáram"
+    ],
+    "origin": "A fúj ige régi fú tövéből képzett fuvall ige származéka; a tő ősi hangutánzó szó.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "illat",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈilːɒt",
+    "definition": "Kellemes, az orrnak jóleső szag",
+    "example": "A frissen sült kenyér illata betöltötte az egész lépcsőházat.",
+    "synonyms": [
+      "szag",
+      "aroma",
+      "zamat"
+    ],
+    "origin": "Az illan, illó szavakban is meglévő ill- tő származéka: az, ami a levegőben elszáll.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.96,
+    "issues": []
+  },
+  {
+    "lemma": "honvágy",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈhonvaːɟ",
+    "definition": "Fájó vágyakozás az otthon vagy a szülőföld után",
+    "example": "Külföldön töltött első telén erős honvágy gyötörte.",
+    "synonyms": [
+      "hazavágyás",
+      "nosztalgia"
+    ],
+    "origin": "Nyelvújítás kori összetétel a hon és a vágy szavakból, a német Heimweh mintájára.",
+    "topics": [
+      "emotions",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "jellem",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈjɛlːɛm",
+    "definition": "Az ember állandó erkölcsi és lelki tulajdonságainak összessége",
+    "example": "A nehéz helyzetek mutatják meg igazán, milyen valakinek a jelleme.",
+    "synonyms": [
+      "egyéniség",
+      "természet",
+      "karakter"
+    ],
+    "origin": "A nyelvújítás korában alkották a jel főnévből a görög eredetű karakter magyarítására.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.53,
+    "issues": []
+  },
+  {
+    "lemma": "erény",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈɛreːɲ",
+    "definition": "Erkölcsileg értékes tulajdonság",
+    "example": "A pontosság olyan erény, amelyet a főnöke nagyra tartott.",
+    "synonyms": [
+      "érdem",
+      "jóság",
+      "kiválóság"
+    ],
+    "origin": "A nyelvújítás korában alkották az erő tövéből, a latin virtus mintájára.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.57,
+    "issues": []
+  },
+  {
+    "lemma": "bölcs",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈbølt͡ʃ",
+    "definition": "Nagy tudású, érett ítélőképességű",
+    "example": "A bölcs tanár tudta, mikor kell hallgatnia és mikor kérdeznie.",
+    "synonyms": [
+      "okos",
+      "belátó",
+      "megfontolt"
+    ],
+    "origin": "Ótörök jövevényszó; forrásának jelentése ’varázsló, igéző’ lehetett.",
+    "topics": [
+      "character",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.22,
+    "issues": []
+  },
+  {
+    "lemma": "nemes",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈnɛmɛʃ",
+    "definition": "Emelkedett lelkületű, önzetlen; előkelő származású",
+    "example": "Nemes gesztus volt tőle, hogy átengedte a helyét az idős hölgynek.",
+    "synonyms": [
+      "nagylelkű",
+      "előkelő",
+      "önzetlen"
+    ],
+    "origin": "A nem ’nemzetség’ főnév -s képzős származéka: eredetileg a jó nemzetségből valót jelentette.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.54,
+    "issues": []
+  },
+  {
+    "lemma": "tétova",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈteːtovɒ",
+    "definition": "Bizonytalan, habozó, határozatlan",
+    "example": "Tétova léptekkel közeledett az ajtóhoz, aztán mégis visszafordult.",
+    "synonyms": [
+      "habozó",
+      "bizonytalan",
+      "határozatlan"
+    ],
+    "origin": "A régi té-tova ’ide-oda’ határozószóból vált melléknévvé; utótagja a tova ’el, messze’.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "hanyag",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈhɒɲɒɡ",
+    "definition": "Gondatlan, a kötelességét felületesen végző",
+    "example": "A hanyag javítás miatt a tető az első esőnél újra beázott.",
+    "synonyms": [
+      "gondatlan",
+      "felületes",
+      "rendetlen"
+    ],
+    "origin": "Valószínűleg nyelvújítás kori alkotás a hanyatt, hanyatlik szavak tövéből.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.24,
+    "issues": []
+  },
+  {
+    "lemma": "kopár",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈkopaːr",
+    "definition": "Növényzet nélküli, sivár",
+    "example": "A kopár domboldalon csak néhány tüskés bokor kapaszkodott meg.",
+    "synonyms": [
+      "sivár",
+      "terméketlen",
+      "csupasz"
+    ],
+    "origin": "A kopik, kopasz szavak tövével függ össze, -ár képzős származék.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.41,
+    "issues": []
+  },
+  {
+    "lemma": "viszály",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈvisaːj",
+    "definition": "Tartós ellenségeskedés, civakodás",
+    "example": "Az örökség körüli viszály évekre megosztotta a családot.",
+    "synonyms": [
+      "ellentét",
+      "civódás",
+      "egyenetlenség"
+    ],
+    "origin": "A nyelvújítás korában alkották a vissza, viszont szavakban élő visz- tőből.",
+    "topics": [
+      "society",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.35,
+    "issues": []
+  },
+  {
+    "lemma": "leleményes",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈlɛlɛmeːɲɛʃ",
+    "definition": "Ötletes, a nehézségekből ügyesen kiutat találó",
+    "example": "A leleményes szerelő egy darab dróttal megjavította a motort.",
+    "synonyms": [
+      "találékony",
+      "ötletes",
+      "ügyes"
+    ],
+    "origin": "A lel ’talál’ ige lelemény származékából képzett melléknév.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.2,
+    "issues": []
+  },
+  {
+    "lemma": "liget",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈliɡɛt",
+    "definition": "Kisebb, ritkás erdő vagy fás park",
+    "example": "Vasárnaponként a város szélén álló ligetben sétáltak.",
+    "synonyms": [
+      "park",
+      "berek",
+      "erdőcske"
+    ],
+    "origin": "Valószínűleg a lyuk régi lik alakjának származéka: eredetileg hézagos, ritkás erdőt jelentett.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.93,
+    "issues": []
+  },
+  {
+    "lemma": "csitít",
+    "level": 1,
+    "part_of_speech": "ige",
+    "ipa": "ˈt͡ʃitiːt",
+    "definition": "Halk szóval csendre, nyugalomra int",
+    "example": "Az anya ringatva csitította a síró csecsemőt.",
+    "synonyms": [
+      "csendesít",
+      "nyugtat",
+      "csillapít"
+    ],
+    "origin": "A csitt hangutánzó indulatszóból képzett ige.",
+    "topics": [
+      "emotions",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "vigasz",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈviɡɒs",
+    "definition": "A bánatot enyhítő szó, tett vagy körülmény",
+    "example": "Némi vigasz volt számára, hogy a barátai mellette maradtak.",
+    "synonyms": [
+      "enyhülés",
+      "megnyugvás",
+      "balzsam"
+    ],
+    "origin": "A nyelvújítás korában vonták el a vigasztal igéből, amely a víg melléknév családjába tartozik.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.09,
+    "issues": []
+  },
+  {
+    "lemma": "rideg",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈridɛɡ",
+    "definition": "Érzelmileg hideg, barátságtalan",
+    "example": "A rideg hivatali folyosón senki sem köszönt vissza.",
+    "synonyms": [
+      "hideg",
+      "barátságtalan",
+      "kimért"
+    ],
+    "origin": "Eredete ismeretlen; régi jelentése ’magányos, szabadban tartott’ volt, ebből fejlődött a ’barátságtalan’ értelem.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.73,
+    "issues": []
+  },
+  {
+    "lemma": "éber",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈeːbɛr",
+    "definition": "Ébren lévő, figyelmes, mindent észrevevő",
+    "example": "Az éber portásnak rögtön feltűnt az idegen autó.",
+    "synonyms": [
+      "figyelmes",
+      "óvatos",
+      "virrasztó"
+    ],
+    "origin": "A nyelvújítás korában vonták el az ébred, ébren szavak tövéből.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.69,
+    "issues": []
+  },
+  {
+    "lemma": "tündér",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈtyndeːr",
+    "definition": "Csodás erejű, szép mesebeli nőalak",
+    "example": "A mesében a jó tündér három kívánságot teljesített.",
+    "synonyms": [
+      "nimfa",
+      "szilfid"
+    ],
+    "origin": "A tűnik ige régi tündik változatának származéka: eredetileg eltűnni, alakot váltani tudó lényt jelentett.",
+    "topics": [
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.9,
+    "issues": []
+  },
+  {
+    "lemma": "ünnepélyes",
+    "level": 1,
+    "part_of_speech": "mn",
+    "ipa": "ˈynːɛpeːjɛʃ",
+    "definition": "Emelkedett hangulatú, méltóságteljes",
+    "example": "Ünnepélyes csendben vonultak be a diákok az évnyitóra.",
+    "synonyms": [
+      "emelkedett",
+      "méltóságteljes",
+      "díszes"
+    ],
+    "origin": "Az ünnep főnév származéka, amely a régi id ’szent’ és a nap szó összetétele: ’szent nap’.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.97,
+    "issues": []
+  },
+  {
+    "lemma": "hajlék",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈhɒjleːk",
+    "definition": "Lakóhely, otthont adó fedél",
+    "example": "A vándorok éjszakára egy pásztorkunyhóban találtak hajlékot.",
+    "synonyms": [
+      "otthon",
+      "fedél",
+      "lak"
+    ],
+    "origin": "A hajlik, hajol ige -ék képzős származéka; eredetileg hajlított ágakból készült fedelet jelenthetett.",
+    "topics": [
+      "society",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "rejtély",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈrɛjteːj",
+    "definition": "Titokzatos, megfejtésre váró dolog",
+    "example": "Máig rejtély, hogyan tűnt el a festmény a lezárt teremből.",
+    "synonyms": [
+      "titok",
+      "talány",
+      "misztérium"
+    ],
+    "origin": "A nyelvújítás korában alkották a rejt igéből -ély képzővel.",
+    "topics": [
+      "literature",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.07,
+    "issues": []
+  },
+  {
+    "lemma": "vándor",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈvaːndor",
+    "definition": "Helyről helyre járó, úton lévő ember",
+    "example": "A fáradt vándor megpihent a kút mellett, mielőtt továbbindult.",
+    "synonyms": [
+      "utazó",
+      "zarándok",
+      "utas"
+    ],
+    "origin": "A német wandern igéből átvett vándorol alapján keletkezett.",
+    "topics": [
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.88,
+    "issues": []
+  },
+  {
+    "lemma": "kaland",
+    "level": 1,
+    "part_of_speech": "fn",
+    "ipa": "ˈkɒlɒnd",
+    "definition": "Váratlan, izgalmas, gyakran kockázatos esemény",
+    "example": "Az éjszakai átkelés a hágón igazi kaland volt.",
+    "synonyms": [
+      "élmény",
+      "vállalkozás",
+      "kockázat"
+    ],
+    "origin": "A latin calendae ’a hónap első napja’ szóból ered: régen az ekkor összegyűlő társulatot jelentette, mai értelme a kalandozik ige hatására alakult ki.",
+    "topics": [
+      "travel",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 4.23,
+    "issues": []
+  },
+  {
+    "lemma": "mulandó",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈmulɒndoː",
+    "definition": "Rövid életű, hamar véget érő",
+    "example": "A nyár mulandó szépsége minden ősszel újra elszomorította.",
+    "synonyms": [
+      "múlékony",
+      "tünékeny",
+      "ideiglenes"
+    ],
+    "origin": "A múlik ige -andó képzős melléknévi igeneve; az ige ősi, finnugor kori örökség.",
+    "topics": [
+      "literature",
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "sóvárog",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈʃoːvaːroɡ",
+    "definition": "Erősen, szinte fájdalmasan vágyik valamire",
+    "example": "A hosszú tél végén mindenki napfény után sóvárog.",
+    "synonyms": [
+      "vágyódik",
+      "áhítozik",
+      "epekedik"
+    ],
+    "origin": "A sóvár melléknév származéka, amelynek eredete bizonytalan; talán a sovány szóval függ össze.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "áhítat",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈaːhiːtɒt",
+    "definition": "Mély, tiszteletteljes, odaadó elmélyülés",
+    "example": "A közönség néma áhítattal hallgatta az orgona utolsó hangjait.",
+    "synonyms": [
+      "elmélyülés",
+      "odaadás",
+      "ihletettség"
+    ],
+    "origin": "Az áhít ige származéka, amely valószínűleg az áh indulatszóból alakult.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "borong",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈboroŋɡ",
+    "definition": "Szomorkás hangulatban tűnődik; felhősödik",
+    "example": "Naphosszat a múlton borongott, és senkivel sem akart találkozni.",
+    "synonyms": [
+      "búsul",
+      "szomorkodik",
+      "mereng"
+    ],
+    "origin": "A borul, borít igék tövéből alakult; a ború főnév is ebbe a családba tartozik.",
+    "topics": [
+      "emotions",
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "esdekel",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈɛʒdɛkɛl",
+    "definition": "Alázatosan, könyörögve kér",
+    "example": "A fogoly kegyelemért esdekelt a bíróság előtt.",
+    "synonyms": [
+      "könyörög",
+      "rimánkodik",
+      "esedezik"
+    ],
+    "origin": "Valószínűleg az esedezik, eskü szavakban is élő régi es- tő származéka.",
+    "topics": [
+      "persuasion",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "hivalkodik",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈhivɒlkodik",
+    "definition": "Feltűnően mutogatja, amije van, kérkedik",
+    "example": "Soha nem hivalkodott a vagyonával, egyszerű kabátban járt.",
+    "synonyms": [
+      "kérkedik",
+      "dicsekszik",
+      "páváskodik"
+    ],
+    "origin": "A hiú szóval azonos hi- ’üres’ tő származéka: eredetileg hiábavalósággal foglalkozást jelentett.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "csügged",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈt͡ʃyɡːɛd",
+    "definition": "Elveszti a kedvét és a reményét",
+    "example": "Ne csüggedj az első kudarc után, a második kísérlet sikerülhet.",
+    "synonyms": [
+      "lankad",
+      "elkedvetlenedik",
+      "kétségbeesik"
+    ],
+    "origin": "A csügg ’lóg, csüng’ ige származéka: a lelógó fej képéből lett a reményvesztés kifejezése.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "délceg",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈdeːlt͡sɛɡ",
+    "definition": "Szép szál, egyenes tartású, daliás",
+    "example": "A délceg huszártiszt után minden lány megfordult a korzón.",
+    "synonyms": [
+      "daliás",
+      "sudár",
+      "nyalka"
+    ],
+    "origin": "Eredete ismeretlen; régen a szilaj, betöretlen lóra mondták.",
+    "topics": [
+      "character",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "álnok",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈaːlnok",
+    "definition": "Alattomosan hamis, színlelve ártó",
+    "example": "Álnok mosollyal gratulált, miközben már a bukásán dolgozott.",
+    "synonyms": [
+      "alattomos",
+      "hamis",
+      "kétszínű"
+    ],
+    "origin": "Az ál ’hamis’ szó -nok képzős származéka; az ál ótörök jövevényszó.",
+    "topics": [
+      "character",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "fennkölt",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈfɛŋkølt",
+    "definition": "Emelkedett, magasztos szellemű vagy hangú",
+    "example": "A szónok fennkölt szavai után hosszú csend ült a teremre.",
+    "synonyms": [
+      "emelkedett",
+      "magasztos",
+      "nemes"
+    ],
+    "origin": "Nyelvújítás kori összetétel a fenn határozószóból és a kel ige műveltető költ alakjából, a német erhaben megfelelőjeként.",
+    "topics": [
+      "literature",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kaján",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈkɒjaːn",
+    "definition": "Más baján rosszindulatúan örvendező",
+    "example": "Kaján vigyorral nézte, ahogy a vetélytársa elcsúszik a jégen.",
+    "synonyms": [
+      "kárörvendő",
+      "rosszmájú",
+      "gúnyos"
+    ],
+    "origin": "A bibliai Káin nevéből vált köznévvé; a régi nyelvben a név Kaján alakban is élt.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.04,
+    "issues": []
+  },
+  {
+    "lemma": "léha",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈleːhɒ",
+    "definition": "Könnyelmű, komolytalan, a munkát kerülő",
+    "example": "Léha életet élt, amíg el nem fogyott az apai örökség.",
+    "synonyms": [
+      "könnyelmű",
+      "felületes",
+      "komolytalan"
+    ],
+    "origin": "Eredete ismeretlen; eredetileg az üres, magtalan gabonaszemet, a pelyvát jelentette.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ódon",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈoːdon",
+    "definition": "Nagyon régi, a múlt hangulatát őrző",
+    "example": "Az ódon kastély termeiben még az eredeti bútorok állnak.",
+    "synonyms": [
+      "régi",
+      "ősrégi",
+      "patinás"
+    ],
+    "origin": "A nyelvújítás korában alkották az ó ’régi’ melléknévből, az újdon mintájára.",
+    "topics": [
+      "literature",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ármány",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈaːrmaːɲ",
+    "definition": "Alattomos, mások ellen szőtt cselszövés",
+    "example": "Az udvari ármány végül a hű tanácsost is száműzetésbe kergette.",
+    "synonyms": [
+      "cselszövés",
+      "fondorlat",
+      "intrika"
+    ],
+    "origin": "Ahrimánnak, a perzsa hitvilág gonosz szellemének nevéből lett köznév a 18. században.",
+    "topics": [
+      "society",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "balsors",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈbɒlʃorʃ",
+    "definition": "Tartós szerencsétlenség, kedvezőtlen végzet",
+    "example": "A balsors éveken át üldözte a családot, mégsem adták fel.",
+    "synonyms": [
+      "balszerencse",
+      "végzet",
+      "csapás"
+    ],
+    "origin": "Összetétel a bal ’rossz, kedvezőtlen’ és a latin eredetű sors szavakból.",
+    "topics": [
+      "literature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "dac",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈdɒt͡s",
+    "definition": "Makacs, sértett szembeszegülés",
+    "example": "Puszta dacból nem ült le a többiekkel vacsorázni.",
+    "synonyms": [
+      "makacsság",
+      "ellenszegülés",
+      "konokság"
+    ],
+    "origin": "Német jövevényszó, a Trotz ’ellenszegülés’ megfelelője.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.63,
+    "issues": []
+  },
+  {
+    "lemma": "enyészet",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈɛɲeːsɛt",
+    "definition": "Lassú pusztulás, megsemmisülés",
+    "example": "A gazdátlan kúria az évek alatt az enyészeté lett.",
+    "synonyms": [
+      "pusztulás",
+      "romlás",
+      "elmúlás"
+    ],
+    "origin": "Az enyészik ige származéka; az ige eredetileg ’elrejtőzik, eltűnik’ jelentésű volt, töve ismeretlen eredetű.",
+    "topics": [
+      "literature",
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "fohász",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈfohaːs",
+    "definition": "Rövid, bensőséges ima vagy sóhaj",
+    "example": "Néma fohászt mondott, mielőtt belépett a vizsgaterembe.",
+    "synonyms": [
+      "ima",
+      "könyörgés",
+      "sóhaj"
+    ],
+    "origin": "A nyelvújítás korában vonták el a fohászkodik igéből, amely hangutánzó eredetű, és eredetileg sóhajtozást jelentett.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kegyelet",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈkɛɟɛlɛt",
+    "definition": "Tiszteletteljes megemlékezés a halottakról és a múltról",
+    "example": "A város kegyelettel őrzi a háborúban elesettek emlékét.",
+    "synonyms": [
+      "tisztelet",
+      "megemlékezés",
+      "hódolat"
+    ],
+    "origin": "A nyelvújítás korában alkották a kegyes, kegyelem szavak tövéből, a latin pietas megfelelőjeként.",
+    "topics": [
+      "society",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "mámor",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈmaːmor",
+    "definition": "Részegítő, önfeledt boldogság vagy bódulat",
+    "example": "A győzelem mámora hajnalig az utcán tartotta a szurkolókat.",
+    "synonyms": [
+      "bódulat",
+      "elragadtatás",
+      "részegség"
+    ],
+    "origin": "Eredete tisztázatlan.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.15,
+    "issues": []
+  },
+  {
+    "lemma": "révület",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈreːvylɛt",
+    "definition": "Önkívületi, a külvilágot kizáró lelkiállapot",
+    "example": "A zongorista szinte révületben játszotta végig a szonátát.",
+    "synonyms": [
+      "önkívület",
+      "transz",
+      "elragadtatás"
+    ],
+    "origin": "A révül ige származéka; töve valószínűleg ősi szó, amely a sámán önkívületére utalt, és a rejtezik rokona.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "végzet",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈveːɡzɛt",
+    "definition": "Elkerülhetetlen, előre elrendelt sors",
+    "example": "A hős hiába menekült, a végzet utolérte.",
+    "synonyms": [
+      "sors",
+      "fátum",
+      "rendeltetés"
+    ],
+    "origin": "A végez ige -et képzős származéka: eredetileg azt jelentette, amit valaki felől elvégeztek, elrendeltek.",
+    "topics": [
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.79,
+    "issues": []
+  },
+  {
+    "lemma": "zsarnok",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈʒɒrnok",
+    "definition": "Önkényesen, kíméletlenül uralkodó személy",
+    "example": "A zsarnok bukása után az emberek táncoltak az utcákon.",
+    "synonyms": [
+      "kényúr",
+      "elnyomó",
+      "diktátor"
+    ],
+    "origin": "A nyelvújítás korában alkották a zsarol ige tövéből -nok képzővel.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.38,
+    "issues": []
+  },
+  {
+    "lemma": "dőre",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈdøːrɛ",
+    "definition": "Oktalan, ostoba, értelmetlen",
+    "example": "Dőre dolog volna most feladni, amikor már majdnem célba értünk.",
+    "synonyms": [
+      "oktalan",
+      "balga",
+      "esztelen"
+    ],
+    "origin": "Valószínűleg német jövevényszó, a középfelnémet tōre ’bolond’ átvétele.",
+    "topics": [
+      "character",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "epekedik",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈɛpɛkɛdik",
+    "definition": "Reménytelen vágytól gyötrődik, sóvárog",
+    "example": "A költő évekig epekedett a szomszéd földbirtokos lánya után.",
+    "synonyms": [
+      "sóvárog",
+      "vágyódik",
+      "eped"
+    ],
+    "origin": "Az epe főnévből képzett eped ige származéka: a régi felfogás szerint a bánat az epét emészti.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "szende",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈsɛndɛ",
+    "definition": "Ártatlan, csendes, szelíd bájú",
+    "example": "A szende lány lesütött tekintettel hallgatta a dicséretet.",
+    "synonyms": [
+      "ártatlan",
+      "szelíd",
+      "jámbor"
+    ],
+    "origin": "A nyelvújítás korában vonták el a szendereg igéből.",
+    "topics": [
+      "character",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.02,
+    "issues": []
+  },
+  {
+    "lemma": "szemérmes",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈsɛmeːrmɛʃ",
+    "definition": "Szégyenlős, a testiségben tartózkodó",
+    "example": "Szemérmes fiú volt, a strandon is pólóban üldögélt.",
+    "synonyms": [
+      "szégyenlős",
+      "tartózkodó",
+      "pironkodó"
+    ],
+    "origin": "A szemérem főnév származéka, amely valószínűleg a szem szóra megy vissza: a lesütött szem a szégyenkezés jele.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "bú",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈbuː",
+    "definition": "Mély, csendes szomorúság",
+    "example": "Az öreg halász bú nélkül gondolt vissza a fiatalságára.",
+    "synonyms": [
+      "bánat",
+      "szomorúság",
+      "keserűség"
+    ],
+    "origin": "Valószínűleg ótörök jövevényszó.",
+    "topics": [
+      "emotions",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kétely",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈkeːtɛj",
+    "definition": "Bizonytalanság valaminek az igaz voltában",
+    "example": "Az első eredmények után sem oszlott el benne minden kétely.",
+    "synonyms": [
+      "kétség",
+      "bizonytalanság",
+      "gyanú"
+    ],
+    "origin": "A nyelvújítás korában alkották a két számnévből -ely képzővel; a kétség szó is ugyanerre a szemléletre épül.",
+    "topics": [
+      "debate",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.17,
+    "issues": []
+  },
+  {
+    "lemma": "délibáb",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈdeːlibaːb",
+    "definition": "Forró síkságon megjelenő csalóka légköri tükörkép; hiú ábránd",
+    "example": "A pusztán a délibáb tavat rajzolt a távoli gémeskút mögé.",
+    "synonyms": [
+      "káprázat",
+      "tükörkép",
+      "ábránd"
+    ],
+    "origin": "Összetétel a dél és a báb ’bábu, alak’ szavakból: a déli hőségben megjelenő képre utal.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.09,
+    "issues": []
+  },
+  {
+    "lemma": "kietlen",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈkiɛtlɛn",
+    "definition": "Lakatlan, sivár, vigasztalan",
+    "example": "A kietlen fennsíkon órákig nem találkoztunk egyetlen emberrel sem.",
+    "synonyms": [
+      "sivár",
+      "puszta",
+      "elhagyatott"
+    ],
+    "origin": "Valószínűleg a kéj szó régi ’kedv, tetszés’ jelentésű alakjának fosztóképzős származéka: ’örömtelen’.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.19,
+    "issues": []
+  },
+  {
+    "lemma": "jámbor",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈjaːmbor",
+    "definition": "Szelíd, jóindulatú, istenfélő",
+    "example": "A jámbor sekrestyés mindenkinek megbocsátott, aki megbántotta.",
+    "synonyms": [
+      "szelíd",
+      "istenfélő",
+      "jóságos"
+    ],
+    "origin": "A jó és az ember szavak összetételéből forrt egybe: jó ember.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.54,
+    "issues": []
+  },
+  {
+    "lemma": "fukar",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈfukɒr",
+    "definition": "Zsugori, a pénzét betegesen féltő",
+    "example": "A fukar nagybácsi télen sem fűtött be a szobájába.",
+    "synonyms": [
+      "zsugori",
+      "fösvény",
+      "garasos"
+    ],
+    "origin": "A dúsgazdag augsburgi Fugger bankárcsalád nevéből lett köznév, előbb ’uzsorás’ jelentésben.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "verőfény",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈvɛrøːfeːɲ",
+    "definition": "Ragyogó, erős napsütés",
+    "example": "Verőfényben úszott a tengerpart, amikor megérkeztünk.",
+    "synonyms": [
+      "napsütés",
+      "napfény",
+      "ragyogás"
+    ],
+    "origin": "Összetétel: előtagja a ver ige igeneve abban az értelemben, ahogyan a nap ver, azaz erősen tűz.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "förgeteg",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈførɡɛtɛɡ",
+    "definition": "Heves széllel járó vihar",
+    "example": "A förgeteg percek alatt letépte a sátrakat a hegyoldalon.",
+    "synonyms": [
+      "vihar",
+      "zivatar",
+      "szélvész"
+    ],
+    "origin": "A forog ige magas hangrendű tőváltozatából képzett szó, a forgatag párja.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "káprázat",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈkaːpraːzɒt",
+    "definition": "Érzékcsalódás; vakítóan ragyogó látvány",
+    "example": "A tűzijáték fényeinek káprázata betöltötte az égboltot.",
+    "synonyms": [
+      "érzékcsalódás",
+      "látomás",
+      "délibáb"
+    ],
+    "origin": "A káprázik ige származéka, amely hangfestő eredetű.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "lidérc",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈlideːrt͡s",
+    "definition": "A néphitben gonosz, kísértő szellem; nyomasztó rémkép",
+    "example": "A háború emléke lidércként nehezedett az álmaira.",
+    "synonyms": [
+      "kísértet",
+      "rém",
+      "manó"
+    ],
+    "origin": "Eredete ismeretlen; a néphit lángcsóvaként repülő, embert megnyomó lényét jelölte.",
+    "topics": [
+      "literature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.3,
+    "issues": []
+  },
+  {
+    "lemma": "kacér",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈkɒt͡seːr",
+    "definition": "Tetszeni vágyó, hódításra játszó",
+    "example": "Kacér pillantást vetett a pincérre, aztán elnevette magát.",
+    "synonyms": [
+      "kihívó",
+      "csábos",
+      "tetszelgő"
+    ],
+    "origin": "Német jövevényszó: a Ketzer ’eretnek’ átvétele, amely előbb ’feslett’, majd ’tetszeni vágyó’ jelentést kapott.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "csalárd",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈt͡ʃɒlaːrd",
+    "definition": "Hamis, megtévesztésre törekvő, megbízhatatlan",
+    "example": "Csalárd ígéretekkel vette rá az időseket a szerződés aláírására.",
+    "synonyms": [
+      "hamis",
+      "álnok",
+      "tisztességtelen"
+    ],
+    "origin": "A csal ige -árd képzős származéka.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "különc",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈkylønt͡s",
+    "definition": "Furcsa szokású, a megszokottól elütő viselkedésű ember",
+    "example": "A falu különce télen-nyáron mezítláb járt, és verseket szavalt.",
+    "synonyms": [
+      "csodabogár",
+      "bogaras",
+      "egyéniség"
+    ],
+    "origin": "A nyelvújítás korában alkották a külön szóból -c képzővel.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.5,
+    "issues": []
+  },
+  {
+    "lemma": "csökönyös",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈt͡ʃøkøɲøʃ",
+    "definition": "Makacsul ellenálló, hajthatatlan",
+    "example": "A csökönyös öszvér nem volt hajlandó átmenni a hídon.",
+    "synonyms": [
+      "makacs",
+      "konok",
+      "önfejű"
+    ],
+    "origin": "A régi csökik ’megakad, visszamarad’ ige származéka; ebből való a csökken is.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "magasztos",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈmɒɡɒstoʃ",
+    "definition": "Emelkedett, tiszteletet ébresztő",
+    "example": "Magasztos cél vezette, amikor a kórházat megalapította.",
+    "synonyms": [
+      "fenséges",
+      "emelkedett",
+      "fennkölt"
+    ],
+    "origin": "A nyelvújítás korában alkották a magasztal ige tövéből, amely a magas melléknév származéka.",
+    "topics": [
+      "literature",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.19,
+    "issues": []
+  },
+  {
+    "lemma": "balga",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈbɒlɡɒ",
+    "definition": "Együgyű, oktalan, naiv",
+    "example": "Balga módon elhitte, hogy a kölcsönt egy héten belül visszakapja.",
+    "synonyms": [
+      "oktalan",
+      "dőre",
+      "együgyű"
+    ],
+    "origin": "Valószínűleg a bal ’rossz, ferde’ szó származéka; régebbi alakja balgatag.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "esendő",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈɛʃɛndøː",
+    "definition": "Hibára, bűnre hajlamos; gyarló",
+    "example": "Mindannyian esendő emberek vagyunk, senki sem tévedhetetlen.",
+    "synonyms": [
+      "gyarló",
+      "gyenge",
+      "tökéletlen"
+    ],
+    "origin": "Az esik ige -endő képzős melléknévi igeneve: aki könnyen elesik, azaz bűnbe esik.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "dereng",
+    "level": 2,
+    "part_of_speech": "ige",
+    "ipa": "ˈdɛrɛŋɡ",
+    "definition": "Halványan világosodik; homályosan felsejlik",
+    "example": "Már derengett a hajnal, amikor a vonat átért a határon.",
+    "synonyms": [
+      "pirkad",
+      "hajnalodik",
+      "sejlik"
+    ],
+    "origin": "A derül, derít igék tövéből alakult -ng gyakorító képzővel.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "róna",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈroːnɒ",
+    "definition": "Nagy kiterjedésű sík vidék",
+    "example": "A végtelen róna fölött lassan köröztek a gólyák.",
+    "synonyms": [
+      "síkság",
+      "alföld",
+      "puszta"
+    ],
+    "origin": "Szláv eredetű szó, amely a ’sík, egyenes’ jelentésű szláv melléknévre megy vissza; az irodalmi nyelvben a nyelvújítás korában terjedt el.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.11,
+    "issues": []
+  },
+  {
+    "lemma": "csalogány",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈt͡ʃɒloɡaːɲ",
+    "definition": "Szép énekű, éjjel is daloló madár, fülemüle",
+    "example": "A kert végében egész éjjel szólt a csalogány.",
+    "synonyms": [
+      "fülemüle"
+    ],
+    "origin": "A nyelvújítás korában alkották a csalogat igéből a fülemüle költői neveként.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ihlet",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈihlɛt",
+    "definition": "Alkotásra indító, emelkedett lelkiállapot",
+    "example": "A festő hetekig várt az ihletre, aztán három nap alatt elkészült.",
+    "synonyms": [
+      "sugallat",
+      "indíttatás",
+      "inspiráció"
+    ],
+    "origin": "Valószínűleg a régi ihlik, ihel ’lehel, sugall’ ige származéka; a latin inspiratio ’belehelés’ szemléletét követi.",
+    "topics": [
+      "literature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.16,
+    "issues": []
+  },
+  {
+    "lemma": "kedély",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈkɛdeːj",
+    "definition": "Az ember tartós hangulati beállítottsága",
+    "example": "Vidám kedélye a legnehezebb napokon is felderítette a kollégáit.",
+    "synonyms": [
+      "hangulat",
+      "lelkület",
+      "természet"
+    ],
+    "origin": "A nyelvújítás korában alkották a kedv főnévből -ély képzővel, a német Gemüt megfelelőjeként.",
+    "topics": [
+      "emotions",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "közöny",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈkøzøɲ",
+    "definition": "Érdektelenség, részvétlen egykedvűség",
+    "example": "A hivatal közönye jobban fájt neki, mint maga az elutasítás.",
+    "synonyms": [
+      "érdektelenség",
+      "egykedvűség",
+      "fásultság"
+    ],
+    "origin": "A nyelvújítás korában alkották a köz szóból -öny képzővel, a latin eredetű indifferens magyarítására.",
+    "topics": [
+      "emotions",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "igéző",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈiɡeːzøː",
+    "definition": "Elbűvölő, megbabonázóan szép",
+    "example": "Az énekesnő igéző hangja az utolsó sorig lekötötte a termet.",
+    "synonyms": [
+      "elbűvölő",
+      "varázsos",
+      "megkapó"
+    ],
+    "origin": "Az igéz ige igeneve; az ige alapszava az ige ’szó, varázsszó’: aki igéz, szóval babonáz meg.",
+    "topics": [
+      "literature",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ínyenc",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈiːɲɛnt͡s",
+    "definition": "A finom ételek és italok értő kedvelője",
+    "example": "Az ínyenc vendég rögtön megérezte a levesben a sáfrányt.",
+    "synonyms": [
+      "gourmet",
+      "ínyes"
+    ],
+    "origin": "A nyelvújítás korában alkották az íny főnévből -enc képzővel.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.11,
+    "issues": []
+  },
+  {
+    "lemma": "fortély",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈforteːj",
+    "definition": "Ügyes fogás, furfangos csel",
+    "example": "Egy régi halászfortély segítségével sikerült kiszabadítani a hálót.",
+    "synonyms": [
+      "csel",
+      "fogás",
+      "furfang"
+    ],
+    "origin": "Német jövevényszó, a Vorteil ’előny’ átvétele.",
+    "topics": [
+      "persuasion",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "zarándok",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈzɒraːndok",
+    "definition": "Szent helyre vallási okból utazó ember",
+    "example": "A zarándokok gyalog tették meg az utat a kegytemplomig.",
+    "synonyms": [
+      "búcsújáró",
+      "vándor"
+    ],
+    "origin": "Szláv jövevényszó; forrása ’idegen, vándor’ jelentésű volt.",
+    "topics": [
+      "travel",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.37,
+    "issues": []
+  },
+  {
+    "lemma": "remete",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈrɛmɛtɛ",
+    "definition": "Magányban, a világtól elvonulva élő ember",
+    "example": "A vén remete egy barlangban lakott a hegy túloldalán.",
+    "synonyms": [
+      "magányos",
+      "aszkéta",
+      "anakoréta"
+    ],
+    "origin": "A latin eremita átvétele, amely a görög erémosz ’puszta, magányos’ szóból ered.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.55,
+    "issues": []
+  },
+  {
+    "lemma": "bálvány",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈbaːlvaːɲ",
+    "definition": "Istenként tisztelt szobor; vakon imádott személy",
+    "example": "A fiatal énekes egy egész nemzedék bálványa lett.",
+    "synonyms": [
+      "idol",
+      "kedvenc"
+    ],
+    "origin": "Szláv jövevényszó; eredetileg faragott oszlopot, kőszobrot jelentett.",
+    "topics": [
+      "society",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.12,
+    "issues": []
+  },
+  {
+    "lemma": "szenvedély",
+    "level": 2,
+    "part_of_speech": "fn",
+    "ipa": "ˈsɛnvɛdeːj",
+    "definition": "Erős, nehezen fékezhető érzelem vagy vonzalom",
+    "example": "A hegymászás szenvedélye gyerekkora óta nem hagyta nyugodni.",
+    "synonyms": [
+      "hév",
+      "indulat",
+      "rajongás"
+    ],
+    "origin": "A nyelvújítás korában alkották a szenved igéből, a német Leidenschaft mintájára.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.86,
+    "issues": []
+  },
+  {
+    "lemma": "ormótlan",
+    "level": 2,
+    "part_of_speech": "mn",
+    "ipa": "ˈormoːtlɒn",
+    "definition": "Esetlenül nagy, formátlan",
+    "example": "Az ormótlan szekrényt négy ember is alig tudta felvinni a lépcsőn.",
+    "synonyms": [
+      "otromba",
+      "idomtalan",
+      "esetlen"
+    ],
+    "origin": "Az orom főnév fosztóképzős származéka: eredetileg azt jelentette, hogy valaminek nincs rendes orma, formája.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ildomos",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈildomoʃ",
+    "definition": "Illendő, tapintatos, a jó modornak megfelelő",
+    "example": "Nem volna ildomos a vacsora közepén távozni a társaságból.",
+    "synonyms": [
+      "illendő",
+      "tapintatos",
+      "helyénvaló"
+    ],
+    "origin": "Régi szó, eredetileg ’okos, eszes’ jelentéssel; a nyelvújítás korában elevenítették fel ’illendő’ értelemben. Töve ismeretlen eredetű.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "dalia",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈdɒliɒ",
+    "definition": "Erős, szép termetű vitéz",
+    "example": "A mondában a dalia egymaga győzte le a sárkányt.",
+    "synonyms": [
+      "vitéz",
+      "hős",
+      "levente"
+    ],
+    "origin": "Szerb-horvát közvetítéssel került a magyarba; végső forrása a török deli ’vakmerő, eszeveszett’.",
+    "topics": [
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "garabonciás",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈɡɒrɒbont͡siaːʃ",
+    "definition": "A néphitben vihart támasztó, varázstudományú vándordiák",
+    "example": "A falu öregjei szerint garabonciás járt arra a jégeső előtt.",
+    "synonyms": [
+      "varázsló",
+      "táltos",
+      "boszorkánymester"
+    ],
+    "origin": "Az olasz gramanzia ’varázslás’ szóból ered, amely a nekromancia népies alakja.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kufár",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈkufaːr",
+    "definition": "Nyerészkedő, lelkiismeretlen kereskedő",
+    "example": "A kufárok a templom előtt is árulták silány portékájukat.",
+    "synonyms": [
+      "nyerészkedő",
+      "üzér",
+      "kalmár"
+    ],
+    "origin": "Német jövevényszó, a bajor-osztrák kaufer ’vevő, kereskedő’ átvétele.",
+    "topics": [
+      "business",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "lator",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈlɒtor",
+    "definition": "Gonosztevő, útonálló rabló",
+    "example": "A lator az erdő szélén leste a gyanútlan utasokat.",
+    "synonyms": [
+      "gazember",
+      "zsivány",
+      "haramia"
+    ],
+    "origin": "A latin latro ’zsoldos, rabló’ szó átvétele.",
+    "topics": [
+      "society",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "bitang",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈbitɒŋɡ",
+    "definition": "Aljas, semmirekellő gazember",
+    "example": "Az a bitang még az özvegy utolsó megtakarítását is elvitte.",
+    "synonyms": [
+      "gazember",
+      "csirkefogó",
+      "gazfickó"
+    ],
+    "origin": "Német jövevényszó, forrása ’zsákmány’ jelentésű volt; a magyarban előbb a gazdátlan, elkóborolt jószágot jelölte.",
+    "topics": [
+      "society",
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "fondorlat",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈfondorlɒt",
+    "definition": "Ravasz, tisztességtelen mesterkedés",
+    "example": "Fondorlattal szerezte meg az aláírást, ezért a szerződés érvénytelen.",
+    "synonyms": [
+      "cselszövés",
+      "ármány",
+      "mesterkedés"
+    ],
+    "origin": "A fondor, fondorkodik szavak családjába tartozik, amely valószínűleg a fon igére megy vissza: aki cselt sző és fon.",
+    "topics": [
+      "persuasion",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "orcátlan",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈort͡saːtlɒn",
+    "definition": "Szemérmetlenül pimasz, arcátlan",
+    "example": "Orcátlan hazugsággal próbálta kimagyarázni a késést.",
+    "synonyms": [
+      "arcátlan",
+      "pimasz",
+      "szemtelen"
+    ],
+    "origin": "Az orca főnév fosztóképzős származéka; az orca az orr és a száj szavak összetételéből forrt egybe.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "rőt",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈrøːt",
+    "definition": "Vöröses, vörösesbarna színű",
+    "example": "Rőt szakállú óriás állt a kovácsműhely ajtajában.",
+    "synonyms": [
+      "vörös",
+      "veres",
+      "rozsdaszín"
+    ],
+    "origin": "Német jövevényszó, a rot ’vörös’ nyelvjárási változatának átvétele.",
+    "topics": [
+      "nature",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "alélt",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈɒleːlt",
+    "definition": "Eszméletlen vagy az ájulásig kimerült",
+    "example": "Az alélt futót a célvonal után hordágyra fektették.",
+    "synonyms": [
+      "ájult",
+      "eszméletlen",
+      "elgyengült"
+    ],
+    "origin": "Az alél ige igeneve; az ige valószínűleg az alszik al- tövének származéka.",
+    "topics": [
+      "emotions",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "pernahajder",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈpɛrnɒhɒjdɛr",
+    "definition": "Haszontalan, lusta, semmirekellő ember",
+    "example": "Az a pernahajder megint délig aludt, a munka pedig állt.",
+    "synonyms": [
+      "semmirekellő",
+      "naplopó",
+      "mihaszna"
+    ],
+    "origin": "A német Bärenhäuter ’medvebőrön heverő’, azaz henyélő katona szó átvétele.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "léhűtő",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈleːhyːtøː",
+    "definition": "Dologtalan, haszontalan ember",
+    "example": "A gazda szerint a szomszéd fia léhűtő, aki csak a kocsmát ismeri.",
+    "synonyms": [
+      "naplopó",
+      "semmittevő",
+      "mihaszna"
+    ],
+    "origin": "Összetétel a lé és a hűtő szavakból: olyan ember, akinek csak annyi a dolga, hogy a levest hűtse.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "nebáncsvirág",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈnɛbaːnt͡ʃviraːɡ",
+    "definition": "Túlérzékeny, könnyen megsértődő ember; érintésre magját szóró növény",
+    "example": "Ne légy már ilyen nebáncsvirág, csak egy ártatlan tréfa volt.",
+    "synonyms": [
+      "mimóza",
+      "sértődékeny"
+    ],
+    "origin": "A növény latin noli me tangere ’ne érints engem’ nevének magyarítása: ne bánts és virág.",
+    "topics": [
+      "character",
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "aggastyán",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈɒɡːɒʃcaːn",
+    "definition": "Nagyon öreg férfi",
+    "example": "A fehér szakállú aggastyán a ház előtt ült a padon.",
+    "synonyms": [
+      "öregember",
+      "vénember",
+      "matuzsálem"
+    ],
+    "origin": "Valószínűleg az Ágoston név régi alakjából lett köznév; hangalakját az agg szó is befolyásolta.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "regös",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈrɛɡøʃ",
+    "definition": "Régi magyar énekmondó, varázsénekek előadója",
+    "example": "A regösök házról házra járva kívántak bőséget az új esztendőre.",
+    "synonyms": [
+      "énekmondó",
+      "dalnok",
+      "lantos"
+    ],
+    "origin": "A régi reg tő származéka, amely valószínűleg a révül, rejtezik szavakkal függ össze, és varázséneket, révülést jelentett.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "igric",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈiɡrit͡s",
+    "definition": "Középkori mulattató, énekes és zenész",
+    "example": "Az igric tréfás énekkel szórakoztatta a király asztalánál ülőket.",
+    "synonyms": [
+      "mutatványos",
+      "énekmondó",
+      "komédiás"
+    ],
+    "origin": "Szláv jövevényszó; forrása ’játékos, zenész’ jelentésű, a ’játék’ jelentésű szláv tőből.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "pöffeszkedik",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈpøfːɛskɛdik",
+    "definition": "Gőgösen, fennhéjázón terpeszkedik vagy viselkedik",
+    "example": "Az új igazgató úgy pöffeszkedik a székében, mintha övé volna a gyár.",
+    "synonyms": [
+      "terpeszkedik",
+      "fennhéjáz",
+      "kevélykedik"
+    ],
+    "origin": "Hangfestő eredetű: a puffad, pöffed szavak tövéből alakult.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "hajbókol",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈhɒjboːkol",
+    "definition": "Megalázkodva hajlong, hízelegve udvarol valakinek",
+    "example": "Egész este a miniszter körül hajbókolt, hátha kinevezik.",
+    "synonyms": [
+      "hajlong",
+      "hízeleg",
+      "alázatoskodik"
+    ],
+    "origin": "Összetétel a hajol és a bókol igékből; a bók eredetileg meghajlást, főhajtást jelentett.",
+    "topics": [
+      "society",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "rigolyás",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈriɡojaːʃ",
+    "definition": "Szeszélyes, furcsa szokásaihoz ragaszkodó",
+    "example": "A rigolyás professzor csak zöld tintával írt dolgozatot fogadott el.",
+    "synonyms": [
+      "szeszélyes",
+      "bogaras",
+      "hóbortos"
+    ],
+    "origin": "A rigolya főnév származéka, amelyet a latin regula ’szabály’ szóból eredeztetnek.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "fertály",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈfɛrtaːj",
+    "definition": "Negyedrész; városnegyed; negyedóra",
+    "example": "Egy jó fertály óráig vártunk rá a kapu előtt.",
+    "synonyms": [
+      "negyed",
+      "negyedrész",
+      "városrész"
+    ],
+    "origin": "Német jövevényszó, a Viertel ’negyed’ átvétele.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ármádia",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈaːrmaːdiɒ",
+    "definition": "Nagy hadsereg vagy hajóhad; hatalmas tömeg",
+    "example": "Turisták egész ármádiája lepte el reggelre a kis kikötőt.",
+    "synonyms": [
+      "hadsereg",
+      "sereg",
+      "hajóhad"
+    ],
+    "origin": "A latin armata ’fegyveres’ szóra megy vissza, valószínűleg olasz közvetítéssel.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "pitvar",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈpitvɒr",
+    "definition": "Régi parasztház előtere; a szív egyik ürege",
+    "example": "A pitvarban hagyták a sáros csizmát, úgy léptek be a szobába.",
+    "synonyms": [
+      "előtér",
+      "tornác"
+    ],
+    "origin": "Szláv jövevényszó; forrása ’előcsarnok, toldaléképület’ jelentésű volt.",
+    "topics": [
+      "society",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "almárium",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈɒlmaːrium",
+    "definition": "Régies, díszes szekrény",
+    "example": "A nagymama az almárium felső polcán tartotta az ünnepi poharakat.",
+    "synonyms": [
+      "szekrény",
+      "tálaló"
+    ],
+    "origin": "A latin armarium ’szekrény’ átvétele, amely eredetileg fegyvertárolót jelentett.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kalmár",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈkɒlmaːr",
+    "definition": "Régi korok kereskedője, árusa",
+    "example": "A kalmár selymet és fűszert hozott a távoli keleti kikötőkből.",
+    "synonyms": [
+      "kereskedő",
+      "árus",
+      "szatócs"
+    ],
+    "origin": "Német jövevényszó; a mai német Krämer ’szatócs’ régi alakjának átvétele.",
+    "topics": [
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.89,
+    "issues": []
+  },
+  {
+    "lemma": "csalafinta",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈt͡ʃɒlɒfintɒ",
+    "definition": "Ravasz, agyafúrt, furfangos",
+    "example": "A csalafinta kérdésre a legjobb diákok is rosszul válaszoltak.",
+    "synonyms": [
+      "ravasz",
+      "agyafúrt",
+      "furfangos"
+    ],
+    "origin": "Valószínűleg összetétel a csal igéből és az olasz eredetű finta ’csel’ szóból.",
+    "topics": [
+      "character",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "cimbora",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈt͡simborɒ",
+    "definition": "Bizalmas jó barát, pajtás",
+    "example": "Régi cimborájával minden pénteken sakkozni járt a kávéházba.",
+    "synonyms": [
+      "pajtás",
+      "barát",
+      "haver"
+    ],
+    "origin": "Román jövevényszó; forrása a közös szántásra szövetkezők társulását jelentette.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.1,
+    "issues": []
+  },
+  {
+    "lemma": "kótyavetye",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈkoːcɒvɛcɛ",
+    "definition": "Árverés; valaminek olcsó, méltatlan elherdálása",
+    "example": "A család képeit a hagyatéki kótyavetyén potom pénzért vitték el.",
+    "synonyms": [
+      "árverés",
+      "kiárusítás",
+      "licit"
+    ],
+    "origin": "A szerb-horvát ko će veće ’ki ad többet’ árverési kiáltásból ered.",
+    "topics": [
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kalamajka",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈkɒlɒmɒjkɒ",
+    "definition": "Zűrzavar, kellemetlen bonyodalom",
+    "example": "Az elcserélt bőröndökből nagy kalamajka lett a repülőtéren.",
+    "synonyms": [
+      "zűrzavar",
+      "bonyodalom",
+      "galiba"
+    ],
+    "origin": "Az ukrán kolomijka táncnévből ered, amely Kolomija városáról kapta a nevét.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ribillió",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈribilːioː",
+    "definition": "Zajos felfordulás, lázongás",
+    "example": "Akkora ribillió támadt a piacon, hogy a rendőrséget is kihívták.",
+    "synonyms": [
+      "felfordulás",
+      "zenebona",
+      "lázadás"
+    ],
+    "origin": "A latin rebellio ’lázadás’ szó népies alakja.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "patália",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈpɒtaːliɒ",
+    "definition": "Hangos veszekedés, botrány",
+    "example": "A számla miatt akkora patáliát csapott, hogy az egész étterem odanézett.",
+    "synonyms": [
+      "veszekedés",
+      "lárma",
+      "botrány"
+    ],
+    "origin": "A késő latin battalia ’harc’ szóból ered, valószínűleg olasz közvetítéssel.",
+    "topics": [
+      "society",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "kurázsi",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈkuraːʒi",
+    "definition": "Bátorság, merszet mutató lelkierő",
+    "example": "Kellett hozzá némi kurázsi, hogy a főnöke szemébe mondja az igazat.",
+    "synonyms": [
+      "bátorság",
+      "mersz",
+      "merészség"
+    ],
+    "origin": "A francia courage ’bátorság’ szó, amely német közvetítéssel került a magyarba.",
+    "topics": [
+      "character"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.1,
+    "issues": []
+  },
+  {
+    "lemma": "hóhányó",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈhoːhaːɲoː",
+    "definition": "Haszontalan, megbízhatatlan, szélhámos ember",
+    "example": "Ne bízd a pénzedet arra a hóhányóra, még senkinek sem fizetett vissza.",
+    "synonyms": [
+      "szélhámos",
+      "semmirekellő",
+      "svihák"
+    ],
+    "origin": "Összetétel a hó és a hány ’lapátol’ igenevéből; az elnevezés valószínűleg a hiábavaló munkára céloz.",
+    "topics": [
+      "character",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "delejes",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈdɛlɛjɛʃ",
+    "definition": "Mágneses; ellenállhatatlanul vonzó, megbabonázó",
+    "example": "A szónok delejes tekintete alól senki sem tudta kivonni magát.",
+    "synonyms": [
+      "mágneses",
+      "igéző",
+      "megbabonázó"
+    ],
+    "origin": "A delej ’mágnes’ származéka; ezt a nyelvújítás korában alkották a dél szóból, mert az iránytű tűje délre is mutat.",
+    "topics": [
+      "science",
+      "literature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "lángész",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈlaːŋɡeːs",
+    "definition": "Rendkívüli alkotó tehetség, zseni",
+    "example": "A fiatal zeneszerzőt már tizenhét évesen lángésznek tartották.",
+    "synonyms": [
+      "zseni",
+      "géniusz",
+      "tehetség"
+    ],
+    "origin": "Nyelvújítás kori összetétel a láng és az ész szavakból, a géniusz magyarítására.",
+    "topics": [
+      "literature",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "nyavalya",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈɲɒvɒjɒ",
+    "definition": "Betegség, kór; régen különösen a nehézkór",
+    "example": "Valami makacs nyavalya döntötte ágynak az egész családot.",
+    "synonyms": [
+      "betegség",
+      "kór",
+      "baj"
+    ],
+    "origin": "Szláv jövevényszó; forrása ’kényszer, ínség, baj’ jelentésű volt.",
+    "topics": [
+      "science",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "métely",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈmeːtɛj",
+    "definition": "Erkölcsi fertőzés, romlást terjesztő ártalom",
+    "example": "A korrupció métely, amely lassan az egész hivatalt megfertőzi.",
+    "synonyms": [
+      "fertő",
+      "ragály",
+      "méreg"
+    ],
+    "origin": "Szláv jövevényszó; eredetileg a juhok májában élősködő férget és az általa okozott kórt jelentette.",
+    "topics": [
+      "society",
+      "science"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "dögvész",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈdøɡveːs",
+    "definition": "Pusztító járvány, pestis",
+    "example": "A középkorban a dögvész egész falvakat néptelenített el.",
+    "synonyms": [
+      "pestis",
+      "járvány",
+      "ragály"
+    ],
+    "origin": "Összetétel: a dög szó a régi nyelvben járványt, pestist is jelentett, utótagja a vész.",
+    "topics": [
+      "science",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ínség",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈiːnʃeːɡ",
+    "definition": "Súlyos szükség, nélkülözés",
+    "example": "Az aszályt követő ínség idején a gabona ára a háromszorosára nőtt.",
+    "synonyms": [
+      "nyomor",
+      "szükség",
+      "nélkülözés"
+    ],
+    "origin": "A régi ín ’szolga, rab’ szó -ség képzős származéka: eredetileg szolgaságot jelentett.",
+    "topics": [
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "malaszt",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈmɒlɒst",
+    "definition": "Isteni kegyelem",
+    "example": "A pap a szertartás végén malasztot kért a hívekre.",
+    "synonyms": [
+      "kegyelem",
+      "áldás"
+    ],
+    "origin": "Szláv jövevényszó; forrása ’kegyelem, irgalom’ jelentésű.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": [
+      "definition length"
+    ]
+  },
+  {
+    "lemma": "zsolozsma",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈʒoloʒmɒ",
+    "definition": "Kötött rendű, énekelt egyházi imádság",
+    "example": "A szerzetesek hajnali zsolozsmája áthallatszott a kolostor falain.",
+    "synonyms": [
+      "imádság",
+      "ének",
+      "ima"
+    ],
+    "origin": "Szláv jövevényszó; forrása ’szolgálat, istentisztelet’ jelentésű volt.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "eretnek",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈɛrɛtnɛk",
+    "definition": "A hivatalos hittételektől eltérő nézetet valló ember",
+    "example": "A tudóst eretneknek bélyegezték, mert kétségbe vonta a régi tanítást.",
+    "synonyms": [
+      "tévhitű",
+      "szakadár",
+      "hitehagyott"
+    ],
+    "origin": "A latin haereticus szóra megy vissza, valószínűleg olasz közvetítéssel; végső forrása a görög hairetikosz ’választó’.",
+    "topics": [
+      "society",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.23,
+    "issues": []
+  },
+  {
+    "lemma": "táltos",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈtaːltoʃ",
+    "definition": "A magyar néphit természetfölötti erejű, révülő alakja",
+    "example": "A hiedelem szerint a táltos foggal született, és bika képében viaskodott.",
+    "synonyms": [
+      "sámán",
+      "varázsló",
+      "látó"
+    ],
+    "origin": "Eredete vitatott; talán ősi, finnugor kori szó.",
+    "topics": [
+      "literature",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.17,
+    "issues": []
+  },
+  {
+    "lemma": "évődik",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈeːvøːdik",
+    "definition": "Kedvesen ingerkedik, tréfálkozik valakivel",
+    "example": "A nagyapa szívesen évődött az unokáival a vasárnapi ebédnél.",
+    "synonyms": [
+      "ingerkedik",
+      "incselkedik",
+      "tréfálkozik"
+    ],
+    "origin": "Az eszik ige év- tövének származéka: eredetileg azt jelentette, hogy valaki emészti, rágja magát.",
+    "topics": [
+      "society",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ódzkodik",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈoːt͡skodik",
+    "definition": "Húzódozik, vonakodik valamitől",
+    "example": "Sokáig ódzkodott attól, hogy orvoshoz menjen a fájó térdével.",
+    "synonyms": [
+      "vonakodik",
+      "húzódozik",
+      "idegenkedik"
+    ],
+    "origin": "Valószínűleg az old ige családjába tartozik: eredetileg azt jelentette, hogy valaki kioldja, kivonja magát valami alól.",
+    "topics": [
+      "emotions",
+      "debate"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "berzenkedik",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈbɛrzɛŋkɛdik",
+    "definition": "Ingerülten tiltakozik, ellenkezik",
+    "example": "A szakszervezet hiába berzenkedett az új munkarend ellen.",
+    "synonyms": [
+      "tiltakozik",
+      "ellenkezik",
+      "háborog"
+    ],
+    "origin": "A borzad, berzed szavak hangfestő tövéből ered: az állat felborzolja a szőrét, ha fenyegetve érzi magát.",
+    "topics": [
+      "debate",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "álmélkodik",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈaːlmeːlkodik",
+    "definition": "Nagy csodálkozással bámul valamit",
+    "example": "A turisták álmélkodva nézték a barlang cseppköveit.",
+    "synonyms": [
+      "csodálkozik",
+      "ámul",
+      "bámul"
+    ],
+    "origin": "Valószínűleg az elmélkedik ige mély hangrendű párja, amely önálló jelentést kapott.",
+    "topics": [
+      "emotions",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "őgyeleg",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈøːɟɛlɛɡ",
+    "definition": "Céltalanul, ráérősen járkál, lézeng",
+    "example": "Délután a kikötőben őgyelegtünk, és a hajókat néztük.",
+    "synonyms": [
+      "lézeng",
+      "lődörög",
+      "ténfereg"
+    ],
+    "origin": "Valószínűleg a régi elegyeleg ’keveredik, vegyül’ ige rövidült alakja.",
+    "topics": [
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ténfereg",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈteːnfɛrɛɡ",
+    "definition": "Tétlenül, tanácstalanul jár ide-oda",
+    "example": "Napok óta csak ténfereg a lakásban, nem találja a helyét.",
+    "synonyms": [
+      "lézeng",
+      "lődörög",
+      "őgyeleg"
+    ],
+    "origin": "Hangfestő eredetű ige.",
+    "topics": [
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "bérc",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈbeːrt͡s",
+    "definition": "Magas, sziklás hegycsúcs",
+    "example": "A havas bércek fölött lassan oszlott a reggeli köd.",
+    "synonyms": [
+      "hegycsúcs",
+      "orom",
+      "szirt"
+    ],
+    "origin": "Valószínűleg szláv jövevényszó, a ’hegy, domb’ jelentésű szláv szó kicsinyítő alakjából.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "rengeteg",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈrɛŋɡɛtɛɡ",
+    "definition": "Hatalmas, sűrű, járatlan erdőség",
+    "example": "A vadászok három napig bolyongtak a havasi rengetegben.",
+    "synonyms": [
+      "őserdő",
+      "vadon",
+      "erdőség"
+    ],
+    "origin": "A reng ige -eteg képzős származéka; a ’nagyon sok’ jelentés a nagy erdő képéből fejlődött.",
+    "topics": [
+      "nature",
+      "travel"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 5.17,
+    "issues": []
+  },
+  {
+    "lemma": "zimankó",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈzimɒŋkoː",
+    "definition": "Csípős, havas, szeles téli idő",
+    "example": "Ilyen zimankóban még a kutyát sem verik ki a házból.",
+    "synonyms": [
+      "fagy",
+      "hideg",
+      "ítéletidő"
+    ],
+    "origin": "Valószínűleg a szláv zima ’tél, hideg’ szó magyar képzős származéka.",
+    "topics": [
+      "nature"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "áldomás",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈaːldomaːʃ",
+    "definition": "Vásár vagy megegyezés megpecsételésére közösen ivott ital",
+    "example": "A vásár után a két gazda áldomást ivott a kocsmában.",
+    "synonyms": [
+      "pohárköszöntő",
+      "tor",
+      "lakoma"
+    ],
+    "origin": "Az áld ige származéka; a pogány korban áldozati lakomát jelentett.",
+    "topics": [
+      "society",
+      "business"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "virtus",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈvirtuʃ",
+    "definition": "Bátorságot, erőt fitogtató legénykedés",
+    "example": "A legények puszta virtusból ugrottak át a tűz fölött.",
+    "synonyms": [
+      "legénykedés",
+      "vitézség",
+      "bátorság"
+    ],
+    "origin": "A latin virtus ’férfiasság, erény’ átvétele, amely a vir ’férfi’ szó származéka.",
+    "topics": [
+      "character",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 3.06,
+    "issues": []
+  },
+  {
+    "lemma": "kérkedik",
+    "level": 3,
+    "part_of_speech": "ige",
+    "ipa": "ˈkeːrkɛdik",
+    "definition": "Dicsekszik, fitogtatja érdemeit vagy vagyonát",
+    "example": "Folyton azzal kérkedik, hány országban járt már.",
+    "synonyms": [
+      "dicsekszik",
+      "hivalkodik",
+      "henceg"
+    ],
+    "origin": "Valószínűleg a kér ige gyakorító-visszaható képzős származéka.",
+    "topics": [
+      "character",
+      "persuasion"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "csélcsap",
+    "level": 3,
+    "part_of_speech": "mn",
+    "ipa": "ˈt͡ʃeːlt͡ʃɒp",
+    "definition": "Állhatatlan, szerelmeiben és szavában megbízhatatlan",
+    "example": "A csélcsap ifjú minden bálon másik lánynak esküdött örök hűséget.",
+    "synonyms": [
+      "állhatatlan",
+      "szeles",
+      "ingatag"
+    ],
+    "origin": "Valószínűleg összetétel a csel régi csél alakjából és a csap igéből.",
+    "topics": [
+      "character",
+      "emotions"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  },
+  {
+    "lemma": "ragály",
+    "level": 3,
+    "part_of_speech": "fn",
+    "ipa": "ˈrɒɡaːj",
+    "definition": "Fertőző betegség; gyorsan terjedő káros jelenség",
+    "example": "A ragály ellen akkoriban csak a vesztegzár nyújtott védelmet.",
+    "synonyms": [
+      "járvány",
+      "fertőzés",
+      "kór"
+    ],
+    "origin": "A nyelvújítás korában alkották a ragad igéből -ály képzővel.",
+    "topics": [
+      "science",
+      "society"
+    ],
+    "quote": "",
+    "quote_source": "",
+    "zipf": 0.0,
+    "issues": []
+  }
+]

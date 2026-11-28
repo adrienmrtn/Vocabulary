@@ -1,0 +1,635 @@
+{
+ "derűs": [
+  "emotions",
+  "character"
+ ],
+ "szelíd": [
+  "character",
+  "nature"
+ ],
+ "fürge": [
+  "nature",
+  "character"
+ ],
+ "büszke": [
+  "emotions",
+  "character"
+ ],
+ "komor": [
+  "emotions",
+  "character"
+ ],
+ "gyengéd": [
+  "emotions"
+ ],
+ "hűvös": [
+  "nature",
+  "character"
+ ],
+ "ravasz": [
+  "character",
+  "persuasion"
+ ],
+ "nyájas": [
+  "character",
+  "society"
+ ],
+ "szerény": [
+  "character"
+ ],
+ "hiú": [
+  "character"
+ ],
+ "merész": [
+  "character",
+  "business"
+ ],
+ "zord": [
+  "nature",
+  "character"
+ ],
+ "kecses": [
+  "nature",
+  "literature"
+ ],
+ "pompás": [
+  "society",
+  "literature"
+ ],
+ "dús": [
+  "nature",
+  "society"
+ ],
+ "halvány": [
+  "nature",
+  "emotions"
+ ],
+ "ragyog": [
+  "nature",
+  "emotions"
+ ],
+ "suttog": [
+  "society",
+  "literature"
+ ],
+ "töpreng": [
+  "emotions",
+  "debate"
+ ],
+ "mereng": [
+  "emotions",
+  "literature"
+ ],
+ "csodál": [
+  "emotions"
+ ],
+ "tűnődik": [
+  "emotions",
+  "debate"
+ ],
+ "bolyong": [
+  "travel"
+ ],
+ "sóhajt": [
+  "emotions"
+ ],
+ "báj": [
+  "character",
+  "literature"
+ ],
+ "alkony": [
+  "nature",
+  "literature"
+ ],
+ "pirkadat": [
+  "nature",
+  "travel"
+ ],
+ "ábránd": [
+  "emotions",
+  "literature"
+ ],
+ "gyönyör": [
+  "emotions"
+ ],
+ "becsület": [
+  "character",
+  "society"
+ ],
+ "türelem": [
+  "character"
+ ],
+ "szeszély": [
+  "character",
+  "emotions"
+ ],
+ "varázs": [
+  "literature",
+  "emotions"
+ ],
+ "fuvallat": [
+  "nature"
+ ],
+ "illat": [
+  "nature"
+ ],
+ "honvágy": [
+  "emotions",
+  "travel"
+ ],
+ "jellem": [
+  "character"
+ ],
+ "erény": [
+  "character",
+  "society"
+ ],
+ "bölcs": [
+  "character",
+  "debate"
+ ],
+ "nemes": [
+  "character",
+  "society"
+ ],
+ "tétova": [
+  "character",
+  "emotions"
+ ],
+ "hanyag": [
+  "character",
+  "business"
+ ],
+ "kopár": [
+  "nature"
+ ],
+ "viszály": [
+  "society",
+  "debate"
+ ],
+ "leleményes": [
+  "character",
+  "business"
+ ],
+ "liget": [
+  "nature"
+ ],
+ "csitít": [
+  "emotions",
+  "society"
+ ],
+ "vigasz": [
+  "emotions"
+ ],
+ "rideg": [
+  "character",
+  "emotions"
+ ],
+ "éber": [
+  "character"
+ ],
+ "tündér": [
+  "literature"
+ ],
+ "ünnepélyes": [
+  "society"
+ ],
+ "hajlék": [
+  "society",
+  "travel"
+ ],
+ "rejtély": [
+  "literature",
+  "science"
+ ],
+ "vándor": [
+  "travel"
+ ],
+ "kaland": [
+  "travel",
+  "literature"
+ ],
+ "mulandó": [
+  "literature",
+  "nature"
+ ],
+ "sóvárog": [
+  "emotions"
+ ],
+ "áhítat": [
+  "emotions",
+  "literature"
+ ],
+ "borong": [
+  "emotions",
+  "nature"
+ ],
+ "esdekel": [
+  "persuasion",
+  "emotions"
+ ],
+ "hivalkodik": [
+  "character",
+  "society"
+ ],
+ "csügged": [
+  "emotions"
+ ],
+ "délceg": [
+  "character",
+  "literature"
+ ],
+ "álnok": [
+  "character",
+  "persuasion"
+ ],
+ "fennkölt": [
+  "literature",
+  "persuasion"
+ ],
+ "kaján": [
+  "character",
+  "emotions"
+ ],
+ "léha": [
+  "character"
+ ],
+ "ódon": [
+  "literature",
+  "travel"
+ ],
+ "ármány": [
+  "society",
+  "literature"
+ ],
+ "balsors": [
+  "literature",
+  "emotions"
+ ],
+ "dac": [
+  "emotions",
+  "character"
+ ],
+ "enyészet": [
+  "literature",
+  "nature"
+ ],
+ "fohász": [
+  "emotions",
+  "literature"
+ ],
+ "kegyelet": [
+  "society",
+  "emotions"
+ ],
+ "mámor": [
+  "emotions"
+ ],
+ "révület": [
+  "emotions",
+  "literature"
+ ],
+ "végzet": [
+  "literature"
+ ],
+ "zsarnok": [
+  "society"
+ ],
+ "dőre": [
+  "character",
+  "debate"
+ ],
+ "epekedik": [
+  "emotions",
+  "literature"
+ ],
+ "szende": [
+  "character",
+  "literature"
+ ],
+ "szemérmes": [
+  "character",
+  "emotions"
+ ],
+ "bú": [
+  "emotions",
+  "literature"
+ ],
+ "kétely": [
+  "debate",
+  "science"
+ ],
+ "délibáb": [
+  "nature",
+  "literature"
+ ],
+ "kietlen": [
+  "nature",
+  "travel"
+ ],
+ "jámbor": [
+  "character"
+ ],
+ "fukar": [
+  "character",
+  "business"
+ ],
+ "verőfény": [
+  "nature"
+ ],
+ "förgeteg": [
+  "nature"
+ ],
+ "káprázat": [
+  "nature",
+  "literature"
+ ],
+ "lidérc": [
+  "literature",
+  "emotions"
+ ],
+ "kacér": [
+  "character",
+  "society"
+ ],
+ "csalárd": [
+  "character",
+  "business"
+ ],
+ "különc": [
+  "character",
+  "society"
+ ],
+ "csökönyös": [
+  "character"
+ ],
+ "magasztos": [
+  "literature",
+  "persuasion"
+ ],
+ "balga": [
+  "character"
+ ],
+ "esendő": [
+  "character"
+ ],
+ "dereng": [
+  "nature",
+  "literature"
+ ],
+ "róna": [
+  "nature",
+  "travel"
+ ],
+ "csalogány": [
+  "nature",
+  "literature"
+ ],
+ "ihlet": [
+  "literature",
+  "emotions"
+ ],
+ "kedély": [
+  "emotions",
+  "character"
+ ],
+ "közöny": [
+  "emotions",
+  "society"
+ ],
+ "igéző": [
+  "literature",
+  "emotions"
+ ],
+ "ínyenc": [
+  "society"
+ ],
+ "fortély": [
+  "persuasion",
+  "business"
+ ],
+ "zarándok": [
+  "travel",
+  "society"
+ ],
+ "remete": [
+  "society",
+  "character"
+ ],
+ "bálvány": [
+  "society",
+  "literature"
+ ],
+ "szenvedély": [
+  "emotions"
+ ],
+ "ormótlan": [
+  "nature"
+ ],
+ "ildomos": [
+  "society"
+ ],
+ "dalia": [
+  "literature"
+ ],
+ "garabonciás": [
+  "literature",
+  "society"
+ ],
+ "kufár": [
+  "business",
+  "society"
+ ],
+ "lator": [
+  "society",
+  "literature"
+ ],
+ "bitang": [
+  "society",
+  "character"
+ ],
+ "fondorlat": [
+  "persuasion",
+  "business"
+ ],
+ "orcátlan": [
+  "character"
+ ],
+ "rőt": [
+  "nature",
+  "literature"
+ ],
+ "alélt": [
+  "emotions",
+  "science"
+ ],
+ "pernahajder": [
+  "character",
+  "society"
+ ],
+ "léhűtő": [
+  "character",
+  "society"
+ ],
+ "nebáncsvirág": [
+  "character",
+  "nature"
+ ],
+ "aggastyán": [
+  "society"
+ ],
+ "regös": [
+  "literature",
+  "society"
+ ],
+ "igric": [
+  "literature",
+  "society"
+ ],
+ "pöffeszkedik": [
+  "character",
+  "society"
+ ],
+ "hajbókol": [
+  "society",
+  "persuasion"
+ ],
+ "rigolyás": [
+  "character"
+ ],
+ "fertály": [
+  "society"
+ ],
+ "ármádia": [
+  "society"
+ ],
+ "pitvar": [
+  "society",
+  "science"
+ ],
+ "almárium": [
+  "society"
+ ],
+ "kalmár": [
+  "business"
+ ],
+ "csalafinta": [
+  "character",
+  "persuasion"
+ ],
+ "cimbora": [
+  "society"
+ ],
+ "kótyavetye": [
+  "business"
+ ],
+ "kalamajka": [
+  "society"
+ ],
+ "ribillió": [
+  "society"
+ ],
+ "patália": [
+  "society",
+  "debate"
+ ],
+ "kurázsi": [
+  "character"
+ ],
+ "hóhányó": [
+  "character",
+  "business"
+ ],
+ "delejes": [
+  "science",
+  "literature"
+ ],
+ "lángész": [
+  "literature",
+  "science"
+ ],
+ "nyavalya": [
+  "science",
+  "society"
+ ],
+ "métely": [
+  "society",
+  "science"
+ ],
+ "dögvész": [
+  "science",
+  "society"
+ ],
+ "ínség": [
+  "society"
+ ],
+ "malaszt": [
+  "literature",
+  "society"
+ ],
+ "zsolozsma": [
+  "literature",
+  "society"
+ ],
+ "eretnek": [
+  "society",
+  "debate"
+ ],
+ "táltos": [
+  "literature",
+  "society"
+ ],
+ "évődik": [
+  "society",
+  "emotions"
+ ],
+ "ódzkodik": [
+  "emotions",
+  "debate"
+ ],
+ "berzenkedik": [
+  "debate",
+  "emotions"
+ ],
+ "álmélkodik": [
+  "emotions",
+  "travel"
+ ],
+ "őgyeleg": [
+  "travel"
+ ],
+ "ténfereg": [
+  "emotions"
+ ],
+ "bérc": [
+  "nature",
+  "travel"
+ ],
+ "rengeteg": [
+  "nature",
+  "travel"
+ ],
+ "zimankó": [
+  "nature"
+ ],
+ "áldomás": [
+  "society",
+  "business"
+ ],
+ "virtus": [
+  "character",
+  "society"
+ ],
+ "kérkedik": [
+  "character",
+  "persuasion"
+ ],
+ "csélcsap": [
+  "character",
+  "emotions"
+ ],
+ "ragály": [
+  "science",
+  "society"
+ ]
+}
