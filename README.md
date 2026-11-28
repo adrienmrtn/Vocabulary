@@ -64,7 +64,7 @@ review. Topics per word are in `content/topics.json`.
 ### Supabase
 
 The schema in `supabase/migrations` is applied to the "Vocabulary" project and
-the 404 words are loaded. At launch the app downloads the published catalogue
+the catalogue is loaded there. At launch the app downloads the published catalogue
 and uses it from the next launch on; the bundled file is the offline fallback.
 To publish a new build of the catalogue (needs the project's secret key, which
 must stay out of the repository):
