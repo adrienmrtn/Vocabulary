@@ -87,9 +87,19 @@ enum Catalog {
 
     /// The word used in the onboarding preview card.
     static var featured: Word {
-        let lemma = Translations.language.featuredLemma
+        let lemma = featuredLemmas[Translations.language.rawValue]
         return all.first { $0.text == lemma } ?? all[0]
     }
+
+    /// One showcase word per language, written by `content/build_catalog.py`.
+    private static let featuredLemmas: [String: String] = {
+        guard let url = Bundle.main.url(forResource: "featured", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let lemmas = try? JSONDecoder().decode([String: String].self, from: data) else {
+            return [:]
+        }
+        return lemmas
+    }()
 
     private static func index(_ words: [Word]) -> [String: Word] {
         Dictionary(words.map { ($0.text, $0) }, uniquingKeysWith: { first, _ in first })
@@ -200,10 +210,10 @@ struct VoiceOption: Identifiable {
                 VoiceOption(id: "es-ES", name: "Spain"),
                 VoiceOption(id: "es-MX", name: "Mexico")
             ]
-        case .italian:
-            return [VoiceOption(id: "it-IT", name: "Italy")]
-        case .german:
-            return [VoiceOption(id: "de-DE", name: "Germany")]
+        default:
+            // One voice: it is named after the language itself.
+            let language = Translations.language
+            return [VoiceOption(id: language.defaultVoice, name: language.name)]
         }
     }
 }

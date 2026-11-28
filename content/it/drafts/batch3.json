@@ -1,0 +1,798 @@
+[
+ {
+  "lemma": "abbacinare",
+  "level": 3,
+  "part_of_speech": "v.",
+  "ipa": "abbatʃiˈnaːre",
+  "definition": "Abbagliare fino a togliere la vista; confondere",
+  "example": "Il riverbero della neve finì per abbacinare gli sciatori senza occhiali.",
+  "synonyms": [
+   "abbagliare",
+   "accecare",
+   "offuscare"
+  ],
+  "origin": "Da bacino: nel Medioevo si accecavano i condannati avvicinando agli occhi un bacino di metallo rovente."
+ },
+ {
+  "lemma": "algido",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈaldʒido",
+  "definition": "Freddo, gelido; distaccato nei modi",
+  "example": "La sua bellezza algida metteva soggezione a chiunque.",
+  "synonyms": [
+   "gelido",
+   "freddo",
+   "glaciale"
+  ],
+  "origin": "Dal latino algidus, da algere «patire il freddo»."
+ },
+ {
+  "lemma": "alterigia",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "alteˈriːdʒa",
+  "definition": "Superbia sdegnosa di chi si crede superiore",
+  "example": "Rispose con alterigia che non doveva spiegazioni a nessuno.",
+  "synonyms": [
+   "superbia",
+   "boria",
+   "arroganza"
+  ],
+  "origin": "Da altero, derivato di alto."
+ },
+ {
+  "lemma": "apodittico",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "apoˈdittiko",
+  "definition": "Evidente o affermato in modo che non ammette replica",
+  "example": "Con tono apodittico dichiarò chiusa la discussione.",
+  "synonyms": [
+   "inconfutabile",
+   "perentorio",
+   "categorico"
+  ],
+  "origin": "Dal greco apodeiktikós «dimostrativo», da apodeíknymi «dimostrare», attraverso il latino tardo."
+ },
+ {
+  "lemma": "aulico",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈaːuliko",
+  "definition": "Elevato e solenne, proprio dello stile più nobile",
+  "example": "Scriveva le lettere d'amore in un italiano aulico, quasi da poema.",
+  "synonyms": [
+   "solenne",
+   "elevato",
+   "illustre"
+  ],
+  "origin": "Dal latino aulicus, dal greco aulikós «di corte», da aulḗ «corte»."
+ },
+ {
+  "lemma": "bolso",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈbolso",
+  "definition": "Fiacco, senza fiato né vigore",
+  "example": "Il vecchio campione, ormai bolso, arrancava dietro ai giovani.",
+  "synonyms": [
+   "fiacco",
+   "sfiatato",
+   "flaccido"
+  ],
+  "origin": "Dal latino vulsus, participio di vellere «strappare»; si disse anzitutto dei cavalli che respirano a fatica."
+ },
+ {
+  "lemma": "cachinno",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "kaˈkinno",
+  "definition": "Risata sguaiata e beffarda",
+  "example": "Dal fondo della sala si levò un cachinno che gelò l'oratore.",
+  "synonyms": [
+   "risata",
+   "sghignazzata"
+  ],
+  "origin": "Dal latino cachinnus, voce onomatopeica."
+ },
+ {
+  "lemma": "cogitabondo",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "kodʒitaˈbondo",
+  "definition": "Immerso in pensieri gravi",
+  "example": "Passeggiava cogitabondo lungo il fiume, con le mani dietro la schiena.",
+  "synonyms": [
+   "pensieroso",
+   "meditabondo",
+   "assorto"
+  ],
+  "origin": "Dal latino tardo cogitabundus, da cogitare «pensare»."
+ },
+ {
+  "lemma": "desueto",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "desuˈɛːto",
+  "definition": "Non più in uso, caduto dall'abitudine",
+  "example": "Usava formule di saluto ormai desuete, che facevano sorridere i nipoti.",
+  "synonyms": [
+   "disusato",
+   "antiquato",
+   "obsoleto"
+  ],
+  "origin": "Dal latino desuetus, participio di desuescere «disabituarsi»."
+ },
+ {
+  "lemma": "edotto",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "eˈdɔtto",
+  "definition": "Messo al corrente, informato con precisione",
+  "example": "Prima di firmare fu reso edotto di tutti i rischi dell'operazione.",
+  "synonyms": [
+   "informato",
+   "consapevole",
+   "istruito"
+  ],
+  "origin": "Dal latino edoctus, participio di edocere «istruire a fondo»."
+ },
+ {
+  "lemma": "esiziale",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ezitˈtsjaːle",
+  "definition": "Che porta alla rovina o alla morte",
+  "example": "Quel ritardo si rivelò esiziale per l'intera spedizione.",
+  "synonyms": [
+   "fatale",
+   "letale",
+   "rovinoso"
+  ],
+  "origin": "Dal latino exitialis, da exitium «rovina, distruzione»."
+ },
+ {
+  "lemma": "facondia",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "faˈkondja",
+  "definition": "Facilità e ricchezza nel parlare",
+  "example": "L'avvocato conquistò la giuria con la sua facondia.",
+  "synonyms": [
+   "eloquenza",
+   "loquacità",
+   "parlantina"
+  ],
+  "origin": "Dal latino facundia, da facundus «eloquente», dalla radice di fari «parlare»."
+ },
+ {
+  "lemma": "fedifrago",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "feˈdiːfraɡo",
+  "definition": "Che tradisce un patto o la parola data",
+  "example": "Il socio fedifrago aveva venduto il progetto alla concorrenza.",
+  "synonyms": [
+   "traditore",
+   "sleale",
+   "infedele"
+  ],
+  "origin": "Dal latino foedifragus, composto di foedus «patto» e frangere «rompere»."
+ },
+ {
+  "lemma": "fellone",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "felˈloːne",
+  "definition": "Traditore, persona sleale e malvagia",
+  "example": "Nel romanzo il fellone consegna le chiavi della città al nemico.",
+  "synonyms": [
+   "traditore",
+   "ribaldo",
+   "vigliacco"
+  ],
+  "origin": "Dal francese antico felon, latino medievale fello -onis, di origine discussa, forse germanica."
+ },
+ {
+  "lemma": "forbito",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "forˈbiːto",
+  "definition": "Curato ed elegante, detto di lingua e stile",
+  "example": "Si esprimeva in un italiano forbito, senza una parola fuori posto.",
+  "synonyms": [
+   "elegante",
+   "raffinato",
+   "terso"
+  ],
+  "origin": "Participio di forbire «lustrare», dal francone *furbjan «pulire»."
+ },
+ {
+  "lemma": "giulivo",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "dʒuˈliːvo",
+  "definition": "Lieto e contento, con candore",
+  "example": "Arrivò tutto giulivo ad annunciare che aveva vinto il concorso.",
+  "synonyms": [
+   "gaio",
+   "lieto",
+   "festoso"
+  ],
+  "origin": "Dal francese antico jolif «gaio», forse dall'antico nordico jól, nome di una festa invernale."
+ },
+ {
+  "lemma": "improbo",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈimprobo",
+  "definition": "Durissimo e faticoso; in antico, malvagio",
+  "example": "Riordinare quell'archivio fu un lavoro improbo, durato tre anni.",
+  "synonyms": [
+   "faticoso",
+   "gravoso",
+   "arduo"
+  ],
+  "origin": "Dal latino improbus «malvagio, smodato», composto di in- negativo e probus «onesto»."
+ },
+ {
+  "lemma": "inclito",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈiŋklito",
+  "definition": "Illustre, di chiara fama",
+  "example": "Il sindaco ringraziò l'inclito pubblico con una punta d'ironia.",
+  "synonyms": [
+   "illustre",
+   "insigne",
+   "celebre"
+  ],
+  "origin": "Dal latino inclitus «famoso», affine a cluere «avere fama»."
+ },
+ {
+  "lemma": "ineluttabile",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "inelutˈtaːbile",
+  "definition": "Contro cui è vano lottare",
+  "example": "Accettò la fine dell'estate come un fatto ineluttabile.",
+  "synonyms": [
+   "inevitabile",
+   "fatale",
+   "inesorabile"
+  ],
+  "origin": "Dal latino ineluctabilis, da in- negativo ed eluctari «uscire lottando»."
+ },
+ {
+  "lemma": "lapalissiano",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "lapalisˈsjaːno",
+  "definition": "Talmente ovvio che dirlo è ridicolo",
+  "example": "È lapalissiano che senza soldi il progetto non può partire.",
+  "synonyms": [
+   "ovvio",
+   "evidente",
+   "scontato"
+  ],
+  "origin": "Dal maresciallo francese Jacques de La Palice (morto nel 1525): una canzone gli attribuì ovvietà come «un quarto d'ora prima di morire era ancora in vita»."
+ },
+ {
+  "lemma": "luculliano",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "lukulˈljaːno",
+  "definition": "Sontuoso e abbondante, detto di pranzi e cene",
+  "example": "Per il compleanno della zia preparammo un pranzo luculliano.",
+  "synonyms": [
+   "sontuoso",
+   "lauto",
+   "sfarzoso"
+  ],
+  "origin": "Da Lucio Licinio Lucullo, generale romano del I secolo a.C., celebre per i suoi banchetti."
+ },
+ {
+  "lemma": "nequizia",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "neˈkwittsja",
+  "definition": "Malvagità profonda; azione scellerata",
+  "example": "Il cronista elencava le nequizie del tiranno senza risparmiare dettagli.",
+  "synonyms": [
+   "malvagità",
+   "scelleratezza",
+   "iniquità"
+  ],
+  "origin": "Dal latino nequitia, da nequam «buono a nulla, malvagio»."
+ },
+ {
+  "lemma": "procace",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "proˈkaːtʃe",
+  "definition": "Provocante, sfrontato nell'aspetto o nei modi",
+  "example": "La pubblicità mostrava una bellezza procace distesa su un'automobile.",
+  "synonyms": [
+   "provocante",
+   "sfrontato",
+   "sfacciato"
+  ],
+  "origin": "Dal latino procax -acis «insolente», da procare «chiedere con insistenza»."
+ },
+ {
+  "lemma": "ramingo",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "raˈmiŋɡo",
+  "definition": "Che vaga senza casa né meta",
+  "example": "Visse per anni ramingo, da una città all'altra, senza fermarsi.",
+  "synonyms": [
+   "errante",
+   "vagabondo",
+   "randagio"
+  ],
+  "origin": "Dal provenzale ramenc, da ram «ramo»: si diceva del falco giovane che vola di ramo in ramo."
+ },
+ {
+  "lemma": "redarguire",
+  "level": 3,
+  "part_of_speech": "v.",
+  "ipa": "redarɡuˈiːre",
+  "definition": "Rimproverare con severità",
+  "example": "Il vigile si limitò a redarguire il ragazzo senza fargli la multa.",
+  "synonyms": [
+   "rimproverare",
+   "riprendere",
+   "ammonire"
+  ],
+  "origin": "Dal latino redarguere «confutare», composto di red- e arguere «dimostrare, accusare»."
+ },
+ {
+  "lemma": "sardonico",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "sarˈdɔːniko",
+  "definition": "Che esprime derisione amara e maligna",
+  "example": "Accolse la proposta con un sorriso sardonico.",
+  "synonyms": [
+   "beffardo",
+   "sarcastico",
+   "sprezzante"
+  ],
+  "origin": "Dal greco sardónios, accostato fin dall'antichità a un'erba di Sardegna che avrebbe contratto il volto in una smorfia; l'origine è discussa."
+ },
+ {
+  "lemma": "sesquipedale",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "seskwipeˈdaːle",
+  "definition": "Smisurato, enorme, detto di parole o errori",
+  "example": "Nel tema c'era uno strafalcione sesquipedale proprio alla prima riga.",
+  "synonyms": [
+   "enorme",
+   "smisurato",
+   "madornale"
+  ],
+  "origin": "Dal latino sesquipedalis «di un piede e mezzo»: Orazio derideva i sesquipedalia verba, le parole lunghissime."
+ },
+ {
+  "lemma": "sicumera",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "sikuˈmɛːra",
+  "definition": "Sicurezza ostentata e presuntuosa",
+  "example": "Parlava di economia con una sicumera che non ammetteva dubbi.",
+  "synonyms": [
+   "presunzione",
+   "boria",
+   "prosopopea"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "stentoreo",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "stenˈtɔːreo",
+  "definition": "Fortissimo e potente, detto della voce",
+  "example": "Con voce stentorea ordinò a tutti di uscire dall'edificio.",
+  "synonyms": [
+   "tonante",
+   "potente",
+   "squillante"
+  ],
+  "origin": "Da Stentore, l'araldo dell'Iliade la cui voce valeva quella di cinquanta uomini."
+ },
+ {
+  "lemma": "tapino",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "taˈpiːno",
+  "definition": "Misero e infelice, degno di compassione",
+  "example": "Il tapino aveva perso il treno, il portafoglio e pure l'ombrello.",
+  "synonyms": [
+   "misero",
+   "infelice",
+   "meschino"
+  ],
+  "origin": "Dal francese antico tapin «che si nasconde»; alcuni lo accostano anche al greco tapeinós «umile»."
+ },
+ {
+  "lemma": "tetragono",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "teˈtraːɡono",
+  "definition": "Fermo e irremovibile davanti alle avversità",
+  "example": "Tetragono alle critiche, proseguì per la sua strada.",
+  "synonyms": [
+   "irremovibile",
+   "saldo",
+   "incrollabile"
+  ],
+  "origin": "Dal greco tetrágōnos «con quattro angoli»; il senso figurato viene da Dante: «ben tetragono ai colpi di ventura»."
+ },
+ {
+  "lemma": "tralignare",
+  "level": 3,
+  "part_of_speech": "v.",
+  "ipa": "traliɲˈɲaːre",
+  "definition": "Allontanarsi in peggio dalle qualità dei propri antenati",
+  "example": "I nipoti finirono per tralignare e dispersero il patrimonio del fondatore.",
+  "synonyms": [
+   "degenerare",
+   "deviare",
+   "imbastardire"
+  ],
+  "origin": "Da tra- «oltre» e un derivato di linea nel senso di «discendenza»: uscire dalla propria stirpe."
+ },
+ {
+  "lemma": "ubertoso",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "uberˈtoːso",
+  "definition": "Fertile e ricco di frutti",
+  "example": "La pianura ubertosa si stendeva fino al mare, tutta campi e frutteti.",
+  "synonyms": [
+   "fertile",
+   "fecondo",
+   "rigoglioso"
+  ],
+  "origin": "Dal latino ubertas «fertilità», da uber «fecondo»."
+ },
+ {
+  "lemma": "verecondia",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "vereˈkondja",
+  "definition": "Pudore delicato, ritegno nel mostrarsi",
+  "example": "Abbassò gli occhi con una verecondia d'altri tempi.",
+  "synonyms": [
+   "pudore",
+   "riserbo",
+   "modestia"
+  ],
+  "origin": "Dal latino verecundia, da vereri «avere timore reverenziale»."
+ },
+ {
+  "lemma": "vilipendere",
+  "level": 3,
+  "part_of_speech": "v.",
+  "ipa": "viliˈpɛndere",
+  "definition": "Offendere mostrando pubblico disprezzo",
+  "example": "Nessuno ha il diritto di vilipendere chi la pensa diversamente.",
+  "synonyms": [
+   "disprezzare",
+   "oltraggiare",
+   "denigrare"
+  ],
+  "origin": "Dal latino vilipendere, composto di vilis «di poco prezzo» e pendere «stimare»."
+ },
+ {
+  "lemma": "zotico",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈdzɔːtiko",
+  "definition": "Rozzo e sgarbato nei modi",
+  "example": "Fu così zotico da non alzarsi nemmeno per salutare.",
+  "synonyms": [
+   "rozzo",
+   "villano",
+   "cafone"
+  ],
+  "origin": "Etimo incerto; forse dal latino idioticus «ignorante»."
+ },
+ {
+  "lemma": "beota",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "beˈɔːta",
+  "definition": "Ottuso, tardo di mente",
+  "example": "Rimase a fissarmi con un'aria beota, senza capire lo scherzo.",
+  "synonyms": [
+   "ottuso",
+   "stupido",
+   "tonto"
+  ],
+  "origin": "Dalla Beozia, regione della Grecia i cui abitanti passavano presso gli Ateniesi per tardi d'ingegno."
+ },
+ {
+  "lemma": "bislacco",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "bizˈlakko",
+  "definition": "Strambo, che esce da ogni logica comune",
+  "example": "Aveva l'idea bislacca di attraversare le Alpi in monopattino.",
+  "synonyms": [
+   "strambo",
+   "stravagante",
+   "balzano"
+  ],
+  "origin": "Etimo incerto; forse da una voce veneta di origine slava."
+ },
+ {
+  "lemma": "garrulo",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈɡarrulo",
+  "definition": "Che chiacchiera o cinguetta senza sosta",
+  "example": "Un gruppo garrulo di studenti invase la piazza dopo l'esame.",
+  "synonyms": [
+   "loquace",
+   "ciarliero",
+   "chiacchierone"
+  ],
+  "origin": "Dal latino garrulus, da garrire «cinguettare, ciarlare»."
+ },
+ {
+  "lemma": "mefitico",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "meˈfiːtiko",
+  "definition": "Che emana un odore soffocante e malsano",
+  "example": "Dalla cantina allagata saliva un'aria mefitica.",
+  "synonyms": [
+   "fetido",
+   "pestilenziale",
+   "ammorbante"
+  ],
+  "origin": "Dal latino tardo mephiticus, da mephitis «esalazione nociva», anche nome di una dea italica."
+ },
+ {
+  "lemma": "nembo",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "ˈnembo",
+  "definition": "Nuvola scura e bassa che porta pioggia",
+  "example": "Un nembo minaccioso avanzava dal mare verso la costa.",
+  "synonyms": [
+   "nuvola",
+   "nube",
+   "nuvolone"
+  ],
+  "origin": "Dal latino nimbus «nuvola di pioggia»."
+ },
+ {
+  "lemma": "obliare",
+  "level": 3,
+  "part_of_speech": "v.",
+  "ipa": "obliˈaːre",
+  "definition": "Dimenticare, lasciar cadere dalla memoria",
+  "example": "Nessuna distanza poteva fargli obliare la casa dell'infanzia.",
+  "synonyms": [
+   "dimenticare",
+   "scordare"
+  ],
+  "origin": "Dal francese antico oblier, dal latino parlato *oblitare, da oblitus, participio di oblivisci «dimenticare»."
+ },
+ {
+  "lemma": "peritoso",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "periˈtoːso",
+  "definition": "Timido ed esitante per soggezione",
+  "example": "Si avvicinò peritoso al tavolo della commissione.",
+  "synonyms": [
+   "timido",
+   "esitante",
+   "titubante"
+  ],
+  "origin": "Da peritarsi «esitare», dal latino tardo pigritari «essere pigro, indugiare»."
+ },
+ {
+  "lemma": "piaggeria",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "pjaddʒeˈriːa",
+  "definition": "Adulazione servile verso chi ha potere",
+  "example": "L'articolo era un esempio di piaggeria verso il nuovo direttore.",
+  "synonyms": [
+   "adulazione",
+   "servilismo",
+   "cortigianeria"
+  ],
+  "origin": "Da piaggiare «lusingare», in origine «navigare lungo la piaggia», cioè secondo il vento."
+ },
+ {
+  "lemma": "rabbuffo",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "rabˈbuffo",
+  "definition": "Rimprovero brusco e deciso",
+  "example": "Per quel ritardo si prese un rabbuffo dal caporedattore.",
+  "synonyms": [
+   "rimprovero",
+   "sgridata",
+   "ramanzina"
+  ],
+  "origin": "Da rabbuffare «scompigliare», formato su buffare «soffiare», voce onomatopeica."
+ },
+ {
+  "lemma": "rorido",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "ˈrɔːrido",
+  "definition": "Bagnato di rugiada",
+  "example": "All'alba attraversammo il prato rorido fino al cancello.",
+  "synonyms": [
+   "rugiadoso",
+   "umido",
+   "madido"
+  ],
+  "origin": "Dal latino roridus, da ros roris «rugiada»."
+ },
+ {
+  "lemma": "scaturigine",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "skatuˈriːdʒine",
+  "definition": "Sorgente; punto da cui qualcosa ha origine",
+  "example": "Lo storico cercava la scaturigine di quella leggenda nei documenti medievali.",
+  "synonyms": [
+   "sorgente",
+   "fonte",
+   "origine"
+  ],
+  "origin": "Dal latino scaturigo -inis «sorgente», da scaturire «sgorgare»."
+ },
+ {
+  "lemma": "smargiasso",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "zmarˈdʒasso",
+  "definition": "Chi si vanta di imprese e di un coraggio che non ha",
+  "example": "Al bar faceva lo smargiasso, ma davanti al cane scappò per primo.",
+  "synonyms": [
+   "spaccone",
+   "fanfarone",
+   "gradasso"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "sollucchero",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "solˈlukkero",
+  "definition": "Stato di piacere estremo e compiaciuto",
+  "example": "I complimenti del maestro la mandarono in sollucchero.",
+  "synonyms": [
+   "estasi",
+   "visibilio",
+   "delizia"
+  ],
+  "origin": "Dall'antico sollucherare «intenerire»; l'etimo è incerto."
+ },
+ {
+  "lemma": "trasecolare",
+  "level": 3,
+  "part_of_speech": "v.",
+  "ipa": "trasekoˈlaːre",
+  "definition": "Restare sbalorditi per la meraviglia",
+  "example": "Quando vide il conto del ristorante, per poco non trasecolò.",
+  "synonyms": [
+   "strabiliare",
+   "stupirsi",
+   "sbalordire"
+  ],
+  "origin": "Composto di tra- «oltre» e secolo nel senso di «mondo»: uscire quasi dal mondo per lo stupore."
+ },
+ {
+  "lemma": "arzigogolo",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "ardziˈɡɔːɡolo",
+  "definition": "Ragionamento contorto e cavilloso; ghirigoro",
+  "example": "Con un arzigogolo giuridico riuscì a rinviare il processo.",
+  "synonyms": [
+   "cavillo",
+   "sofisma",
+   "ghirigoro"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "ghiribizzo",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "ɡiriˈbiddzo",
+  "definition": "Idea capricciosa e improvvisa",
+  "example": "Gli venne il ghiribizzo di dipingere la cucina di viola.",
+  "synonyms": [
+   "capriccio",
+   "estro",
+   "grillo"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "ubbia",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "ubˈbiːa",
+  "definition": "Timore infondato, scrupolo superstizioso",
+  "example": "Lascia perdere queste ubbie: il venerdì non porta sfortuna a nessuno.",
+  "synonyms": [
+   "fisima",
+   "fissazione",
+   "superstizione"
+  ],
+  "origin": "Etimo incerto."
+ },
+ {
+  "lemma": "manigoldo",
+  "level": 3,
+  "part_of_speech": "s. m.",
+  "ipa": "maniˈɡoldo",
+  "definition": "Furfante, persona capace di ogni disonestà",
+  "example": "Quel manigoldo aveva truffato mezzo paese prima di sparire.",
+  "synonyms": [
+   "furfante",
+   "canaglia",
+   "mascalzone"
+  ],
+  "origin": "Dal nome germanico Managold; in antico la parola indicava il boia."
+ },
+ {
+  "lemma": "masnada",
+  "level": 3,
+  "part_of_speech": "s. f.",
+  "ipa": "mazˈnaːda",
+  "definition": "Gruppo numeroso di gente poco raccomandabile",
+  "example": "Una masnada di ragazzini fece irruzione nel cortile.",
+  "synonyms": [
+   "banda",
+   "combriccola",
+   "ciurma"
+  ],
+  "origin": "Dal provenzale maisnada «gente di casa», dal latino parlato *mansionata, da mansio «dimora»."
+ },
+ {
+  "lemma": "ferale",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "feˈraːle",
+  "definition": "Che annuncia o porta morte",
+  "example": "La notizia ferale giunse con un telegramma all'alba.",
+  "synonyms": [
+   "funesto",
+   "luttuoso",
+   "mortale"
+  ],
+  "origin": "Dal latino feralis «funebre, che riguarda i morti»."
+ },
+ {
+  "lemma": "esimio",
+  "level": 3,
+  "part_of_speech": "agg.",
+  "ipa": "eˈziːmjo",
+  "definition": "Eccellente, che si distingue sugli altri",
+  "example": "L'esimio collega ha dimenticato di citare le sue fonti.",
+  "synonyms": [
+   "egregio",
+   "insigne",
+   "eccellente"
+  ],
+  "origin": "Dal latino eximius «scelto, fuori dal comune», da eximere «togliere fuori»."
+ }
+]

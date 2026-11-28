@@ -39,6 +39,11 @@ PARTS_BY_LANGUAGE = {
 }
 # English is the default; "--lang fr" builds the French catalogue from content/fr.
 LANG = "en"
+# Languages written without spaces between words.
+UNSPACED = {"ja"}
+# A language's own settings, from content/<code>/books.json: its parts of speech
+# ("parts") when they are not listed above.
+CONFIG = {}
 
 VOWELS = {
     "AA": "ɑ", "AE": "æ", "AO": "ɔ", "AW": "aʊ", "AY": "aɪ", "EH": "ɛ", "EY": "eɪ",
@@ -156,19 +161,25 @@ def check(entry):
     if issues:
         return issues
     lemma = entry["lemma"]
-    stem = lemma[: max(4, len(lemma) - 3)].lower()
-    if entry["part_of_speech"] not in PARTS_BY_LANGUAGE[LANG]:
+    if LANG in UNSPACED:
+        stem = lemma[: max(1, len(lemma) - 1)]
+    elif LANG in ("ar", "he"):
+        stem = lemma[: max(3, len(lemma) - 2)]
+    else:
+        stem = lemma[: max(4, len(lemma) - 3)].lower()
+    if entry["part_of_speech"] not in (PARTS_BY_LANGUAGE.get(LANG) or set(CONFIG.get("parts", []))):
         issues.append("unknown part of speech")
-    words = entry["definition"].split()
-    if not 3 <= len(words) <= 14:
+    # Japanese has no spaces between words: count characters there.
+    size = (lambda text: len(text) / 2.5) if LANG in UNSPACED else (lambda text: len(text.split()))
+    if not 3 <= size(entry["definition"]) <= 14:
         issues.append("definition length")
     if stem in entry["definition"].lower():
         issues.append("definition uses the word itself")
-    if entry["definition"].endswith("."):
+    if entry["definition"].endswith((".", "。")):
         issues.append("definition ends with a period")
     if stem not in entry["example"].lower():
         issues.append("example does not contain the word")
-    if not 6 <= len(entry["example"].split()) <= 22:
+    if not 6 <= size(entry["example"]) <= 22:
         issues.append("example length")
     synonyms = entry["synonyms"]
     if len(set(synonyms)) != len(synonyms) or len(synonyms) > 3 or lemma in synonyms:
@@ -182,8 +193,23 @@ def check(entry):
     return issues
 
 
+FEATURED = {"fr": "éphémère", "es": "efímero", "it": "effimero", "de": "vergänglich"}
+
+
+def remember(path, value):
+    """Keep one value per language in a small JSON file shared by all languages."""
+    table = {}
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as handle:
+            table = json.load(handle)
+    if value:
+        table[LANG] = value
+    with open(path, "w", encoding="utf-8") as handle:
+        json.dump(table, handle, ensure_ascii=False, indent=1, sort_keys=True)
+
+
 def main():
-    global LANG, TOPICS_PATH, QUOTES_PATH
+    global LANG, TOPICS_PATH, QUOTES_PATH, CONFIG
     if "--lang" in sys.argv:
         position = sys.argv.index("--lang")
         LANG = sys.argv[position + 1]
@@ -191,6 +217,9 @@ def main():
         folder = os.path.join(os.path.dirname(__file__), LANG)
         TOPICS_PATH = os.path.join(folder, "topics.json")
         QUOTES_PATH = os.path.join(folder, "quotes.json")
+        if os.path.exists(os.path.join(folder, "books.json")):
+            with open(os.path.join(folder, "books.json"), encoding="utf-8") as handle:
+                CONFIG = json.load(handle)
     out_path, app_path, draft_paths = sys.argv[1], sys.argv[2], sys.argv[3:]
     entries, seen = [], set()
     for path in draft_paths:
@@ -213,18 +242,6 @@ def main():
         with open(TOPICS_PATH, encoding="utf-8") as handle:
             topics = json.load(handle)
 
-    # A lemma is the key of a word in the database and in the member's data, for
-    # every language at once: a word spelled like an English one cannot be added.
-    # Languages are served in this order: the later one gives the word up.
-    order = ["en", "fr", "es", "it", "de"]
-    here = os.path.dirname(__file__)
-    taken = set()
-    for other in order[: order.index(LANG)]:
-        folder = os.path.join(here, "drafts") if other == "en" else os.path.join(here, other, "drafts")
-        for path in glob.glob(os.path.join(folder, "*.json")):
-            with open(path, encoding="utf-8") as handle:
-                taken |= {entry.get("lemma") for entry in json.load(handle)}
-
     flagged = 0
     for entry in entries:
         entry["topics"] = topics.get(entry.get("lemma"), [])
@@ -241,11 +258,12 @@ def main():
             entry["ipa"] = entry.get("ipa", "")
         if not entry["ipa"]:
             issues.append("no pronunciation")
-        entry["zipf"] = zipf_frequency(lemma, LANG)
+        try:
+            entry["zipf"] = zipf_frequency(lemma, LANG.split("-")[0])
+        except Exception:  # wordfreq does not know every language
+            entry["zipf"] = 0
         if not entry["topics"]:
             issues.append("no topic")
-        if lemma in taken:
-            issues.append("same spelling as a word of another language")
         entry["issues"] = issues
         if issues:
             flagged += 1
@@ -262,6 +280,17 @@ def main():
     with open(widget_path, "w", encoding="utf-8") as handle:
         light = [{key: entry[key] for key in ("lemma", "part_of_speech", "definition")} for entry in slim]
         json.dump(light, handle, ensure_ascii=False, separators=(",", ":"))
+    remember(os.path.join(os.path.dirname(app_path), "featured.json"),
+             "ephemeral" if LANG == "en" else CONFIG.get("featured") or FEATURED.get(LANG))
+    strings = {}
+    strings_path = os.path.join(os.path.dirname(app_path), f"strings_{LANG}.json")
+    if os.path.exists(strings_path):
+        with open(strings_path, encoding="utf-8") as handle:
+            strings = json.load(handle)
+    name, summary = "Word of the day", "A new word every day, with its meaning."
+    if LANG == "en" or (name in strings and summary in strings):
+        remember(os.path.join(os.path.dirname(WIDGET_PATH), "texts.json"),
+                 {"name": strings.get(name, name), "summary": strings.get(summary, summary)})
     print(f"{len(entries)} entries written to {out_path}, {flagged} flagged, {len(slim)} bundled in {app_path}")
 
 

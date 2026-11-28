@@ -105,7 +105,13 @@ BOOKS_FR = [
     16852, 17457, 17489, 17493, 17494, 17518, 17519, 17533, 17553, 17983, 17989, 17990, 17991,
     17992, 18797, 19657, 7461, 8560, 2708,
 ]
-LANGUAGE_NAMES = {"en": "English", "fr": "French", "es": "Spanish", "de": "German", "it": "Italian"}
+LANGUAGE_NAMES = {
+    "en": "English", "fr": "French", "es": "Spanish", "de": "German", "it": "Italian", "ar": "Arabic",
+    "hr": "Croatian", "cs": "Czech", "da": "Danish", "nl": "Dutch", "fi": "Finnish", "el": "Greek",
+    "he": "Hebrew", "hu": "Hungarian", "ja": "Japanese", "nb": "Norwegian", "pl": "Polish",
+    "pt-BR": "Portuguese", "pt-PT": "Portuguese", "ro": "Romanian", "ru": "Russian", "sk": "Slovak",
+    "sl": "Slovenian", "sv": "Swedish", "tr": "Turkish",
+}
 # The other languages describe themselves in content/<code>/books.json:
 # {"books": [ebook numbers], "abbreviations": [...], "openers": [...],
 #  "authors": {name in the file: name to show}, "titles": {...}}.
@@ -184,8 +190,9 @@ def fetch():
             print(f"{number}: not a book file, skipped")
             continue
         language = re.search(rb"^Language: *(\w+)", data, re.M)
-        if not language or language.group(1).decode() != LANGUAGE_NAMES[LANG]:
-            print(f"{number}: not in {LANGUAGE_NAMES[LANG]}, skipped")
+        wanted = CONFIG.get("language_name") or LANGUAGE_NAMES[LANG]
+        if not language or language.group(1).decode() != wanted:
+            print(f"{number}: not in {wanted}, skipped")
             continue
         with open(path, "wb") as handle:
             handle.write(data)
@@ -208,7 +215,12 @@ def read_book(path):
             continue
         for short in (ABBREVIATIONS_FR if LANG == "fr" else CONFIG.get("abbreviations", ABBREVIATIONS)):
             paragraph = re.sub(rf"\b{short}\.", f"{short}<dot>", paragraph)
-        for sentence in re.split(r"(?<=[.!?])\s+(?=[“\"‘'«„»¿¡]?\s?[A-ZÀ-Ý])", paragraph):
+        if LANG in ("en", "fr"):
+            pieces = re.split(r"(?<=[.!?])\s+(?=[“\"‘'«„»¿¡]?\s?[A-ZÀ-Ý])", paragraph)
+        else:
+            # Other alphabets: split after the mark, and let score() judge the opening.
+            pieces = re.split(r"(?<=[.!?…؟])\s+(?=\S)", paragraph)
+        for sentence in pieces:
             sentences.append(sentence.replace("<dot>", ".").strip())
     author = author.group(1).strip() if author else ""
     title = title.group(1).strip() if title else ""
@@ -279,7 +291,9 @@ def score(sentence, match):
         return None
     if sentence.count("«") != sentence.count("»"):
         return None
-    if not sentence[0].isupper() and sentence[0] not in "“\"¿¡«„»":
+    if LANG not in ("en", "fr") and not sentence[0].islower():
+        pass  # a capital, an opening mark, or a script without capitals
+    elif not sentence[0].isupper() and sentence[0] not in "“\"¿¡«„»":
         return None
     points = 10 - abs(count - 16) * 0.5
     if match.start() == 0:

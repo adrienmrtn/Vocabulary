@@ -27,28 +27,34 @@ struct DayWord: Decodable {
 }
 
 enum WidgetCatalog {
-    /// name, description, and a word to show if the file cannot be read.
-    private static let texts: [String: (name: String, summary: String, word: DayWord)] = [
-        "en": ("Word of the day", "A new word every day, with its meaning.",
-               DayWord(lemma: "ephemeral", partOfSpeech: "adj.", definition: "Lasting for a very short time")),
-        "fr": ("Mot du jour", "Un nouveau mot chaque jour, avec son sens.",
-               DayWord(lemma: "éphémère", partOfSpeech: "adj.", definition: "Qui ne dure que très peu de temps")),
-        "es": ("Palabra del día", "Una palabra nueva cada día, con su significado.",
-               DayWord(lemma: "efímero", partOfSpeech: "adj.", definition: "Que dura muy poco tiempo")),
-        "it": ("Parola del giorno", "Una parola nuova ogni giorno, con il suo significato.",
-               DayWord(lemma: "effimero", partOfSpeech: "agg.", definition: "Che dura pochissimo tempo")),
-        "de": ("Wort des Tages", "Jeden Tag ein neues Wort mit seiner Bedeutung.",
-               DayWord(lemma: "vergänglich", partOfSpeech: "Adj.", definition: "Nur von kurzer Dauer"))
-    ]
+    /// The widget's name and description per language (`texts.json`, written by
+    /// `content/build_catalog.py` from the app's interface texts).
+    private static let texts: [String: [String: String]] = {
+        guard let url = Bundle.main.url(forResource: "texts", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let texts = try? JSONDecoder().decode([String: [String: String]].self, from: data) else {
+            return [:]
+        }
+        return texts
+    }()
 
+    /// The device's language when the app teaches it, English otherwise.
     static let language: String = {
-        let code = String((Locale.preferredLanguages.first ?? "en").prefix(2))
+        let preferred = Locale.preferredLanguages.first ?? "en"
+        var code = String(preferred.prefix(2))
+        if code == "pt" {
+            code = preferred.contains("PT") ? "pt-PT" : "pt-BR"
+        } else if code == "no" || code == "nn" {
+            code = "nb"
+        } else if code == "iw" {
+            code = "he"
+        }
         return texts[code] == nil ? "en" : code
     }()
 
-    static let displayName: String = texts[language]!.name
+    static let displayName: String = texts[language]?["name"] ?? "Word of the day"
     static let heading: String = displayName.uppercased()
-    static let summary: String = texts[language]!.summary
+    static let summary: String = texts[language]?["summary"] ?? "A new word every day, with its meaning."
 
     static let all: [DayWord] = {
         guard let url = Bundle.main.url(forResource: language == "en" ? "words" : "words_\(language)",
@@ -58,7 +64,7 @@ enum WidgetCatalog {
         return words
     }()
 
-    static let fallback: DayWord = texts[language]!.word
+    static let fallback = DayWord(lemma: "ephemeral", partOfSpeech: "adj.", definition: "Lasting for a very short time")
 
     static func word(on date: Date) -> DayWord {
         guard !all.isEmpty else { return fallback }
