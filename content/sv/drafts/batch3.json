@@ -1,0 +1,782 @@
+[
+ {
+  "lemma": "efemär",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ɛfɛˈmæːr",
+  "definition": "Kortlivad, som bara varar en dag",
+  "example": "Modets efemära nycker glöms lika fort som de uppstår.",
+  "synonyms": [
+   "kortlivad",
+   "flyktig",
+   "övergående"
+  ],
+  "origin": "Via franska éphémère från grekiska ephēmeros ’som varar en dag’, av epi ’på’ och hēmera ’dag’."
+ },
+ {
+  "lemma": "lakonisk",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "laˈkuːnɪsk",
+  "definition": "Mycket kortfattad och träffande i uttrycket",
+  "example": "Hans lakoniska svar på det långa brevet bestod av ett enda ord.",
+  "synonyms": [
+   "fåordig",
+   "koncis",
+   "kärnfull"
+  ],
+  "origin": "Av grekiska Lakōnikos ’från Lakonien’, landskapet kring Sparta, vars invånare var kända för sitt korthuggna tal."
+ },
+ {
+  "lemma": "förmäten",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "fœrˈmɛːtɛn",
+  "definition": "Som tar sig för stora friheter; övermodig",
+  "example": "Det vore förmätet av mig att rätta en nobelpristagare.",
+  "synonyms": [
+   "övermodig",
+   "djärv",
+   "fräck"
+  ],
+  "origin": "Efter lågtyska vormeten (tyska vermessen), particip av ett verb med betydelsen ’mäta fel, överskatta sig’."
+ },
+ {
+  "lemma": "fåvitsk",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈfoːˌvɪtsk",
+  "definition": "Oförståndig och dåraktig",
+  "example": "De fåvitska jungfrurna i liknelsen hade glömt olja till sina lampor.",
+  "synonyms": [
+   "dåraktig",
+   "oklok",
+   "enfaldig"
+  ],
+  "origin": "Av fornsvenska favitsker, till få ’liten’ och vit ’vett, förstånd’; alltså ’med litet vett’."
+ },
+ {
+  "lemma": "snöd",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "snøːd",
+  "definition": "Usel och föraktlig, särskilt om vinning",
+  "example": "För snöd vinnings skull sålde han familjens gamla skog.",
+  "synonyms": [
+   "usel",
+   "simpel",
+   "lumpen"
+  ],
+  "origin": "Lån från lågtyska snöde ’ringa, föraktlig’ (tyska schnöde)."
+ },
+ {
+  "lemma": "beskäftig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "bɛˈɧɛftɪɡ",
+  "definition": "Som lägger sig i allt med viktig min",
+  "example": "Den beskäftiga grannen hade åsikter om varenda rabatt på gatan.",
+  "synonyms": [
+   "fjäskig",
+   "viktig",
+   "klåfingrig"
+  ],
+  "origin": "Lån från lågtyskan (jfr tyska geschäftig ’verksam’); ordet hör samman med skaffa."
+ },
+ {
+  "lemma": "illmarig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɪlːˌmɑːrɪɡ",
+  "definition": "Slug på ett skälmskt och lurigt sätt",
+  "example": "Med ett illmarigt leende gömde morfar det sista kortet i ärmen.",
+  "synonyms": [
+   "slug",
+   "klipsk",
+   "lurig"
+  ],
+  "origin": "Ursprunget är omstritt; förleden är troligen ill- ’ond, elak’, medan senare leden inte har fått någon säker förklaring."
+ },
+ {
+  "lemma": "durkdriven",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈdɵrkˌdriːvɛn",
+  "definition": "Mycket skicklig och slipad genom lång vana",
+  "example": "Den durkdrivne advokaten hittade genast kontraktets svaga punkt.",
+  "synonyms": [
+   "slipad",
+   "förfaren",
+   "garvad"
+  ],
+  "origin": "Efter lågtyska dorchdreven (tyska durchtrieben), egentligen ’genomdriven’; durk- återger tyska durch ’genom’."
+ },
+ {
+  "lemma": "huld",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "hɵld",
+  "definition": "Nådig och välvillig; trogen och tillgiven",
+  "example": "Lyckan var honom inte huld den vintern.",
+  "synonyms": [
+   "nådig",
+   "bevågen",
+   "trogen"
+  ],
+  "origin": "Av fornsvenska hulder ’bevågen, trogen’, besläktat med isländska hollr och tyska hold."
+ },
+ {
+  "lemma": "gängse",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈjɛŋːsɛ",
+  "definition": "Allmänt bruklig och vedertagen",
+  "example": "Enligt gängse uppfattning var han sin tids främste målare.",
+  "synonyms": [
+   "vanlig",
+   "vedertagen",
+   "rådande"
+  ],
+  "origin": "Av fornsvenska gängs ’gångbar’ (om mynt), bildat till gå, gång; alltså ’som går och gäller’."
+ },
+ {
+  "lemma": "ödesdiger",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈøːdɛsˌdiːɡɛr",
+  "definition": "Som får mycket allvarliga och avgörande följder",
+  "example": "Det var ett ödesdigert misstag att lämna dörren olåst.",
+  "synonyms": [
+   "fatal",
+   "olycksbringande",
+   "avgörande"
+  ],
+  "origin": "Sammansatt av öde och diger ’stor, tjock, tung’; alltså ’tung av öde’."
+ },
+ {
+  "lemma": "fryntlig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈfrʏntlɪɡ",
+  "definition": "Gladlynt och vänlig på ett gemytligt sätt",
+  "example": "Den fryntlige bagaren bjöd alltid barnen på en varm bulle.",
+  "synonyms": [
+   "gemytlig",
+   "jovialisk",
+   "godmodig"
+  ],
+  "origin": "Lån från lågtyska vrüntlik ’vänlig’ (tyska freundlich), till vrünt ’vän’; besläktat med svenska frände."
+ },
+ {
+  "lemma": "förnumstig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "fœˈɳɵmstɪɡ",
+  "definition": "Som vill verka klok och gärna undervisar andra",
+  "example": "”Det har jag alltid sagt”, påpekade han med förnumstig min.",
+  "synonyms": [
+   "snusförnuftig",
+   "lillgammal",
+   "klok"
+  ],
+  "origin": "Lån från lågtyska vornumstich ’förnuftig’ (tyska vernünftig); i svenskan har ordet fått en ironisk klang."
+ },
+ {
+  "lemma": "vederhäftig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈveːdɛrˌhɛftɪɡ",
+  "definition": "Pålitlig och väl underbyggd; som håller för granskning",
+  "example": "Tidningen krävde vederhäftiga källor innan något trycktes.",
+  "synonyms": [
+   "pålitlig",
+   "tillförlitlig",
+   "solid"
+  ],
+  "origin": "Av veder- ’emot’ och en bildning till häfta ’hålla fast’, efter lågtyskt mönster; ursprungligen ’som kan stå emot, betalningsduglig’."
+ },
+ {
+  "lemma": "bångstyrig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈbɔŋːˌstyːrɪɡ",
+  "definition": "Trotsig och svår att få bukt med",
+  "example": "Den bångstyriga hästen vägrade gå in i transporten.",
+  "synonyms": [
+   "motspänstig",
+   "trilsk",
+   "olydig"
+  ],
+  "origin": "Troligen av bång ’buller, oväsen’ och en bildning till styra; alltså ’som bara låter sig styras under bråk’."
+ },
+ {
+  "lemma": "illfundig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɪlːˌfɵndɪɡ",
+  "definition": "Listig och uträknande med ond avsikt",
+  "example": "Greven smidde en illfundig plan för att komma åt arvet.",
+  "synonyms": [
+   "lömsk",
+   "listig",
+   "försåtlig"
+  ],
+  "origin": "Bildat till äldre illfund ’ond list’, av ill- ’ond’ och fund ’påhitt, knep’ (lånat från lågtyskan); jfr påfund."
+ },
+ {
+  "lemma": "munvig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈmɵnːˌviːɡ",
+  "definition": "Snabb och fyndig i repliken",
+  "example": "Den munviga programledaren hade alltid ett svar till hands.",
+  "synonyms": [
+   "slagfärdig",
+   "talför",
+   "kvick"
+  ],
+  "origin": "Sammansatt av mun och vig ’smidig, rörlig’, fornsvenska vigher ’stridsduglig’."
+ },
+ {
+  "lemma": "storvulen",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈstuːrˌvʉːlɛn",
+  "definition": "Anlagd i stor och djärv skala; ibland väl pampig",
+  "example": "Kommunens storvulna planer på ett operahus fick läggas på is.",
+  "synonyms": [
+   "grandios",
+   "pampig",
+   "storslagen"
+  ],
+  "origin": "Sammansatt av stor och vulen ’beskaffad’, ett gammalt particip som brukar föras till verbet vålla."
+ },
+ {
+  "lemma": "grannlaga",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɡranːˌlɑːɡa",
+  "definition": "Som kräver stor takt och varsamhet",
+  "example": "Att berätta sanningen för barnen var en grannlaga uppgift.",
+  "synonyms": [
+   "delikat",
+   "ömtålig",
+   "taktfull"
+  ],
+  "origin": "Av grann i den äldre betydelsen ’noggrann, fin’ och en bildning till lag ’sätt, skick’."
+ },
+ {
+  "lemma": "valhänt",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈvɑːlˌhɛnt",
+  "definition": "Klumpig och tafatt i utförandet",
+  "example": "Hans valhänta försök att be om ursäkt gjorde bara saken värre.",
+  "synonyms": [
+   "fumlig",
+   "tafatt",
+   "klumpig"
+  ],
+  "origin": "Sammansatt av val- ’stel av köld’ (jfr dialektala valen) och hänt, till hand; egentligen ’med stelfrusna händer’."
+ },
+ {
+  "lemma": "okonstlad",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈuːˌkɔnstlad",
+  "definition": "Naturlig och enkel, utan tillgjordhet",
+  "example": "Hennes okonstlade sätt vann genast hela sällskapets hjärtan.",
+  "synonyms": [
+   "naturlig",
+   "äkta",
+   "flärdfri"
+  ],
+  "origin": "Bildat med o- till konstlad, till konst i betydelsen ’konstgrepp’; jfr tyska ungekünstelt."
+ },
+ {
+  "lemma": "trätgirig",
+  "level": 3,
+  "part_of_speech": "adj.",
+  "ipa": "ˈtrɛːtˌjiːrɪɡ",
+  "definition": "Som gärna och ofta söker gräl",
+  "example": "Den trätgirige mjölnaren låg i process med halva socknen.",
+  "synonyms": [
+   "grälsjuk",
+   "stridslysten",
+   "bråkig"
+  ],
+  "origin": "Sammansatt av träta ’gräla’, fornsvenska thrätta, och girig i den äldre betydelsen ’begärlig, lysten’."
+ },
+ {
+  "lemma": "hugskott",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈhʉːɡˌskɔt",
+  "definition": "Plötslig idé som dyker upp utan förvarning",
+  "example": "Hela resan var ett hugskott som de fick en regnig tisdag.",
+  "synonyms": [
+   "infall",
+   "ingivelse",
+   "nyck"
+  ],
+  "origin": "Sammansatt av hug ’sinne, tanke’ (jfr håg, komma ihåg) och skott; alltså ’något som skjuter upp i sinnet’."
+ },
+ {
+  "lemma": "spörsmål",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈspœʂˌmoːl",
+  "definition": "Fråga eller ämne som kräver ett avgörande",
+  "example": "Mötet ägnades åt ett enda spörsmål, nämligen skolans framtid.",
+  "synonyms": [
+   "fråga",
+   "problem",
+   "ärende"
+  ],
+  "origin": "Efter danska spørgsmål, till spörja ’fråga’ och mål ’sak’."
+ },
+ {
+  "lemma": "vederdeloman",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈveːdɛrˌdeːlʊman",
+  "definition": "Motståndare, särskilt i en tvist eller rättegång",
+  "example": "Min vederdeloman i debatten visade sig vara en gammal skolkamrat.",
+  "synonyms": [
+   "motpart",
+   "motståndare",
+   "antagonist"
+  ],
+  "origin": "Av fornsvenska vidherdeloman, till vidherdela ’tvist’ (veder ’emot’ och dela ’tvista’); alltså ’den man tvistar med’."
+ },
+ {
+  "lemma": "bråddjup",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈbrɔdːˌjʉːp",
+  "definition": "Mycket brant stup; även gräns mot katastrof",
+  "example": "Vägen slingrade sig fram alldeles intill ett svindlande bråddjup.",
+  "synonyms": [
+   "avgrund",
+   "stup",
+   "klyfta"
+  ],
+  "origin": "Sammansatt av bråd ’plötslig, tvär’ och djup; alltså ett djup som öppnar sig tvärt."
+ },
+ {
+  "lemma": "hägring",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈhɛːɡrɪŋ",
+  "definition": "Luftspegling; lockande men overklig syn",
+  "example": "Oasen vid horisonten visade sig vara en hägring.",
+  "synonyms": [
+   "luftspegling",
+   "synvilla",
+   "illusion"
+  ],
+  "origin": "Bildat till verbet hägra, vars ursprung är ovisst."
+ },
+ {
+  "lemma": "fägring",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈfɛːɡrɪŋ",
+  "definition": "Skönhet, särskilt blomstrande och ungdomlig",
+  "example": "Ängen stod i sin fulla fägring veckan före midsommar.",
+  "synonyms": [
+   "skönhet",
+   "prakt",
+   "grannlåt"
+  ],
+  "origin": "Bildat till fager ’vacker’, fornsvenska fagher; känt inte minst från sommarpsalmen Den blomstertid nu kommer."
+ },
+ {
+  "lemma": "vedermöda",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈveːdɛrˌmøːda",
+  "definition": "Stor svårighet och umbärande",
+  "example": "Efter resans alla vedermödor smakade den enkla soppan himmelskt.",
+  "synonyms": [
+   "strapats",
+   "prövning",
+   "lidande"
+  ],
+  "origin": "Sammansatt av veder- ’emot’ och möda; fornsvenska vidhermödha ’motgång, besvär’."
+ },
+ {
+  "lemma": "lisa",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈliːsa",
+  "definition": "Lindring i smärta eller sorg",
+  "example": "Det var en lisa för själen att få höra havet igen.",
+  "synonyms": [
+   "lindring",
+   "tröst",
+   "hugsvalelse"
+  ],
+  "origin": "Av fornsvenska lisa ’lindring’; ett nordiskt ord vars vidare släktskap är oviss."
+ },
+ {
+  "lemma": "näpst",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "nɛpst",
+  "definition": "Sträng tillrättavisning eller bestraffning",
+  "example": "Eleven fick en näpst av rektorn för sitt uppkäftiga svar.",
+  "synonyms": [
+   "tillrättavisning",
+   "tuktan",
+   "straff"
+  ],
+  "origin": "Av fornsvenska näfst ’tuktan, straff’, till verbet näfsa (nutida näpsa) ’tukta’."
+ },
+ {
+  "lemma": "snille",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈsnɪlːɛ",
+  "definition": "Enastående skapande begåvning; person med sådan",
+  "example": "Redan som tonåring hyllades hon som ett matematiskt snille.",
+  "synonyms": [
+   "geni",
+   "begåvning",
+   "ingenium"
+  ],
+  "origin": "Av fornsvenska snille ’förstånd, klokhet’, bildat till snäll i dess äldre betydelse ’snabb, duktig, klok’."
+ },
+ {
+  "lemma": "envig",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈeːnˌviːɡ",
+  "definition": "Strid mellan två personer; tvekamp",
+  "example": "Riddaren utmanade sin rival på envig vid gryningen.",
+  "synonyms": [
+   "duell",
+   "tvekamp",
+   "holmgång"
+  ],
+  "origin": "Av fornsvenska envighe, sammansatt av en och vig ’strid’ (isländska víg); alltså ’ensamstrid’."
+ },
+ {
+  "lemma": "klenod",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "klɛˈnuːd",
+  "definition": "Mycket dyrbart föremål; högt skattad skatt",
+  "example": "Farmors brosch är familjens käraste klenod.",
+  "synonyms": [
+   "dyrgrip",
+   "skatt",
+   "juvel"
+  ],
+  "origin": "Lån från lågtyska klenōde (tyska Kleinod), till klein i den äldre betydelsen ’fin, nätt’."
+ },
+ {
+  "lemma": "gunst",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ɡɵnst",
+  "definition": "Välvilja och beskydd från någon mäktigare",
+  "example": "Hovmännen tävlade ständigt om drottningens gunst.",
+  "synonyms": [
+   "ynnest",
+   "bevågenhet",
+   "nåd"
+  ],
+  "origin": "Lån från lågtyska gunst, bildat till gunnen ’unna’; besläktat med svenska unna och ynnest."
+ },
+ {
+  "lemma": "järtecken",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈjæːˌʈɛkːɛn",
+  "definition": "Förebud eller under som anses förebåda något",
+  "example": "Kometen tolkades av folket som ett järtecken om krig.",
+  "synonyms": [
+   "omen",
+   "förebud",
+   "varsel"
+  ],
+  "origin": "Av fornsvenska iärtekn, jfr isländska jartegn, jarteikn ’kännetecken, under’; förledens ursprung är omdiskuterat."
+ },
+ {
+  "lemma": "svada",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈsvɑːda",
+  "definition": "Flödande och ordrik talförmåga; ordström",
+  "example": "Försäljarens svada gick inte att hejda när han väl kommit igång.",
+  "synonyms": [
+   "ordflöde",
+   "talförhet",
+   "vältalighet"
+  ],
+  "origin": "Av latinets Suada, namnet på övertalningens gudinna, till suadere ’råda, övertala’."
+ },
+ {
+  "lemma": "trångmål",
+  "level": 3,
+  "part_of_speech": "subst. ett",
+  "ipa": "ˈtrɔŋːˌmoːl",
+  "definition": "Mycket besvärlig och pressad situation",
+  "example": "Företaget hamnade i ekonomiskt trångmål när den största kunden försvann.",
+  "synonyms": [
+   "knipa",
+   "nödläge",
+   "svårighet"
+  ],
+  "origin": "Sammansatt av trång och mål i betydelsen ’sak, angelägenhet’."
+ },
+ {
+  "lemma": "nesa",
+  "level": 3,
+  "part_of_speech": "subst. en",
+  "ipa": "ˈneːsa",
+  "definition": "Djup skam och vanära",
+  "example": "Han fick lida nesan att bli utskrattad inför hela hovet.",
+  "synonyms": [
+   "skam",
+   "vanära",
+   "skymf"
+  ],
+  "origin": "Av fornsvenska nesa ’skam, vanära’, besläktat med isländska hneisa."
+ },
+ {
+  "lemma": "dväljas",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈdvɛljːas",
+  "definition": "Uppehålla sig eller finnas på en plats",
+  "example": "I de djupa skogarna dväljs ännu varg och lodjur.",
+  "synonyms": [
+   "vistas",
+   "bo",
+   "finnas"
+  ],
+  "origin": "Av fornsvenska dvälias ’dröja, uppehålla sig’, besläktat med dvala och med engelska dwell."
+ },
+ {
+  "lemma": "hugsvala",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈhʉːɡˌsvɑːla",
+  "definition": "Trösta och lindra någons sorg",
+  "example": "Musiken hugsvalade henne under den långa sjukdomstiden.",
+  "synonyms": [
+   "trösta",
+   "lindra",
+   "lisa"
+  ],
+  "origin": "Sammansatt av hug ’sinne’ (jfr håg) och svala; alltså ’svalka sinnet’."
+ },
+ {
+  "lemma": "förtörna",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "fœˈʈœːɳa",
+  "definition": "Göra någon djupt förargad",
+  "example": "Kungen förtörnades över adelns öppna trots.",
+  "synonyms": [
+   "uppreta",
+   "förarga",
+   "reta"
+  ],
+  "origin": "Lån från lågtyska vortornen (tyska erzürnen), till torn ’vrede’ (tyska Zorn)."
+ },
+ {
+  "lemma": "yvas",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈyːvas",
+  "definition": "Vara stolt och göra sig märkvärdig över något",
+  "example": "Det finns ingen anledning att yvas över en seger som andra har vunnit.",
+  "synonyms": [
+   "skryta",
+   "stoltsera",
+   "pösa"
+  ],
+  "origin": "Av fornsvenska yvas; besläktat med yvig och isländska ýfa ’resa borst’; grundbetydelsen är ’burra upp sig’."
+ },
+ {
+  "lemma": "dryfta",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈdrʏfːta",
+  "definition": "Ingående diskutera och väga skäl mot varandra",
+  "example": "Frågan om en ny bro har dryftats i kommunen i trettio år.",
+  "synonyms": [
+   "diskutera",
+   "debattera",
+   "avhandla"
+  ],
+  "origin": "Av fornsvenska drypta ’rensa säd genom kastning’; den bildliga betydelsen är alltså ’sålla, pröva’."
+ },
+ {
+  "lemma": "rannsaka",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈranːˌsɑːka",
+  "definition": "Noggrant undersöka och pröva, särskilt sitt samvete",
+  "example": "Efter grälet rannsakade hon sig själv och bad om ursäkt.",
+  "synonyms": [
+   "granska",
+   "pröva",
+   "utforska"
+  ],
+  "origin": "Av fornsvenska ransaka, sammansatt av rann ’hus’ och saka ’söka’; ursprungligen ’göra husundersökning efter tjuvgods’."
+ },
+ {
+  "lemma": "undfägna",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈɵndˌfɛŋːna",
+  "definition": "Bjuda och traktera gäster väl",
+  "example": "Gästerna undfägnades med nybakat bröd och rökt sik.",
+  "synonyms": [
+   "traktera",
+   "förpläga",
+   "bjuda"
+  ],
+  "origin": "Av und- ’emot’ och fägna ’glädja, välkomna’, till det ålderdomliga adjektivet fägen ’glad’."
+ },
+ {
+  "lemma": "hemfalla",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈhɛmːˌfalːa",
+  "definition": "Ge efter för en frestelse eller ovana",
+  "example": "Det är lätt att hemfalla åt önsketänkande när läget är svårt.",
+  "synonyms": [
+   "förfalla",
+   "hänge"
+  ],
+  "origin": "Sammansatt av hem och falla; ursprungligen en rättsterm, ’falla tillbaka till ägaren’, efter tyska heimfallen."
+ },
+ {
+  "lemma": "beveka",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "bɛˈveːka",
+  "definition": "Få någon att ge med sig genom böner",
+  "example": "Inga tårar kunde beveka den stränge fadern.",
+  "synonyms": [
+   "blidka",
+   "röra",
+   "övertala"
+  ],
+  "origin": "Lån från lågtyska bewēken ’göra vek, mjuka upp’, till vek."
+ },
+ {
+  "lemma": "vanhelga",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈvɑːnˌhɛlɡa",
+  "definition": "Kränka något som är heligt",
+  "example": "Gravplundrarna vanhelgade kungagraven i jakt på guld.",
+  "synonyms": [
+   "skända",
+   "profanera",
+   "kränka"
+  ],
+  "origin": "Sammansatt av van- ’fel, illa’ och helga ’göra helig’."
+ },
+ {
+  "lemma": "förgäta",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "fœrˈjɛːta",
+  "definition": "Glömma, i högtidligt eller ålderdomligt språk",
+  "example": "Förgät inte dem som röjde marken före oss.",
+  "synonyms": [
+   "glömma",
+   "förglömma"
+  ],
+  "origin": "Av fornsvenska forgäta, besläktat med engelska forget och tyska vergessen; lever kvar i blomnamnet förgätmigej."
+ },
+ {
+  "lemma": "föresväva",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "ˈfœːrɛˌsvɛːva",
+  "definition": "Finnas som oklar tanke eller avlägset mål",
+  "example": "Det föresvävade honom att han hade sett ansiktet förut.",
+  "synonyms": [
+   "hägra",
+   "skymta"
+  ],
+  "origin": "Efter tyska vorschweben, av före och sväva; tanken svävar framför en."
+ },
+ {
+  "lemma": "begabba",
+  "level": 3,
+  "part_of_speech": "verb",
+  "ipa": "bɛˈɡabːa",
+  "definition": "Driva med och håna någon",
+  "example": "Profeten blev begabbad av folket men stod fast vid sitt budskap.",
+  "synonyms": [
+   "håna",
+   "förlöjliga",
+   "bespotta"
+  ],
+  "origin": "Bildat med be- till gabba ’gyckla’, fornsvenska gabba, besläktat med isländska gabba ’narra, håna’."
+ },
+ {
+  "lemma": "allenast",
+  "level": 3,
+  "part_of_speech": "adv.",
+  "ipa": "aˈleːnast",
+  "definition": "Endast, blott; i högtidligt språk",
+  "example": "Segern tillhör allenast den som vågar försöka.",
+  "synonyms": [
+   "endast",
+   "blott",
+   "enbart"
+  ],
+  "origin": "Bildat till allena ’ensam’, som är lånat från lågtyska allēne (tyska allein)."
+ },
+ {
+  "lemma": "ingalunda",
+  "level": 3,
+  "part_of_speech": "adv.",
+  "ipa": "ˈɪŋːaˌlɵnːda",
+  "definition": "Inte alls; på inget sätt",
+  "example": "Det var ingalunda första gången han kom för sent.",
+  "synonyms": [
+   "ingaledes",
+   "omöjligen"
+  ],
+  "origin": "Av fornsvenska inga lund ’på intet sätt’, där lund betyder ’sätt, vis’ (jfr någorlunda och lynne)."
+ },
+ {
+  "lemma": "tillförne",
+  "level": 3,
+  "part_of_speech": "adv.",
+  "ipa": "ˈtɪlːˌfœːɳɛ",
+  "definition": "Förut, i äldre tid",
+  "example": "Byn var tillförne känd för sina skickliga silversmeder.",
+  "synonyms": [
+   "förut",
+   "förr",
+   "fordom"
+  ],
+  "origin": "Av fornsvenska til forna, av till och en form av forn ’gammal, förfluten’."
+ },
+ {
+  "lemma": "städse",
+  "level": 3,
+  "part_of_speech": "adv.",
+  "ipa": "ˈstɛːdsɛ",
+  "definition": "Alltid, utan avbrott; i högtidlig stil",
+  "example": "Han var städse beredd att hjälpa en vän i nöd.",
+  "synonyms": [
+   "alltid",
+   "jämt",
+   "ständigt"
+  ],
+  "origin": "Lån från lågtyska stedes ’alltid’; besläktat med tyska stets."
+ }
+]

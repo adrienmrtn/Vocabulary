@@ -1,0 +1,770 @@
+[
+ {
+  "lemma": "chyży",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ˈxɨʐɨ",
+  "definition": "Bardzo szybki i zwinny w ruchu",
+  "example": "Chyży goniec dotarł do zamku przed zapadnięciem zmroku.",
+  "synonyms": [
+   "szybki",
+   "rączy",
+   "prędki"
+  ],
+  "origin": "Od rdzenia obecnego też w „chybki” i dawnym „chynąć”; dalsze pochodzenie niepewne."
+ },
+ {
+  "lemma": "cny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "t͡snɨ",
+  "definition": "Pełen cnót, godny czci",
+  "example": "Cny rycerz uroczyście ślubował bronić wdów i sierot.",
+  "synonyms": [
+   "zacny",
+   "szlachetny",
+   "prawy"
+  ],
+  "origin": "Ze staropolskiego czsny, z prasłowiańskiego *čьstьnъ „czcigodny”, od *čьstь „cześć”."
+ },
+ {
+  "lemma": "dojmujący",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "dɔjmuˈjɔnt͡sɨ",
+  "definition": "Odczuwany bardzo silnie i boleśnie",
+  "example": "Po wyjeździe dzieci ogarnęło ją dojmujące poczucie pustki.",
+  "synonyms": [
+   "przenikliwy",
+   "dotkliwy",
+   "przejmujący"
+  ],
+  "origin": "Imiesłów od dawnego „dojmować” „dosięgać, dokuczać”, z rdzenia „jąć” „chwytać”."
+ },
+ {
+  "lemma": "frasobliwy",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "frasɔˈblivɨ",
+  "definition": "Pogrążony w troskach, zmartwiony",
+  "example": "Ojciec siedział frasobliwy nad stosem niezapłaconych rachunków.",
+  "synonyms": [
+   "stroskany",
+   "zatroskany",
+   "zmartwiony"
+  ],
+  "origin": "Od „frasować się”, z niemieckiego fressen „żreć”: o trosce, która „zżera” człowieka."
+ },
+ {
+  "lemma": "górnolotny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ɡurnɔˈlɔtnɨ",
+  "definition": "Przesadnie wzniosły i napuszony w stylu",
+  "example": "Górnolotne frazesy mówcy nie przekonały nikogo ze słuchaczy.",
+  "synonyms": [
+   "napuszony",
+   "patetyczny",
+   "pompatyczny"
+  ],
+  "origin": "Złożenie z „górny” i „lot”: o stylu, który „wysoko lata”."
+ },
+ {
+  "lemma": "kostyczny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "kɔsˈtɨt͡ʂnɨ",
+  "definition": "Złośliwie dowcipny, uszczypliwy",
+  "example": "Profesor słynął z kostycznych uwag na marginesach prac studentów.",
+  "synonyms": [
+   "zgryźliwy",
+   "uszczypliwy",
+   "zjadliwy"
+  ],
+  "origin": "Z greckiego kaustikós „palący, żrący”, przez łacińskie causticus i francuskie caustique."
+ },
+ {
+  "lemma": "krotochwilny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "krɔtɔˈxfilnɨ",
+  "definition": "Skłonny do żartów, zabawny",
+  "example": "Krotochwilny stryj potrafił rozbawić nawet najbardziej ponurych gości.",
+  "synonyms": [
+   "żartobliwy",
+   "figlarny",
+   "wesoły"
+  ],
+  "origin": "Od „krotochwila” „żart, zabawa”, kalki czeskiego kratochvíle: dosłownie „krótka chwila”, czyli skracanie sobie czasu."
+ },
+ {
+  "lemma": "opieszały",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ɔpʲɛˈʂawɨ",
+  "definition": "Działający powoli i niechętnie, ociągający się",
+  "example": "Opieszały urząd odpowiedział na pismo dopiero po roku.",
+  "synonyms": [
+   "powolny",
+   "ślamazarny",
+   "gnuśny"
+  ],
+  "origin": "Od dawnego „opieszeć” „stać się pieszym, stracić konia”, a więc „zostawać w tyle”."
+ },
+ {
+  "lemma": "przaśny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ˈpʂaɕnɨ",
+  "definition": "Prosty i swojski aż do pospolitości",
+  "example": "Wystrój gospody był przaśny: cerata, makatki i plastikowe kwiaty.",
+  "synonyms": [
+   "siermiężny",
+   "swojski",
+   "prostacki"
+  ],
+  "origin": "Z prasłowiańskiego *prěsnъ „niekwaszony, świeży”; pierwotnie o chlebie pieczonym bez zakwasu."
+ },
+ {
+  "lemma": "siermiężny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ɕɛrˈmʲɛ̃ʐnɨ",
+  "definition": "Ubogi, toporny i pozbawiony ogłady",
+  "example": "Siermiężne meble z dykty pamiętały jeszcze lata siedemdziesiąte.",
+  "synonyms": [
+   "toporny",
+   "zgrzebny",
+   "prymitywny"
+  ],
+  "origin": "Od „siermięga” „chłopska sukmana z grubego sukna”, wyrazu o niepewnym, zapewne wschodnim pochodzeniu."
+ },
+ {
+  "lemma": "spolegliwy",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "spɔlɛˈɡlivɨ",
+  "definition": "Taki, któremu można zaufać w potrzebie",
+  "example": "Szukali spolegliwego opiekuna dla chorej matki.",
+  "synonyms": [
+   "niezawodny",
+   "solidny",
+   "pewny"
+  ],
+  "origin": "Od „spolegać” „polegać na kimś”, słowa śląskiego; w tym znaczeniu upowszechnił je Tadeusz Kotarbiński."
+ },
+ {
+  "lemma": "wiekuisty",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "vʲɛkuˈistɨ",
+  "definition": "Trwający bez końca, wieczny",
+  "example": "Modlono się o wiekuisty spokój dla poległych żołnierzy.",
+  "synonyms": [
+   "wieczny",
+   "nieskończony",
+   "nieśmiertelny"
+  ],
+  "origin": "Od „wiek”, z prasłowiańskiego *věkъ; por. staropolskie wiekuji „wieczny”."
+ },
+ {
+  "lemma": "zdrożny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ˈzdrɔʐnɨ",
+  "definition": "Niezgodny z dobrymi obyczajami, naganny",
+  "example": "Nie widział nic zdrożnego w czytaniu cudzych listów.",
+  "synonyms": [
+   "naganny",
+   "niegodziwy",
+   "niestosowny"
+  ],
+  "origin": "Od wyrażenia „z drogi”: o postępku, który zbacza z właściwej drogi."
+ },
+ {
+  "lemma": "buńczuczny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "buɲˈt͡ʂut͡ʂnɨ",
+  "definition": "Zuchwale pewny siebie, wyzywający",
+  "example": "Buńczuczna mina zrzedła mu, gdy zobaczył prawdziwego przeciwnika.",
+  "synonyms": [
+   "zadziorny",
+   "butny",
+   "zawadiacki"
+  ],
+  "origin": "Od „buńczuk”, tureckiego znaku władzy z końskiego ogona na drzewcu; wyraz pochodzenia tureckiego."
+ },
+ {
+  "lemma": "bałamutny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "bawaˈmutnɨ",
+  "definition": "Wprowadzający w błąd, mącący w głowie",
+  "example": "Bałamutne plotki o zamknięciu fabryki obiegły całe miasteczko.",
+  "synonyms": [
+   "zwodniczy",
+   "mylący",
+   "mętny"
+  ],
+  "origin": "Od „bałamut” „zwodziciel”, zapożyczonego z języków wschodniosłowiańskich; dalsze pochodzenie sporne."
+ },
+ {
+  "lemma": "płonny",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ˈpwɔnnɨ",
+  "definition": "Niedający owoców ani rezultatów, daremny",
+  "example": "Nadzieje na szybki koniec sporu okazały się płonne.",
+  "synonyms": [
+   "daremny",
+   "próżny",
+   "jałowy"
+  ],
+  "origin": "Zapewne z prasłowiańskiego *polnъ „pusty, jałowy”, związanego z *polje „otwarta przestrzeń”."
+ },
+ {
+  "lemma": "rączy",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ˈrɔnt͡ʂɨ",
+  "definition": "Szybki i lekki w biegu",
+  "example": "Rączy koń przeskoczył rów i pomknął w stronę lasu.",
+  "synonyms": [
+   "chyży",
+   "szybki",
+   "śmigły"
+  ],
+  "origin": "Wyraz staropolski, zapewne związany z „ręka” (jak „zręczny”); pochodzenie niepewne."
+ },
+ {
+  "lemma": "miałki",
+  "level": 3,
+  "part_of_speech": "przym.",
+  "ipa": "ˈmʲawkʲi",
+  "definition": "Powierzchowny, pozbawiony głębi",
+  "example": "Krytycy zarzucali powieści miałką fabułę i papierowe postacie.",
+  "synonyms": [
+   "płytki",
+   "powierzchowny",
+   "jałowy"
+  ],
+  "origin": "Z prasłowiańskiego *mělъkъ „drobny, płytki”, od rdzenia obecnego w „mleć”."
+ },
+ {
+  "lemma": "blichtr",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "blixtr",
+  "definition": "Tani, powierzchowny blask nastawiony na efekt",
+  "example": "Pod blichtrem luksusowego hotelu kryła się zwykła tandeta.",
+  "synonyms": [
+   "połysk",
+   "pozór",
+   "tandeta"
+  ],
+  "origin": "Zapewne z niemieckiego (por. blicken „błyskać”, Blick „błysk”); szczegóły zapożyczenia są niepewne."
+ },
+ {
+  "lemma": "czeluść",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈt͡ʂɛluɕt͡ɕ",
+  "definition": "Głęboki, ciemny otwór lub przepaść",
+  "example": "Grotołazi opuszczali się na linach w czeluść jaskini.",
+  "synonyms": [
+   "otchłań",
+   "przepaść",
+   "głębia"
+  ],
+  "origin": "Z prasłowiańskiego *čeľustь „szczęka, paszcza”; stąd „rozwarty otwór”."
+ },
+ {
+  "lemma": "dezynwoltura",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "dɛzɨnvɔlˈtura",
+  "definition": "Zbyt swobodny, lekceważący sposób bycia",
+  "example": "Z dezynwolturą rozsiadł się w fotelu prezesa i zapalił cygaro.",
+  "synonyms": [
+   "nonszalancja",
+   "swoboda",
+   "bezceremonialność"
+  ],
+  "origin": "Z francuskiego désinvolture, to z włoskiego disinvoltura „swoboda, niewymuszoność”."
+ },
+ {
+  "lemma": "fanaberia",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "fanaˈbɛrja",
+  "definition": "Kapryśna, wymyślna zachcianka",
+  "example": "Trzeci samochód w garażu uznała za zwykłą fanaberię męża.",
+  "synonyms": [
+   "kaprys",
+   "zachcianka",
+   "grymas"
+  ],
+  "origin": "Z jidysz, zwykle wywodzone od fajne berje „elegancki zuch, pyszałek”; pochodzenie nie jest w pełni pewne."
+ },
+ {
+  "lemma": "frasunek",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "fraˈsunɛk",
+  "definition": "Zmartwienie, które nie daje spokoju",
+  "example": "Na frasunek najlepsza była według niej szklanka mocnej herbaty.",
+  "synonyms": [
+   "troska",
+   "kłopot",
+   "zmartwienie"
+  ],
+  "origin": "Od „frasować się”, z niemieckiego fressen „żreć”, z przyrostkiem -unek (niemieckie -ung)."
+ },
+ {
+  "lemma": "jestestwo",
+  "level": 3,
+  "part_of_speech": "rzecz. n.",
+  "ipa": "jɛsˈtɛstfɔ",
+  "definition": "Istota człowieka, całe jego wewnętrzne bycie",
+  "example": "Całym jestestwem buntowała się przeciwko tej niesprawiedliwości.",
+  "synonyms": [
+   "istota",
+   "natura",
+   "byt"
+  ],
+  "origin": "Od „jest”, formy czasownika „być”; prawdopodobnie na wzór łacińskiego essentia."
+ },
+ {
+  "lemma": "kabotyn",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "kaˈbɔtɨn",
+  "definition": "Człowiek popisujący się tanimi efektami",
+  "example": "Uważano go za kabotyna, który każdą rozmowę zamieniał w występ.",
+  "synonyms": [
+   "pozer",
+   "komediant",
+   "efekciarz"
+  ],
+  "origin": "Z francuskiego cabotin „wędrowny, marny aktor”."
+ },
+ {
+  "lemma": "matecznik",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "maˈtɛt͡ʂɲik",
+  "definition": "Niedostępna głąb puszczy, ostoja zwierzyny",
+  "example": "Żubry zimowały w mateczniku, dokąd nie prowadziła żadna ścieżka.",
+  "synonyms": [
+   "ostęp",
+   "gęstwina",
+   "ostoja"
+  ],
+  "origin": "Od „matka”: pierwotnie komórka pszczelej matki w ulu, potem „miejsce, gdzie rodzą się zwierzęta”."
+ },
+ {
+  "lemma": "mitręga",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "miˈtrɛŋɡa",
+  "definition": "Żmudne zajęcie pochłaniające czas bez pożytku",
+  "example": "Wypełnianie tych formularzy to mitręga na całe popołudnie.",
+  "synonyms": [
+   "udręka",
+   "mordęga",
+   "marudzenie"
+  ],
+  "origin": "Pochodzenie niepewne; wyraz znany od staropolszczyzny razem z czasownikiem „mitrężyć” „marnować czas”."
+ },
+ {
+  "lemma": "mrzonka",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈmʐɔnka",
+  "definition": "Nierealne marzenie, którego nie da się spełnić",
+  "example": "Plan zbudowania domu w rok okazał się mrzonką.",
+  "synonyms": [
+   "urojenie",
+   "iluzja",
+   "fantazja"
+  ],
+  "origin": "Zapewne od dawnego „mrzeć się” „majaczyć, zwidywać się”; pokrewne „marzyć” i „mara”."
+ },
+ {
+  "lemma": "opoka",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ɔˈpɔka",
+  "definition": "Skała albo niezawodne oparcie w trudnych chwilach",
+  "example": "W czasie choroby żona była dla niego prawdziwą opoką.",
+  "synonyms": [
+   "podpora",
+   "ostoja",
+   "skała"
+  ],
+  "origin": "Z prasłowiańskiego *opoka „skała, twardy kamień”; przenośne znaczenie utrwaliła biblijna fraza o Piotrze."
+ },
+ {
+  "lemma": "przywara",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "pʂɨˈvara",
+  "definition": "Wada charakteru lub szkodliwe przyzwyczajenie",
+  "example": "Gadulstwo było jego jedyną przywarą, ale za to dokuczliwą.",
+  "synonyms": [
+   "wada",
+   "ułomność",
+   "słabostka"
+  ],
+  "origin": "Od „przywrzeć”: pierwotnie „to, co przywarło do garnka”, przypalony osad; stąd „skaza”."
+ },
+ {
+  "lemma": "rejwach",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈrɛjvax",
+  "definition": "Głośne zamieszanie i krzyki",
+  "example": "Na targu podniósł się rejwach, gdy z klatki uciekły gęsi.",
+  "synonyms": [
+   "harmider",
+   "rwetes",
+   "zgiełk"
+  ],
+  "origin": "Z jidysz rejwech „zysk”, też „gwar, hałas”, to z hebrajskiego rewach „zysk”."
+ },
+ {
+  "lemma": "rubież",
+  "level": 3,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈrubʲɛʂ",
+  "definition": "Pograniczny, krańcowy obszar kraju",
+  "example": "Na wschodnich rubieżach państwa stały drewniane strażnice.",
+  "synonyms": [
+   "pogranicze",
+   "kresy",
+   "granica"
+  ],
+  "origin": "Z języków wschodniosłowiańskich (ruskie rubež „granica”), od rubiti „rąbać”: znak wyrąbany na drzewie."
+ },
+ {
+  "lemma": "safanduła",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "safanˈduwa",
+  "definition": "Człowiek niezaradny, powolny i nudny",
+  "example": "Ten safanduła znowu zgubił bilety i stoimy przed kasą.",
+  "synonyms": [
+   "niedołęga",
+   "gamoń",
+   "ciamajda"
+  ],
+  "origin": "Pochodzenie niepewne; wyraz notowany w polszczyźnie od XVIII wieku."
+ },
+ {
+  "lemma": "utracjusz",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "uˈtrat͡sjuʂ",
+  "definition": "Człowiek lekkomyślnie trwoniący majątek",
+  "example": "Młody utracjusz przegrał w karty rodową posiadłość.",
+  "synonyms": [
+   "rozrzutnik",
+   "marnotrawca",
+   "hulaka"
+  ],
+  "origin": "Od „utracić”, z żartobliwą, naśladującą łacinę końcówką -jusz."
+ },
+ {
+  "lemma": "warchoł",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈvarxɔw",
+  "definition": "Człowiek siejący niezgodę i zamęt",
+  "example": "Sejmik zerwał znany warchoł, któremu zależało wyłącznie na rozgłosie.",
+  "synonyms": [
+   "awanturnik",
+   "wichrzyciel",
+   "burzyciel"
+  ],
+  "origin": "Od staropolskiego warchoł „kłótnia, zamieszanie”; dalsze pochodzenie niepewne."
+ },
+ {
+  "lemma": "zaścianek",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "zaˈɕt͡ɕanɛk",
+  "definition": "Wieś drobnej szlachty albo zacofana prowincja",
+  "example": "Dla stołecznych krytyków całe to miasto było głuchym zaściankiem.",
+  "synonyms": [
+   "prowincja",
+   "partykularz"
+  ],
+  "origin": "Od wyrażenia „za ścianą”, czyli za granicą pól dworskich; „ściana” znaczyła też „granica”."
+ },
+ {
+  "lemma": "wartogłów",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "varˈtɔɡwuf",
+  "definition": "Człowiek lekkomyślny i narwany",
+  "example": "Ten wartogłów znów rzucił pracę, bo zamarzyła mu się Patagonia.",
+  "synonyms": [
+   "narwaniec",
+   "postrzeleniec",
+   "lekkoduch"
+  ],
+  "origin": "Złożenie z dawnego „wartać” „kręcić” i „głowa”: ktoś, komu „kręci się w głowie”."
+ },
+ {
+  "lemma": "zausznik",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "zaˈuʂɲik",
+  "definition": "Zaufany doradca, szepczący możnemu do ucha",
+  "example": "Decyzje podejmował nie minister, lecz jego zausznik bez żadnej funkcji.",
+  "synonyms": [
+   "powiernik",
+   "poplecznik",
+   "totumfacki"
+  ],
+  "origin": "Od wyrażenia „za uszy”: ten, kto ma dostęp do czyjegoś ucha."
+ },
+ {
+  "lemma": "pieczeniarz",
+  "level": 3,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "pʲɛˈt͡ʂɛɲaʂ",
+  "definition": "Człowiek żyjący na cudzy koszt",
+  "example": "Na dworze magnata roiło się od pieczeniarzy i pochlebców.",
+  "synonyms": [
+   "pasożyt",
+   "darmozjad",
+   "rezydent"
+  ],
+  "origin": "Od „pieczeń”: ktoś, kto zjawia się tam, gdzie pachnie cudzą pieczenią."
+ },
+ {
+  "lemma": "baczyć",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "ˈbat͡ʂɨt͡ɕ",
+  "definition": "Uważnie patrzeć, mieć coś na względzie",
+  "example": "Nie bacząc na ulewę, pobiegł po lekarza do sąsiedniej wsi.",
+  "synonyms": [
+   "uważać",
+   "zważać",
+   "patrzeć"
+  ],
+  "origin": "Wyraz ogólnosłowiański (por. ukraińskie baczyty „widzieć”); pochodzenie rdzenia jest sporne."
+ },
+ {
+  "lemma": "dywagować",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "dɨvaˈɡɔvat͡ɕ",
+  "definition": "Mówić rozwlekle, odbiegając od tematu",
+  "example": "Zamiast dywagować o przyczynach, zajmijmy się wreszcie naprawą dachu.",
+  "synonyms": [
+   "rozprawiać",
+   "perorować",
+   "gdybać"
+  ],
+  "origin": "Z łacińskiego divagari „błąkać się, wędrować tu i tam”."
+ },
+ {
+  "lemma": "gderać",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "ˈɡdɛrat͡ɕ",
+  "definition": "Narzekać zrzędliwie i bez końca",
+  "example": "Dziadek gderał na pogodę, ceny i dzisiejszą młodzież.",
+  "synonyms": [
+   "zrzędzić",
+   "marudzić",
+   "utyskiwać"
+  ],
+  "origin": "Wyraz dźwiękonaśladowczy, pokrewny „gdakać”."
+ },
+ {
+  "lemma": "perorować",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "pɛrɔˈrɔvat͡ɕ",
+  "definition": "Przemawiać długo, z namaszczeniem i pouczająco",
+  "example": "Wuj godzinami perorował przy stole o upadku obyczajów.",
+  "synonyms": [
+   "przemawiać",
+   "rozprawiać",
+   "prawić"
+  ],
+  "origin": "Z łacińskiego perorare „wygłosić mowę do końca”, od orare „mówić”."
+ },
+ {
+  "lemma": "pomstować",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "pɔmˈstɔvat͡ɕ",
+  "definition": "Głośno wyrażać gniew, złorzeczyć",
+  "example": "Kierowcy pomstowali na drogowców, stojąc w wielokilometrowym korku.",
+  "synonyms": [
+   "złorzeczyć",
+   "wyklinać",
+   "kląć"
+  ],
+  "origin": "Od „pomsta” „zemsta”, z prasłowiańskiego *mьstь; pierwotnie „wzywać pomsty”."
+ },
+ {
+  "lemma": "sarkać",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "ˈsarkat͡ɕ",
+  "definition": "Okazywać niezadowolenie pomrukiem i narzekaniem",
+  "example": "Pracownicy sarkali na nowe porządki, lecz nikt nie odszedł.",
+  "synonyms": [
+   "szemrać",
+   "utyskiwać",
+   "narzekać"
+  ],
+  "origin": "Wyraz dźwiękonaśladowczy, pierwotnie „głośno wciągać powietrze nosem, parskać”."
+ },
+ {
+  "lemma": "uwłaczać",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "uˈvwat͡ʂat͡ɕ",
+  "definition": "Naruszać czyjąś godność lub dobre imię",
+  "example": "Takie warunki pracy uwłaczają godności każdego człowieka.",
+  "synonyms": [
+   "ubliżać",
+   "obrażać",
+   "hańbić"
+  ],
+  "origin": "Od dawnego „uwłóczyć” „ująć, uszczknąć”, z rdzenia „wlec”: stąd „umniejszać komuś”."
+ },
+ {
+  "lemma": "hołdować",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "xɔwˈdɔvat͡ɕ",
+  "definition": "Wiernie trzymać się jakiejś zasady lub upodobania",
+  "example": "Hołdował zasadzie, że gościa nie wypuszcza się głodnego.",
+  "synonyms": [
+   "wyznawać",
+   "ulegać",
+   "sprzyjać"
+  ],
+  "origin": "Od „hołd”, z niemieckiego Huld „łaska, wierność”, zapewne za pośrednictwem czeskim."
+ },
+ {
+  "lemma": "dzierżyć",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "ˈd͡ʑɛrʐɨt͡ɕ",
+  "definition": "Trzymać mocno w ręku albo sprawować władzę",
+  "example": "Przez trzydzieści lat dzierżył ster rodzinnej firmy żelazną ręką.",
+  "synonyms": [
+   "trzymać",
+   "władać",
+   "piastować"
+  ],
+  "origin": "Z prasłowiańskiego *dьržati „trzymać”; stąd też „dzierżawa”."
+ },
+ {
+  "lemma": "ferować",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "fɛˈrɔvat͡ɕ",
+  "definition": "Ogłaszać wyrok lub wydawać stanowczy sąd",
+  "example": "Nie należy ferować wyroków, zanim wysłucha się obu stron.",
+  "synonyms": [
+   "orzekać",
+   "wydawać",
+   "ogłaszać"
+  ],
+  "origin": "Z łacińskiego ferre „nieść, przynosić”, w zwrocie sententiam ferre „wydać wyrok”."
+ },
+ {
+  "lemma": "zaprzepaścić",
+  "level": 3,
+  "part_of_speech": "czas.",
+  "ipa": "zapʂɛˈpaɕt͡ɕit͡ɕ",
+  "definition": "Zmarnować coś cennego przez własną nieostrożność",
+  "example": "Jednym nieprzemyślanym wywiadem zaprzepaścił lata budowania reputacji.",
+  "synonyms": [
+   "zmarnować",
+   "stracić",
+   "roztrwonić"
+  ],
+  "origin": "Od „przepaść” w znaczeniu „zginąć”: dosłownie „sprawić, że coś przepadło”."
+ },
+ {
+  "lemma": "zaiste",
+  "level": 3,
+  "part_of_speech": "przysł.",
+  "ipa": "zaˈistɛ",
+  "definition": "Naprawdę, w rzeczy samej",
+  "example": "Był to zaiste niezwykły widok: bocian spacerujący po rynku.",
+  "synonyms": [
+   "doprawdy",
+   "istotnie",
+   "rzeczywiście"
+  ],
+  "origin": "Zrost „za” i dawnego „iste”, od „isty” „prawdziwy, pewny”, z prasłowiańskiego *istъ."
+ },
+ {
+  "lemma": "poniewczasie",
+  "level": 3,
+  "part_of_speech": "przysł.",
+  "ipa": "pɔɲɛfˈt͡ʂaɕɛ",
+  "definition": "Za późno, gdy nic już nie da się zmienić",
+  "example": "Poniewczasie zrozumiał, że powinien był wtedy przeprosić.",
+  "synonyms": [
+   "późno",
+   "nierychło"
+  ],
+  "origin": "Zrost wyrażenia „po niewczasie”; staropolski „niewczas” znaczył „nieodpowiednia pora”."
+ },
+ {
+  "lemma": "onegdaj",
+  "level": 3,
+  "part_of_speech": "przysł.",
+  "ipa": "ɔˈnɛɡdaj",
+  "definition": "Przedwczoraj albo kilka dni temu",
+  "example": "Onegdaj spotkałem na dworcu dawnego nauczyciela łaciny.",
+  "synonyms": [
+   "przedwczoraj",
+   "niedawno",
+   "ostatnio"
+  ],
+  "origin": "Ze staropolskiego onegdy „owego czasu”, z zaimka „on” „ów” i cząstki -gdy; końcowe -j jak we „wczoraj”."
+ },
+ {
+  "lemma": "obcesowo",
+  "level": 3,
+  "part_of_speech": "przysł.",
+  "ipa": "ɔpt͡sɛˈsɔvɔ",
+  "definition": "Bez ogródek, natarczywie i niegrzecznie",
+  "example": "Dziennikarz obcesowo zapytał aktorkę o jej zarobki i rozwód.",
+  "synonyms": [
+   "bezceremonialnie",
+   "natarczywie",
+   "grubiańsko"
+  ],
+  "origin": "Od „obces”, z łacińskiego obsessus „opętany”; „iść obces” znaczyło „nacierać jak opętany”."
+ },
+ {
+  "lemma": "nieopatrznie",
+  "level": 3,
+  "part_of_speech": "przysł.",
+  "ipa": "ɲɛɔˈpatʂɲɛ",
+  "definition": "Przez nieuwagę, bez zastanowienia nad skutkami",
+  "example": "Nieopatrznie wspomniał o niespodziance przy samej jubilatce.",
+  "synonyms": [
+   "nieostrożnie",
+   "nierozważnie",
+   "niebacznie"
+  ],
+  "origin": "Od przeczenia „nie” i „opatrzny” „przezorny”, od „opatrzyć” „obejrzeć, zadbać”."
+ }
+]

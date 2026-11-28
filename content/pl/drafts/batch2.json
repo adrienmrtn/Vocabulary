@@ -1,0 +1,897 @@
+[
+ {
+  "lemma": "rzewny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈʐɛvnɨ",
+  "definition": "Wzruszający łagodnym smutkiem i tkliwością",
+  "example": "Skrzypek zagrał rzewną melodię i cała sala ucichła.",
+  "synonyms": [
+   "tkliwy",
+   "smętny",
+   "wzruszający"
+  ],
+  "origin": "Z prasłowiańskiego *revьnъ „żarliwy, gorliwy”; w polszczyźnie znaczenie przesunęło się ku „żałosny, tkliwy”."
+ },
+ {
+  "lemma": "tkliwy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈtklivɨ",
+  "definition": "Pełen delikatnej, wzruszającej czułości",
+  "example": "Pisała do niego tkliwe listy, których nigdy nie wysłała.",
+  "synonyms": [
+   "czuły",
+   "serdeczny",
+   "rzewny"
+  ],
+  "origin": "Od „tknąć”: pierwotnie „wrażliwy na dotyk, drażliwy”, potem „czuły”."
+ },
+ {
+  "lemma": "smętny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈsmɛntnɨ",
+  "definition": "Przygnębiony lub budzący cichy smutek",
+  "example": "Smętny krajobraz jesiennych pól ciągnął się za oknem pociągu.",
+  "synonyms": [
+   "smutny",
+   "posępny",
+   "melancholijny"
+  ],
+  "origin": "Z prasłowiańskiego *sъmǫtьnъ, od *mǫtiti „mącić”: dosłownie „zmącony na duchu”; pokrewne „smutny”."
+ },
+ {
+  "lemma": "markotny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "marˈkɔtnɨ",
+  "definition": "Niezadowolony i przygaszony, w kiepskim humorze",
+  "example": "Po przegranym meczu chłopiec chodził markotny przez cały wieczór.",
+  "synonyms": [
+   "osowiały",
+   "nadąsany",
+   "smutny"
+  ],
+  "origin": "Od dawnego markotać „mruczeć, szemrać z niezadowolenia”, wyrazu dźwiękonaśladowczego."
+ },
+ {
+  "lemma": "krnąbrny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈkrnɔmbrnɨ",
+  "definition": "Uparcie nieposłuszny i przekorny",
+  "example": "Krnąbrny uczeń odmówił wyjścia do tablicy trzeci raz z rzędu.",
+  "synonyms": [
+   "niesforny",
+   "uparty",
+   "nieposłuszny"
+  ],
+  "origin": "Pochodzenie niepewne; wyraz znany od staropolszczyzny, bez przekonującego objaśnienia."
+ },
+ {
+  "lemma": "powściągliwy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "pɔfɕt͡ɕɔŋˈɡlivɨ",
+  "definition": "Panujący nad sobą, oszczędny w słowach i gestach",
+  "example": "Był powściągliwy w pochwałach, więc każda z nich wiele znaczyła.",
+  "synonyms": [
+   "wstrzemięźliwy",
+   "opanowany",
+   "umiarkowany"
+  ],
+  "origin": "Od „powściągnąć” „powstrzymać”, z przedrostkami po-, wz- i rdzeniem „ciągnąć”."
+ },
+ {
+  "lemma": "opryskliwy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ɔprɨˈsklivɨ",
+  "definition": "Odpowiadający szorstko i niegrzecznie",
+  "example": "Opryskliwy urzędnik nie chciał nawet spojrzeć na nasze dokumenty.",
+  "synonyms": [
+   "gburowaty",
+   "szorstki",
+   "arogancki"
+  ],
+  "origin": "Od „pryskać”, „parskać”: o kimś, kto „pryska” złością na innych."
+ },
+ {
+  "lemma": "butny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈbutnɨ",
+  "definition": "Dumny i wyniosły aż do zuchwałości",
+  "example": "Butny młodzieniec nie przyjmował żadnych rad od starszych.",
+  "synonyms": [
+   "hardy",
+   "pyszny",
+   "wyniosły"
+  ],
+  "origin": "Od „buta” „pycha, hardość”; dalsze pochodzenie niepewne."
+ },
+ {
+  "lemma": "chełpliwy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "xɛwˈplivɨ",
+  "definition": "Lubiący się przechwalać swoimi zasługami",
+  "example": "Chełpliwy myśliwy co roku opowiadał o coraz większym dziku.",
+  "synonyms": [
+   "pyszałkowaty",
+   "próżny",
+   "zarozumiały"
+  ],
+  "origin": "Od „chełpić się”, staropolskie chełpa „przechwałka”; rdzeń zapewne dźwiękonaśladowczy."
+ },
+ {
+  "lemma": "gnuśny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈɡnuɕnɨ",
+  "definition": "Leniwy i ospały, niechętny do działania",
+  "example": "Gnuśne popołudnie upłynęło im na przeglądaniu starych gazet.",
+  "synonyms": [
+   "leniwy",
+   "ospały",
+   "opieszały"
+  ],
+  "origin": "Z prasłowiańskiego *gnusьnъ „wstrętny, brudny”; w polszczyźnie znaczenie złagodniało do „leniwy”."
+ },
+ {
+  "lemma": "hardy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈxardɨ",
+  "definition": "Dumny i nieskłonny do ustępstw",
+  "example": "Hardy góral nie zdjął kapelusza nawet przed starostą.",
+  "synonyms": [
+   "dumny",
+   "butny",
+   "nieugięty"
+  ],
+  "origin": "Zapożyczenie z czeskiego hrdý „dumny”, z prasłowiańskiego *gъrdъ; rodzimą postać rdzenia zachowało „gardzić”."
+ },
+ {
+  "lemma": "rubaszny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ruˈbaʂnɨ",
+  "definition": "Wesoły w sposób prostacki, lecz dobroduszny",
+  "example": "Wuj słynął z rubasznych żartów opowiadanych przy stole.",
+  "synonyms": [
+   "jowialny",
+   "dosadny",
+   "prostacki"
+  ],
+  "origin": "Zapewne od wschodniosłowiańskiego rubati „rąbać”: o kimś, kto „rąbie” prawdę bez ogródek."
+ },
+ {
+  "lemma": "sromotny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "srɔˈmɔtnɨ",
+  "definition": "Przynoszący wielki wstyd i hańbę",
+  "example": "Faworyci turnieju ponieśli sromotną klęskę już w pierwszej rundzie.",
+  "synonyms": [
+   "haniebny",
+   "hańbiący",
+   "druzgocący"
+  ],
+  "origin": "Od „sromota” „hańba”, z prasłowiańskiego *sormъ „wstyd”."
+ },
+ {
+  "lemma": "szkaradny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ʂkaˈradnɨ",
+  "definition": "Wyjątkowo brzydki, budzący odrazę",
+  "example": "Na strychu znalazł szkaradną maskę przywiezioną kiedyś z podróży.",
+  "synonyms": [
+   "ohydny",
+   "paskudny",
+   "szpetny"
+  ],
+  "origin": "Z prasłowiańskiego *skarędъ „wstrętny, plugawy”; por. czeskie škaredý."
+ },
+ {
+  "lemma": "ulotny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "uˈlɔtnɨ",
+  "definition": "Szybko przemijający, trudny do zatrzymania",
+  "example": "Fotografia pozwala zachować ulotne chwile zwykłego dnia.",
+  "synonyms": [
+   "przelotny",
+   "nietrwały",
+   "efemeryczny"
+  ],
+  "origin": "Od „ulecieć”, z rdzenia „lot”, „latać”: to, co łatwo ulatuje."
+ },
+ {
+  "lemma": "wątły",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈvɔntwɨ",
+  "definition": "Słaby i delikatny, łatwo ulegający zniszczeniu",
+  "example": "Wątły płomyk świecy zgasł przy pierwszym podmuchu.",
+  "synonyms": [
+   "słaby",
+   "kruchy",
+   "cherlawy"
+  ],
+  "origin": "Z prasłowiańskiego *ǫtьlъ „dziurawy, kruchy”, zapewne od *ǫ- „bez” i *tьlo „dno, podłoże”."
+ },
+ {
+  "lemma": "zawiły",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "zaˈvʲiwɨ",
+  "definition": "Skomplikowany i trudny do zrozumienia",
+  "example": "Adwokat cierpliwie tłumaczył zawiłe przepisy prawa spadkowego.",
+  "synonyms": [
+   "skomplikowany",
+   "zagmatwany",
+   "pogmatwany"
+  ],
+  "origin": "Dawny imiesłów od „zawić” „zawinąć”: dosłownie „zaplątany”."
+ },
+ {
+  "lemma": "zgryźliwy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "zɡrɨˈʑlivɨ",
+  "definition": "Lubiący dokuczać złośliwymi uwagami",
+  "example": "Zgryźliwy recenzent nie zostawił na debiutancie suchej nitki.",
+  "synonyms": [
+   "uszczypliwy",
+   "kąśliwy",
+   "złośliwy"
+  ],
+  "origin": "Od „zgryźć”, „gryźć”: o kimś, kto „kąsa” słowami."
+ },
+ {
+  "lemma": "żmudny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈʐmudnɨ",
+  "definition": "Wymagający długiej, nużącej i drobiazgowej pracy",
+  "example": "Po żmudnych poszukiwaniach w archiwum odnalazła akt urodzenia pradziadka.",
+  "synonyms": [
+   "mozolny",
+   "nużący",
+   "pracochłonny"
+  ],
+  "origin": "Od dawnego żmuda „strata czasu”, to zaś od mudzić „zwlekać”, z prasłowiańskiego *muditi."
+ },
+ {
+  "lemma": "błahy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈbwaxɨ",
+  "definition": "Mało ważny, niewart uwagi",
+  "example": "Pokłócili się o błahy drobiazg i nie rozmawiali przez tydzień.",
+  "synonyms": [
+   "drobny",
+   "nieistotny",
+   "banalny"
+  ],
+  "origin": "Zapożyczenie z ruskiego (ukraińskiego) blahyj „lichy, słaby”; to ten sam wyraz co rodzime „błogi”."
+ },
+ {
+  "lemma": "wykwintny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "vɨˈkfʲintnɨ",
+  "definition": "Wyszukany i w najlepszym gatunku",
+  "example": "Na kolację podano wykwintne potrawy kuchni francuskiej.",
+  "synonyms": [
+   "wytworny",
+   "wyszukany",
+   "elegancki"
+  ],
+  "origin": "Pochodzenie niepewne; bywa łączone z „kwintą”, najcieńszą struną skrzypiec, a więc z czymś subtelnym."
+ },
+ {
+  "lemma": "sielski",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈɕɛlskʲi",
+  "definition": "Wiejski, spokojny i idylliczny",
+  "example": "Spędzili sielskie wakacje w drewnianym domu pod lasem.",
+  "synonyms": [
+   "idylliczny",
+   "wiejski",
+   "sielankowy"
+  ],
+  "origin": "Od dawnego sioło „wieś”, z prasłowiańskiego *selo."
+ },
+ {
+  "lemma": "płochy",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "ˈpwɔxɨ",
+  "definition": "Lekkomyślny i niestały, zwłaszcza w uczuciach",
+  "example": "W młodości bywał płochy i co miesiąc kochał się w innej.",
+  "synonyms": [
+   "lekkomyślny",
+   "niestały",
+   "trzpiotowaty"
+  ],
+  "origin": "Z prasłowiańskiego *polxъ „strach, spłoszenie”: pierwotnie „bojaźliwy, łatwo się płoszący”."
+ },
+ {
+  "lemma": "potulny",
+  "level": 2,
+  "part_of_speech": "przym.",
+  "ipa": "pɔˈtulnɨ",
+  "definition": "Łagodny i posłuszny, niestawiający oporu",
+  "example": "Groźny z wyglądu pies okazał się potulny jak baranek.",
+  "synonyms": [
+   "uległy",
+   "pokorny",
+   "łagodny"
+  ],
+  "origin": "Od „tulić”, „potulić” w dawnym znaczeniu „uciszyć, uśmierzyć”."
+ },
+ {
+  "lemma": "zaduma",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "zaˈduma",
+  "definition": "Stan głębokiego, cichego zamyślenia",
+  "example": "Stał w zadumie nad brzegiem i patrzył na odpływające łodzie.",
+  "synonyms": [
+   "zamyślenie",
+   "refleksja",
+   "kontemplacja"
+  ],
+  "origin": "Od „dumać” „rozmyślać”, wyrazu przejętego zapewne ze wschodniosłowiańskiego dumati „myśleć”."
+ },
+ {
+  "lemma": "knieja",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈkɲɛja",
+  "definition": "Gęsty, stary las, ostoja dzikiej zwierzyny",
+  "example": "W głębi kniei myśliwi natrafili na świeże tropy wilków.",
+  "synonyms": [
+   "puszcza",
+   "bór",
+   "gęstwina"
+  ],
+  "origin": "Z prasłowiańskiego *kъněja, od *kъnъ „pień”: pierwotnie „miejsce pełne pni”."
+ },
+ {
+  "lemma": "waśń",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "vaɕɲ",
+  "definition": "Długotrwały, zacięty spór między ludźmi lub rodami",
+  "example": "Stara waśń o miedzę poróżniła obie rodziny na pokolenia.",
+  "synonyms": [
+   "spór",
+   "kłótnia",
+   "zwada"
+  ],
+  "origin": "Z prasłowiańskiego *vasnь, od rdzenia *vad- obecnego w „wadzić” „kłócić”."
+ },
+ {
+  "lemma": "gawęda",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ɡaˈvɛnda",
+  "definition": "Swobodna opowieść snuta na żywo",
+  "example": "Wieczorami dziadek snuł gawędy o życiu w przedwojennym Lwowie.",
+  "synonyms": [
+   "opowieść",
+   "pogadanka",
+   "pogawędka"
+  ],
+  "origin": "Rzeczownik od „gawędzić”; rdzeń zapewne dźwiękonaśladowczy, ten sam co w „gawiedź”."
+ },
+ {
+  "lemma": "zawadiaka",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "zavaˈdjaka",
+  "definition": "Człowiek chętny do bójki i awantur",
+  "example": "Stary zawadiaka nawet na weselu szukał okazji do zwady.",
+  "synonyms": [
+   "awanturnik",
+   "zabijaka",
+   "junak"
+  ],
+  "origin": "Od „zawadzić” „zaczepić”, z rdzenia „wadzić” „kłócić”; przyrostek jak w „zabijaka”."
+ },
+ {
+  "lemma": "animusz",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "aˈɲimuʂ",
+  "definition": "Zapał, śmiałość i ochota do działania",
+  "example": "Po przerwie drużyna wróciła na boisko z nowym animuszem.",
+  "synonyms": [
+   "werwa",
+   "zapał",
+   "wigor"
+  ],
+  "origin": "Z łacińskiego animus „duch, odwaga”; końcowe -sz przypisuje się zwykle pośrednictwu węgierskiemu."
+ },
+ {
+  "lemma": "kunszt",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "kunʂt",
+  "definition": "Mistrzowska biegłość w sztuce lub rzemiośle",
+  "example": "Kunszt dawnych złotników widać w każdym detalu tej monstrancji.",
+  "synonyms": [
+   "mistrzostwo",
+   "artyzm",
+   "maestria"
+  ],
+  "origin": "Z niemieckiego Kunst „sztuka, umiejętność”, od können „umieć”."
+ },
+ {
+  "lemma": "niedola",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ɲɛˈdɔla",
+  "definition": "Ciężki los pełen biedy i nieszczęść",
+  "example": "Reportaż opisywał niedolę rodzin, które powódź pozbawiła domów.",
+  "synonyms": [
+   "nieszczęście",
+   "bieda",
+   "nędza"
+  ],
+  "origin": "Od „nie” i „dola” „los, przydzielona część”, z prasłowiańskiego *dolja, od *děliti „dzielić”."
+ },
+ {
+  "lemma": "odmęt",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈɔdmɛnt",
+  "definition": "Głęboka, wzburzona toń albo wir wydarzeń",
+  "example": "Rybacka łódź znikła w odmętach wzburzonego jeziora.",
+  "synonyms": [
+   "głębina",
+   "toń",
+   "wir"
+  ],
+  "origin": "Od „mącić”, z prasłowiańskiego *mǫtiti „burzyć wodę”; pierwotnie „zmącona głębia”."
+ },
+ {
+  "lemma": "swada",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈsfada",
+  "definition": "Łatwość płynnego i przekonującego mówienia",
+  "example": "Mówiła z taką swadą, że nikt nie spojrzał na zegarek.",
+  "synonyms": [
+   "elokwencja",
+   "wymowność",
+   "krasomówstwo"
+  ],
+  "origin": "Z łacińskiego Suada, imienia rzymskiej bogini namowy, od suadere „doradzać, przekonywać”."
+ },
+ {
+  "lemma": "trwoga",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈtrfɔɡa",
+  "definition": "Silny lęk przed grożącym niebezpieczeństwem",
+  "example": "Na dźwięk syren mieszkańców miasta ogarnęła trwoga.",
+  "synonyms": [
+   "strach",
+   "lęk",
+   "przerażenie"
+  ],
+  "origin": "Zapewne zapożyczenie ze wschodniosłowiańskiego trevoga „niepokój, alarm”; dalsze pochodzenie niejasne."
+ },
+ {
+  "lemma": "ułuda",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "uˈwuda",
+  "definition": "Zwodnicze wrażenie, piękne, lecz nieprawdziwe",
+  "example": "Szczęście w tym małżeństwie okazało się tylko ułudą.",
+  "synonyms": [
+   "złudzenie",
+   "iluzja",
+   "miraż"
+  ],
+  "origin": "Od „łudzić”, z prasłowiańskiego *luditi „zwodzić, oszukiwać”."
+ },
+ {
+  "lemma": "zgryzota",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "zɡrɨˈzɔta",
+  "definition": "Dotkliwe zmartwienie, które długo trapi",
+  "example": "Jedyną zgryzotą starości była dla niej cisza w pustym domu.",
+  "synonyms": [
+   "zmartwienie",
+   "troska",
+   "strapienie"
+  ],
+  "origin": "Od „zgryźć”, „gryźć”: troska, która „gryzie” człowieka od środka."
+ },
+ {
+  "lemma": "znój",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "znuj",
+  "definition": "Wielki trud połączony ze zmęczeniem i potem",
+  "example": "Cały ten znój opłacił się, gdy zobaczyli pierwsze zbiory.",
+  "synonyms": [
+   "trud",
+   "mozół",
+   "harówka"
+  ],
+  "origin": "Z prasłowiańskiego *znojь „upał, pot”."
+ },
+ {
+  "lemma": "rozgardiasz",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "rɔzˈɡardjaʂ",
+  "definition": "Hałaśliwy nieład i zamieszanie",
+  "example": "W przedpokoju panował rozgardiasz: walizki, buty i płaczące dzieci.",
+  "synonyms": [
+   "bałagan",
+   "zamęt",
+   "harmider"
+  ],
+  "origin": "Pochodzenie niepewne; wyraz notowany dawniej także w postaci „rozgardyjas”."
+ },
+ {
+  "lemma": "szkopuł",
+  "level": 2,
+  "part_of_speech": "rzecz. m.",
+  "ipa": "ˈʂkɔpuw",
+  "definition": "Ukryta trudność, o którą rozbija się zamiar",
+  "example": "Plan był znakomity, szkopuł w tym, że nikt nie miał pieniędzy.",
+  "synonyms": [
+   "przeszkoda",
+   "trudność",
+   "kłopot"
+  ],
+  "origin": "Z łacińskiego scopulus „skała podwodna, rafa”, z greckiego skópelos."
+ },
+ {
+  "lemma": "udręka",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "uˈdrɛŋka",
+  "definition": "Długotrwałe cierpienie fizyczne lub duchowe",
+  "example": "Czekanie na wyniki badań było dla niej prawdziwą udręką.",
+  "synonyms": [
+   "męka",
+   "cierpienie",
+   "katusze"
+  ],
+  "origin": "Od „udręczyć”, „dręczyć”; dalsze pochodzenie rdzenia jest niepewne."
+ },
+ {
+  "lemma": "wrzawa",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "ˈvʐava",
+  "definition": "Głośne okrzyki i hałas wielu ludzi",
+  "example": "Po zwycięskim golu na trybunach podniosła się ogłuszająca wrzawa.",
+  "synonyms": [
+   "zgiełk",
+   "tumult",
+   "hałas"
+  ],
+  "origin": "Od „wrzeć”, z prasłowiańskiego *vьrěti „kipieć, burzyć się”."
+ },
+ {
+  "lemma": "zawierucha",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "zavʲɛˈruxa",
+  "definition": "Gwałtowna burza śnieżna albo czas wojennego zamętu",
+  "example": "Rodzinne pamiątki zaginęły podczas wojennej zawieruchy.",
+  "synonyms": [
+   "zamieć",
+   "zadymka",
+   "zamęt"
+  ],
+  "origin": "Zapewne ze wschodniosłowiańskiego (por. ukraińskie zawiriucha „zamieć”), od rdzenia obecnego w „wir”."
+ },
+ {
+  "lemma": "zażyłość",
+  "level": 2,
+  "part_of_speech": "rzecz. ż.",
+  "ipa": "zaˈʐɨwɔɕt͡ɕ",
+  "definition": "Bliska, serdeczna znajomość między ludźmi",
+  "example": "Między sąsiadkami z czasem zrodziła się prawdziwa zażyłość.",
+  "synonyms": [
+   "bliskość",
+   "poufałość",
+   "przyjaźń"
+  ],
+  "origin": "Od „zażyły”, dawnego imiesłowu od „zażyć” „przeżyć z kimś wiele”; rdzeń „żyć”."
+ },
+ {
+  "lemma": "biadać",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈbʲadat͡ɕ",
+  "definition": "Głośno narzekać na swój los",
+  "example": "Zamiast biadać nad rozlanym mlekiem, weź ścierkę i posprzątaj.",
+  "synonyms": [
+   "narzekać",
+   "lamentować",
+   "utyskiwać"
+  ],
+  "origin": "Od wykrzyknika „biada!”, z prasłowiańskiego *běda „nieszczęście, bieda”."
+ },
+ {
+  "lemma": "czmychnąć",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈt͡ʂmɨxnɔɲt͡ɕ",
+  "definition": "Uciec szybko i po cichu",
+  "example": "Na widok gospodarza lis czmychnął przez dziurę w płocie.",
+  "synonyms": [
+   "uciec",
+   "umknąć",
+   "zwiać"
+  ],
+  "origin": "Zapewne wyraz dźwiękonaśladowczy, oddający nagły, szybki ruch; por. „smyknąć”."
+ },
+ {
+  "lemma": "drwić",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "drvʲit͡ɕ",
+  "definition": "Wyśmiewać kogoś z lekceważeniem",
+  "example": "Koledzy drwili z jego planów, dopóki nie otworzył własnej firmy.",
+  "synonyms": [
+   "kpić",
+   "szydzić",
+   "ironizować"
+  ],
+  "origin": "Dawniej „pleść głupstwa”; łączone z rzeczownikiem „drwa”, ale pochodzenie pozostaje niepewne."
+ },
+ {
+  "lemma": "folgować",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "fɔlˈɡɔvat͡ɕ",
+  "definition": "Dawać upust czemuś albo traktować pobłażliwie",
+  "example": "Na urlopie folgował swojej słabości do słodyczy.",
+  "synonyms": [
+   "pobłażać",
+   "dogadzać",
+   "ulegać"
+  ],
+  "origin": "Z niemieckiego folgen „iść za kimś, być posłusznym”."
+ },
+ {
+  "lemma": "hołubić",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "xɔˈwubit͡ɕ",
+  "definition": "Otaczać czułą opieką i pieszczotą",
+  "example": "Babcia hołubiła najmłodszego wnuka i wybaczała mu wszystko.",
+  "synonyms": [
+   "pieścić",
+   "rozpieszczać",
+   "tulić"
+  ],
+  "origin": "Z ukraińskiego hołubyty „pieścić”, od hołub „gołąb”: obchodzić się z kimś jak z gołąbkiem."
+ },
+ {
+  "lemma": "łaknąć",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈwaknɔɲt͡ɕ",
+  "definition": "Bardzo czegoś pragnąć, odczuwać głód czegoś",
+  "example": "Po miesiącach w mieście łaknął ciszy i widoku gór.",
+  "synonyms": [
+   "pragnąć",
+   "pożądać",
+   "tęsknić"
+  ],
+  "origin": "Z prasłowiańskiego *olkati „być głodnym”; pokrewne „łakomy”."
+ },
+ {
+  "lemma": "mamić",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈmamʲit͡ɕ",
+  "definition": "Zwodzić kogoś pięknymi, lecz fałszywymi obietnicami",
+  "example": "Pośrednik mamił klientów wizją szybkiego i pewnego zysku.",
+  "synonyms": [
+   "zwodzić",
+   "łudzić",
+   "oszukiwać"
+  ],
+  "origin": "Z prasłowiańskiego *mamiti „wabić, zwodzić”, pokrewnego *maniti; por. „omam”."
+ },
+ {
+  "lemma": "nęcić",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈnɛɲt͡ɕit͡ɕ",
+  "definition": "Przyciągać obietnicą przyjemności lub korzyści",
+  "example": "Witryna cukierni nęciła przechodniów zapachem świeżych drożdżówek.",
+  "synonyms": [
+   "kusić",
+   "wabić",
+   "przyciągać"
+  ],
+  "origin": "Od „nęta”, dawnej nazwy przynęty; dalsze pochodzenie niepewne."
+ },
+ {
+  "lemma": "schlebiać",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈsxlɛbʲat͡ɕ",
+  "definition": "Mówić komuś miłe rzeczy dla własnej korzyści",
+  "example": "Dworzanie schlebiali królowi, licząc na urzędy i nadania.",
+  "synonyms": [
+   "pochlebiać",
+   "kadzić",
+   "nadskakiwać"
+  ],
+  "origin": "Zapewne od „chleb”: pierwotnie „zabiegać o czyjś chleb”, czyli o względy żywiciela."
+ },
+ {
+  "lemma": "smagać",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈsmaɡat͡ɕ",
+  "definition": "Uderzać czymś cienkim i giętkim",
+  "example": "Lodowaty wiatr smagał twarze wędrowców na otwartej grani.",
+  "synonyms": [
+   "chłostać",
+   "biczować",
+   "siec"
+  ],
+  "origin": "Z prasłowiańskiego *smagati „chłostać, palić”; zapewne ten sam rdzeń co w wyrazie „smagły”."
+ },
+ {
+  "lemma": "uśmierzyć",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "uˈɕmʲɛʐɨt͡ɕ",
+  "definition": "Złagodzić ból, gniew lub niepokój",
+  "example": "Zimny okład uśmierzył ból na tyle, że mogła zasnąć.",
+  "synonyms": [
+   "złagodzić",
+   "ukoić",
+   "stłumić"
+  ],
+  "origin": "Od „mir” „pokój, zgoda”: dosłownie „doprowadzić do spokoju”."
+ },
+ {
+  "lemma": "zniweczyć",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "zɲiˈvɛt͡ʂɨt͡ɕ",
+  "definition": "Zniszczyć coś całkowicie, obrócić w nic",
+  "example": "Jeden przymrozek zniweczył nadzieje sadowników na dobre zbiory.",
+  "synonyms": [
+   "unicestwić",
+   "zniszczyć",
+   "zrujnować"
+  ],
+  "origin": "Od wyrażenia „wniwecz” „w nicość”, ze staropolskiego niwecz „nic”."
+ },
+ {
+  "lemma": "urągać",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "uˈrɔŋɡat͡ɕ",
+  "definition": "Obrażać szyderczo lub rażąco czemuś przeczyć",
+  "example": "Warunki w schronisku urągały wszelkim zasadom higieny.",
+  "synonyms": [
+   "ubliżać",
+   "lżyć",
+   "szydzić"
+  ],
+  "origin": "Z prasłowiańskiego *rǫgati „szydzić, wyśmiewać”."
+ },
+ {
+  "lemma": "pałać",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈpawat͡ɕ",
+  "definition": "Płonąć lub odczuwać coś bardzo gorąco",
+  "example": "Od dziecka pałał miłością do starych map i atlasów.",
+  "synonyms": [
+   "płonąć",
+   "gorzeć"
+  ],
+  "origin": "Z prasłowiańskiego *polěti „palić się”; pokrewne „palić” i „płomień”."
+ },
+ {
+  "lemma": "zgłębić",
+  "level": 2,
+  "part_of_speech": "czas.",
+  "ipa": "ˈzɡwɛmbʲit͡ɕ",
+  "definition": "Poznać coś bardzo dokładnie, do samego dna",
+  "example": "Przez lata próbował zgłębić tajniki dawnego introligatorstwa.",
+  "synonyms": [
+   "zbadać",
+   "przeniknąć",
+   "poznać"
+  ],
+  "origin": "Od „głęboki”, „głąb”, z prasłowiańskiego *glǫbokъ: dosłownie „dotrzeć w głąb”."
+ },
+ {
+  "lemma": "nader",
+  "level": 2,
+  "part_of_speech": "przysł.",
+  "ipa": "ˈnadɛr",
+  "definition": "W bardzo wysokim stopniu",
+  "example": "To nader ciekawa propozycja, ale muszę ją spokojnie przemyśleć.",
+  "synonyms": [
+   "bardzo",
+   "wielce",
+   "niezwykle"
+  ],
+  "origin": "Zapewne z „nade” i wzmacniającej partykuły „-że”, która przeszła w „-r”."
+ },
+ {
+  "lemma": "zgoła",
+  "level": 2,
+  "part_of_speech": "przysł.",
+  "ipa": "ˈzɡɔwa",
+  "definition": "Całkowicie, pod każdym względem",
+  "example": "Okazało się, że sprawa wygląda zgoła inaczej, niż pisały gazety.",
+  "synonyms": [
+   "zupełnie",
+   "całkiem",
+   "wcale"
+  ],
+  "origin": "Od wyrażenia „z goła”, czyli „do gołego, do czysta”; od „goły”."
+ },
+ {
+  "lemma": "poniekąd",
+  "level": 2,
+  "part_of_speech": "przysł.",
+  "ipa": "pɔˈɲɛkɔnt",
+  "definition": "W pewnym stopniu, pod pewnym względem",
+  "example": "Miał poniekąd rację, choć wyraził ją w fatalny sposób.",
+  "synonyms": [
+   "częściowo",
+   "niejako",
+   "trochę"
+  ],
+  "origin": "Zrost „po” i dawnego zaimka „niekąd” „dokądś, w pewną stronę”."
+ },
+ {
+  "lemma": "znienacka",
+  "level": 2,
+  "part_of_speech": "przysł.",
+  "ipa": "zɲɛˈnat͡ska",
+  "definition": "Nagle i w sposób zupełnie nieoczekiwany",
+  "example": "Burza nadeszła znienacka i przemoczyła nas do suchej nitki.",
+  "synonyms": [
+   "nagle",
+   "niespodziewanie",
+   "raptem"
+  ],
+  "origin": "Zrost wyrażenia „z nienadzka”, od dawnego nienadzki „niespodziewany”; ten sam rdzeń co w „nadzieja”."
+ },
+ {
+  "lemma": "ukradkiem",
+  "level": 2,
+  "part_of_speech": "przysł.",
+  "ipa": "uˈkratkʲɛm",
+  "definition": "Tak, żeby nikt nie zauważył",
+  "example": "Ukradkiem zerknęła na zegarek schowany pod stołem.",
+  "synonyms": [
+   "potajemnie",
+   "chyłkiem",
+   "dyskretnie"
+  ],
+  "origin": "Narzędnik dawnego rzeczownika „ukradek”, od „ukraść”: robić coś „po złodziejsku”."
+ }
+]

@@ -15,6 +15,10 @@
   "name": "Palabra del día",
   "summary": "Una palabra nueva cada día, con su significado."
  },
+ "fi": {
+  "name": "Päivän sana",
+  "summary": "Uusi sana joka päivä merkityksineen."
+ },
  "fr": {
   "name": "Mot du jour",
   "summary": "Un nouveau mot chaque jour, avec son sens."
