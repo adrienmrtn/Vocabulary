@@ -7,6 +7,10 @@
   "name": "Wort des Tages",
   "summary": "Jeden Tag ein neues Wort, mit seiner Bedeutung."
  },
+ "el": {
+  "name": "Λέξη της ημέρας",
+  "summary": "Μια νέα λέξη κάθε μέρα, με τη σημασία της."
+ },
  "en": {
   "name": "Word of the day",
   "summary": "A new word every day, with its meaning."
@@ -46,6 +50,10 @@
  "nl": {
   "name": "Woord van de dag",
   "summary": "Elke dag een nieuw woord, met zijn betekenis."
+ },
+ "pl": {
+  "name": "Słowo dnia",
+  "summary": "Codziennie nowe słowo wraz ze znaczeniem."
  },
  "pt-BR": {
   "name": "Palavra do dia",
