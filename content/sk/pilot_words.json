@@ -390,7 +390,7 @@
     "level": 1,
     "part_of_speech": "príd.",
     "ipa": "ˈzvedaviː",
-    "definition": "Túžiaci dozvedieť sa nové veci",
+    "definition": "Túžiaci spoznávať nové veci",
     "example": "Zvedavá mačka nakukla do každej škatule v byte.",
     "synonyms": [
       "všetečný",
@@ -404,9 +404,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 4.1,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "rozvážny",
@@ -1104,7 +1102,7 @@
     "part_of_speech": "podst. s.",
     "ipa": "ˈʃero",
     "definition": "Slabé svetlo medzi dňom a nocou",
-    "example": "V šere povaly sme našli starý kufor.",
+    "example": "Šero povaly skrývalo starý kufor po dedovi.",
     "synonyms": [
       "prítmie",
       "polotma",
@@ -1117,9 +1115,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "example does not contain the word"
-    ]
+    "issues": []
   },
   {
     "lemma": "rozlúčka",
@@ -3595,7 +3591,7 @@
     "level": 3,
     "part_of_speech": "slov.",
     "ipa": "t͡ʃɲi̯ec",
-    "definition": "Vysoko a nápadne vyčnievať",
+    "definition": "Vysoko a nápadne sa týčiť nad okolím",
     "example": "Nad dedinou čnie biela veža kostola.",
     "synonyms": [
       "trčať",
@@ -3609,16 +3605,14 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "rmútiť",
     "level": 3,
     "part_of_speech": "slov.",
     "ipa": "ˈr̩muːcic",
-    "definition": "Napĺňať smútkom",
+    "definition": "Napĺňať niekoho smútkom",
     "example": "Rmútilo ho, že sa s otcom nestihol zmieriť.",
     "synonyms": [
       "trápiť",
@@ -3632,9 +3626,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "definition length"
-    ]
+    "issues": []
   },
   {
     "lemma": "blčať",
@@ -3961,7 +3953,7 @@
     "level": 3,
     "part_of_speech": "podst. ž.",
     "ipa": "ˈvnada",
-    "definition": "Príťažlivý pôvab; pôvodne návnada",
+    "definition": "Príťažlivý pôvab, niečo lákavé",
     "example": "Ani vnady veľkomesta ho neodlákali z rodného kraja.",
     "synonyms": [
       "pôvab",
@@ -3976,9 +3968,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 0.0,
-    "issues": [
-      "definition uses the word itself"
-    ]
+    "issues": []
   },
   {
     "lemma": "zdar",
@@ -4115,7 +4105,7 @@
     "part_of_speech": "podst. m.",
     "ipa": "gruːɲ",
     "definition": "Zalesnený či trávnatý horský chrbát alebo svah",
-    "example": "Ovce sa pásli na grúni vysoko nad dedinou.",
+    "example": "Zelený grúň nad dedinou bol od rána plný oviec.",
     "synonyms": [
       "úbočie",
       "hrebeň",
@@ -4129,9 +4119,7 @@
     "quote": "",
     "quote_source": "",
     "zipf": 3.1,
-    "issues": [
-      "example does not contain the word"
-    ]
+    "issues": []
   },
   {
     "lemma": "hoľa",

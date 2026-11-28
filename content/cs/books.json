@@ -1,0 +1,9 @@
+{
+ "parts": ["příd.", "podst. m.", "podst. ž.", "podst. s.", "slov.", "přísl."],
+ "featured": "pomíjivý",
+ "books": [13083],
+ "abbreviations": ["Dr", "dr", "Ing", "p", "sl", "sv", "tj", "např", "atd", "apod", "č", "str", "r"],
+ "openers": ["On", "Ona", "Ono", "Oni", "To", "Ale", "A", "Pak", "Tak", "Však", "Neboť", "Když", "Že", "I", "Tu"],
+ "authors": {},
+ "titles": {}
+}

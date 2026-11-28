@@ -1,0 +1,606 @@
+{
+ "ydmyk": [
+  "character"
+ ],
+ "sindig": [
+  "character"
+ ],
+ "varsom": [
+  "character"
+ ],
+ "trofast": [
+  "character",
+  "emotions"
+ ],
+ "nøysom": [
+  "character",
+  "society"
+ ],
+ "standhaftig": [
+  "character",
+  "debate"
+ ],
+ "sårbar": [
+  "emotions"
+ ],
+ "oppriktig": [
+  "character"
+ ],
+ "tilbakeholden": [
+  "character"
+ ],
+ "gavmild": [
+  "character"
+ ],
+ "rastløs": [
+  "emotions"
+ ],
+ "lunefull": [
+  "character",
+  "nature"
+ ],
+ "egenrådig": [
+  "character",
+  "business"
+ ],
+ "taktfull": [
+  "society",
+  "character"
+ ],
+ "dristig": [
+  "character"
+ ],
+ "kresen": [
+  "character"
+ ],
+ "gjestfri": [
+  "travel",
+  "society"
+ ],
+ "veltalende": [
+  "persuasion",
+  "debate"
+ ],
+ "årvåken": [
+  "character"
+ ],
+ "vennesæl": [
+  "society",
+  "character"
+ ],
+ "lettsindig": [
+  "character"
+ ],
+ "beskjeden": [
+  "character"
+ ],
+ "koselig": [
+  "emotions",
+  "society"
+ ],
+ "traust": [
+  "character"
+ ],
+ "raus": [
+  "character"
+ ],
+ "gruble": [
+  "emotions",
+  "science"
+ ],
+ "nøle": [
+  "character"
+ ],
+ "skimte": [
+  "nature",
+  "travel"
+ ],
+ "fortvile": [
+  "emotions"
+ ],
+ "fryde": [
+  "emotions"
+ ],
+ "klandre": [
+  "debate",
+  "society"
+ ],
+ "overveie": [
+  "business",
+  "debate"
+ ],
+ "bebreide": [
+  "emotions",
+  "debate"
+ ],
+ "smigre": [
+  "persuasion"
+ ],
+ "grue": [
+  "emotions"
+ ],
+ "undre": [
+  "emotions",
+  "science"
+ ],
+ "ane": [
+  "emotions"
+ ],
+ "unnvære": [
+  "society"
+ ],
+ "forsone": [
+  "society",
+  "emotions"
+ ],
+ "trøste": [
+  "emotions"
+ ],
+ "lengsel": [
+  "emotions",
+  "literature"
+ ],
+ "ærefrykt": [
+  "emotions"
+ ],
+ "tålmodighet": [
+  "character"
+ ],
+ "samvittighet": [
+  "character",
+  "society"
+ ],
+ "skumring": [
+  "nature"
+ ],
+ "demring": [
+  "nature"
+ ],
+ "dugnad": [
+  "society"
+ ],
+ "skjebne": [
+  "literature",
+  "emotions"
+ ],
+ "savn": [
+  "emotions"
+ ],
+ "iver": [
+  "character",
+  "emotions"
+ ],
+ "anger": [
+  "emotions"
+ ],
+ "overmot": [
+  "character"
+ ],
+ "ettertanke": [
+  "debate",
+  "character"
+ ],
+ "sinnsro": [
+  "emotions",
+  "character"
+ ],
+ "medfølelse": [
+  "emotions",
+  "society"
+ ],
+ "glød": [
+  "emotions",
+  "persuasion"
+ ],
+ "friluftsliv": [
+  "nature",
+  "travel"
+ ],
+ "samhold": [
+  "society"
+ ],
+ "vemod": [
+  "emotions",
+  "literature"
+ ],
+ "forfengelig": [
+  "character"
+ ],
+ "tungsindig": [
+  "emotions"
+ ],
+ "gjenstridig": [
+  "character"
+ ],
+ "omstendelig": [
+  "debate",
+  "literature"
+ ],
+ "påholden": [
+  "character",
+  "business"
+ ],
+ "snarrådig": [
+  "character"
+ ],
+ "uforferdet": [
+  "character"
+ ],
+ "skarpsindig": [
+  "science",
+  "debate"
+ ],
+ "lydhør": [
+  "business",
+  "society"
+ ],
+ "ublu": [
+  "business"
+ ],
+ "forgjengelig": [
+  "literature",
+  "nature"
+ ],
+ "innbitt": [
+  "character",
+  "emotions"
+ ],
+ "sirlig": [
+  "literature"
+ ],
+ "karrig": [
+  "nature"
+ ],
+ "ærbødig": [
+  "society"
+ ],
+ "hovmodig": [
+  "character"
+ ],
+ "vankelmodig": [
+  "character",
+  "debate"
+ ],
+ "frimodig": [
+  "character",
+  "persuasion"
+ ],
+ "storsinnet": [
+  "character"
+ ],
+ "underfundig": [
+  "literature",
+  "character"
+ ],
+ "skjødesløs": [
+  "character"
+ ],
+ "vilkårlig": [
+  "society",
+  "debate"
+ ],
+ "ubønnhørlig": [
+  "literature"
+ ],
+ "forsagt": [
+  "emotions",
+  "character"
+ ],
+ "forarge": [
+  "society",
+  "emotions"
+ ],
+ "besnære": [
+  "persuasion"
+ ],
+ "bergta": [
+  "literature",
+  "travel"
+ ],
+ "forsake": [
+  "character",
+  "society"
+ ],
+ "hige": [
+  "emotions",
+  "literature"
+ ],
+ "ruge": [
+  "nature",
+  "emotions"
+ ],
+ "tukte": [
+  "society"
+ ],
+ "irettesette": [
+  "society",
+  "business"
+ ],
+ "dvele": [
+  "literature",
+  "emotions"
+ ],
+ "undergrave": [
+  "debate",
+  "business"
+ ],
+ "ymte": [
+  "persuasion",
+  "society"
+ ],
+ "fortørne": [
+  "emotions"
+ ],
+ "utferdstrang": [
+  "travel"
+ ],
+ "gjenklang": [
+  "persuasion",
+  "debate"
+ ],
+ "ettermæle": [
+  "society",
+  "literature"
+ ],
+ "skjensel": [
+  "society"
+ ],
+ "vellyd": [
+  "literature"
+ ],
+ "ynde": [
+  "literature",
+  "character"
+ ],
+ "armod": [
+  "society"
+ ],
+ "velbehag": [
+  "emotions"
+ ],
+ "anstand": [
+  "society",
+  "character"
+ ],
+ "tilbøyelighet": [
+  "character",
+  "science"
+ ],
+ "tussmørke": [
+  "nature",
+  "literature"
+ ],
+ "lynne": [
+  "character"
+ ],
+ "tidsånd": [
+  "society",
+  "literature"
+ ],
+ "villnis": [
+  "nature"
+ ],
+ "harme": [
+  "emotions",
+  "debate"
+ ],
+ "møye": [
+  "business",
+  "character"
+ ],
+ "dårskap": [
+  "character",
+  "debate"
+ ],
+ "uhygge": [
+  "emotions",
+  "literature"
+ ],
+ "fjas": [
+  "society"
+ ],
+ "nag": [
+  "emotions"
+ ],
+ "uransakelig": [
+  "literature"
+ ],
+ "lemfeldig": [
+  "society",
+  "character"
+ ],
+ "sendrektig": [
+  "business",
+  "character"
+ ],
+ "navnkundig": [
+  "society",
+  "literature"
+ ],
+ "vidgjeten": [
+  "society",
+  "travel"
+ ],
+ "fager": [
+  "literature",
+  "nature"
+ ],
+ "djerv": [
+  "character"
+ ],
+ "forsoren": [
+  "character"
+ ],
+ "forslagen": [
+  "character",
+  "business"
+ ],
+ "forfjamset": [
+  "emotions"
+ ],
+ "forknytt": [
+  "character",
+  "emotions"
+ ],
+ "forsmedelig": [
+  "emotions",
+  "society"
+ ],
+ "maktpåliggende": [
+  "business",
+  "debate"
+ ],
+ "skjellsettende": [
+  "science",
+  "society"
+ ],
+ "himmelropende": [
+  "debate",
+  "society"
+ ],
+ "fåfengt": [
+  "literature"
+ ],
+ "fåmælt": [
+  "character"
+ ],
+ "storlåten": [
+  "nature",
+  "travel"
+ ],
+ "formastelig": [
+  "debate",
+  "character"
+ ],
+ "uavlatelig": [
+  "nature",
+  "literature"
+ ],
+ "vederstyggelig": [
+  "emotions"
+ ],
+ "fandenivoldsk": [
+  "character"
+ ],
+ "dørgende": [
+  "literature"
+ ],
+ "vederkvege": [
+  "travel",
+  "emotions"
+ ],
+ "forbarme": [
+  "emotions",
+  "society"
+ ],
+ "forlede": [
+  "persuasion"
+ ],
+ "besudle": [
+  "society"
+ ],
+ "bebude": [
+  "literature",
+  "nature"
+ ],
+ "beile": [
+  "persuasion",
+  "society"
+ ],
+ "vanære": [
+  "society"
+ ],
+ "forsmå": [
+  "character"
+ ],
+ "utbasunere": [
+  "persuasion",
+  "society"
+ ],
+ "ringeakte": [
+  "debate",
+  "character"
+ ],
+ "attrå": [
+  "emotions",
+  "literature"
+ ],
+ "brøde": [
+  "society",
+  "literature"
+ ],
+ "åsyn": [
+  "literature"
+ ],
+ "skinnsyke": [
+  "emotions"
+ ],
+ "nidkjærhet": [
+  "character",
+  "business"
+ ],
+ "anfektelse": [
+  "emotions",
+  "character"
+ ],
+ "skalkeskjul": [
+  "debate",
+  "business"
+ ],
+ "kannestøper": [
+  "debate",
+  "literature"
+ ],
+ "ordgyteri": [
+  "debate",
+  "persuasion"
+ ],
+ "snusfornuft": [
+  "character",
+  "debate"
+ ],
+ "miskunn": [
+  "society",
+  "literature"
+ ],
+ "frende": [
+  "society",
+  "literature"
+ ],
+ "kvide": [
+  "emotions"
+ ],
+ "vånde": [
+  "emotions",
+  "literature"
+ ],
+ "lise": [
+  "emotions"
+ ],
+ "sut": [
+  "emotions"
+ ],
+ "tant": [
+  "society",
+  "literature"
+ ],
+ "beven": [
+  "emotions",
+  "literature"
+ ],
+ "forsyn": [
+  "literature",
+  "society"
+ ],
+ "einstøing": [
+  "character",
+  "society"
+ ],
+ "vederlag": [
+  "business"
+ ],
+ "kverulant": [
+  "debate",
+  "society"
+ ]
+}

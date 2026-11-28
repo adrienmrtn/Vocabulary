@@ -1,1 +1,64 @@
-{"parts":["adj.","subst. m.","subst. f.","subst. n.","verb","adv."],"featured":"vemod","books":[13041,15291,15748,16665,18792,20178,14686,15669,2289,4093,7214,30027,30530,16372,32245,43724,43725,40291,23237,23017,34786,35102,36430,32366,20550,4582,12168,34747,11139,9843,41956,7942,34014,34213,24486,24747,39722,33683,33300,43131,38220,12831,12987,12844,13175,41198,43290,36871,43338,36942,32865,24447],"abbreviations":[],"openers":[],"authors":{},"titles":{}}
+{
+ "parts": [
+  "adj.",
+  "verb",
+  "subst. m.",
+  "subst. f.",
+  "subst. n.",
+  "adv."
+ ],
+ "featured": "vemod",
+ "books": [
+  13041,
+  15291,
+  15748,
+  16665,
+  14686,
+  15669,
+  30027,
+  32245,
+  43724,
+  43725,
+  12844
+ ],
+ "abbreviations": [
+  "Hr",
+  "hr",
+  "Dr",
+  "dr",
+  "St",
+  "Frk",
+  "frk",
+  "Kr",
+  "kr",
+  "Nr",
+  "nr",
+  "osv",
+  "bl",
+  "Kapt",
+  "Prof"
+ ],
+ "openers": [
+  "Han",
+  "Hun",
+  "Det",
+  "Den",
+  "De",
+  "Dette",
+  "Men",
+  "Og",
+  "Så",
+  "Da",
+  "For",
+  "Der",
+  "Ja",
+  "Nei"
+ ],
+ "authors": {},
+ "titles": {
+  "Gildet På Solhaug": "Gildet på Solhaug",
+  "Kærlighedens Komedie": "Kærlighedens komedie",
+  "Fru inger til Østråt": "Fru Inger til Østråt",
+  "Den engelske Lods": "Den engelske lods"
+ }
+}

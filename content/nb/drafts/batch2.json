@@ -1,0 +1,795 @@
+[
+ {
+  "lemma": "vemod",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "ˈveːmuːd",
+  "definition": "Stille, mild tristhet, ofte blandet med lengsel",
+  "example": "Med vemod så hun flyttebilen kjøre bort fra barndomshjemmet.",
+  "synonyms": [
+   "tungsinn",
+   "melankoli",
+   "sørgmodighet"
+  ],
+  "origin": "Fra middelnedertysk wēmōt, av wē «smerte, ve» og mōt «sinn»; jf. tysk Wehmut."
+ },
+ {
+  "lemma": "forfengelig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "fɔrˈfɛŋəlɪ",
+  "definition": "Overdrevent opptatt av eget utseende og andres beundring",
+  "example": "Den forfengelige skuespilleren kunne ikke gå forbi et speil.",
+  "synonyms": [
+   "innbilsk",
+   "jålete",
+   "selvopptatt"
+  ],
+  "origin": "Fra middelnedertysk vorvenklik «forgjengelig, tom»; den eldre betydningen «forgjeves, tom» er kjent fra bibelspråket."
+ },
+ {
+  "lemma": "tungsindig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈtʉŋˌsɪndɪ",
+  "definition": "Preget av varig tristhet og mørke tanker",
+  "example": "Mørketiden gjorde ham tungsindig og fåmælt.",
+  "synonyms": [
+   "melankolsk",
+   "nedtrykt",
+   "dyster"
+  ],
+  "origin": "Av tung og sinn; jf. tysk schwermütig."
+ },
+ {
+  "lemma": "gjenstridig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈjɛnˌstriːdɪ",
+  "definition": "Som setter seg imot og nekter å føye seg",
+  "example": "Den gjenstridige låsen ville ikke gå opp i kulda.",
+  "synonyms": [
+   "trassig",
+   "sta",
+   "umedgjørlig"
+  ],
+  "origin": "Sammensatt av gjen- i betydningen «imot» og en avledning av strid."
+ },
+ {
+  "lemma": "omstendelig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ɔmˈstɛndəlɪ",
+  "definition": "Som tar med altfor mange detaljer",
+  "example": "Han ga en omstendelig forklaring på hvorfor bussen var forsinket.",
+  "synonyms": [
+   "vidløftig",
+   "detaljert",
+   "langtekkelig"
+  ],
+  "origin": "Fra tysk umständlich, av Umstand «omstendighet»."
+ },
+ {
+  "lemma": "påholden",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈpoːˌhɔlən",
+  "definition": "Som nødig bruker penger",
+  "example": "Onkelen var så påholden at han stoppet sokkene sine selv.",
+  "synonyms": [
+   "gjerrig",
+   "knuslete",
+   "nærig"
+  ],
+  "origin": "Av på og holden, partisipp av holde: egentlig «som holder på sitt»."
+ },
+ {
+  "lemma": "snarrådig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈsnɑːrˌroːdɪ",
+  "definition": "Rask til å finne en løsning i en vanskelig situasjon",
+  "example": "En snarrådig tolvåring reddet lillesøsteren opp av vaken.",
+  "synonyms": [
+   "handlekraftig",
+   "rådsnar",
+   "kvikk"
+  ],
+  "origin": "Av snar «rask», norrønt snarr, og råd; jf. norrønt snarráðr."
+ },
+ {
+  "lemma": "uforferdet",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʉːfɔrˌfæɖət",
+  "definition": "Som ikke lar seg skremme",
+  "example": "Uforferdet gikk hun opp på talerstolen og sa sin mening.",
+  "synonyms": [
+   "fryktløs",
+   "uredd",
+   "modig"
+  ],
+  "origin": "Av u- og forferdet, partisipp av forferde «skremme», fra middelnedertysk vorvēren."
+ },
+ {
+  "lemma": "skarpsindig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈskɑrpˌsɪndɪ",
+  "definition": "Som tenker klart og gjennomskuer vanskelige spørsmål",
+  "example": "En skarpsindig journalist oppdaget feilen i regnskapet.",
+  "synonyms": [
+   "kløktig",
+   "gløgg",
+   "skarp"
+  ],
+  "origin": "Av skarp og sinn, etter tysk scharfsinnig."
+ },
+ {
+  "lemma": "lydhør",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈlyːdˌhøːr",
+  "definition": "Som lytter oppmerksomt og tar imot andres ønsker",
+  "example": "En god leder er lydhør for kritikk fra de ansatte.",
+  "synonyms": [
+   "oppmerksom",
+   "mottakelig",
+   "åpen"
+  ],
+  "origin": "Av lyd og høre; først «som hører godt», senere «som lytter villig»."
+ },
+ {
+  "lemma": "ublu",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʉːblʉː",
+  "definition": "Skamløs, særlig om pris eller krav",
+  "example": "Drosjesjåføren forlangte en ublu pris for den korte turen.",
+  "synonyms": [
+   "skamløs",
+   "frekk",
+   "urimelig"
+  ],
+  "origin": "Av u- og eldre blu «skam, blygsel», beslektet med blyg, norrønt bljúgr."
+ },
+ {
+  "lemma": "forgjengelig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "fɔrˈjɛŋəlɪ",
+  "definition": "Som ikke varer evig",
+  "example": "Blomstene minnet henne om hvor forgjengelig all skjønnhet er.",
+  "synonyms": [
+   "timelig",
+   "dødelig",
+   "kortvarig"
+  ],
+  "origin": "Av forgå «gå til grunne», etter tysk vergänglich."
+ },
+ {
+  "lemma": "innbitt",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈɪnˌbɪt",
+  "definition": "Hardnakket og fylt av sammenbitt vilje",
+  "example": "Med innbitt mine syklet han de siste kilometerne i motvind.",
+  "synonyms": [
+   "sammenbitt",
+   "hardnakket",
+   "forbitret"
+  ],
+  "origin": "Egentlig partisipp av bite (seg) inn: som har bitt tennene sammen om noe."
+ },
+ {
+  "lemma": "sirlig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈsɪrlɪ",
+  "definition": "Fin, nett og omhyggelig utført",
+  "example": "Brevet var skrevet med sirlig håndskrift på tykt papir.",
+  "synonyms": [
+   "nett",
+   "pertentlig",
+   "elegant"
+  ],
+  "origin": "Fra middelnedertysk sīrlik, av sīr «pryd»; jf. tysk zierlich."
+ },
+ {
+  "lemma": "karrig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈkɑrɪ",
+  "definition": "Som gir lite; mager og sparsom",
+  "example": "På de karrige holmene vokste det bare lyng og einer.",
+  "synonyms": [
+   "mager",
+   "skrinn",
+   "knapp"
+  ],
+  "origin": "Fra middelnedertysk karich «gjerrig, sparsom»; jf. tysk karg."
+ },
+ {
+  "lemma": "ærbødig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ærˈbøːdɪ",
+  "definition": "Som viser dyp respekt",
+  "example": "Elevene reiste seg og hilste ærbødig på den gamle rektoren.",
+  "synonyms": [
+   "respektfull",
+   "underdanig",
+   "høflig"
+  ],
+  "origin": "Fra middelnedertysk ērbēdich, av ēre «ære» og bēden «by, vise»; jf. tysk ehrerbietig."
+ },
+ {
+  "lemma": "hovmodig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈhɔvˌmuːdɪ",
+  "definition": "Som ser ned på andre og tror for godt om seg selv",
+  "example": "Det hovmodige svaret hans gjorde hele forsamlingen sint.",
+  "synonyms": [
+   "arrogant",
+   "overlegen",
+   "stolt"
+  ],
+  "origin": "Av hovmod, fra middelnedertysk hōmōt, hōchmōt «høyt sinn»; jf. tysk Hochmut."
+ },
+ {
+  "lemma": "vankelmodig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈvɑŋkəlˌmuːdɪ",
+  "definition": "Som stadig skifter mening og ikke klarer å bestemme seg",
+  "example": "Velgerne var vankelmodige helt fram til valgdagen.",
+  "synonyms": [
+   "ubesluttsom",
+   "vaklende",
+   "ustø"
+  ],
+  "origin": "Fra middelnedertysk wankelmōdich, av wankel «ustø» og mōt «sinn»; jf. tysk wankelmütig."
+ },
+ {
+  "lemma": "frimodig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈfriːˌmuːdɪ",
+  "definition": "Åpen og uredd i tale og framferd",
+  "example": "Hun svarte frimodig på alle spørsmålene fra juryen.",
+  "synonyms": [
+   "freidig",
+   "åpenhjertig",
+   "djerv"
+  ],
+  "origin": "Fra middelnedertysk vrīmōdich, av vrī «fri» og mōt «sinn»; jf. tysk freimütig."
+ },
+ {
+  "lemma": "storsinnet",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈstuːrˌsɪnət",
+  "definition": "Som tilgir og unner andre godt",
+  "example": "Det var storsinnet av henne å invitere sin gamle rival.",
+  "synonyms": [
+   "edelmodig",
+   "høysinnet",
+   "raus"
+  ],
+  "origin": "Av stor og sinn; jf. tysk großmütig."
+ },
+ {
+  "lemma": "underfundig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʉnərˌfʉndɪ",
+  "definition": "Med en skjult, ofte lun eller listig mening",
+  "example": "Forfatteren er kjent for sin underfundige humor.",
+  "synonyms": [
+   "finurlig",
+   "listig",
+   "tvetydig"
+  ],
+  "origin": "Av eldre underfund «list, svik», fra middelnedertysk undervunt."
+ },
+ {
+  "lemma": "skjødesløs",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈʂøːdəsˌløːs",
+  "definition": "Som ikke bryr seg om å gjøre noe ordentlig",
+  "example": "Et skjødesløst kast med fyrstikken satte fyr på hele lyngheia.",
+  "synonyms": [
+   "slurvete",
+   "likegyldig",
+   "uaktsom"
+  ],
+  "origin": "Fra dansk skødesløs, av eldre skøde «bry seg om», beslektet med skjøtte, og -løs."
+ },
+ {
+  "lemma": "vilkårlig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ˈvɪlkoːɭɪ",
+  "definition": "Som følger tilfeldige innfall, ikke regler eller grunner",
+  "example": "Dommen virket vilkårlig, og advokaten anket med en gang.",
+  "synonyms": [
+   "tilfeldig",
+   "egenmektig",
+   "lovløs"
+  ],
+  "origin": "Av vilkår i den eldre betydningen «fritt valg», fra middelnedertysk willekor; jf. tysk willkürlich."
+ },
+ {
+  "lemma": "ubønnhørlig",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "ʉbœnˈhøːɭɪ",
+  "definition": "Som ikke lar seg stanse eller bevege",
+  "example": "Tiden gikk ubønnhørlig mot fristen, og ingen var ferdige.",
+  "synonyms": [
+   "nådeløs",
+   "ubarmhjertig",
+   "uavvendelig"
+  ],
+  "origin": "Av u- og bønnhøre «oppfylle en bønn»: som ikke lar seg bevege av bønner."
+ },
+ {
+  "lemma": "forsagt",
+  "level": 2,
+  "part_of_speech": "adj.",
+  "ipa": "fɔˈʂɑkt",
+  "definition": "Motløs og engstelig",
+  "example": "Den forsagte gutten torde nesten ikke å rekke opp hånden.",
+  "synonyms": [
+   "motløs",
+   "fryktsom",
+   "sky"
+  ],
+  "origin": "Fra middelnedertysk vorsaget, partisipp av vorsagen «miste motet»; jf. tysk verzagt."
+ },
+ {
+  "lemma": "forarge",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "fɔrˈɑrɡə",
+  "definition": "Vekke harme ved å støte an mot det sømmelige",
+  "example": "Kunstnerens nye utstilling klarte å forarge halve byen.",
+  "synonyms": [
+   "opprøre",
+   "støte",
+   "provosere"
+  ],
+  "origin": "Fra middelnedertysk vorargeren «gjøre verre», av arch «ond, dårlig»; jf. tysk ärgern."
+ },
+ {
+  "lemma": "besnære",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "beˈsnæːrə",
+  "definition": "Fange med sjarm eller list",
+  "example": "Hun lot seg besnære av den fremmedes vakre ord.",
+  "synonyms": [
+   "forføre",
+   "dåre",
+   "fortrylle"
+  ],
+  "origin": "Av be- og snare: egentlig «fange i snare»."
+ },
+ {
+  "lemma": "bergta",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈbærɡˌtɑː",
+  "definition": "Trollbinde, gripe fullstendig",
+  "example": "Nordlyset over Lofoten kan bergta selv den mest reisevante.",
+  "synonyms": [
+   "trollbinde",
+   "fengsle",
+   "fortrylle"
+  ],
+  "origin": "Av berg og ta: i folketroen ble mennesker tatt inn i berget av de underjordiske."
+ },
+ {
+  "lemma": "forsake",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "fɔˈʂɑːkə",
+  "definition": "Gi avkall på noe man gjerne ville hatt",
+  "example": "Munkene måtte forsake alt verdslig gods.",
+  "synonyms": [
+   "oppgi",
+   "unnvære",
+   "ofre"
+  ],
+  "origin": "Fra middelnedertysk vorsaken «nekte, frasi seg»."
+ },
+ {
+  "lemma": "hige",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈhiːɡə",
+  "definition": "Strebe lengselsfullt mot noe",
+  "example": "Hele livet kom han til å hige etter farens anerkjennelse.",
+  "synonyms": [
+   "trakte",
+   "lengte",
+   "strebe"
+  ],
+  "origin": "Kommet inn fra dansk; opprinnelsen er usikker."
+ },
+ {
+  "lemma": "ruge",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈrʉːɡə",
+  "definition": "Gå lenge og tenke på noe i det stille",
+  "example": "Hun pleide å ruge på ideene sine i ukevis før hun sa noe.",
+  "synonyms": [
+   "gruble",
+   "klekke",
+   "pønske"
+  ],
+  "origin": "Fra dansk ruge «ligge på egg», av usikker opprinnelse; betydningen er overført fra fuglen på redet."
+ },
+ {
+  "lemma": "tukte",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈtʉktə",
+  "definition": "Straffe for å oppdra eller tvinge til lydighet",
+  "example": "Vinteren kom tidlig for å tukte dem som ikke hadde høstet.",
+  "synonyms": [
+   "refse",
+   "straffe",
+   "avstraffe"
+  ],
+  "origin": "Fra middelnedertysk tuchten, av tucht «oppdragelse»; jf. tysk Zucht og züchtigen."
+ },
+ {
+  "lemma": "irettesette",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ɪˈrɛtəˌsɛtə",
+  "definition": "Gi noen en alvorlig påtale",
+  "example": "Dommeren måtte irettesette aktor for de stadige avbrytelsene.",
+  "synonyms": [
+   "refse",
+   "tilrettevise",
+   "korrigere"
+  ],
+  "origin": "Av uttrykket sette i rette, altså «sette på rett plass»."
+ },
+ {
+  "lemma": "dvele",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈdveːlə",
+  "definition": "Bli værende ved noe, i tid eller tanke",
+  "example": "La oss ikke dvele ved gamle feil, men se framover.",
+  "synonyms": [
+   "stanse",
+   "bie",
+   "drøye"
+  ],
+  "origin": "Av norrønt dvelja «oppholde, drøye»; jf. engelsk dwell."
+ },
+ {
+  "lemma": "undergrave",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈʉnərˌɡrɑːvə",
+  "definition": "Svekke litt etter litt, i det skjulte",
+  "example": "Stadige rykter kan undergrave tilliten til en hel bedrift.",
+  "synonyms": [
+   "svekke",
+   "uthule",
+   "underminere"
+  ],
+  "origin": "Av under og grave, etter tysk untergraben."
+ },
+ {
+  "lemma": "ymte",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "ˈʏmtə",
+  "definition": "Antyde forsiktig, si halvt ut",
+  "example": "Hun hadde så vidt begynt å ymte om at hun ville flytte.",
+  "synonyms": [
+   "antyde",
+   "hentyde",
+   "mumle"
+  ],
+  "origin": "Av norrønt ymta «mumle, nevne løst», beslektet med ymr «dur, mumling»."
+ },
+ {
+  "lemma": "fortørne",
+  "level": 2,
+  "part_of_speech": "verb",
+  "ipa": "fɔˈʈœːɳə",
+  "definition": "Gjøre harm og støtt",
+  "example": "Slike nedlatende ord må jo fortørne enhver ærlig arbeider.",
+  "synonyms": [
+   "forarge",
+   "ergre",
+   "krenke"
+  ],
+  "origin": "Fra middelnedertysk vortornen, av torn «vrede»; jf. tysk erzürnen og Zorn."
+ },
+ {
+  "lemma": "utferdstrang",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈʉːtfæʂˌtrɑŋ",
+  "definition": "Sterk lyst til å reise ut og oppleve verden",
+  "example": "Allerede som tolvåring kjente hun utferdstrangen rive i seg.",
+  "synonyms": [
+   "reiselyst",
+   "eventyrlyst"
+  ],
+  "origin": "Sammensatt av utferd, norrønt útferð «reise ut», og trang «sterkt behov»."
+ },
+ {
+  "lemma": "gjenklang",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈjɛnˌklɑŋ",
+  "definition": "Ekko; forståelse og tilslutning hos andre",
+  "example": "Forslaget om lengre sommerferie fant gjenklang hos elevene.",
+  "synonyms": [
+   "ekko",
+   "gjenlyd",
+   "tilslutning"
+  ],
+  "origin": "Sammensatt av gjen- «tilbake» og klang, som er lånt fra middelnedertysk klank."
+ },
+ {
+  "lemma": "ettermæle",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "ˈɛtərˌmɛːlə",
+  "definition": "Omdømmet en etterlater seg",
+  "example": "Kongen fikk et godt ettermæle for sin innsats under krigen.",
+  "synonyms": [
+   "omdømme",
+   "rykte",
+   "minne"
+  ],
+  "origin": "Av norrønt eptirmæli, av eptir «etter» og mæla «tale»: det som sies om en etterpå."
+ },
+ {
+  "lemma": "skjensel",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈʂɛnsəl",
+  "definition": "Dyp skam og vanære",
+  "example": "Det var en skjensel for hele bygda at kirken fikk forfalle.",
+  "synonyms": [
+   "skam",
+   "vanære",
+   "ydmykelse"
+  ],
+  "origin": "Fra dansk skændsel, av skænde «vanære», fra middelnedertysk schenden; jf. tysk Schande."
+ },
+ {
+  "lemma": "vellyd",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈvɛlˌlyːd",
+  "definition": "Behagelig, vakker klang",
+  "example": "Diktet er fullt av vellyd når det leses høyt.",
+  "synonyms": [
+   "velklang",
+   "harmoni"
+  ],
+  "origin": "Sammensatt av vel og lyd; jf. tysk Wohllaut."
+ },
+ {
+  "lemma": "ynde",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈʏndə",
+  "definition": "Lett og naturlig skjønnhet i vesen og bevegelse",
+  "example": "Danserne beveget seg med en ynde som tok pusten fra salen.",
+  "synonyms": [
+   "gratie",
+   "sjarm",
+   "eleganse"
+  ],
+  "origin": "Av norrønt yndi «glede, behag», beslektet med unne."
+ },
+ {
+  "lemma": "armod",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈɑrmuːd",
+  "definition": "Dyp og varig fattigdom",
+  "example": "Husmannsfamilien levde i armod, men barna fikk likevel gå på skole.",
+  "synonyms": [
+   "fattigdom",
+   "nød",
+   "elendighet"
+  ],
+  "origin": "Fra middelnedertysk armōde, av arm «fattig»; jf. tysk Armut."
+ },
+ {
+  "lemma": "velbehag",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "ˈvɛlbeˌhɑːɡ",
+  "definition": "Dyp følelse av trivsel og nytelse",
+  "example": "Med et sukk av velbehag sank han ned i badestampen.",
+  "synonyms": [
+   "nytelse",
+   "velvære",
+   "tilfredshet"
+  ],
+  "origin": "Av vel og behag, fra middelnedertysk behach; jf. tysk Wohlbehagen."
+ },
+ {
+  "lemma": "anstand",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈɑnˌstɑn",
+  "definition": "Verdig og sømmelig opptreden",
+  "example": "Hun bar nederlaget med anstand og gratulerte vinneren.",
+  "synonyms": [
+   "verdighet",
+   "sømmelighet",
+   "holdning"
+  ],
+  "origin": "Fra tysk Anstand, av anstehen «sømme seg»."
+ },
+ {
+  "lemma": "tilbøyelighet",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "tɪlˈbœʏəlɪheːt",
+  "definition": "Hang eller dragning i en bestemt retning",
+  "example": "Han har en tilbøyelighet til å overdrive når han forteller.",
+  "synonyms": [
+   "hang",
+   "tendens",
+   "forkjærlighet"
+  ],
+  "origin": "Av tilbøyelig, egentlig «som bøyer seg mot noe»; jf. tysk Zuneigung."
+ },
+ {
+  "lemma": "tussmørke",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "ˈtʉsˌmœrkə",
+  "definition": "Halvmørket mellom dag og natt",
+  "example": "I tussmørket lignet einerbuskene på små troll.",
+  "synonyms": [
+   "skumring",
+   "halvmørke",
+   "kveldsmørke"
+  ],
+  "origin": "Førsteleddet er usikkert; det knyttes ofte til tuss «underjordisk vette», norrønt þurs."
+ },
+ {
+  "lemma": "lynne",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "ˈlʏnə",
+  "definition": "Medfødt sinnelag og temperament",
+  "example": "Hun hadde et lyst lynne og lo ofte.",
+  "synonyms": [
+   "gemytt",
+   "temperament",
+   "sinnelag"
+  ],
+  "origin": "Av norrønt lyndi «sinnelag», beslektet med lund «måte, sinn»."
+ },
+ {
+  "lemma": "tidsånd",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈtɪtsˌɔn",
+  "definition": "Tankene og holdningene som preger en epoke",
+  "example": "Romanen fanger tidsånden i åttiårenes Oslo.",
+  "synonyms": [
+   "tidsstemning"
+  ],
+  "origin": "Sammensatt av tid og ånd, etter tysk Zeitgeist."
+ },
+ {
+  "lemma": "villnis",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "ˈvɪlnɪs",
+  "definition": "Tett, uryddig kratt; også om et virvar",
+  "example": "Bak låven hadde hagen grodd igjen til et villnis av bringebær.",
+  "synonyms": [
+   "kratt",
+   "virvar",
+   "jungel"
+  ],
+  "origin": "Fra tysk Wildnis «villmark», av wild «vill»."
+ },
+ {
+  "lemma": "harme",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈhɑrmə",
+  "definition": "Sterk, rettferdig vrede",
+  "example": "Avsløringene vakte harme langt utover partiets egne rekker.",
+  "synonyms": [
+   "vrede",
+   "forargelse",
+   "indignasjon"
+  ],
+  "origin": "Av norrønt harmr «sorg, sinne»; jf. engelsk harm."
+ },
+ {
+  "lemma": "møye",
+  "level": 2,
+  "part_of_speech": "subst. f.",
+  "ipa": "ˈmœʏə",
+  "definition": "Slit og besvær",
+  "example": "Med stor møye fikk de båten opp på land.",
+  "synonyms": [
+   "strev",
+   "slit",
+   "umak"
+  ],
+  "origin": "Fra middelnedertysk möje; jf. tysk Mühe."
+ },
+ {
+  "lemma": "dårskap",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈdoːʂkɑːp",
+  "definition": "Tåpelig og uforstandig oppførsel",
+  "example": "Det er ren dårskap å bygge hytte så nær elvebredden.",
+  "synonyms": [
+   "tåpelighet",
+   "galskap",
+   "uforstand"
+  ],
+  "origin": "Av dåre «tåpe», fra middelnedertysk dōre (tysk Tor), og -skap."
+ },
+ {
+  "lemma": "uhygge",
+  "level": 2,
+  "part_of_speech": "subst. m.",
+  "ipa": "ˈʉːˌhʏɡə",
+  "definition": "Nifs og utrygg stemning",
+  "example": "Det hvilte en uhygge over det forlatte sanatoriet.",
+  "synonyms": [
+   "gru",
+   "utrygghet"
+  ],
+  "origin": "Av u- og hygge, som går tilbake på norrønt hyggja «tenke, ha omsorg for»."
+ },
+ {
+  "lemma": "fjas",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "fjɑːs",
+  "definition": "Tøys og tull uten alvor",
+  "example": "Bestefar hadde lite til overs for fjas og fanteri.",
+  "synonyms": [
+   "tøys",
+   "tull",
+   "pjatt"
+  ],
+  "origin": "Av verbet fjase, som trolig er lydmalende; opprinnelsen er usikker."
+ },
+ {
+  "lemma": "nag",
+  "level": 2,
+  "part_of_speech": "subst. n.",
+  "ipa": "nɑːɡ",
+  "definition": "Langvarig bitterhet mot noen",
+  "example": "Etter arveoppgjøret bar hun nag til broren i mange år.",
+  "synonyms": [
+   "bitterhet",
+   "uvilje",
+   "hat"
+  ],
+  "origin": "Av verbet nage «gnage», norrønt gnaga: en følelse som gnager."
+ }
+]
