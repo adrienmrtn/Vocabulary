@@ -1,4 +1,8 @@
 {
+ "de": {
+  "name": "Wort des Tages",
+  "summary": "Jeden Tag ein neues Wort, mit seiner Bedeutung."
+ },
  "en": {
   "name": "Word of the day",
   "summary": "A new word every day, with its meaning."
