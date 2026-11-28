@@ -10,11 +10,18 @@ platform :ios do
       is_key_content_base64: true
     )
 
+    # One folder per language the app teaches, named as App Store Connect names them
+    # (the same list as LOCALES in marketing/screenshots/build_data.py).
+    languages = %w[
+      ar-SA cs da de-DE el en-US es-ES fi fr-FR he hr hu it ja nl-NL no pl
+      pt-BR pt-PT ro ru sk sl-SI sv tr
+    ]
+
     # Screenshots only: no binary, no texts, and nothing is sent for review.
     deliver(
       api_key: api_key,
       screenshots_path: "./fastlane/screenshots",
-      languages: ["en-US", "fr-FR"],
+      languages: languages,
       overwrite_screenshots: true,
       skip_binary_upload: true,
       skip_metadata: true,

@@ -216,20 +216,29 @@ RevenueCat, attached to `premium` but in no offering. After adding or updating a
 
 ## App Store screenshots
 
-The seven screenshots, in English and French, are in `fastlane/screenshots`.
-They are drawn by `marketing/screenshots/shots.html`, which rebuilds the app's
-screens in HTML, and rendered at 1290 × 2796 with:
+Seven screenshots for each of the twenty-five languages, drawn in HTML from
+the app's own screens. `marketing/screenshots/build_data.py` gathers, for each
+language, the interface texts, the words shown on each screen and the headlines
+(`headlines.json`); `shots.html` draws them; `render.js` saves them at
+1290 × 2796 in `fastlane/screenshots`, one folder per App Store locale. That
+folder is not kept in the repository.
+
+```bash
+python3 marketing/screenshots/build_data.py
+```
 
 ```bash
 node marketing/screenshots/render.js
 ```
 
-This needs Playwright and the Inter font. The phone screens are mock-ups, not
-simulator captures.
+Rendering needs Playwright and the network, for the fonts. The phone screens
+are mock-ups, not simulator captures. Languages whose catalogue has few
+quotations show a word's origin on the third screenshot instead of a quotation.
 
-The "Upload App Store screenshots" workflow, started by hand from the Actions
-tab, sends them to App Store Connect with fastlane. It replaces the screenshots
-of the version being prepared and submits nothing for review. It needs three
+The "App Store screenshots" workflow, started by hand from the Actions tab,
+draws them, keeps them as an artifact and sends them to App Store Connect with
+fastlane. It replaces the screenshots of the version being prepared and submits
+nothing for review; untick "upload" to only draw them. Uploading needs three
 repository secrets from an App Store Connect API key with the App Manager
 role: `ASC_KEY_ID`, `ASC_ISSUER_ID` and `ASC_KEY_P8_BASE64` (the `.p8` file,
 base64-encoded).

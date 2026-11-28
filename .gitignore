@@ -3,3 +3,7 @@ xcuserdata/
 DerivedData/
 content/.cache/
 __pycache__/
+
+# App Store screenshots are drawn by marketing/screenshots/render.js
+fastlane/screenshots/
+node_modules/
