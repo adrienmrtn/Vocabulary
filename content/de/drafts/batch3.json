@@ -1,0 +1,854 @@
+[
+  {
+    "lemma": "hehr",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "heːɐ̯",
+    "definition": "Von feierlicher, verehrungswürdiger Größe",
+    "example": "Hinter den hehren Worten verbargen sich recht handfeste Interessen.",
+    "synonyms": [
+      "erhaben",
+      "heilig",
+      "edel"
+    ],
+    "origin": "Althochdeutsch hēr „alt, ehrwürdig, vornehm“, eigentlich „grauhaarig“. Aus dem Komparativ hēriro „der Ältere“ wurde Herr."
+  },
+  {
+    "lemma": "hold",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "hɔlt",
+    "definition": "Lieblich und anmutig; auch: jemandem gewogen",
+    "example": "Das Glück war ihr an diesem Abend nicht hold.",
+    "synonyms": [
+      "lieblich",
+      "gewogen",
+      "zugetan"
+    ],
+    "origin": "Althochdeutsch hold „geneigt, treu, ergeben“, zu einem germanischen Wort für „sich neigen“ (vgl. Halde). Es bezeichnete das Verhältnis von Herr und Gefolgsmann."
+  },
+  {
+    "lemma": "blümerant",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "blyməˈʁant",
+    "definition": "Schwindlig und flau zumute",
+    "example": "Auf der schwankenden Fähre wurde mir ganz blümerant.",
+    "synonyms": [
+      "flau",
+      "schwindlig",
+      "unwohl"
+    ],
+    "origin": "Im 17. Jahrhundert aus französisch bleu mourant „sterbendes Blau, Blassblau“ entlehnt, einer Modefarbe. Über „blass“ kam es zu „flau, schwindlig“."
+  },
+  {
+    "lemma": "hanebüchen",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈhaːnəbyːçn̩",
+    "definition": "Unerhört, haarsträubend und grob unsinnig",
+    "example": "Das ist eine hanebüchene Ausrede, die dir kein Mensch glaubt.",
+    "synonyms": [
+      "haarsträubend",
+      "unerhört",
+      "abwegig"
+    ],
+    "origin": "Aus mittelhochdeutsch hagenbüechīn „aus Hagebuchenholz“. Das Holz der Hainbuche ist knorrig und hart, daher „grob, derb“ und schließlich „unerhört“."
+  },
+  {
+    "lemma": "hoffärtig",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈhɔfɛʁtɪç",
+    "definition": "Dünkelhaft stolz und prunksüchtig",
+    "example": "Die hoffärtige Kaufmannsfrau grüßte ihre alten Nachbarn nicht mehr.",
+    "synonyms": [
+      "hochmütig",
+      "stolz",
+      "überheblich"
+    ],
+    "origin": "Von Hoffart, mittelhochdeutsch hōchvart „vornehme Lebensart, Hochmut“, aus hoch und Fahrt: eigentlich „hohe Art zu fahren, zu leben“."
+  },
+  {
+    "lemma": "abgefeimt",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈapɡəfaɪ̯mt",
+    "definition": "In allen Schlichen erfahren und durchtrieben",
+    "example": "Der abgefeimte Betrüger hatte selbst erfahrene Bankiers getäuscht.",
+    "synonyms": [
+      "durchtrieben",
+      "gerissen",
+      "ausgekocht"
+    ],
+    "origin": "Partizip des veralteten Verbs abfeimen „den Schaum abschöpfen“, zu Feim „Schaum“ (vgl. englisch foam): eigentlich „abgeschäumt, geklärt“, dann abwertend „raffiniert“."
+  },
+  {
+    "lemma": "ruchbar",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʁuːxbaːɐ̯",
+    "definition": "Durch Gerede allgemein bekannt geworden",
+    "example": "Als der Skandal ruchbar wurde, trat der Vorstand geschlossen zurück.",
+    "synonyms": [
+      "bekannt",
+      "offenkundig",
+      "publik"
+    ],
+    "origin": "Aus niederdeutsch ruchtbar, zu ruchte „Ruf, Leumund“, der niederdeutschen Entsprechung von Gerücht; verwandt mit rufen, nicht mit ruchlos."
+  },
+  {
+    "lemma": "mokant",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "moˈkant",
+    "definition": "Auf feine, überlegene Weise spöttisch",
+    "example": "Mit mokantem Lächeln hörte sie sich seine Ausflüchte an.",
+    "synonyms": [
+      "spöttisch",
+      "höhnisch",
+      "süffisant"
+    ],
+    "origin": "Aus französisch moquant, dem Partizip von se moquer „sich lustig machen“, dessen Herkunft unsicher ist."
+  },
+  {
+    "lemma": "süffisant",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "zʏfiˈzant",
+    "definition": "Selbstgefällig und herablassend spöttisch",
+    "example": "Seine süffisante Bemerkung brachte den ganzen Saal gegen ihn auf.",
+    "synonyms": [
+      "selbstgefällig",
+      "spöttisch",
+      "herablassend"
+    ],
+    "origin": "Aus französisch suffisant „genügend; selbstgefällig“, dem Partizip von suffire, lateinisch sufficere „genügen“."
+  },
+  {
+    "lemma": "schnöde",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʃnøːdə",
+    "definition": "Verächtlich und gemein; auch: erbärmlich gering",
+    "example": "Für schnödes Geld verriet er seinen ältesten Freund.",
+    "synonyms": [
+      "verächtlich",
+      "gemein",
+      "erbärmlich"
+    ],
+    "origin": "Mittelhochdeutsch snœde „verächtlich, ärmlich, gering“. Die weitere Herkunft ist unsicher."
+  },
+  {
+    "lemma": "unbotmäßig",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈʊnboːtmɛːsɪç",
+    "definition": "Sich der Obrigkeit widersetzend, aufsässig",
+    "example": "Der unbotmäßige Rekrut wurde zum dritten Mal vor den Hauptmann zitiert.",
+    "synonyms": [
+      "aufsässig",
+      "widerspenstig",
+      "ungehorsam"
+    ],
+    "origin": "Zu Botmäßigkeit „Herrschaft, Befehlsgewalt“, von mittelhochdeutsch bot „Gebot“ (zu bieten): wer sich dem Gebot nicht fügt."
+  },
+  {
+    "lemma": "lapidar",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "lapiˈdaːɐ̯",
+    "definition": "Knapp und wuchtig formuliert, ohne Erläuterung",
+    "example": "Die Behörde teilte lapidar mit, der Antrag sei abgelehnt.",
+    "synonyms": [
+      "knapp",
+      "bündig",
+      "lakonisch"
+    ],
+    "origin": "Aus lateinisch lapidarius „zu den Steinen gehörig“, zu lapis „Stein“: knapp wie eine in Stein gehauene Inschrift."
+  },
+  {
+    "lemma": "sakrosankt",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "zakʁoˈzaŋkt",
+    "definition": "Unantastbar, jeder Kritik entzogen",
+    "example": "In dieser Firma gilt die Mittagspause als sakrosankt.",
+    "synonyms": [
+      "unantastbar",
+      "heilig",
+      "unverletzlich"
+    ],
+    "origin": "Aus lateinisch sacrosanctus „durch religiöse Weihe unverletzlich“, aus sacer „heilig“ und sanctus „geweiht“; so hießen die römischen Volkstribunen."
+  },
+  {
+    "lemma": "philiströs",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "filɪsˈtʁøːs",
+    "definition": "Engstirnig und spießbürgerlich, ohne Sinn für Geistiges",
+    "example": "Seine philiströse Angst vor allem Neuen lähmte den ganzen Verein.",
+    "synonyms": [
+      "spießig",
+      "kleinkariert",
+      "engstirnig"
+    ],
+    "origin": "Von Philister, dem biblischen Feindvolk Israels; in der Studentensprache des 17. Jahrhunderts, von Jena ausgehend, Spottname für den Nichtstudenten und Spießbürger."
+  },
+  {
+    "lemma": "saumselig",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈzaʊ̯mzeːlɪç",
+    "definition": "Nachlässig langsam bei der Erledigung von Pflichten",
+    "example": "Der saumselige Schuldner ließ auch die dritte Mahnung unbeantwortet.",
+    "synonyms": [
+      "säumig",
+      "nachlässig",
+      "trödelig"
+    ],
+    "origin": "Zu mittelhochdeutsch sūmesal „Säumnis, Nachlässigkeit“, abgeleitet von sūmen „säumen, zögern“; mit selig nicht verwandt."
+  },
+  {
+    "lemma": "leutselig",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "ˈlɔɪ̯tzeːlɪç",
+    "definition": "Wohlwollend und gesprächig im Umgang, besonders mit Untergebenen",
+    "example": "Der Direktor gab sich leutselig und plauderte mit jedem Arbeiter.",
+    "synonyms": [
+      "umgänglich",
+      "jovial",
+      "gesellig"
+    ],
+    "origin": "Mittelhochdeutsch liutsælec „den Menschen wohlgefällig“, aus liut „Leute“ und sælec „glücklich, gesegnet“."
+  },
+  {
+    "lemma": "betulich",
+    "level": 3,
+    "part_of_speech": "Adj.",
+    "ipa": "bəˈtuːlɪç",
+    "definition": "Umständlich freundlich und allzu gemächlich besorgt",
+    "example": "Betulich rückte die Gastgeberin jedem Gast das Kissen zurecht.",
+    "synonyms": [
+      "umständlich",
+      "gemächlich",
+      "altjüngferlich"
+    ],
+    "origin": "Im 18. Jahrhundert zu sich betun „sich geschäftig zeigen, sich zieren“ gebildet, einer Ableitung von tun."
+  },
+  {
+    "lemma": "fürbass",
+    "level": 3,
+    "part_of_speech": "Adv.",
+    "ipa": "fyːɐ̯ˈbas",
+    "definition": "Vorwärts, weiter auf dem Weg",
+    "example": "Wohlgemut schritten die Wanderer fürbass, dem Tal entgegen.",
+    "synonyms": [
+      "weiter",
+      "vorwärts",
+      "voran"
+    ],
+    "origin": "Mittelhochdeutsch vürbaz, aus für „vorwärts“ und baz „besser, mehr“, dem alten Adverb zu gut (vgl. „bass erstaunt“)."
+  },
+  {
+    "lemma": "weiland",
+    "level": 3,
+    "part_of_speech": "Adv.",
+    "ipa": "ˈvaɪ̯lant",
+    "definition": "Einst, in früheren Zeiten",
+    "example": "Er residierte dort wie weiland ein Fürst in seinem Schloss.",
+    "synonyms": [
+      "einst",
+      "ehemals",
+      "vormals"
+    ],
+    "origin": "Mittelhochdeutsch wīlent, älter wīlen „vormals“, erstarrter Dativ Plural von wīle „Weile“ mit angetretenem t."
+  },
+  {
+    "lemma": "bramarbasieren",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "bʁamaʁbaˈziːʁən",
+    "definition": "Laut und großspurig mit Heldentaten prahlen",
+    "example": "Am Stammtisch bramarbasierte er wieder von seinen Abenteuern in Afrika.",
+    "synonyms": [
+      "prahlen",
+      "aufschneiden",
+      "angeben"
+    ],
+    "origin": "Nach Bramarbas, dem Namen eines Großmauls in einem satirischen Gedicht von 1710, den Gottsched 1741 als Titel für Holbergs Komödie vom prahlerischen Offizier verbreitete. Der Name geht wohl auf spanisch bramar „brüllen“ zurück."
+  },
+  {
+    "lemma": "schwadronieren",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ʃvadʁoˈniːʁən",
+    "definition": "Wortreich, laut und unbekümmert daherreden",
+    "example": "Stundenlang schwadronierte der Onkel über Politik, ohne jemanden zu Wort kommen zu lassen.",
+    "synonyms": [
+      "schwafeln",
+      "schwätzen",
+      "prahlen"
+    ],
+    "origin": "Zu Schwadron „Reiterabteilung“ (aus italienisch squadrone); zunächst in der Fechtersprache „wild um sich schlagen“, dann „drauflosreden“."
+  },
+  {
+    "lemma": "fabulieren",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "fabuˈliːʁən",
+    "definition": "Fantasievoll Geschichten erfinden und ausschmücken",
+    "example": "Niemand konnte so herrlich fabulieren wie unser alter Hausmeister.",
+    "synonyms": [
+      "erfinden",
+      "erdichten",
+      "flunkern"
+    ],
+    "origin": "Aus lateinisch fabulari „plaudern, erzählen“, zu fabula „Erzählung, Sage“."
+  },
+  {
+    "lemma": "räsonieren",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ʁɛzoˈniːʁən",
+    "definition": "Viel und nörgelnd reden; veraltet: vernünftig urteilen",
+    "example": "Statt zu helfen, räsonierte er nur über die Fehler der anderen.",
+    "synonyms": [
+      "nörgeln",
+      "schimpfen",
+      "mäkeln"
+    ],
+    "origin": "Im 17. Jahrhundert aus französisch raisonner „vernünftig denken, urteilen“, zu raison, lateinisch ratio „Vernunft“. Die abwertende Bedeutung entstand im Deutschen."
+  },
+  {
+    "lemma": "parlieren",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "paʁˈliːʁən",
+    "definition": "Gewandt und leichthin plaudern, besonders in fremder Sprache",
+    "example": "Nach einem Jahr in Lyon parlierte sie fließend Französisch.",
+    "synonyms": [
+      "plaudern",
+      "konversieren",
+      "reden"
+    ],
+    "origin": "Schon mittelhochdeutsch parlieren, aus altfranzösisch parler „sprechen“, das auf kirchenlateinisch parabolare „in Gleichnissen reden“ zurückgeht."
+  },
+  {
+    "lemma": "antichambrieren",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "antiʃamˈbʁiːʁən",
+    "definition": "Durch unterwürfiges Vorsprechen Gunst zu erlangen suchen",
+    "example": "Wochenlang antichambrierte der Lobbyist bei den Abgeordneten.",
+    "synonyms": [
+      "katzbuckeln",
+      "dienern",
+      "buckeln"
+    ],
+    "origin": "Zu französisch antichambre „Vorzimmer“, das italienisch anticamera nachgebildet ist: im Vorzimmer der Mächtigen warten."
+  },
+  {
+    "lemma": "gereichen",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ɡəˈʁaɪ̯çn̩",
+    "definition": "Zu etwas dienen und es jemandem einbringen",
+    "example": "Diese Entscheidung gereicht dem ganzen Haus zur Ehre.",
+    "synonyms": [
+      "dienen",
+      "einbringen"
+    ],
+    "origin": "Mittelhochdeutsch gereichen „erreichen, sich erstrecken“, Verstärkung von reichen; heute nur noch in Wendungen wie „zur Ehre gereichen“."
+  },
+  {
+    "lemma": "frommen",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ˈfʁɔmən",
+    "definition": "Nützen, von Vorteil sein",
+    "example": "Was frommt aller Reichtum, wenn die Gesundheit fehlt?",
+    "synonyms": [
+      "nützen",
+      "helfen",
+      "dienen"
+    ],
+    "origin": "Althochdeutsch frummen „fördern, vollbringen“, zu fruma „Nutzen, Vorteil“. Auch fromm bedeutete zunächst „nützlich, tüchtig“."
+  },
+  {
+    "lemma": "kredenzen",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "kʁeˈdɛntsn̩",
+    "definition": "Ein Getränk oder eine Speise feierlich darreichen",
+    "example": "Zum Abschied kredenzte der Winzer seinen besten Jahrgang.",
+    "synonyms": [
+      "auftischen",
+      "darreichen",
+      "servieren"
+    ],
+    "origin": "Zu Kredenz, aus italienisch credenza „Glaube, Vertrauen“: far la credenza hieß, Speisen vorzukosten, um zu beweisen, dass sie nicht vergiftet waren."
+  },
+  {
+    "lemma": "lustwandeln",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ˈlʊstvandl̩n",
+    "definition": "Gemächlich zum Vergnügen spazieren gehen",
+    "example": "Sonntags lustwandelten die Bürger unter den Linden der Promenade.",
+    "synonyms": [
+      "spazieren",
+      "flanieren",
+      "promenieren"
+    ],
+    "origin": "Im 17. Jahrhundert als Verdeutschung von spazieren gebildet, aus Lust und wandeln; meist Philipp von Zesen zugeschrieben."
+  },
+  {
+    "lemma": "scharwenzeln",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ʃaʁˈvɛntsl̩n",
+    "definition": "Sich übertrieben dienstfertig um jemanden bemühen",
+    "example": "Der neue Praktikant scharwenzelt den ganzen Tag um die Chefin herum.",
+    "synonyms": [
+      "schmeicheln",
+      "katzbuckeln",
+      "liebedienern"
+    ],
+    "origin": "Zu Scharwenzel, dem Namen des Buben im Kartenspiel, wohl aus tschechisch červenec „roter Bube“ unter Anlehnung an den Namen Wenzel. Die Einzelheiten sind unsicher."
+  },
+  {
+    "lemma": "salbadern",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "zalˈbaːdɐn",
+    "definition": "Langatmig und salbungsvoll daherreden",
+    "example": "Der Redner salbaderte eine Stunde lang über die gute alte Zeit.",
+    "synonyms": [
+      "schwafeln",
+      "faseln",
+      "schwätzen"
+    ],
+    "origin": "Zu Salbader „langweiliger Schwätzer“, seit dem 17. Jahrhundert. Die Herkunft ist ungeklärt; eine alte Anekdote führt das Wort auf einen geschwätzigen Bader in Jena zurück."
+  },
+  {
+    "lemma": "vergällen",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "fɛɐ̯ˈɡɛlən",
+    "definition": "Jemandem die Freude an etwas verderben",
+    "example": "Der Dauerregen vergällte uns die ganze Urlaubswoche.",
+    "synonyms": [
+      "verderben",
+      "verleiden",
+      "vermiesen"
+    ],
+    "origin": "Mittelhochdeutsch vergellen „bitter wie Galle machen“, zu Galle."
+  },
+  {
+    "lemma": "verbrämen",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "fɛɐ̯ˈbʁɛːmən",
+    "definition": "Etwas Unangenehmes mit schönen Worten verhüllen",
+    "example": "Die Kürzungen wurden als Reform verbrämt, doch jeder verstand, was gemeint war.",
+    "synonyms": [
+      "beschönigen",
+      "verschleiern",
+      "verhüllen"
+    ],
+    "origin": "Zu mittelhochdeutsch brem „Rand, Besatz“: ursprünglich ein Kleid am Rand mit Pelz besetzen, dann „ausschmücken, verhüllen“."
+  },
+  {
+    "lemma": "geziemen",
+    "level": 3,
+    "part_of_speech": "Verb",
+    "ipa": "ɡəˈtsiːmən",
+    "definition": "Sich nach Sitte und Anstand gehören",
+    "example": "Es geziemt sich nicht, den Gastgeber vor allen Gästen zu korrigieren.",
+    "synonyms": [
+      "gehören",
+      "schicken",
+      "gebühren"
+    ],
+    "origin": "Althochdeutsch gizeman „angemessen sein, passen“, zu zeman „ziemen“; dazu gehören auch ziemlich und Zunft."
+  },
+  {
+    "lemma": "Mumpitz",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈmʊmpɪts",
+    "definition": "Unsinn, den man nicht ernst nehmen kann",
+    "example": "Was der Verkäufer über das Wundermittel erzählte, war reiner Mumpitz.",
+    "synonyms": [
+      "Unsinn",
+      "Quatsch",
+      "Humbug"
+    ],
+    "origin": "Im 19. Jahrhundert im Berliner Börsenjargon für „unsinniges Gerede, Schwindel“; aus älterem Mummelputz „Vogelscheuche, Schreckgestalt“."
+  },
+  {
+    "lemma": "Firlefanz",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈfɪʁləfants",
+    "definition": "Überflüssiges, wertloses Zeug; auch: alberner Unsinn",
+    "example": "Das Zimmer war mit allerlei Firlefanz vollgestellt.",
+    "synonyms": [
+      "Tand",
+      "Kram",
+      "Krimskrams"
+    ],
+    "origin": "Spätmittelhochdeutsch firlifanz, Name eines lustigen Springtanzes; wohl zu altfranzösisch virelai „Ringellied“ mit Anlehnung an Tanz. Sicher ist das nicht."
+  },
+  {
+    "lemma": "Tand",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "tant",
+    "definition": "Hübsch aussehende, aber wertlose Dinge",
+    "example": "Auf dem Jahrmarkt gab er sein ganzes Taschengeld für billigen Tand aus.",
+    "synonyms": [
+      "Flitter",
+      "Plunder",
+      "Firlefanz"
+    ],
+    "origin": "Mittelhochdeutsch tant „leeres Geschwätz, Possen“; vielleicht über die Kaufmannssprache aus dem Romanischen (lateinisch tantum „so viel“), aber nicht gesichert."
+  },
+  {
+    "lemma": "Unbill",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈʊnbɪl",
+    "definition": "Erlittenes Unrecht; Härte, etwa des Wetters",
+    "example": "Trotz aller Unbill des Wetters fand das Fest im Freien statt.",
+    "synonyms": [
+      "Unrecht",
+      "Härte",
+      "Ungemach"
+    ],
+    "origin": "Aus dem Schweizerdeutschen in die Schriftsprache gelangt; zu mittelhochdeutsch unbil „ungemäß, unrecht“, der Verneinung eines Wortes, das auch in billig „angemessen“ steckt."
+  },
+  {
+    "lemma": "Drangsal",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈdʁaŋzaːl",
+    "definition": "Qualvolle Not und Bedrückung",
+    "example": "Die Chronik berichtet von der Drangsal der Stadt während der Belagerung.",
+    "synonyms": [
+      "Not",
+      "Bedrängnis",
+      "Qual"
+    ],
+    "origin": "Spätmittelhochdeutsch drancsal, zu drangen „drängen, bedrücken“ mit der Nachsilbe -sal."
+  },
+  {
+    "lemma": "Hybris",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈhyːbʁɪs",
+    "definition": "Frevelhafte Selbstüberhebung, die den Sturz herausfordert",
+    "example": "Die Hybris des Konzerns endete in einer spektakulären Pleite.",
+    "synonyms": [
+      "Hochmut",
+      "Vermessenheit",
+      "Anmaßung"
+    ],
+    "origin": "Aus griechisch hýbris „Übermut, Frevel“; in der antiken Tragödie die Selbstüberhebung des Menschen gegenüber den Göttern."
+  },
+  {
+    "lemma": "Chuzpe",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ˈxʊtspə",
+    "definition": "Unverschämte, fast bewundernswerte Dreistigkeit",
+    "example": "Er besaß die Chuzpe, nach der Pleite noch einen Bonus zu fordern.",
+    "synonyms": [
+      "Dreistigkeit",
+      "Frechheit",
+      "Unverfrorenheit"
+    ],
+    "origin": "Über jiddisch chuzpe aus hebräisch ḥuṣpā „Frechheit, Unverschämtheit“."
+  },
+  {
+    "lemma": "Tohuwabohu",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˌtoːhuvaˈboːhu",
+    "definition": "Völliges Durcheinander, heilloses Chaos",
+    "example": "Nach dem Kindergeburtstag herrschte im Wohnzimmer ein einziges Tohuwabohu.",
+    "synonyms": [
+      "Chaos",
+      "Wirrwarr",
+      "Durcheinander"
+    ],
+    "origin": "Aus hebräisch tōhū wā-bōhū „wüst und leer“, den Worten, mit denen die Schöpfungsgeschichte (1. Mose 1,2) die Erde vor der Schöpfung beschreibt."
+  },
+  {
+    "lemma": "Sammelsurium",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "zaml̩ˈzuːʁiʊm",
+    "definition": "Bunte, ungeordnete Anhäufung verschiedenster Dinge",
+    "example": "Der Dachboden barg ein Sammelsurium aus alten Koffern, Lampen und Spielzeug.",
+    "synonyms": [
+      "Mischmasch",
+      "Allerlei",
+      "Durcheinander"
+    ],
+    "origin": "Scherzhafte lateinische Endung an niederdeutsch Sammelsur „saures Gericht aus gesammelten Speiseresten“, aus sammeln und sur „sauer“."
+  },
+  {
+    "lemma": "Stelldichein",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ˈʃtɛldɪçʔaɪ̯n",
+    "definition": "Verabredetes Treffen, besonders von Verliebten",
+    "example": "Im Park gaben sich die beiden jeden Abend ein heimliches Stelldichein.",
+    "synonyms": [
+      "Rendezvous",
+      "Verabredung",
+      "Treffen"
+    ],
+    "origin": "Ende des 18. Jahrhunderts von Joachim Heinrich Campe als Verdeutschung von Rendezvous geprägt, dessen Bildung es nachahmt: „Stell dich ein!“"
+  },
+  {
+    "lemma": "Techtelmechtel",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "tɛçtl̩ˈmɛçtl̩",
+    "definition": "Flüchtige, heimliche Liebelei",
+    "example": "Das Techtelmechtel mit dem Kollegen blieb im Büro nicht lange geheim.",
+    "synonyms": [
+      "Liebelei",
+      "Flirt",
+      "Affäre"
+    ],
+    "origin": "Seit dem 18. Jahrhundert, zuerst in Österreich bezeugt. Die Herkunft ist ungeklärt; erwogen wird italienisch teco meco „mit dir, mit mir“, also „unter vier Augen“."
+  },
+  {
+    "lemma": "Hagestolz",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈhaːɡəʃtɔlts",
+    "definition": "Älterer, eingefleischter Junggeselle",
+    "example": "Der alte Hagestolz ließ niemanden in seine Küche.",
+    "synonyms": [
+      "Junggeselle",
+      "Einzelgänger"
+    ],
+    "origin": "Althochdeutsch hagustalt „Besitzer eines Hags“, eines kleinen eingehegten Nebenguts: Der jüngere Sohn, der nur ein solches erbte, konnte keine Familie gründen. An stolz wurde das Wort erst später angelehnt."
+  },
+  {
+    "lemma": "Schwerenöter",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈʃveːʁəˌnøːtɐ",
+    "definition": "Charmanter Mann, der Frauen leichtfertig umwirbt",
+    "example": "Der alte Schwerenöter flirtete selbst mit der Standesbeamtin.",
+    "synonyms": [
+      "Charmeur",
+      "Frauenheld",
+      "Schürzenjäger"
+    ],
+    "origin": "Zu „schwere Not“, einem alten Namen der Epilepsie und derben Fluch: ursprünglich einer, dem man die schwere Not an den Hals wünscht, ein durchtriebener Kerl."
+  },
+  {
+    "lemma": "Lappalie",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "laˈpaːli̯ə",
+    "definition": "Belanglose Kleinigkeit, um die man kein Aufheben macht",
+    "example": "Wegen einer solchen Lappalie werden wir uns doch nicht streiten.",
+    "synonyms": [
+      "Kleinigkeit",
+      "Bagatelle",
+      "Nichtigkeit"
+    ],
+    "origin": "Scherzbildung der Studentensprache des 17. Jahrhunderts: Lappen mit lateinischer Endung, nach dem Muster von Kanzleiwörtern wie Personalien."
+  },
+  {
+    "lemma": "Banause",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "baˈnaʊ̯zə",
+    "definition": "Mensch ohne Verständnis für Kunst und Geistiges",
+    "example": "Wer bei dieser Musik einschläft, ist ein hoffnungsloser Banause.",
+    "synonyms": [
+      "Ignorant",
+      "Spießer",
+      "Philister"
+    ],
+    "origin": "Aus griechisch bánausos „Handwerker“, eigentlich „der am Ofen Arbeitende“. Die Geringschätzung der Handarbeit bei den Griechen gab dem Wort seinen abschätzigen Sinn."
+  },
+  {
+    "lemma": "Mäzen",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "mɛˈtseːn",
+    "definition": "Wohlhabender Förderer von Kunst und Künstlern",
+    "example": "Ohne ihren Mäzen hätte die junge Malerin ihr Atelier nie halten können.",
+    "synonyms": [
+      "Förderer",
+      "Gönner",
+      "Stifter"
+    ],
+    "origin": "Nach dem Römer Gaius Maecenas (gestorben 8 v. Chr.), dem Vertrauten des Augustus, der Dichter wie Horaz und Vergil förderte."
+  },
+  {
+    "lemma": "Koryphäe",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "koʁyˈfɛːə",
+    "definition": "Fachmann oder Fachfrau von überragendem Rang",
+    "example": "Die Chirurgin gilt als Koryphäe auf dem Gebiet der Herztransplantation.",
+    "synonyms": [
+      "Kapazität",
+      "Autorität",
+      "Ass"
+    ],
+    "origin": "Über französisch coryphée aus griechisch koryphaîos „Anführer, Chorführer“, zu koryphḗ „Gipfel, Scheitel“."
+  },
+  {
+    "lemma": "Faktotum",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "fakˈtoːtʊm",
+    "definition": "Person, die in einem Haus alle Arbeiten erledigt",
+    "example": "Der alte Gärtner war längst zum Faktotum der ganzen Familie geworden.",
+    "synonyms": [
+      "Gehilfe",
+      "Diener",
+      "Helfer"
+    ],
+    "origin": "Aus lateinisch fac totum „mach alles!“, aus dem Imperativ von facere „machen“ und totum „das Ganze“."
+  },
+  {
+    "lemma": "Menetekel",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "meneˈteːkl̩",
+    "definition": "Unheilvolles Warnzeichen für drohendes Unglück",
+    "example": "Der Einsturz der Brücke wurde zum Menetekel für die marode Infrastruktur.",
+    "synonyms": [
+      "Warnzeichen",
+      "Vorzeichen",
+      "Omen"
+    ],
+    "origin": "Nach den aramäischen Worten mene, mene, tekel, u-parsin, die im Buch Daniel (5,25) als Geisterschrift an der Wand König Belsazar den Untergang ankündigen."
+  },
+  {
+    "lemma": "Schimäre",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "ʃiˈmɛːʁə",
+    "definition": "Trügerische Vorstellung, bloßes Hirngespinst",
+    "example": "Der Traum vom schnellen Reichtum erwies sich als Schimäre.",
+    "synonyms": [
+      "Hirngespinst",
+      "Illusion",
+      "Wahn"
+    ],
+    "origin": "Über französisch chimère aus griechisch Chímaira, dem feuerspeienden Ungeheuer aus Löwe, Ziege und Schlange; eigentlich „Ziege“."
+  },
+  {
+    "lemma": "Bonmot",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "bõˈmoː",
+    "definition": "Treffende, geistreiche Bemerkung",
+    "example": "Mit einem Bonmot rettete der Moderator die peinliche Situation.",
+    "synonyms": [
+      "Witzwort",
+      "Pointe",
+      "Geistesblitz"
+    ],
+    "origin": "Aus französisch bon mot „gutes Wort“."
+  },
+  {
+    "lemma": "Verdikt",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "vɛʁˈdɪkt",
+    "definition": "Strenges, endgültiges Urteil",
+    "example": "Das Verdikt der Kritiker über den Film fiel vernichtend aus.",
+    "synonyms": [
+      "Urteil",
+      "Schuldspruch",
+      "Richtspruch"
+    ],
+    "origin": "Über englisch verdict aus mittellateinisch veredictum, eigentlich vere dictum „wahrhaft Gesprochenes“, der Spruch der Geschworenen."
+  },
+  {
+    "lemma": "Gepränge",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ɡəˈpʁɛŋə",
+    "definition": "Prunkvoller Aufwand bei festlichen Anlässen",
+    "example": "Mit großem Gepränge zog der Bischof in die Stadt ein.",
+    "synonyms": [
+      "Prunk",
+      "Pomp",
+      "Pracht"
+    ],
+    "origin": "Zu prangen „prunken, glänzen“, mittelhochdeutsch brangen, prangen, wohl verwandt mit Prunk."
+  },
+  {
+    "lemma": "Gestade",
+    "level": 3,
+    "part_of_speech": "Subst. n.",
+    "ipa": "ɡəˈʃtaːdə",
+    "definition": "Ufer eines Meeres, Sees oder Flusses, dichterisch",
+    "example": "An fernen Gestaden hoffte er sein Glück zu finden.",
+    "synonyms": [
+      "Ufer",
+      "Küste",
+      "Strand"
+    ],
+    "origin": "Mittelhochdeutsch gestat, Sammelbildung zu stat „Ufer“, das mit stehen und Stätte verwandt ist."
+  },
+  {
+    "lemma": "Odem",
+    "level": 3,
+    "part_of_speech": "Subst. m.",
+    "ipa": "ˈoːdəm",
+    "definition": "Atem, in dichterischer und biblischer Sprache",
+    "example": "Der Frühling hauchte dem erstarrten Land neuen Odem ein.",
+    "synonyms": [
+      "Atem",
+      "Hauch",
+      "Lebenshauch"
+    ],
+    "origin": "Mitteldeutsche Lautform von Atem (althochdeutsch ātum), die durch Luthers Bibel in die Dichtersprache kam."
+  },
+  {
+    "lemma": "Kalamität",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "kalamiˈtɛːt",
+    "definition": "Schlimme Verlegenheit, missliche Lage",
+    "example": "Der Streik der Fluglotsen brachte Tausende Reisende in arge Kalamitäten.",
+    "synonyms": [
+      "Notlage",
+      "Misere",
+      "Schlamassel"
+    ],
+    "origin": "Aus lateinisch calamitas „Schaden, Unglück“, ursprünglich wohl ein Wort der Bauern für Missernte und Hagelschaden."
+  },
+  {
+    "lemma": "Sentenz",
+    "level": 3,
+    "part_of_speech": "Subst. f.",
+    "ipa": "zɛnˈtɛnts",
+    "definition": "Knapp gefasster, einprägsamer Ausspruch von allgemeiner Geltung",
+    "example": "Schillers Dramen sind reich an Sentenzen, die zu geflügelten Worten wurden.",
+    "synonyms": [
+      "Sinnspruch",
+      "Maxime",
+      "Denkspruch"
+    ],
+    "origin": "Aus lateinisch sententia „Meinung, Urteil, Sinnspruch“, zu sentire „fühlen, meinen“."
+  }
+]

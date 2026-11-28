@@ -1,0 +1,671 @@
+{
+  "behutsam": [
+    "character"
+  ],
+  "beharrlich": [
+    "character",
+    "persuasion"
+  ],
+  "anmutig": [
+    "character",
+    "literature"
+  ],
+  "redlich": [
+    "character",
+    "business"
+  ],
+  "wehmütig": [
+    "emotions"
+  ],
+  "bedächtig": [
+    "character"
+  ],
+  "gelassen": [
+    "emotions",
+    "character"
+  ],
+  "heiter": [
+    "emotions",
+    "nature"
+  ],
+  "innig": [
+    "emotions"
+  ],
+  "zaghaft": [
+    "character",
+    "emotions"
+  ],
+  "emsig": [
+    "character",
+    "business"
+  ],
+  "karg": [
+    "nature",
+    "society"
+  ],
+  "schlicht": [
+    "character",
+    "society"
+  ],
+  "mürrisch": [
+    "character",
+    "emotions"
+  ],
+  "kühn": [
+    "character"
+  ],
+  "träge": [
+    "character",
+    "nature"
+  ],
+  "düster": [
+    "emotions",
+    "nature"
+  ],
+  "stattlich": [
+    "society",
+    "nature"
+  ],
+  "behaglich": [
+    "emotions"
+  ],
+  "zierlich": [
+    "nature",
+    "character"
+  ],
+  "argwöhnisch": [
+    "character",
+    "emotions"
+  ],
+  "eitel": [
+    "character"
+  ],
+  "hager": [
+    "nature",
+    "character"
+  ],
+  "schroff": [
+    "character",
+    "nature"
+  ],
+  "gediegen": [
+    "business",
+    "society"
+  ],
+  "verwegen": [
+    "character",
+    "travel"
+  ],
+  "verschmitzt": [
+    "character"
+  ],
+  "beklommen": [
+    "emotions"
+  ],
+  "rüstig": [
+    "character",
+    "science"
+  ],
+  "schlendern": [
+    "travel"
+  ],
+  "grübeln": [
+    "emotions",
+    "science"
+  ],
+  "zaudern": [
+    "character"
+  ],
+  "schmunzeln": [
+    "emotions"
+  ],
+  "tadeln": [
+    "debate",
+    "society"
+  ],
+  "verweilen": [
+    "travel"
+  ],
+  "lauschen": [
+    "literature",
+    "nature"
+  ],
+  "ergründen": [
+    "science"
+  ],
+  "schwelgen": [
+    "emotions"
+  ],
+  "erwägen": [
+    "business",
+    "debate"
+  ],
+  "beteuern": [
+    "persuasion"
+  ],
+  "stöbern": [
+    "travel",
+    "literature"
+  ],
+  "hadern": [
+    "emotions",
+    "debate"
+  ],
+  "munkeln": [
+    "society"
+  ],
+  "schmachten": [
+    "emotions"
+  ],
+  "Sehnsucht": [
+    "emotions"
+  ],
+  "Zuversicht": [
+    "emotions"
+  ],
+  "Geborgenheit": [
+    "emotions"
+  ],
+  "Kummer": [
+    "emotions"
+  ],
+  "Dämmerung": [
+    "nature"
+  ],
+  "Muße": [
+    "society",
+    "literature"
+  ],
+  "Eifer": [
+    "character",
+    "business"
+  ],
+  "Demut": [
+    "character",
+    "society"
+  ],
+  "Zwietracht": [
+    "society",
+    "debate"
+  ],
+  "Übermut": [
+    "emotions",
+    "character"
+  ],
+  "Gemüt": [
+    "emotions",
+    "character"
+  ],
+  "Fernweh": [
+    "travel",
+    "emotions"
+  ],
+  "Groll": [
+    "emotions"
+  ],
+  "Trübsal": [
+    "emotions"
+  ],
+  "Wonne": [
+    "emotions"
+  ],
+  "vergänglich": [
+    "nature",
+    "literature"
+  ],
+  "erhaben": [
+    "literature",
+    "nature"
+  ],
+  "unverhohlen": [
+    "character",
+    "debate"
+  ],
+  "lakonisch": [
+    "persuasion",
+    "literature"
+  ],
+  "überschwänglich": [
+    "emotions"
+  ],
+  "beflissen": [
+    "character",
+    "business"
+  ],
+  "vermessen": [
+    "character",
+    "debate"
+  ],
+  "unwirsch": [
+    "character",
+    "emotions"
+  ],
+  "wankelmütig": [
+    "character"
+  ],
+  "ruchlos": [
+    "character",
+    "society"
+  ],
+  "unerbittlich": [
+    "character",
+    "persuasion"
+  ],
+  "schwülstig": [
+    "literature",
+    "persuasion"
+  ],
+  "verdrießlich": [
+    "emotions"
+  ],
+  "fahl": [
+    "nature"
+  ],
+  "ungestüm": [
+    "character",
+    "emotions"
+  ],
+  "umsichtig": [
+    "character",
+    "business"
+  ],
+  "weitschweifig": [
+    "literature",
+    "persuasion"
+  ],
+  "unstet": [
+    "character",
+    "travel"
+  ],
+  "unsäglich": [
+    "emotions",
+    "literature"
+  ],
+  "erquicklich": [
+    "emotions",
+    "nature"
+  ],
+  "dünkelhaft": [
+    "character",
+    "society"
+  ],
+  "einfältig": [
+    "character"
+  ],
+  "anheimelnd": [
+    "emotions",
+    "travel"
+  ],
+  "verschroben": [
+    "character"
+  ],
+  "garstig": [
+    "character",
+    "nature"
+  ],
+  "frönen": [
+    "emotions",
+    "society"
+  ],
+  "ersinnen": [
+    "literature",
+    "science"
+  ],
+  "ergötzen": [
+    "emotions",
+    "literature"
+  ],
+  "bezichtigen": [
+    "debate",
+    "society"
+  ],
+  "vereiteln": [
+    "business",
+    "society"
+  ],
+  "entbehren": [
+    "society",
+    "emotions"
+  ],
+  "beschwichtigen": [
+    "persuasion",
+    "emotions"
+  ],
+  "bekunden": [
+    "debate",
+    "society"
+  ],
+  "verschmähen": [
+    "emotions",
+    "character"
+  ],
+  "darben": [
+    "society"
+  ],
+  "schelten": [
+    "debate",
+    "emotions"
+  ],
+  "verunglimpfen": [
+    "debate",
+    "society"
+  ],
+  "läutern": [
+    "character",
+    "science"
+  ],
+  "erörtern": [
+    "debate"
+  ],
+  "schmälern": [
+    "business",
+    "debate"
+  ],
+  "liebäugeln": [
+    "emotions",
+    "business"
+  ],
+  "hegen": [
+    "nature",
+    "emotions"
+  ],
+  "anprangern": [
+    "debate",
+    "society"
+  ],
+  "Zwiespalt": [
+    "emotions",
+    "debate"
+  ],
+  "Kleinod": [
+    "society",
+    "travel"
+  ],
+  "Müßiggang": [
+    "society",
+    "character"
+  ],
+  "Scharfsinn": [
+    "science",
+    "character"
+  ],
+  "Trugbild": [
+    "literature",
+    "science"
+  ],
+  "Ehrfurcht": [
+    "emotions",
+    "society"
+  ],
+  "Langmut": [
+    "character"
+  ],
+  "Inbrunst": [
+    "emotions"
+  ],
+  "Ungemach": [
+    "emotions",
+    "society"
+  ],
+  "Antlitz": [
+    "literature"
+  ],
+  "Gebaren": [
+    "character",
+    "business"
+  ],
+  "Vermächtnis": [
+    "society",
+    "business"
+  ],
+  "Zerwürfnis": [
+    "society",
+    "emotions"
+  ],
+  "Sinnbild": [
+    "literature"
+  ],
+  "Obhut": [
+    "society"
+  ],
+  "Bürde": [
+    "emotions",
+    "business"
+  ],
+  "Inbegriff": [
+    "literature",
+    "debate"
+  ],
+  "Schabernack": [
+    "character",
+    "society"
+  ],
+  "hehr": [
+    "literature",
+    "persuasion"
+  ],
+  "hold": [
+    "literature",
+    "emotions"
+  ],
+  "blümerant": [
+    "emotions",
+    "travel"
+  ],
+  "hanebüchen": [
+    "debate"
+  ],
+  "hoffärtig": [
+    "character",
+    "society"
+  ],
+  "abgefeimt": [
+    "character"
+  ],
+  "ruchbar": [
+    "society"
+  ],
+  "mokant": [
+    "character",
+    "debate"
+  ],
+  "süffisant": [
+    "character",
+    "debate"
+  ],
+  "schnöde": [
+    "character",
+    "business"
+  ],
+  "unbotmäßig": [
+    "society",
+    "character"
+  ],
+  "lapidar": [
+    "persuasion",
+    "literature"
+  ],
+  "sakrosankt": [
+    "society",
+    "debate"
+  ],
+  "philiströs": [
+    "society",
+    "character"
+  ],
+  "saumselig": [
+    "character",
+    "business"
+  ],
+  "leutselig": [
+    "character",
+    "society"
+  ],
+  "betulich": [
+    "character"
+  ],
+  "fürbass": [
+    "travel",
+    "literature"
+  ],
+  "weiland": [
+    "literature"
+  ],
+  "bramarbasieren": [
+    "character",
+    "literature"
+  ],
+  "schwadronieren": [
+    "persuasion",
+    "character"
+  ],
+  "fabulieren": [
+    "literature"
+  ],
+  "räsonieren": [
+    "debate"
+  ],
+  "parlieren": [
+    "society",
+    "travel"
+  ],
+  "antichambrieren": [
+    "business",
+    "society"
+  ],
+  "gereichen": [
+    "society",
+    "literature"
+  ],
+  "frommen": [
+    "literature",
+    "business"
+  ],
+  "kredenzen": [
+    "society",
+    "travel"
+  ],
+  "lustwandeln": [
+    "travel",
+    "nature"
+  ],
+  "scharwenzeln": [
+    "business",
+    "character"
+  ],
+  "salbadern": [
+    "persuasion"
+  ],
+  "vergällen": [
+    "emotions"
+  ],
+  "verbrämen": [
+    "persuasion"
+  ],
+  "geziemen": [
+    "society"
+  ],
+  "Mumpitz": [
+    "debate"
+  ],
+  "Firlefanz": [
+    "society"
+  ],
+  "Tand": [
+    "society",
+    "business"
+  ],
+  "Unbill": [
+    "nature",
+    "society"
+  ],
+  "Drangsal": [
+    "society",
+    "emotions"
+  ],
+  "Hybris": [
+    "character",
+    "literature"
+  ],
+  "Chuzpe": [
+    "character",
+    "business"
+  ],
+  "Tohuwabohu": [
+    "society"
+  ],
+  "Sammelsurium": [
+    "society"
+  ],
+  "Stelldichein": [
+    "emotions",
+    "society"
+  ],
+  "Techtelmechtel": [
+    "emotions",
+    "society"
+  ],
+  "Hagestolz": [
+    "society",
+    "character"
+  ],
+  "Schwerenöter": [
+    "character",
+    "society"
+  ],
+  "Lappalie": [
+    "debate",
+    "society"
+  ],
+  "Banause": [
+    "society",
+    "literature"
+  ],
+  "Mäzen": [
+    "society",
+    "business"
+  ],
+  "Koryphäe": [
+    "science",
+    "business"
+  ],
+  "Faktotum": [
+    "business",
+    "society"
+  ],
+  "Menetekel": [
+    "literature",
+    "society"
+  ],
+  "Schimäre": [
+    "literature",
+    "science"
+  ],
+  "Bonmot": [
+    "persuasion",
+    "literature"
+  ],
+  "Verdikt": [
+    "debate",
+    "society"
+  ],
+  "Gepränge": [
+    "society"
+  ],
+  "Gestade": [
+    "nature",
+    "travel"
+  ],
+  "Odem": [
+    "literature",
+    "nature"
+  ],
+  "Kalamität": [
+    "business",
+    "travel"
+  ],
+  "Sentenz": [
+    "literature",
+    "persuasion"
+  ]
+}

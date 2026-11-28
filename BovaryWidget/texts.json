@@ -1,0 +1,18 @@
+{
+ "en": {
+  "name": "Word of the day",
+  "summary": "A new word every day, with its meaning."
+ },
+ "es": {
+  "name": "Palabra del día",
+  "summary": "Una palabra nueva cada día, con su significado."
+ },
+ "fr": {
+  "name": "Mot du jour",
+  "summary": "Un nouveau mot chaque jour, avec son sens."
+ },
+ "it": {
+  "name": "Parola del giorno",
+  "summary": "Una parola nuova ogni giorno, con il suo significato."
+ }
+}

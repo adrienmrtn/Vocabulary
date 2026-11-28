@@ -1,0 +1,522 @@
+{
+  "behutsam": {
+    "quote": "Behutsam schloß er wieder zu und winkte den beiden Gefangenen, sich ruhig zu verhalten.",
+    "source": "Wilhelm Hauff, Märchen-Almanach auf das Jahr 1828"
+  },
+  "beharrlich": {
+    "quote": "Der säuerliche Geruch der Chalottensauce lag beharrlich in der Luft.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "anmutig": {
+    "quote": "War ihr Benehmen minder anmutig als das der Schwester, so war es treuherziger und lieblicher.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "redlich": {
+    "quote": "Er selbst sah ein, daß ich es redlich mit ihm meine, und dankte mir.",
+    "source": "Conrad Ferdinand Meyer, Die Versuchung des Pescara"
+  },
+  "wehmütig": {
+    "quote": "Es stimmte mich beinahe wehmütig, daß ich nie mehr meinen Fuß auf sie setzen sollte.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "bedächtig": {
+    "quote": "Dieser nahm ihn mit der Rechten und ließ die Goldstücke zählend in die Linke gleiten, ernsthaft und bedächtig.",
+    "source": "Conrad Ferdinand Meyer, Die Versuchung des Pescara"
+  },
+  "gelassen": {
+    "quote": "Mathilde war so sanft, so gelassen und milde wie immer.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "heiter": {
+    "quote": "Ihr Angesicht war so heiter und freundlich, daß ich meinte, es nie so gesehen zu haben.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "innig": {
+    "quote": "Dabei freute er sich so innig, so herzlich, wie ein frohes zufriedenes Kind.",
+    "source": "E. T. A. Hoffmann, Lebensansichten des Katers Murr"
+  },
+  "zaghaft": {
+    "quote": "Überdies wurde Törleß aber auch von einer, allerdings ein wenig zaghaften Neugierde angetrieben.",
+    "source": "Robert Musil, Die Verwirrungen des Zöglings Törleß"
+  },
+  "emsig": {
+    "quote": "Er saß in einem hohen seltsam ausstaffierten Zimmer und schrieb emsig.",
+    "source": "E. T. A. Hoffmann, Der goldne Topf"
+  },
+  "karg": {
+    "quote": "Es ward ihm zur Mahnung, mit Worten karg, mit Fragen geizig zu sein.",
+    "source": "Gerhart Hauptmann, Der Ketzer von Soana"
+  },
+  "mürrisch": {
+    "quote": "Die Leute, die eben noch mürrisch und unzufrieden mit sich und der Welt umherschlichen, sehen jetzt ganz anders aus.",
+    "source": "Wilhelm Raabe, Die Chronik der Sperlingsgasse"
+  },
+  "kühn": {
+    "quote": "Man konnte allenfalls noch von einer Fremdenindustrie reden, aber sie schwunghaft zu nennen, wäre kühn gewesen.",
+    "source": "Thomas Mann, Königliche Hoheit"
+  },
+  "träge": {
+    "quote": "Glaubt mir, das verfluchte bequeme Leben ist es, was euch faul und träge macht.",
+    "source": "E. T. A. Hoffmann, Lebensansichten des Katers Murr"
+  },
+  "düster": {
+    "quote": "Er war wieder still geworden und schaute düster sinnend vor sich hin.",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "stattlich": {
+    "quote": "Nie war ihr aufgefallen, wie hübsch und stattlich er war.",
+    "source": "Gustav Freytag, Soll und Haben"
+  },
+  "behaglich": {
+    "quote": "Die Empfindung, daß sich mit einem Male alles natürlich und einfach in mir abwickelte, war so behaglich.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "zierlich": {
+    "quote": "Begegnete ihm auf seinem Wege ein zierliches, kleines Mädchen, so dachte er an das tote Ännchen.",
+    "source": "Otto Ludwig, Zwischen Himmel und Erde"
+  },
+  "argwöhnisch": {
+    "quote": "Gleich darauf klirrte das Vorhängeschloß und der Gefängniswärter kam herein und musterte mich argwöhnisch.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "eitel": {
+    "quote": "Unbegreiflicherweise war er eitel auf seine plumpen und roten Hände, die er unaufhörlich aneinanderrieb, ineinanderschlang und liebevoll prüfend betrachtete.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "hager": {
+    "quote": "Beineberg stand auf, und sein hagerer Schatten richtete sich neben dem Balken in die Höhe.",
+    "source": "Robert Musil, Die Verwirrungen des Zöglings Törleß"
+  },
+  "schroff": {
+    "quote": "Er machte schroff kehrt und ging schnaufend davon.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "gediegen": {
+    "quote": "Er war äußerst sorgfältig und gediegen gekleidet, in einen Anzug von ruhigem Grau und reserviertem Schnitt.",
+    "source": "Thomas Mann, Tonio Kröger"
+  },
+  "verwegen": {
+    "quote": "Die beiden anderen waren Gesellen mit verwegenen Gesichtern und musterten mich geringschätzig.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "verschmitzt": {
+    "quote": "Als ich mich nun mit zerrissenen Gedanken vom Gouverneur verabschiedete, sah mich derselbe vergnüglich und verschmitzt an und blinzelte spöttisch mit den Augen.",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "beklommen": {
+    "quote": "»Glauben Sie, ist es möglich, daß ich heute noch freigelassen werde?«, fragte ich den Aufseher beklommen.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "rüstig": {
+    "quote": "Jetzt ist er schon ein alter Mann, aber doch ziemlich rüstig.",
+    "source": "Rainer Maria Rilke, Geschichten vom lieben Gott"
+  },
+  "schlendern": {
+    "quote": "Als die Sonne aufging, schlenderte ich gemächlich über ein hügeliges gold-gelbes Gefilde, dessen Unebenheiten lange himmelblaue Schatten über den goldenen Boden hinstreckten.",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "grübeln": {
+    "quote": "Nun fing er an, tief und verschlossen zu grübeln.",
+    "source": "Gerhart Hauptmann, Bahnwärter Thiel"
+  },
+  "zaudern": {
+    "quote": "Er ging, als sie noch immer zauderte, um sein Pferd selbst zu besorgen.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "schmunzeln": {
+    "quote": "Jeserich schmunzelte, schwieg aber weiter, weshalb dem alten Grafen nichts übrig blieb, als seinerseits fortzufahren.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "tadeln": {
+    "quote": "Ich für mein Teil habe nie begreifen können, wie man es tadeln will, nicht gern erschossen zu werden.",
+    "source": "Theodor Fontane, L’Adultera"
+  },
+  "verweilen": {
+    "quote": "Dubslav litt als Briefschreiber daran, gern bei Nebensächlichkeiten zu verweilen und gelegentlich über die Hauptsache wegzusehn.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "lauschen": {
+    "quote": "Noch einmal hielt er an, um zu lauschen, ob alles still sei.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "ergründen": {
+    "quote": "Wie weit das geht, wie es werden, wie es enden wird, vermag ein irdischer Verstand nicht zu ergründen.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "schwelgen": {
+    "quote": "Meine Phantasie schwelgt ordentlich in der Vorstellung, eine Favoritsultanin in der Krypta der Kapuziner stehen zu sehen.",
+    "source": "Theodor Fontane, Schach von Wuthenow"
+  },
+  "beteuern": {
+    "quote": "Ich beteuerte ihm, sie nie gesehen zu haben.",
+    "source": "Wilhelm Hauff, Märchen-Almanach auf das Jahr 1826"
+  },
+  "stöbern": {
+    "quote": "Er traf den Mittleren nicht zu Haus und stöberte ein wenig im Atelier umher, wobei ihm gleich ein Bild in die Augen fiel, das ihn merkwürdig abstieß.",
+    "source": "Rainer Maria Rilke, Geschichten vom lieben Gott"
+  },
+  "munkeln": {
+    "quote": "Man munkelt, Dr. Hulberts Frau habe das Denkmal errichtet.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "schmachten": {
+    "quote": "Sein Unstern und die Franzosen entführten ihn nach Loches, wo er zehn lange Jahre im Kerker schmachtete.",
+    "source": "Conrad Ferdinand Meyer, Die Versuchung des Pescara"
+  },
+  "Sehnsucht": {
+    "quote": "Effi war, als der Zug vorbeijagte, von einer herzlichen Sehnsucht erfaßt worden.",
+    "source": "Theodor Fontane, Effi Briest"
+  },
+  "Zuversicht": {
+    "quote": "Die Zuversicht und Sicherheit, womit die ersten Anordnungen getroffen worden waren, taten ihm wohl.",
+    "source": "Franz Kafka, Die Verwandlung"
+  },
+  "Kummer": {
+    "quote": "Sein einziger Kummer war, daß sie niemals mit ihm ausging.",
+    "source": "Heinrich Mann, Professor Unrat"
+  },
+  "Dämmerung": {
+    "quote": "Die Wiese wurde immer fremder in der Dämmerung, und das Gras begann naß zu werden.",
+    "source": "Rainer Maria Rilke, Geschichten vom lieben Gott"
+  },
+  "Muße": {
+    "quote": "Denn die freie Muße eines jeden ist so viel wert, wie er selbst wert ist.",
+    "source": "Arthur Schopenhauer, Aphorismen zur Lebensweisheit"
+  },
+  "Eifer": {
+    "quote": "Ich konnte ihn bereits in dem Spanischen lesen und vertiefte mich mit großem Eifer in seinen Geist.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "Demut": {
+    "quote": "Es gibt nichts, was uns so Demut predigte wie die Wahrnehmung von der Entbehrlichkeit des einzelnen.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "Zwietracht": {
+    "quote": "Hier war es leider Kienast, der Neid und Zwietracht säte.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "Übermut": {
+    "quote": "Ich weiß ja recht gut, wie das alles von dir gemeint ist, Übermut und wieder Übermut.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "Gemüt": {
+    "quote": "Mein Gemüt war so ernst, wie es nie in meinem ganzen Leben gewesen war.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "Groll": {
+    "quote": "Den bittern Groll, den der Baron in mir aufgeregt, trug ich über auf die Baronin.",
+    "source": "E. T. A. Hoffmann, Nachtstücke"
+  },
+  "Wonne": {
+    "quote": "Auf diesen See hinauszufahren aber war in seinen Knabenjahren immer seine höchste Wonne gewesen.",
+    "source": "Theodor Fontane, Schach von Wuthenow"
+  },
+  "vergänglich": {
+    "quote": "Auch Pastor Zillich erwähnte in seiner Ansprache, daß der irdische Besitz etwas Vergängliches sei.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "erhaben": {
+    "quote": "Lautlos und feierlich vollzog sich das erhabene Schauspiel.",
+    "source": "Gerhart Hauptmann, Bahnwärter Thiel"
+  },
+  "unverhohlen": {
+    "quote": "Herr Grünlich sah ihn blinzelnd und mit unverhohlenem Mißtrauen an.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "lakonisch": {
+    "quote": "Ein naives Hannchen hat diese Klage im Sinne, und schreibt lakonisch: Auch ich bin bei der Geschichte naß geworden.",
+    "source": "Heinrich Heine, Die Harzreise"
+  },
+  "überschwänglich": {
+    "quote": "Ein Glück ohnegleichen, eine Genugtuung von überschwänglicher Süßigkeit.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "beflissen": {
+    "quote": "»O ja, Herr Professer, o o oh ja,« erwiderte Rindfleisch demütig und beflissen wie ein Primus.",
+    "source": "Heinrich Mann, Professor Unrat"
+  },
+  "vermessen": {
+    "quote": "Wie hatte ich nur so vermessen sein können, auf solch törichte Weise in ein Innenleben einzugreifen, das vielleicht himmelhoch über meinem eigenen stand!",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "unwirsch": {
+    "quote": "Der Wirt, schon drinnen, wendete sich unwirsch um.",
+    "source": "Heinrich Mann, Professor Unrat"
+  },
+  "ruchlos": {
+    "quote": "Er aber, der Vater, hat in seinem ältesten Sohne nie etwas anderes als den ruchlosen Zerstörer seines Glückes erblickt.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "unerbittlich": {
+    "quote": "Apollonius war unerbittlich, so mild er seine Gründe dem Bruder vortrug.",
+    "source": "Otto Ludwig, Zwischen Himmel und Erde"
+  },
+  "verdrießlich": {
+    "quote": "Leopold hatte mit sehr geteilten Empfindungen zugehört und nicht gewußt, ob er lachen oder verdrießlich werden sollte.",
+    "source": "Theodor Fontane, Frau Jenny Treibel"
+  },
+  "fahl": {
+    "quote": "Der Vollmond schwebte glanzlos wie ein fahler Messingteller hinter Dunstschleiern.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "ungestüm": {
+    "quote": "Nein, unmöglich konnte es Eva sein: eine wuchtige Faust hämmerte ungestüm gegen die Haustür.",
+    "source": "Gustav Meyrink, Das grüne Gesicht"
+  },
+  "unstet": {
+    "quote": "Dieser sprach nämlich mit Vorliebe davon, daß sein Vater eine merkwürdig unstete, später verschollene Person gewesen sei.",
+    "source": "Robert Musil, Die Verwirrungen des Zöglings Törleß"
+  },
+  "unsäglich": {
+    "quote": "Sie war dicht zu mir gerückt und hörte mit einer tiefen, atemlosen Teilnahme zu, die mir unsäglich wohl tat.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "erquicklich": {
+    "quote": "Sie ritten beinahe die ganze Nacht hindurch, denn es war schwül am Tage, die Nacht aber war erquicklich und sternhell.",
+    "source": "Wilhelm Hauff, Märchen-Almanach auf das Jahr 1826"
+  },
+  "einfältig": {
+    "quote": "Es ist nämlich nicht zu leugnen, daß er ein wenig einfältig und im Zusammenhang damit ein wenig eingebildet ist.",
+    "source": "Franz Kafka, Der Prozess"
+  },
+  "anheimelnd": {
+    "quote": "Über ihnen wölbten sich die schönen, alten Kastanienbäume, was ihrem Anritt etwas Anheimelndes und zugleich etwas beinah Feierliches gab.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "garstig": {
+    "quote": "Man vermutete garstige Exzesse irgendwelcher Art am Grunde seines Wesens.",
+    "source": "Robert Musil, Die Verwirrungen des Zöglings Törleß"
+  },
+  "frönen": {
+    "quote": "Nichts erschien ihr vornehmer als ein elegantes Negligé, und da sie sich im Elternhause dieser Leidenschaft nicht hatte überlassen dürfen, frönte sie ihr nun als verheiratete Frau desto eifriger.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "ersinnen": {
+    "quote": "Schnaufend zog Diederich sich zurück, um einen neuen Angriffsplan zu ersinnen.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "ergötzen": {
+    "quote": "Es ergötzte mich, in meiner Erinnerung diese Gestalten mit den gesehenen zu vergleichen und sie gegenseitig abzuschätzen.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "bezichtigen": {
+    "quote": "Aber bezichtigte er sich so nicht selbst einer Tat, die am Ende unentdeckt bleiben oder doch nicht ihm zur Last gelegt werden würde?",
+    "source": "Arthur Schnitzler, Casanovas Heimfahrt"
+  },
+  "vereiteln": {
+    "quote": "Jede Hoffnung der Gerichte, von den Gefangenen näheren Aufschluß über die Bande zu erhalten, war daher vereitelt.",
+    "source": "E. T. A. Hoffmann, Nachtstücke"
+  },
+  "entbehren": {
+    "quote": "Und nun willst du auch spielend entbehren lernen und denkst: es findet sich.",
+    "source": "Theodor Fontane, L’Adultera"
+  },
+  "beschwichtigen": {
+    "quote": "Seine Frau machte Zeichen, die ihn beschwichtigen sollten.",
+    "source": "Heinrich Mann, Professor Unrat"
+  },
+  "bekunden": {
+    "quote": "Diederich bekundete durch Strammstehen, daß er alles verstehe.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "verschmähen": {
+    "quote": "Was nützt es, die Süßigkeit der Frauen zu verschmähen, weil sie schwach und betrüglich sind?",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "darben": {
+    "quote": "Man darf nur sagen, er gewöhnte sich zu prunken, während seine Mutter darbte.",
+    "source": "Annette von Droste-Hülshoff, Die Judenbuche"
+  },
+  "schelten": {
+    "quote": "Warum geb’ ich dir immer Gelegenheit, mich zu bedauern und mich zu schelten?",
+    "source": "Johann Wolfgang von Goethe, Die Leiden des jungen Werther"
+  },
+  "verunglimpfen": {
+    "quote": "O pfui, Schach, verunglimpfe nicht das süße Geschöpf.",
+    "source": "Theodor Fontane, Schach von Wuthenow"
+  },
+  "läutern": {
+    "quote": "War ja doch jene lange Verbannung ein läuterndes Feuer, woraus er weise und kräftiger als je hervorging.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "erörtern": {
+    "quote": "Sie werden sie äußerst einfach finden, mich aber zog sie aus allerlei Gründen an, die ich jetzt nicht erörtern will.",
+    "source": "Gerhart Hauptmann, Der Ketzer von Soana"
+  },
+  "schmälern": {
+    "quote": "War hier nicht das Geständnis, daß der begeisternde Sieg den Fernstehenden kühl gelassen hatte, ja, war hier nicht die kleinliche Absicht, den Lorbeer Pescaras zu schmälern?",
+    "source": "Conrad Ferdinand Meyer, Die Versuchung des Pescara"
+  },
+  "hegen": {
+    "quote": "Ich bitte Sie, zu bemerken, daß ich keineswegs den Wunsch hege, Sie zu kränken.",
+    "source": "Thomas Mann, Tristan"
+  },
+  "Zwiespalt": {
+    "quote": "Ich konnte bei solchem innerlichen Zwiespalt länger nicht ausdauern und begann den entscheidenden Kampf.",
+    "source": "Adelbert von Chamisso, Peter Schlemihls wundersame Geschichte"
+  },
+  "Müßiggang": {
+    "quote": "Zwar liebt Eros, heißt es, den Müßiggang, und für solchen nur ist er geschaffen.",
+    "source": "Thomas Mann, Der Tod in Venedig"
+  },
+  "Scharfsinn": {
+    "quote": "Ich verehre ihn wegen seines ausgezeichneten, erfolgreichen Scharfsinns, noch mehr aber wegen seiner Bescheidenheit.",
+    "source": "Heinrich Heine, Die Harzreise"
+  },
+  "Trugbild": {
+    "quote": "Das Trugbild eines Mannes, der in der Dämmerung auf seinem Sofa saß und ihm zunickte, hatte sich erfreulicherweise nicht wiederholt.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "Ehrfurcht": {
+    "quote": "Diederich konnte kaum das Ja herausbringen, so sehr verstörte ihn die Ehrfurcht.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "Langmut": {
+    "quote": "Meine Langmut hat mich zum Land hinausgetrieben; jetzt bin ich wieder da, und sie sollen fühlen, daß ich Herr bin.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "Inbrunst": {
+    "quote": "Bei einer Inbrunst der Andacht, wie er sie bisher nicht gekannt hatte, durfte er hoffen, am Schlusse über die Anfechtungen des Fleisches Sieger zu sein.",
+    "source": "Gerhart Hauptmann, Der Ketzer von Soana"
+  },
+  "Ungemach": {
+    "quote": "Doch all dieses Ungemach verzeihe ich gern der schönen Dame, denn sie ist schön.",
+    "source": "Heinrich Heine, Die Harzreise"
+  },
+  "Antlitz": {
+    "quote": "Über das Antlitz glitt dabei ein stolzes, ein selbstbewußtes, ein wissendes Lächeln.",
+    "source": "Gerhart Hauptmann, Der Ketzer von Soana"
+  },
+  "Gebaren": {
+    "quote": "Selbst das äußere Benehmen und Gebaren von Männern, die sonst solche Geltung haben, schien mir nicht gleichgiltig.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "Vermächtnis": {
+    "quote": "Die meiste Liebe widmete Eugenie dem Vermächtnis der würdigen Ahnfrau, weshalb der Oheim öfters merken ließ, es dürfte wohl einst eigens in ihre Hände übergehen.",
+    "source": "Eduard Mörike, Mozart auf der Reise nach Prag"
+  },
+  "Zerwürfnis": {
+    "quote": "Soweit hatte er sich das Zerwürfnis nicht vorgestellt.",
+    "source": "Otto Ludwig, Zwischen Himmel und Erde"
+  },
+  "Sinnbild": {
+    "quote": "Der heilige Florian hatte das Sinnbild des brennenden Hauses und der heilige Georg das des Drachen zu seinen Füßen.",
+    "source": "Adalbert Stifter, Der Nachsommer"
+  },
+  "Obhut": {
+    "quote": "Im Grunde durften sie jedoch damit zufrieden sein, denn die Kinder waren unter seiner Obhut gut aufgehoben.",
+    "source": "Gerhart Hauptmann, Bahnwärter Thiel"
+  },
+  "Bürde": {
+    "quote": "Aber nicht eher, bis drei Jünglinge dieser Art erfunden und mit den drei Töchtern vermählt werden, darf der Salamander seine lästige Bürde abwerfen und zu seinen Brüdern gehen.",
+    "source": "E. T. A. Hoffmann, Der goldne Topf"
+  },
+  "Inbegriff": {
+    "quote": "Er schien um mehrere Zoll gewachsen zu sein über Nacht, kurz, er war der Inbegriff der Selbstzufriedenheit.",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "Schabernack": {
+    "quote": "Merkwürdig ist, daß ich ihm trotzdem nie als Kind einen Schabernack gespielt habe.",
+    "source": "Gustav Meyrink, Der Golem"
+  },
+  "hehr": {
+    "quote": "So hehr und groß kam er sich vor, daß er sich selbst zur Demut ermahnte.",
+    "source": "Gerhart Hauptmann, Bahnwärter Thiel"
+  },
+  "hold": {
+    "quote": "Überall, wie holde Wunder, blühen hervor die Blumen, und auch mein Herz will wieder blühen.",
+    "source": "Heinrich Heine, Die Harzreise"
+  },
+  "hoffärtig": {
+    "quote": "Sie war wahrhaftig recht schön rot und dick und gar prächtig und hoffärtig anzusehn wie eine Tulipane.",
+    "source": "Joseph von Eichendorff, Aus dem Leben eines Taugenichts"
+  },
+  "abgefeimt": {
+    "quote": "Auf Kienast schien es keinen Eindruck zu machen, er behielt seine kalten Augen und das abgefeimte Grinsen in seinem am Kinn auseinandergebürsteten Bart.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "ruchbar": {
+    "quote": "So war er nun mit der Alten unauflöslich verehelicht, und in der Stadt hieß es, als es ruchbar würde: Ei seht, wie stille Wasser tief sind!",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "mokant": {
+    "quote": "Onkel Gotthold und seine Familie hatte man in die Angelegenheit nicht eingeweiht, weil sie immer ein bißchen mokant gegen die in der Mengstraße gestimmt waren.",
+    "source": "Thomas Mann, Buddenbrooks"
+  },
+  "süffisant": {
+    "quote": "Wenn ich mir die süffisanten Gesichter bloß vorstelle, so wird mir schon ganz heiß.",
+    "source": "Theodor Fontane, Effi Briest"
+  },
+  "schnöde": {
+    "quote": "Es ging auch vielen tief zu Herzen, daß ihr angeborener Fürst so schnöde behandelt worden war.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "unbotmäßig": {
+    "quote": "Aber es sei immerhin noch stark genug, um einem halben Dutzend unbotmäßiger Männer die Köpfe zu verdrehen.",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "sakrosankt": {
+    "quote": "Oder glaubst du vielleicht, daß gewesene Generalkonsulstöchter in vestalisch-priesterlicher Unnahbarkeit durchs Leben schreiten oder sakrosankt sind wie Botschafter und Ambassaden!",
+    "source": "Theodor Fontane, L’Adultera"
+  },
+  "saumselig": {
+    "quote": "Sie wurde scheu, saumselig, sogar unordentlich, und manche meinten, ihr Kopf habe gelitten.",
+    "source": "Annette von Droste-Hülshoff, Die Judenbuche"
+  },
+  "leutselig": {
+    "quote": "Ich bestand aber doch darauf, denn der Abt ist ein leutseliger Herr und hätte mir’s nicht verziehen, wenn ich ihn nicht heimgesucht hätte.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "fürbass": {
+    "quote": "Sie zogen rasch fürbaß, der Bauer war immer an Georgs Seite.",
+    "source": "Wilhelm Hauff, Lichtenstein"
+  },
+  "weiland": {
+    "quote": "Hier sitze ich Unseliger in Ihrem Paradiese, wie weiland Adam, nachdem er den Apfel gekostet.",
+    "source": "Eduard Mörike, Mozart auf der Reise nach Prag"
+  },
+  "bramarbasieren": {
+    "quote": "Der Alte hängt noch am Alten, und der Junge, nu, der is eben ein Jungscher und bramarbasiert ein bißchen.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "schwadronieren": {
+    "quote": "Nur der Kaffee nach Tische wurde mir verleidet, indem sich ein junger Mensch diskursierend zu mir setzte und so entsetzlich schwadronierte, daß die Milch auf dem Tische sauer wurde.",
+    "source": "Heinrich Heine, Die Harzreise"
+  },
+  "gereichen": {
+    "quote": "Einigen gereicht es zur Befriedigung, mich für einen Querkopf halten zu können, und andre sprechen wenigstens von Originalitätshascherei.",
+    "source": "Theodor Fontane, Der Stechlin"
+  },
+  "kredenzen": {
+    "quote": "Veronika kredenzte das Getränk, und es gab allerlei gemütliche muntere Gespräche unter den Freunden.",
+    "source": "E. T. A. Hoffmann, Der goldne Topf"
+  },
+  "lustwandeln": {
+    "quote": "Ich habe bemerkt, daß die Kleine oft allein lustwandelt in diesem Park.",
+    "source": "E. T. A. Hoffmann, Lebensansichten des Katers Murr"
+  },
+  "vergällen": {
+    "quote": "Sage mir, was es ist, was dich drückt, was dir das Leben vergällt und verbittert.",
+    "source": "Theodor Fontane, L’Adultera"
+  },
+  "geziemen": {
+    "quote": "Eure Unterhaltung ist still und friedlich gewesen, wie es anständigen, gut erzogenen Leuten geziemt.",
+    "source": "E. T. A. Hoffmann, Lebensansichten des Katers Murr"
+  },
+  "Firlefanz": {
+    "quote": "Aus Liebe zu mir wird wohl das Essen immer schlechter, außer wenn fremde Leute da sind; und das Haushaltungsgeld geht für euren Firlefanz drauf.",
+    "source": "Heinrich Mann, Der Untertan"
+  },
+  "Faktotum": {
+    "quote": "Der Kommandeur hatte mich gänzlich zu seinem Faktotum gemacht und ich mußte fast die ganze Zeit bei ihm zubringen.",
+    "source": "Gottfried Keller, Die Leute von Seldwyla"
+  },
+  "Odem": {
+    "quote": "Francesco war nicht Francesco mehr, er war als erster Mensch soeben vom göttlichen Odem geweckt, als alleiniger Adam, alleiniger Herr des Garten Eden.",
+    "source": "Gerhart Hauptmann, Der Ketzer von Soana"
+  },
+  "Sentenz": {
+    "quote": "Meist waren es harmlose Sentenzen aus Büchmann oder andere geflügelte Worte, denen erst der Ton, aber dieser oft sehr entschieden, den erotischen Charakter aufdrückte.",
+    "source": "Theodor Fontane, Frau Jenny Treibel"
+  }
+}
