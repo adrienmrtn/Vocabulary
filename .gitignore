@@ -2,3 +2,4 @@
 xcuserdata/
 DerivedData/
 content/.cache/
+__pycache__/
