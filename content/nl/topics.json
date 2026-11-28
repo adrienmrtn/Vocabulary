@@ -1,0 +1,607 @@
+{
+ "behoedzaam": [
+  "character"
+ ],
+ "onstuimig": [
+  "nature",
+  "emotions"
+ ],
+ "schuchter": [
+  "character"
+ ],
+ "gedwee": [
+  "character"
+ ],
+ "broos": [
+  "nature",
+  "emotions"
+ ],
+ "grillig": [
+  "character",
+  "nature"
+ ],
+ "schamel": [
+  "society"
+ ],
+ "vurig": [
+  "emotions",
+  "persuasion"
+ ],
+ "argeloos": [
+  "character"
+ ],
+ "zwierig": [
+  "character"
+ ],
+ "lommerrijk": [
+  "nature",
+  "travel"
+ ],
+ "guur": [
+  "nature"
+ ],
+ "innemend": [
+  "character",
+  "persuasion"
+ ],
+ "ingetogen": [
+  "character"
+ ],
+ "onverschrokken": [
+  "character"
+ ],
+ "standvastig": [
+  "character"
+ ],
+ "kordaat": [
+  "character",
+  "business"
+ ],
+ "uitbundig": [
+  "emotions"
+ ],
+ "mistroostig": [
+  "emotions"
+ ],
+ "vluchtig": [
+  "science",
+  "emotions"
+ ],
+ "weerbarstig": [
+  "character"
+ ],
+ "schalks": [
+  "character"
+ ],
+ "bedeesd": [
+  "character"
+ ],
+ "voortvarend": [
+  "business",
+  "character"
+ ],
+ "eigenwijs": [
+  "character",
+  "debate"
+ ],
+ "mijmeren": [
+  "emotions",
+  "literature"
+ ],
+ "dralen": [
+  "character"
+ ],
+ "koesteren": [
+  "emotions"
+ ],
+ "verkwikken": [
+  "nature",
+  "travel"
+ ],
+ "schromen": [
+  "emotions",
+  "character"
+ ],
+ "beteugelen": [
+  "character",
+  "society"
+ ],
+ "ontluiken": [
+  "nature"
+ ],
+ "kabbelen": [
+  "nature"
+ ],
+ "verzuchten": [
+  "emotions"
+ ],
+ "smachten": [
+  "emotions"
+ ],
+ "peinzen": [
+  "emotions",
+  "debate"
+ ],
+ "vertoeven": [
+  "travel"
+ ],
+ "ontwaren": [
+  "travel",
+  "literature"
+ ],
+ "sidderen": [
+  "emotions"
+ ],
+ "bekoren": [
+  "emotions",
+  "persuasion"
+ ],
+ "fonkelen": [
+  "nature"
+ ],
+ "uitweiden": [
+  "debate",
+  "literature"
+ ],
+ "uitwaaien": [
+  "nature",
+  "travel"
+ ],
+ "ijsberen": [
+  "emotions"
+ ],
+ "heimwee": [
+  "emotions",
+  "travel"
+ ],
+ "schemering": [
+  "nature"
+ ],
+ "geborgenheid": [
+  "emotions",
+  "society"
+ ],
+ "mededogen": [
+  "emotions",
+  "society"
+ ],
+ "toewijding": [
+  "character",
+  "business"
+ ],
+ "eerbied": [
+  "society",
+  "emotions"
+ ],
+ "vertier": [
+  "society",
+  "travel"
+ ],
+ "gemoed": [
+  "emotions"
+ ],
+ "weelde": [
+  "society",
+  "business"
+ ],
+ "wrok": [
+  "emotions"
+ ],
+ "voorpret": [
+  "emotions",
+  "travel"
+ ],
+ "verademing": [
+  "emotions"
+ ],
+ "hartstocht": [
+  "emotions",
+  "literature"
+ ],
+ "vergankelijk": [
+  "literature",
+  "nature"
+ ],
+ "weerspannig": [
+  "character",
+  "society"
+ ],
+ "onverdroten": [
+  "character",
+  "business"
+ ],
+ "laatdunkend": [
+  "character",
+  "debate"
+ ],
+ "minzaam": [
+  "character",
+  "society"
+ ],
+ "onbaatzuchtig": [
+  "character"
+ ],
+ "wispelturig": [
+  "character",
+  "nature"
+ ],
+ "zwaarmoedig": [
+  "emotions",
+  "literature"
+ ],
+ "schrander": [
+  "character",
+  "debate"
+ ],
+ "halsstarrig": [
+  "character",
+  "debate"
+ ],
+ "kies": [
+  "character",
+  "society"
+ ],
+ "wuft": [
+  "character",
+  "literature"
+ ],
+ "vermetel": [
+  "character"
+ ],
+ "onbevangen": [
+  "character",
+  "debate"
+ ],
+ "gelaten": [
+  "emotions",
+  "character"
+ ],
+ "rijzig": [
+  "literature"
+ ],
+ "verstokt": [
+  "character"
+ ],
+ "karig": [
+  "character",
+  "business"
+ ],
+ "ongenaakbaar": [
+  "character",
+  "society"
+ ],
+ "spitsvondig": [
+  "debate",
+  "persuasion"
+ ],
+ "welbespraakt": [
+  "persuasion",
+  "debate"
+ ],
+ "schamper": [
+  "debate",
+  "emotions"
+ ],
+ "vermaard": [
+  "society",
+  "travel"
+ ],
+ "gestaag": [
+  "business",
+  "science"
+ ],
+ "verguizen": [
+  "society",
+  "debate"
+ ],
+ "laken": [
+  "debate",
+  "society"
+ ],
+ "hekelen": [
+  "debate",
+  "literature"
+ ],
+ "vergoelijken": [
+  "persuasion",
+  "debate"
+ ],
+ "bezweren": [
+  "persuasion"
+ ],
+ "ontberen": [
+  "society",
+  "travel"
+ ],
+ "zwichten": [
+  "persuasion",
+  "debate"
+ ],
+ "gedogen": [
+  "society"
+ ],
+ "verkneukelen": [
+  "emotions"
+ ],
+ "beknotten": [
+  "society"
+ ],
+ "veinzen": [
+  "character",
+  "persuasion"
+ ],
+ "talmen": [
+  "character",
+  "business"
+ ],
+ "zwelgen": [
+  "emotions"
+ ],
+ "betichten": [
+  "debate",
+  "society"
+ ],
+ "tanen": [
+  "society",
+  "business"
+ ],
+ "wanen": [
+  "debate",
+  "character"
+ ],
+ "bejegenen": [
+  "society"
+ ],
+ "smalen": [
+  "debate"
+ ],
+ "lanterfanten": [
+  "character"
+ ],
+ "gedijen": [
+  "nature",
+  "business"
+ ],
+ "weemoed": [
+  "emotions",
+  "literature"
+ ],
+ "deernis": [
+  "emotions"
+ ],
+ "wrevel": [
+  "emotions"
+ ],
+ "argwaan": [
+  "emotions",
+  "society"
+ ],
+ "hoogmoed": [
+  "character"
+ ],
+ "deemoed": [
+  "character"
+ ],
+ "afgunst": [
+  "emotions",
+  "society"
+ ],
+ "euvel": [
+  "society",
+  "science"
+ ],
+ "kleinood": [
+  "literature",
+  "society"
+ ],
+ "geestdrift": [
+  "emotions",
+  "persuasion"
+ ],
+ "tweedracht": [
+  "society",
+  "debate"
+ ],
+ "luister": [
+  "society"
+ ],
+ "dageraad": [
+  "nature",
+  "literature"
+ ],
+ "vervoering": [
+  "emotions",
+  "literature"
+ ],
+ "lankmoedig": [
+  "character"
+ ],
+ "goedertieren": [
+  "character",
+  "society"
+ ],
+ "hovaardig": [
+  "character"
+ ],
+ "ootmoedig": [
+  "character"
+ ],
+ "snood": [
+  "character",
+  "literature"
+ ],
+ "verwaten": [
+  "character"
+ ],
+ "welig": [
+  "nature"
+ ],
+ "deerlijk": [
+  "emotions"
+ ],
+ "schier": [
+  "literature"
+ ],
+ "roemrucht": [
+  "society",
+  "literature"
+ ],
+ "verbolgen": [
+  "emotions",
+  "debate"
+ ],
+ "gemelijk": [
+  "emotions",
+  "character"
+ ],
+ "wijdlopig": [
+  "literature",
+  "debate"
+ ],
+ "luttel": [
+  "literature"
+ ],
+ "onwrikbaar": [
+  "character",
+  "debate"
+ ],
+ "rampzalig": [
+  "society",
+  "emotions"
+ ],
+ "bedremmeld": [
+  "emotions"
+ ],
+ "ontredderd": [
+  "emotions"
+ ],
+ "doorluchtig": [
+  "society"
+ ],
+ "laven": [
+  "nature",
+  "travel"
+ ],
+ "lenigen": [
+  "society"
+ ],
+ "delgen": [
+  "business"
+ ],
+ "torsen": [
+  "travel"
+ ],
+ "gewagen": [
+  "literature"
+ ],
+ "bevroeden": [
+  "debate",
+  "science"
+ ],
+ "gispen": [
+  "debate",
+  "society"
+ ],
+ "kapittelen": [
+  "debate",
+  "society"
+ ],
+ "vermurwen": [
+  "persuasion"
+ ],
+ "tergen": [
+  "emotions"
+ ],
+ "vergallen": [
+  "emotions"
+ ],
+ "deren": [
+  "emotions"
+ ],
+ "betamen": [
+  "society"
+ ],
+ "beklijven": [
+  "science",
+  "literature"
+ ],
+ "ontfutselen": [
+  "persuasion",
+  "business"
+ ],
+ "verkwanselen": [
+  "business"
+ ],
+ "kastijden": [
+  "society"
+ ],
+ "bezoedelen": [
+  "society"
+ ],
+ "honen": [
+  "debate",
+  "emotions"
+ ],
+ "toorn": [
+  "emotions",
+  "literature"
+ ],
+ "gramschap": [
+  "emotions",
+  "literature"
+ ],
+ "smaad": [
+  "society",
+  "debate"
+ ],
+ "blaam": [
+  "society"
+ ],
+ "faam": [
+  "society"
+ ],
+ "tooi": [
+  "nature",
+  "literature"
+ ],
+ "gewaad": [
+  "literature",
+  "society"
+ ],
+ "zwerk": [
+  "nature",
+  "literature"
+ ],
+ "vernuft": [
+  "science"
+ ],
+ "drogreden": [
+  "debate",
+  "persuasion"
+ ],
+ "dwingelandij": [
+  "society"
+ ],
+ "willekeur": [
+  "society"
+ ],
+ "nooddruft": [
+  "society"
+ ],
+ "mare": [
+  "literature",
+  "society"
+ ],
+ "kommer": [
+  "emotions",
+  "society"
+ ],
+ "onverlaat": [
+  "character",
+  "society"
+ ],
+ "kim": [
+  "nature",
+  "travel"
+ ]
+}
