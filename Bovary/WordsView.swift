@@ -28,7 +28,7 @@ struct WordsView: View {
                     .background(Circle().fill(theme.text.opacity(0.1)))
                     .overlay(Circle().stroke(theme.text.opacity(0.25), lineWidth: 1.5))
             }
-            .accessibilityLabel("Change theme")
+            .accessibilityLabel(tr("Change theme"))
             .padding(.trailing, 16)
             .padding(.top, 8)
         }
@@ -49,7 +49,7 @@ struct WordsView: View {
         .sheet(isPresented: $showThemes) {
             ScrollView {
                 VStack(spacing: 16) {
-                    Text("Choose a theme")
+                    Text(tr("Choose a theme"))
                         .font(.serif(26))
                         .foregroundStyle(Color.ink)
                         .frame(maxWidth: .infinity, alignment: .leading)
@@ -103,7 +103,7 @@ struct WordsView: View {
                 Speaker.shared.say(word.text)
             } label: {
                 HStack(spacing: 10) {
-                    Text(word.pronunciation.isEmpty ? "Listen" : word.pronunciation)
+                    Text(tr(word.pronunciation.isEmpty ? "Listen" : word.pronunciation))
                     Image(systemName: "speaker.wave.2.fill")
                 }
                 .font(.system(size: 16, weight: .medium))
@@ -113,7 +113,7 @@ struct WordsView: View {
                 .background(Capsule().fill(theme.text.opacity(0.08)))
                 .overlay(Capsule().stroke(theme.text.opacity(0.25), lineWidth: 1.5))
             }
-            .accessibilityLabel("Listen to \(word.text)")
+            .accessibilityLabel(tr("Listen to %@", "\(word.text)"))
 
             Text(word.definition)
                 .font(.serif(22, weight: .medium))
@@ -150,7 +150,7 @@ struct WordsView: View {
                 .foregroundStyle(tint)
                 .frame(width: 48, height: 48)
         }
-        .accessibilityLabel(label)
+        .accessibilityLabel(tr(label))
     }
 }
 
@@ -164,7 +164,7 @@ struct WordDetailView: View {
                     Text(word.text)
                         .font(.serif(40))
                     if !word.pronunciation.isEmpty {
-                        Text("/\(word.pronunciation)/")
+                        Text(tr("/%@/", "\(word.pronunciation)"))
                             .font(.system(size: 15))
                             .foregroundStyle(Color.muted)
                     }
@@ -174,16 +174,16 @@ struct WordDetailView: View {
                 detail("Example", word.example)
                 if let quote = word.quote, !quote.isEmpty {
                     VStack(alignment: .leading, spacing: 6) {
-                        Text("In literature").font(.system(size: 13)).foregroundStyle(Color.muted)
+                        Text(tr("In literature")).font(.system(size: 13)).foregroundStyle(Color.muted)
                         Text(quote).font(.serif(18, weight: .medium))
                         if let source = word.quoteSource, !source.isEmpty {
-                            Text("— \(source)").font(.system(size: 14)).foregroundStyle(Color.muted)
+                            Text(tr("— %@", "\(source)")).font(.system(size: 14)).foregroundStyle(Color.muted)
                         }
                     }
                 }
                 if !word.synonyms.isEmpty {
                     VStack(alignment: .leading, spacing: 8) {
-                        Text("Synonyms").font(.system(size: 13)).foregroundStyle(Color.muted)
+                        Text(tr("Synonyms")).font(.system(size: 13)).foregroundStyle(Color.muted)
                         HStack(spacing: 6) {
                             ForEach(word.synonyms, id: \.self) { synonym in
                                 Text(synonym)
@@ -211,8 +211,8 @@ struct WordDetailView: View {
 
     private func detail(_ label: String, _ text: String) -> some View {
         VStack(alignment: .leading, spacing: 6) {
-            Text(label).font(.system(size: 13)).foregroundStyle(Color.muted)
-            Text(text).font(.system(size: 16))
+            Text(tr(label)).font(.system(size: 13)).foregroundStyle(Color.muted)
+            Text(tr(text)).font(.system(size: 16))
         }
     }
 }

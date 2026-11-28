@@ -132,7 +132,7 @@ enum QuestionFactory {
         let other = distractors(word, count: 1).first
         let shown = (Bool.random() ? nil : other) ?? word
         return Question(kind: .trueFalse, word: word, caption: "True or false?",
-                        prompt: "“\(word.text)” means: \(shown.meaning)",
+                        prompt: tr("“%@” means: %@", word.text, shown.meaning),
                         options: ["True", "False"], answer: shown == word ? "True" : "False")
     }
 }
@@ -228,7 +228,7 @@ struct GameView: View {
         }
         .foregroundStyle(Color.ink)
         .animation(.easeInOut(duration: 0.3), value: finished)
-        .navigationTitle(title ?? mode.title)
+        .navigationTitle(tr(title ?? mode.title))
         .navigationBarTitleDisplayMode(.inline)
         .toolbar(.hidden, for: .tabBar)
         .onAppear {
@@ -250,9 +250,9 @@ struct GameView: View {
     private var status: some View {
         VStack(spacing: 8) {
             HStack {
-                Text(leftStatus).font(.system(size: 15, weight: .semibold))
+                Text(tr(leftStatus)).font(.system(size: 15, weight: .semibold))
                 Spacer()
-                Text(rightStatus)
+                Text(tr(rightStatus))
                     .font(.system(size: 15, weight: .semibold))
                     .monospacedDigit()
                     .foregroundStyle(Color.muted)
@@ -266,14 +266,14 @@ struct GameView: View {
         if let limit = mode.questionLimit {
             return "\(min(asked + 1, limit)) / \(limit)"
         }
-        return mode == .rush ? "\(correct) correct" : "Streak \(correct)"
+        return mode == .rush ? tr("%@ correct", "\(correct)") : tr("Streak %@", "\(correct)")
     }
 
     private var rightStatus: String {
         if let limit = mode.timeLimit {
             return "\(Int(max(limit - elapsed, 0).rounded(.up))) s"
         }
-        return mode == .sprint ? String(format: "%.1f s", elapsed) : ""
+        return mode == .sprint ? tr("%@ s", String(format: "%.1f", elapsed)) : ""
     }
 
     private var progress: Double {
@@ -288,7 +288,7 @@ struct GameView: View {
 
     private func card(_ question: Question) -> some View {
         VStack(spacing: 14) {
-            Text(question.caption.uppercased())
+            Text(tr(question.caption).uppercased())
                 .font(.system(size: 13, weight: .semibold))
                 .kerning(1)
                 .foregroundStyle(Color.muted)
@@ -305,10 +305,10 @@ struct GameView: View {
                         .frame(width: 96, height: 96)
                         .background(Circle().fill(Color.brandBlue))
                 }
-                .accessibilityLabel("Play the word again")
+                .accessibilityLabel(tr("Play the word again"))
                 .padding(.vertical, 12)
             } else {
-                Text(question.prompt)
+                Text(tr(question.prompt))
                     .font(.serif(question.kind == .synonym ? 40 : 26))
                     .multilineTextAlignment(.center)
                     .minimumScaleFactor(0.7)
@@ -320,7 +320,7 @@ struct GameView: View {
                     choose(option)
                 } label: {
                     HStack {
-                        Text(option).font(.system(size: 17, weight: .medium))
+                        Text(tr(option)).font(.system(size: 17, weight: .medium))
                         Spacer()
                         if picked != nil && option == question.answer {
                             Image(systemName: "checkmark.circle.fill").foregroundStyle(good)
@@ -359,15 +359,15 @@ struct GameView: View {
             Spacer()
             Text("\(correct)")
                 .font(.serif(84))
-            Text(resultLine)
+            Text(tr(resultLine))
                 .font(.system(size: 17))
                 .multilineTextAlignment(.center)
-            Text("Best: \(best)")
+            Text(tr("Best: %@", "\(best)"))
                 .font(.system(size: 15, weight: .semibold))
                 .foregroundStyle(Color.muted)
             Spacer()
             PrimaryButton(title: "Play again") { start() }
-            Button("Done") { dismiss() }
+            Button(tr("Done")) { dismiss() }
                 .font(.system(size: 16, weight: .semibold))
                 .foregroundStyle(Color.ink)
                 .frame(height: 48)
@@ -377,10 +377,10 @@ struct GameView: View {
 
     private var resultLine: String {
         switch mode {
-        case .sprint: return "right out of \(asked), in " + String(format: "%.1f", elapsed) + " seconds"
+        case .sprint: return tr("right out of %@, in %@ seconds", "\(asked)", String(format: "%.1f", elapsed))
         case .rush: return "right answers in 60 seconds"
         case .perfection: return "in a row before your first mistake"
-        case .shuffle: return "right out of \(asked)"
+        case .shuffle: return tr("right out of %@", "\(asked)")
         }
     }
 

@@ -127,15 +127,31 @@ python3 content/build_catalog.py --lang fr content/fr/pilot_words.json content/f
 
 The drafts carry the pronunciation themselves (key `ipa`), since there is no
 pronouncing dictionary to convert from, and nouns are marked `n. m.` or
-`n. f.`. The result, `content/fr/words.json`, has the same shape as
-`Bovary/words.json`. It is not in the app yet: see "Not done yet".
+`n. f.`. The build writes `Bovary/words_fr.json` (bundled in the app) and
+`BovaryWidget/words_fr.json`, and refuses a word spelled like an English one:
+the lemma is the key of a word in the database and in the member's data, for
+all languages at once. `python3 content/push_catalog.py --lang fr` publishes it.
+
+In the app, the second onboarding page asks which language to enrich, and
+Settings can change it later. The choice sets the catalogue, the voices and the
+interface together. The code is written in English; `tr("...")` looks each text
+up in `Bovary/strings_fr.json` (English text to French text), and a text with
+no translation is shown in English. A new language needs a case in
+`AppLanguage` (`Language.swift`), a `strings_<code>.json` and a
+`words_<code>.json`. The widget cannot read the app's choice, so it follows
+the device language.
+
+In Supabase, `words.language` tells the catalogues apart; the app reads the
+view `catalog_localized` filtered on its language, and the older view
+`catalog` stays English only for builds released before
+(`supabase/migrations/20261128120000_languages.sql`).
 
 ## Not done yet
 
-- **French is content only.** The app has no language choice, its interface is
-  in English, and the `words` table in Supabase has no language column (and
-  `lemma` is unique across the table), so the French catalogue is neither
-  bundled nor published.
+- **The French interface has not been built or run.** It was written without
+  Xcode at hand: build it and walk through the onboarding in French before
+  release. Until the migration above is applied and the French catalogue is
+  published, French comes from the bundled file only.
 
 - **Nothing is locked**: every topic, game and statistic is free for now. The
   subscription is sold in the onboarding, but the limit it lifts is still to

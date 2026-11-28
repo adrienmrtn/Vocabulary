@@ -81,7 +81,10 @@ final class Speaker {
     private let synthesizer = AVSpeechSynthesizer()
 
     func say(_ text: String, language: String? = nil) {
-        let chosen = language ?? UserDefaults.standard.string(forKey: "voiceLanguage") ?? "en-US"
+        // A voice saved for another language would mispronounce the word.
+        let current = Translations.language
+        let saved = UserDefaults.standard.string(forKey: "voiceLanguage")
+        let chosen = language ?? (saved?.hasPrefix(current.rawValue) == true ? saved : nil) ?? current.defaultVoice
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = AVSpeechSynthesisVoice(language: chosen)
         synthesizer.stopSpeaking(at: .immediate)
@@ -101,7 +104,7 @@ struct PrimaryButton: View {
             Haptics.tap()
             action()
         } label: {
-            Text(title)
+            Text(tr(title))
                 .font(.system(size: 18, weight: .semibold))
                 .foregroundStyle(.white)
                 .frame(maxWidth: .infinity)
@@ -172,8 +175,8 @@ struct PremiumBanner: View {
     private var banner: some View {
         HStack(spacing: 14) {
             VStack(alignment: .leading, spacing: 6) {
-                Text(title).font(.serif(22))
-                Text(subtitle).font(.system(size: 14))
+                Text(tr(title)).font(.serif(22))
+                Text(tr(subtitle)).font(.system(size: 14))
             }
             .foregroundStyle(.white)
             .frame(maxWidth: .infinity, alignment: .leading)
@@ -193,7 +196,7 @@ struct SectionLabel: View {
     let text: String
 
     var body: some View {
-        Text(text.uppercased())
+        Text(tr(text).uppercased())
             .font(.system(size: 12, weight: .semibold))
             .kerning(1)
             .foregroundStyle(Color.muted)

@@ -40,12 +40,23 @@ struct Word: Identifiable, Hashable, Decodable {
     static var samples: [Word] { Catalog.feed }
 }
 
-/// The word catalogue. The copy last downloaded from Supabase is used when there
-/// is one; otherwise the file bundled with the app (built by `content/build_catalog.py`).
+/// The word catalogue of the chosen language. The copy last downloaded from
+/// Supabase is used when there is one; otherwise the file bundled with the app
+/// (built by `content/build_catalog.py`): `words.json` for English,
+/// `words_<code>.json` for the others.
 enum Catalog {
-    static let all: [Word] = load()
+    private static var words: [Word] = load()
+    private static var byLemma: [String: Word] = index(words)
+    private static var todaysFeed: (key: String, words: [Word])?
 
-    private static let byLemma: [String: Word] = Dictionary(all.map { ($0.text, $0) }, uniquingKeysWith: { first, _ in first })
+    static var all: [Word] { words }
+
+    /// Called when the member changes language.
+    static func reload() {
+        words = load()
+        byLemma = index(words)
+        todaysFeed = nil
+    }
 
     static func word(for lemma: String) -> Word? {
         byLemma[lemma]
@@ -53,16 +64,22 @@ enum Catalog {
 
     /// Twenty words for today. The selection changes each day, stays the same all
     /// day, and steps through the catalogue so that levels are mixed.
-    static let feed: [Word] = {
-        let count = all.count
+    static var feed: [Word] {
         let day = Calendar.current.ordinality(of: .day, in: .era, for: Date()) ?? 0
+        let key = "\(Translations.language.rawValue)-\(day)"
+        if let todaysFeed, todaysFeed.key == key {
+            return todaysFeed.words
+        }
+        let count = all.count
         var step = 37
         while greatestCommonDivisor(step, count) != 1 {
             step += 1
         }
         let start = (day * 20) % count
-        return (0..<min(20, count)).map { all[(start + $0 * step) % count] }
-    }()
+        let chosen = (0..<min(20, count)).map { all[(start + $0 * step) % count] }
+        todaysFeed = (key, chosen)
+        return chosen
+    }
 
     private static func greatestCommonDivisor(_ a: Int, _ b: Int) -> Int {
         b == 0 ? a : greatestCommonDivisor(b, a % b)
@@ -70,16 +87,23 @@ enum Catalog {
 
     /// The word used in the onboarding preview card.
     static var featured: Word {
-        all.first { $0.text == "ephemeral" } ?? all[0]
+        let lemma = Translations.language == .french ? "éphémère" : "ephemeral"
+        return all.first { $0.text == lemma } ?? all[0]
+    }
+
+    private static func index(_ words: [Word]) -> [String: Word] {
+        Dictionary(words.map { ($0.text, $0) }, uniquingKeysWith: { first, _ in first })
     }
 
     private static func load() -> [Word] {
-        if let data = try? Data(contentsOf: Backend.catalogCacheURL),
+        let language = Translations.language
+        if let data = try? Data(contentsOf: Backend.catalogCacheURL(for: language)),
            let words = try? JSONDecoder().decode([Word].self, from: data),
            !words.isEmpty {
             return words
         }
-        guard let url = Bundle.main.url(forResource: "words", withExtension: "json"),
+        let file = language == .english ? "words" : "words_\(language.rawValue)"
+        guard let url = Bundle.main.url(forResource: file, withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let words = try? JSONDecoder().decode([Word].self, from: data),
               !words.isEmpty else {
@@ -157,9 +181,20 @@ struct VoiceOption: Identifiable {
     let id: String
     let name: String
 
-    static let all: [VoiceOption] = [
-        VoiceOption(id: "en-US", name: "American"),
-        VoiceOption(id: "en-GB", name: "British"),
-        VoiceOption(id: "en-AU", name: "Australian")
-    ]
+    /// The voices of the language being learned.
+    static var all: [VoiceOption] {
+        switch Translations.language {
+        case .english:
+            return [
+                VoiceOption(id: "en-US", name: "American"),
+                VoiceOption(id: "en-GB", name: "British"),
+                VoiceOption(id: "en-AU", name: "Australian")
+            ]
+        case .french:
+            return [
+                VoiceOption(id: "fr-FR", name: "France"),
+                VoiceOption(id: "fr-CA", name: "Canada")
+            ]
+        }
+    }
 }

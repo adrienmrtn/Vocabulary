@@ -6,6 +6,9 @@ import SwiftUI
 /// The widget carries its own copy of the catalogue (`words.json`, written by
 /// `content/build_catalog.py`) and picks the day's word with the same rule as
 /// the first word of the app's daily feed, so it needs nothing from the app.
+///
+/// It cannot read the language chosen in the app, so it follows the device:
+/// French words (`words_fr.json`) on a device set to French, English otherwise.
 
 struct DayWord: Decodable {
     let lemma: String
@@ -23,14 +26,24 @@ struct DayWord: Decodable {
 }
 
 enum WidgetCatalog {
+    static let french = (Locale.preferredLanguages.first ?? "en").hasPrefix("fr")
+
+    static let heading: String = french ? "MOT DU JOUR" : "WORD OF THE DAY"
+    static let displayName: String = french ? "Mot du jour" : "Word of the day"
+    static let summary: String = french
+        ? "Un nouveau mot chaque jour, avec son sens."
+        : "A new word every day, with its meaning."
+
     static let all: [DayWord] = {
-        guard let url = Bundle.main.url(forResource: "words", withExtension: "json"),
+        guard let url = Bundle.main.url(forResource: french ? "words_fr" : "words", withExtension: "json"),
               let data = try? Data(contentsOf: url),
               let words = try? JSONDecoder().decode([DayWord].self, from: data) else { return [] }
         return words
     }()
 
-    static let fallback = DayWord(lemma: "ephemeral", partOfSpeech: "adj.", definition: "Lasting for a very short time")
+    static let fallback = french
+        ? DayWord(lemma: "éphémère", partOfSpeech: "adj.", definition: "Qui ne dure que très peu de temps")
+        : DayWord(lemma: "ephemeral", partOfSpeech: "adj.", definition: "Lasting for a very short time")
 
     static func word(on date: Date) -> DayWord {
         guard !all.isEmpty else { return fallback }
@@ -97,7 +110,7 @@ struct WordWidgetView: View {
             .frame(maxWidth: .infinity, alignment: .leading)
         default:
             VStack(alignment: .leading, spacing: 6) {
-                Text("WORD OF THE DAY")
+                Text(WidgetCatalog.heading)
                     .font(.system(size: 10, weight: .bold))
                     .tracking(1)
                     .opacity(0.8)
@@ -121,8 +134,8 @@ struct WordOfTheDayWidget: Widget {
         StaticConfiguration(kind: "WordOfTheDay", provider: WordProvider()) { entry in
             WordWidgetView(entry: entry)
         }
-        .configurationDisplayName("Word of the day")
-        .description("A new word every day, with its meaning.")
+        .configurationDisplayName(WidgetCatalog.displayName)
+        .description(WidgetCatalog.summary)
         .supportedFamilies([.systemSmall, .systemMedium, .accessoryRectangular, .accessoryInline])
     }
 }

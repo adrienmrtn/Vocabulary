@@ -4,12 +4,12 @@ Usage:
     pip install cmudict wordfreq
     python3 content/build_catalog.py content/pilot_words.json Bovary/words.json content/drafts/*.json
 
-    python3 content/build_catalog.py --lang fr content/fr/pilot_words.json content/fr/words.json content/fr/drafts/*.json
+    python3 content/build_catalog.py --lang fr content/fr/pilot_words.json Bovary/words_fr.json content/fr/drafts/*.json
 
 The first output keeps every field plus the checks, for review. The second
 is the slim file bundled in the app. With "--lang fr" the topics and quotations
 are read from content/fr, the drafts give the pronunciation themselves (key
-"ipa") and the widget file is left alone.
+"ipa") and the widget gets BovaryWidget/words_fr.json.
 
 Each draft file is a JSON array of entries with the keys in REQUIRED below.
 The pronunciation is converted from the CMU Pronouncing Dictionary (American
@@ -19,6 +19,7 @@ Entries that fail a check are still written, with their problems listed in
 "issues", and are reported on stdout so a person can fix them.
 """
 
+import glob
 import json
 import os
 import sys
@@ -205,6 +206,14 @@ def main():
         with open(TOPICS_PATH, encoding="utf-8") as handle:
             topics = json.load(handle)
 
+    # A lemma is the key of a word in the database and in the member's data, for
+    # every language at once: a word spelled like an English one cannot be added.
+    taken = set()
+    if LANG != "en":
+        for path in glob.glob(os.path.join(os.path.dirname(__file__), "drafts", "*.json")):
+            with open(path, encoding="utf-8") as handle:
+                taken |= {entry.get("lemma") for entry in json.load(handle)}
+
     flagged = 0
     for entry in entries:
         entry["topics"] = topics.get(entry.get("lemma"), [])
@@ -224,6 +233,8 @@ def main():
         entry["zipf"] = zipf_frequency(lemma, LANG)
         if not entry["topics"]:
             issues.append("no topic")
+        if lemma in taken:
+            issues.append("same spelling as an English word")
         entry["issues"] = issues
         if issues:
             flagged += 1
@@ -236,10 +247,10 @@ def main():
         json.dump(slim, handle, ensure_ascii=False, separators=(",", ":"))
     # The widget is a separate program with its own bundle: it gets a lighter
     # copy, in the same order, so that it shows the app's first word of the day.
-    if LANG == "en":
-        with open(WIDGET_PATH, "w", encoding="utf-8") as handle:
-            light = [{key: entry[key] for key in ("lemma", "part_of_speech", "definition")} for entry in slim]
-            json.dump(light, handle, ensure_ascii=False, separators=(",", ":"))
+    widget_path = WIDGET_PATH if LANG == "en" else WIDGET_PATH.replace("words.json", f"words_{LANG}.json")
+    with open(widget_path, "w", encoding="utf-8") as handle:
+        light = [{key: entry[key] for key in ("lemma", "part_of_speech", "definition")} for entry in slim]
+        json.dump(light, handle, ensure_ascii=False, separators=(",", ":"))
     print(f"{len(entries)} entries written to {out_path}, {flagged} flagged, {len(slim)} bundled in {app_path}")
 
 

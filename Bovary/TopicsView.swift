@@ -25,7 +25,7 @@ struct TopicsView: View {
                     HStack(spacing: 10) {
                         Image(systemName: "magnifyingglass")
                             .foregroundStyle(Color.muted)
-                        TextField("Search", text: $query)
+                        TextField(tr("Search"), text: $query)
                             .textInputAutocapitalization(.never)
                             .autocorrectionDisabled()
                     }
@@ -42,7 +42,7 @@ struct TopicsView: View {
                                         .font(.system(size: 20))
                                         .foregroundStyle(Color.brandBlue)
                                         .frame(width: 26)
-                                    Text(shortcut.title)
+                                    Text(tr(shortcut.title))
                                         .font(.system(size: 16, weight: .medium))
                                         .foregroundStyle(Color.ink)
                                     Spacer(minLength: 0)
@@ -54,7 +54,7 @@ struct TopicsView: View {
                         }
                     }
 
-                    Text("About ourselves")
+                    Text(tr("About ourselves"))
                         .font(.system(size: 18, weight: .semibold))
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding(.top, 8)
@@ -97,7 +97,7 @@ struct TopicTile: View {
         VStack(alignment: .leading, spacing: 0) {
             FillImage(name: topic.image)
                 .frame(height: 124)
-            Text(topic.name)
+            Text(tr(topic.name))
                 .font(.system(size: 16, weight: .semibold))
                 .foregroundStyle(Color.ink)
                 .padding(12)
@@ -114,11 +114,11 @@ struct PlaceholderScreen: View {
     var body: some View {
         ZStack {
             Color.cream.ignoresSafeArea()
-            Text("Coming soon")
+            Text(tr("Coming soon"))
                 .font(.serif(22, weight: .medium))
                 .foregroundStyle(Color.muted)
         }
-        .navigationTitle(title)
+        .navigationTitle(tr(title))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Haptics.page() }
     }

@@ -38,7 +38,7 @@ struct ThemeGrid: View {
                     RoundedRectangle(cornerRadius: 16, style: .continuous)
                         .fill(AppTheme.all[index].ground)
                         .frame(height: 162)
-                        .overlay(Text("Aa").font(.serif(22)).foregroundStyle(AppTheme.all[index].text))
+                        .overlay(Text(tr("Aa")).font(.serif(22)).foregroundStyle(AppTheme.all[index].text))
                         .overlay(
                             RoundedRectangle(cornerRadius: 16, style: .continuous)
                                 .stroke(index == theme ? Color.brandBlue : Color.line,
@@ -52,7 +52,7 @@ struct ThemeGrid: View {
                             }
                         }
                 }
-                .accessibilityLabel("\(AppTheme.all[index].name) theme")
+                .accessibilityLabel(tr("%@ theme", "\(AppTheme.all[index].name)"))
             }
         }
     }
@@ -62,7 +62,7 @@ struct ThemesScreen: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 16) {
-                Text("The theme colours the Words tab.")
+                Text(tr("The theme colours the Words tab."))
                     .font(.system(size: 15))
                     .foregroundStyle(Color.muted)
                     .frame(maxWidth: .infinity, alignment: .leading)
@@ -71,7 +71,7 @@ struct ThemesScreen: View {
             .padding(20)
         }
         .background(Color.cream)
-        .navigationTitle("Themes")
+        .navigationTitle(tr("Themes"))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Haptics.page() }
     }
@@ -99,7 +99,7 @@ struct WordRow: View {
                         .font(.system(size: 15))
                         .multilineTextAlignment(.leading)
                     if let caption {
-                        Text(caption)
+                        Text(tr(caption))
                             .font(.system(size: 12))
                             .foregroundStyle(Color.muted)
                     }
@@ -116,7 +116,7 @@ struct WordRow: View {
                     .foregroundStyle(store.isFavorite(word.text) ? Color.brandBlue : Color.ink)
                     .frame(width: 44, height: 44)
             }
-            .accessibilityLabel(store.isFavorite(word.text) ? "Remove from favorites" : "Add to favorites")
+            .accessibilityLabel(tr(store.isFavorite(word.text) ? "Remove from favorites" : "Add to favorites"))
         }
         .padding(.leading, 16)
         .padding(.trailing, 6)
@@ -139,7 +139,7 @@ struct ListScreen<Content: View>: View {
     var body: some View {
         ScrollView {
             if isEmpty {
-                Text(emptyMessage)
+                Text(tr(emptyMessage))
                     .font(.serif(20, weight: .medium))
                     .foregroundStyle(Color.muted)
                     .multilineTextAlignment(.center)
@@ -154,7 +154,7 @@ struct ListScreen<Content: View>: View {
             }
         }
         .background(Color.cream)
-        .navigationTitle(title)
+        .navigationTitle(tr(title))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Haptics.page() }
     }
@@ -212,7 +212,7 @@ struct TopicScreen: View {
             NavigationLink {
                 GameView(mode: .shuffle, title: topic.name, pool: words)
             } label: {
-                Text("Practice these \(words.count) words")
+                Text(tr("Practice these %@ words", "\(words.count)"))
                     .font(.system(size: 17, weight: .semibold))
                     .foregroundStyle(.white)
                     .frame(maxWidth: .infinity)
@@ -242,8 +242,8 @@ struct CollectionsScreen: View {
                 } label: {
                     HStack {
                         VStack(alignment: .leading, spacing: 4) {
-                            Text(collection.name).font(.serif(22))
-                            Text(collection.words.count == 1 ? "1 word" : "\(collection.words.count) words")
+                            Text(tr(collection.name)).font(.serif(22))
+                            Text(collection.words.count == 1 ? tr("1 word") : tr("%@ words", "\(collection.words.count)"))
                                 .font(.system(size: 14))
                                 .foregroundStyle(Color.muted)
                         }
@@ -266,16 +266,16 @@ struct CollectionsScreen: View {
                 } label: {
                     Image(systemName: "plus")
                 }
-                .accessibilityLabel("New collection")
+                .accessibilityLabel(tr("New collection"))
             }
         }
-        .alert("New collection", isPresented: $asking) {
-            TextField("Name", text: $newName)
-            Button("Create") {
+        .alert(tr("New collection"), isPresented: $asking) {
+            TextField(tr("Name"), text: $newName)
+            Button(tr("Create")) {
                 store.addCollection(named: newName)
                 Haptics.success()
             }
-            Button("Cancel", role: .cancel) {}
+            Button(tr("Cancel"), role: .cancel) {}
         }
     }
 }
@@ -294,7 +294,7 @@ struct CollectionScreen: View {
             ForEach(words) { word in
                 WordRow(word: word)
                     .contextMenu {
-                        Button("Remove from collection", role: .destructive) {
+                        Button(tr("Remove from collection"), role: .destructive) {
                             store.remove(word.text, fromCollection: collectionID)
                         }
                     }
@@ -308,7 +308,7 @@ struct CollectionScreen: View {
                 } label: {
                     Image(systemName: "trash")
                 }
-                .accessibilityLabel("Delete collection")
+                .accessibilityLabel(tr("Delete collection"))
             }
         }
     }
@@ -336,7 +336,7 @@ struct OwnWordsScreen: View {
                 .padding(16)
                 .card()
                 .contextMenu {
-                    Button("Delete", role: .destructive) {
+                    Button(tr("Delete"), role: .destructive) {
                         store.deleteCustomWord(entry.id)
                     }
                 }
@@ -349,7 +349,7 @@ struct OwnWordsScreen: View {
                 } label: {
                     Image(systemName: "plus")
                 }
-                .accessibilityLabel("Add a word")
+                .accessibilityLabel(tr("Add a word"))
             }
         }
         .sheet(isPresented: $adding) {
@@ -371,25 +371,25 @@ struct AddWordSheet: View {
         NavigationStack {
             Form {
                 Section {
-                    TextField("Word", text: $word)
+                    TextField(tr("Word"), text: $word)
                         .textInputAutocapitalization(.never)
-                    TextField("Definition", text: $definition, axis: .vertical)
-                    Picker("Part of speech", selection: $partOfSpeech) {
+                    TextField(tr("Definition"), text: $definition, axis: .vertical)
+                    Picker(tr("Part of speech"), selection: $partOfSpeech) {
                         ForEach(parts, id: \.self) { part in
-                            Text(part).tag(part)
+                            Text(tr(part)).tag(part)
                         }
                     }
                     .pickerStyle(.segmented)
                 }
             }
-            .navigationTitle("Add a word")
+            .navigationTitle(tr("Add a word"))
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
-                    Button("Cancel") { dismiss() }
+                    Button(tr("Cancel")) { dismiss() }
                 }
                 ToolbarItem(placement: .confirmationAction) {
-                    Button("Save") {
+                    Button(tr("Save")) {
                         UserStore.shared.addCustomWord(word, partOfSpeech: partOfSpeech, definition: definition)
                         Haptics.success()
                         dismiss()
@@ -406,6 +406,7 @@ struct AddWordSheet: View {
 struct SettingsScreen: View {
     @ObservedObject private var store = UserStore.shared
     @AppStorage("hasOnboarded") private var hasOnboarded = true
+    @ObservedObject private var language = LanguageStore.shared
     @State private var name = ""
 
     private var version: String {
@@ -414,38 +415,44 @@ struct SettingsScreen: View {
 
     var body: some View {
         Form {
-            Section("You") {
-                TextField("Your name", text: $name)
+            Section(tr("You")) {
+                TextField(tr("Your name"), text: $name)
                     .onSubmit { store.setName(name) }
             }
-            Section("App") {
-                NavigationLink("Reminders") { RemindersScreen() }
-                NavigationLink("Voices") { VoiceScreen() }
-                NavigationLink("Themes") { ThemesScreen() }
-                NavigationLink("App icon") { IconScreen() }
+            Section(tr("App")) {
+                Picker(tr("Language"), selection: Binding(get: { language.language },
+                                                          set: { language.choose($0) })) {
+                    ForEach(AppLanguage.allCases) { option in
+                        Text(option.name).tag(option)
+                    }
+                }
+                NavigationLink(tr("Reminders")) { RemindersScreen() }
+                NavigationLink(tr("Voices")) { VoiceScreen() }
+                NavigationLink(tr("Themes")) { ThemesScreen() }
+                NavigationLink(tr("App icon")) { IconScreen() }
             }
             Section {
-                Text(Backend.shared.signedIn
+                Text(tr(Backend.shared.signedIn
                      ? "Your progress is backed up."
-                     : "Your progress is saved on this device only.")
+                     : "Your progress is saved on this device only."))
                     .foregroundStyle(Color.muted)
             } header: {
-                Text("Account")
+                Text(tr("Account"))
             } footer: {
-                Text("Sign in with Apple or Google is coming, to keep your progress across devices.")
+                Text(tr("Sign in with Apple or Google is coming, to keep your progress across devices."))
             }
             Section {
-                Button("Replay the onboarding") {
+                Button(tr("Replay the onboarding")) {
                     Haptics.tap()
                     withAnimation(.easeInOut(duration: 0.5)) {
                         hasOnboarded = false
                     }
                 }
             } footer: {
-                Text("Bovary \(version)")
+                Text(tr("Bovary %@", "\(version)"))
             }
         }
-        .navigationTitle("Settings")
+        .navigationTitle(tr("Settings"))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear {
             name = store.state.displayName

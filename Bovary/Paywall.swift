@@ -44,10 +44,10 @@ struct OfferView: View {
                 ProgressView().controlSize(.large)
             }
         }
-        .alert("Subscription", isPresented: Binding(get: { message != nil }, set: { if !$0 { message = nil } })) {
-            Button("OK") {}
+        .alert(tr("Subscription"), isPresented: Binding(get: { message != nil }, set: { if !$0 { message = nil } })) {
+            Button(tr("OK")) {}
         } message: {
-            Text(message ?? "")
+            Text(tr(message ?? ""))
         }
         .task { await subscriptions.refresh() }
         .task {
@@ -80,7 +80,7 @@ struct OfferView: View {
                         .foregroundStyle(Color.muted)
                         .frame(width: 44, height: 44)
                 }
-                .accessibilityLabel("Close")
+                .accessibilityLabel(tr("Close"))
                 .opacity(canClose || plan == nil ? 1 : 0)
                 .disabled(!(canClose || plan == nil))
                 Spacer()
@@ -93,9 +93,9 @@ struct OfferView: View {
                 }
             } else {
                 Spacer()
-                Text("Unlock all of Bovary")
+                Text(tr("Unlock all of Bovary"))
                     .font(.serif(30))
-                Text("Plans are not available right now.")
+                Text(tr("Plans are not available right now."))
                     .font(.system(size: 15))
                     .foregroundStyle(Color.muted)
                     .padding(.top, 8)
@@ -112,14 +112,14 @@ struct OfferView: View {
     /// reminder comes and when the first payment is taken.
     @ViewBuilder
     private func trialPage(_ plan: Package, days: Int) -> some View {
-        Text("How your free trial works")
+        Text(tr("How your free trial works"))
             .font(.serif(30))
             .multilineTextAlignment(.center)
             .reveal(phase >= 1)
         HStack(alignment: .firstTextBaseline, spacing: 8) {
             Text(plan.zeroPrice)
                 .font(.serif(46))
-            Text("today")
+            Text(tr("today"))
                 .font(.system(size: 18, weight: .medium))
                 .foregroundStyle(Color.muted)
         }
@@ -131,20 +131,20 @@ struct OfferView: View {
                         title: "You unlock everything",
                         detail: "Every word, topic and game in Bovary.", last: false)
                 .reveal(phase >= 2)
-            TimelineRow(symbol: "bell.fill", when: days - 1 <= 1 ? "Tomorrow" : "In \(days - 1) days",
+            TimelineRow(symbol: "bell.fill", when: days - 1 <= 1 ? "Tomorrow" : tr("In %@ days", "\(days - 1)"),
                         title: "We send you a reminder",
                         detail: "A notification the day before your trial ends.", last: false)
                 .reveal(phase >= 3)
-            TimelineRow(symbol: "creditcard.fill", when: "In \(days) days",
+            TimelineRow(symbol: "creditcard.fill", when: tr("In %@ days", "\(days)"),
                         title: "Your subscription starts",
-                        detail: "You're charged \(plan.price) for the year, unless you cancel before.", last: true)
+                        detail: tr("You're charged %@ for the year, unless you cancel before.", "\(plan.price)"), last: true)
                 .reveal(phase >= 4)
         }
         .padding(.top, 26)
         Spacer(minLength: 12)
         VStack(spacing: 10) {
             PrimaryButton(title: "Start my free trial") { buy(plan) }
-            priceLines(plan, lead: "Free for \(days) days, then \(plan.price) per \(plan.periodName)")
+            priceLines(plan, lead: tr("Free for %@ days, then %@ per %@", "\(days)", "\(plan.price)", plan.periodName))
         }
         .reveal(phase >= 5)
     }
@@ -152,7 +152,7 @@ struct OfferView: View {
     /// The trial was already used: the same plain page, without the timeline.
     @ViewBuilder
     private func plainPage(_ plan: Package) -> some View {
-        Text("Unlock all of Bovary")
+        Text(tr("Unlock all of Bovary"))
             .font(.serif(30))
             .multilineTextAlignment(.center)
             .reveal(phase >= 1)
@@ -174,7 +174,7 @@ struct OfferView: View {
         Spacer(minLength: 12)
         VStack(spacing: 10) {
             PrimaryButton(title: "Subscribe") { buy(plan) }
-            priceLines(plan, lead: "\(plan.price) per \(plan.periodName)")
+            priceLines(plan, lead: tr("%@ per %@", "\(plan.price)", plan.periodName))
         }
         .reveal(phase >= 5)
     }
@@ -182,13 +182,13 @@ struct OfferView: View {
     /// Under the button: what is billed, then the same amount per month, larger.
     private func priceLines(_ plan: Package, lead: String) -> some View {
         VStack(spacing: 4) {
-            Text(lead)
+            Text(tr(lead))
                 .font(.system(size: 15))
             if let monthly = plan.monthlyEquivalent {
-                Text("That's \(monthly) per month")
+                Text(tr("That's %@ per month", "\(monthly)"))
                     .font(.serif(24))
             }
-            Text("No commitment. Cancel anytime.")
+            Text(tr("No commitment. Cancel anytime."))
                 .font(.system(size: 13))
                 .foregroundStyle(Color.muted)
                 .padding(.top, 2)
@@ -198,11 +198,11 @@ struct OfferView: View {
 
     private var footer: some View {
         HStack {
-            Button("Restore") { restore() }
+            Button(tr("Restore")) { restore() }
             Spacer()
-            Button("Terms & Conditions") {}
+            Button(tr("Terms & Conditions")) {}
             Spacer()
-            Button("Privacy Policy") {}
+            Button(tr("Privacy Policy")) {}
         }
         .font(.system(size: 12))
         .foregroundStyle(Color.muted)
@@ -280,13 +280,13 @@ private struct TimelineRow: View {
                     .opacity(last ? 0 : 1)
             }
             VStack(alignment: .leading, spacing: 3) {
-                Text(when.uppercased())
+                Text(tr(when).uppercased())
                     .font(.system(size: 11, weight: .bold))
                     .tracking(1)
                     .foregroundStyle(Color.muted)
-                Text(title)
+                Text(tr(title))
                     .font(.system(size: 17, weight: .semibold))
-                Text(detail)
+                Text(tr(detail))
                     .font(.system(size: 14))
                     .foregroundStyle(Color.muted)
                     .fixedSize(horizontal: false, vertical: true)
@@ -322,11 +322,11 @@ private struct DiscountView: View {
 
     /// What is actually charged, next to the regular price when the offer is cheaper.
     private func billed(_ package: Package) -> String {
-        var line = "Charged \(package.price) per \(package.periodName)"
+        var line = tr("Charged %@ per %@", "\(package.price)", package.periodName)
         if let regular, percent != nil {
-            line += " instead of \(regular.price)"
+            line += tr(" instead of %@", "\(regular.price)")
         }
-        return line + ". Renews automatically. Cancel anytime."
+        return line + tr(". Renews automatically. Cancel anytime.")
     }
 
     var body: some View {
@@ -334,7 +334,7 @@ private struct DiscountView: View {
             LinearGradient(colors: [Color.brandBlue, Color(hex: 0x062E99)], startPoint: .top, endPoint: .bottom)
                 .ignoresSafeArea()
             VStack(spacing: 0) {
-                Text("ONE-TIME OFFER")
+                Text(tr("ONE-TIME OFFER"))
                     .font(.system(size: 13, weight: .heavy))
                     .tracking(2)
                     .foregroundStyle(Color.ink)
@@ -350,17 +350,17 @@ private struct DiscountView: View {
                             .font(.system(size: 190))
                             .foregroundStyle(gold)
                             .shadow(color: .black.opacity(0.25), radius: 18, y: 10)
-                        Text("-\(percent)%")
+                        Text(tr("-%@%%", "\(percent)"))
                             .font(.serif(54))
                             .foregroundStyle(Color.ink)
                     }
                     .rotationEffect(.degrees(-9))
                     .scaleEffect(pulse ? 1.05 : 0.97)
                     .modifier(Pop(delay: 0.15))
-                    .accessibilityLabel("\(percent) percent off")
+                    .accessibilityLabel(tr("%@ percent off", "\(percent)"))
                 }
                 if let package {
-                    Text("A full \(package.periodName) of Bovary for only")
+                    Text(tr("A full %@ of Bovary for only", package.periodName))
                         .font(.serif(24))
                         .multilineTextAlignment(.center)
                         .padding(.top, 18)
@@ -371,7 +371,7 @@ private struct DiscountView: View {
                             .lineLimit(1)
                             .minimumScaleFactor(0.6)
                             .rise(0.45)
-                        Text("per month")
+                        Text(tr("per month"))
                             .font(.system(size: 20, weight: .bold))
                             .foregroundStyle(gold)
                             .rise(0.55)
@@ -380,7 +380,7 @@ private struct DiscountView: View {
                             .font(.serif(72))
                             .rise(0.45)
                     }
-                    Text("You'll only see this price once.")
+                    Text(tr("You'll only see this price once."))
                         .font(.system(size: 14))
                         .opacity(0.8)
                         .padding(.top, 8)
@@ -392,7 +392,7 @@ private struct DiscountView: View {
                         Haptics.tap()
                         buy(package)
                     } label: {
-                        Text("Claim my discount")
+                        Text(tr("Claim my discount"))
                             .font(.system(size: 19, weight: .bold))
                             .foregroundStyle(Color.ink)
                             .frame(maxWidth: .infinity)
@@ -402,13 +402,13 @@ private struct DiscountView: View {
                     }
                     .scaleEffect(pulse ? 1.02 : 0.99)
                     .rise(0.85)
-                    Text(billed(package))
+                    Text(tr(billed(package)))
                         .font(.system(size: 12))
                         .opacity(0.8)
                         .multilineTextAlignment(.center)
                         .padding(.top, 10)
                 }
-                Button("No thanks") {
+                Button(tr("No thanks")) {
                     Haptics.tap()
                     decline()
                 }

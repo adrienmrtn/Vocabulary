@@ -106,21 +106,21 @@ extension Package {
     /// "year", "month" or "week", for sentences such as "per year".
     var periodName: String {
         switch packageType {
-        case .annual: return "year"
-        case .sixMonth: return "6 months"
-        case .threeMonth: return "3 months"
-        case .twoMonth: return "2 months"
-        case .monthly: return "month"
-        case .weekly: return "week"
-        default: return "period"
+        case .annual: return tr("year")
+        case .sixMonth: return tr("6 months")
+        case .threeMonth: return tr("3 months")
+        case .twoMonth: return tr("2 months")
+        case .monthly: return tr("month")
+        case .weekly: return tr("week")
+        default: return tr("period")
         }
     }
 
     var planName: String {
         switch packageType {
-        case .annual: return "Yearly"
-        case .monthly: return "Monthly"
-        case .weekly: return "Weekly"
+        case .annual: return tr("Yearly")
+        case .monthly: return tr("Monthly")
+        case .weekly: return tr("Weekly")
         default: return storeProduct.localizedTitle
         }
     }

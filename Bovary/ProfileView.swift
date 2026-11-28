@@ -25,9 +25,9 @@ struct ProfileView: View {
                                 .background(Circle().fill(Color.white))
                                 .overlay(Circle().stroke(Color.line, lineWidth: 1.5))
                         }
-                        .accessibilityLabel("Settings")
+                        .accessibilityLabel(tr("Settings"))
                     }
-                    Text("Customize the app")
+                    Text(tr("Customize the app"))
                         .font(.system(size: 18, weight: .semibold))
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding(.top, 8)
@@ -53,7 +53,7 @@ struct ProfileView: View {
                         }
                     }
 
-                    Text("Your Vocabulary")
+                    Text(tr("Your Vocabulary"))
                         .font(.system(size: 18, weight: .semibold))
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .padding(.top, 8)
@@ -67,7 +67,7 @@ struct ProfileView: View {
                                     FillImage(name: shortcut.image)
                                         .frame(width: 48, height: 48)
                                         .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
-                                    Text(shortcut.title)
+                                    Text(tr(shortcut.title))
                                         .font(.system(size: 16, weight: .medium))
                                         .foregroundStyle(Color.ink)
                                     Spacer(minLength: 0)
@@ -108,7 +108,7 @@ struct ProfileTile: View {
         VStack(alignment: .leading, spacing: 0) {
             FillImage(name: image)
                 .frame(height: 124)
-            Text(title)
+            Text(tr(title))
                 .font(.system(size: 16, weight: .semibold))
                 .foregroundStyle(Color.ink)
                 .lineLimit(1)
@@ -151,10 +151,10 @@ struct IconPicker: View {
                                         .stroke(Color.brandBlue, lineWidth: index == safeCharacter ? 3 : 0)
                                 )
                         }
-                        .accessibilityLabel(IconOptions.characters[index].name)
+                        .accessibilityLabel(tr(IconOptions.characters[index].name))
                     }
                 }
-                Text(IconOptions.characters[safeCharacter].name)
+                Text(tr(IconOptions.characters[safeCharacter].name))
                     .font(.system(size: 15, weight: .semibold))
             }
 
@@ -176,7 +176,7 @@ struct IconPicker: View {
                                                 lineWidth: index == safeBackground ? 3 : 1.5)
                                 )
                         }
-                        .accessibilityLabel("\(IconOptions.backgrounds[index].name) background")
+                        .accessibilityLabel(tr("%@ background", "\(IconOptions.backgrounds[index].name)"))
                     }
                 }
             }
@@ -219,7 +219,7 @@ struct IconScreen: View {
             .padding(20)
         }
         .background(Color.cream)
-        .navigationTitle("App icon")
+        .navigationTitle(tr("App icon"))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Haptics.page() }
     }
@@ -228,7 +228,7 @@ struct IconScreen: View {
 // MARK: - Voice
 
 struct VoiceList: View {
-    @AppStorage("voiceLanguage") private var voice = "en-US"
+    @AppStorage("voiceLanguage") private var voice = Translations.language.defaultVoice
 
     var body: some View {
         VStack(spacing: 10) {
@@ -236,11 +236,11 @@ struct VoiceList: View {
                 Button {
                     Haptics.select()
                     voice = option.id
-                    Speaker.shared.say("Flaubert searched for the right word.", language: option.id)
+                    Speaker.shared.say(tr("Flaubert searched for the right word."), language: option.id)
                 } label: {
                     HStack(spacing: 12) {
                         Image(systemName: "play.fill")
-                        Text(option.name).font(.system(size: 16, weight: .semibold))
+                        Text(tr(option.name)).font(.system(size: 16, weight: .semibold))
                         Spacer()
                         Image(systemName: voice == option.id ? "largecircle.fill.circle" : "circle")
                             .foregroundStyle(voice == option.id ? Color.brandBlue : Color.muted)
@@ -263,7 +263,7 @@ struct VoiceScreen: View {
                 .padding(20)
         }
         .background(Color.cream)
-        .navigationTitle("Voices")
+        .navigationTitle(tr("Voices"))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Haptics.page() }
     }
@@ -279,9 +279,9 @@ struct ReminderSettings: View {
     var body: some View {
         VStack(spacing: 14) {
             HStack {
-                Text("How many").font(.system(size: 16, weight: .medium))
+                Text(tr("How many")).font(.system(size: 16, weight: .medium))
                 Spacer()
-                Stepper("\(perDay)x", value: $perDay, in: 1...30)
+                Stepper(tr("%@x", "\(perDay)"), value: $perDay, in: 1...30)
                     .fixedSize()
                     .onChange(of: perDay) { _, _ in Haptics.select() }
             }
@@ -290,11 +290,11 @@ struct ReminderSettings: View {
             .card(radius: 29)
 
             VStack(spacing: 0) {
-                DatePicker("Start at", selection: binding($startMinutes), displayedComponents: .hourAndMinute)
+                DatePicker(tr("Start at"), selection: binding($startMinutes), displayedComponents: .hourAndMinute)
                     .padding(.horizontal, 18)
                     .frame(height: 58)
                 Divider().overlay(Color.line)
-                DatePicker("End at", selection: binding($endMinutes), displayedComponents: .hourAndMinute)
+                DatePicker(tr("End at"), selection: binding($endMinutes), displayedComponents: .hourAndMinute)
                     .padding(.horizontal, 18)
                     .frame(height: 58)
             }
@@ -329,8 +329,8 @@ enum Notifications {
         center.requestAuthorization(options: [.alert, .sound]) { granted, _ in
             guard granted else { return }
             let content = UNMutableNotificationContent()
-            content.title = "Your free trial ends tomorrow"
-            content.body = "Your Bovary subscription starts tomorrow. You can cancel anytime in your App Store settings."
+            content.title = tr("Your free trial ends tomorrow")
+            content.body = tr("Your Bovary subscription starts tomorrow. You can cancel anytime in your App Store settings.")
             content.sound = .default
             let trigger = UNTimeIntervalNotificationTrigger(timeInterval: Double(trialDays - 1) * 86_400, repeats: false)
             center.add(UNNotificationRequest(identifier: "trial-reminder", content: content, trigger: trigger))
@@ -359,7 +359,7 @@ struct RemindersScreen: View {
             .padding(20)
         }
         .background(Color.cream)
-        .navigationTitle("Reminders")
+        .navigationTitle(tr("Reminders"))
         .navigationBarTitleDisplayMode(.inline)
         .onAppear { Haptics.page() }
     }
