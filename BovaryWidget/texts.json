@@ -1,4 +1,8 @@
 {
+ "cs": {
+  "name": "Slovo dne",
+  "summary": "Každý den nové slovo i s významem."
+ },
  "de": {
   "name": "Wort des Tages",
   "summary": "Jeden Tag ein neues Wort, mit seiner Bedeutung."
