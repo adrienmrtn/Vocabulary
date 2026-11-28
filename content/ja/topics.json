@@ -1,0 +1,777 @@
+{
+  "淡い": [
+    "nature",
+    "emotions"
+  ],
+  "健気": [
+    "character"
+  ],
+  "朗らか": [
+    "character",
+    "emotions"
+  ],
+  "しなやか": [
+    "nature",
+    "character"
+  ],
+  "慎ましい": [
+    "character",
+    "society"
+  ],
+  "清々しい": [
+    "emotions",
+    "nature"
+  ],
+  "潔い": [
+    "character"
+  ],
+  "愛おしい": [
+    "emotions"
+  ],
+  "切ない": [
+    "emotions"
+  ],
+  "懐かしい": [
+    "emotions"
+  ],
+  "佇む": [
+    "travel",
+    "emotions"
+  ],
+  "慈しむ": [
+    "emotions",
+    "character"
+  ],
+  "労る": [
+    "emotions",
+    "society"
+  ],
+  "嗜む": [
+    "society",
+    "literature"
+  ],
+  "顧みる": [
+    "emotions",
+    "society"
+  ],
+  "罵る": [
+    "debate",
+    "emotions"
+  ],
+  "窺う": [
+    "society",
+    "character"
+  ],
+  "憩う": [
+    "nature",
+    "travel"
+  ],
+  "装う": [
+    "society",
+    "character"
+  ],
+  "繕う": [
+    "society"
+  ],
+  "育む": [
+    "nature",
+    "society"
+  ],
+  "紡ぐ": [
+    "literature"
+  ],
+  "綻ぶ": [
+    "nature",
+    "emotions"
+  ],
+  "微睡む": [
+    "nature",
+    "emotions"
+  ],
+  "戸惑う": [
+    "emotions"
+  ],
+  "木漏れ日": [
+    "nature"
+  ],
+  "余韻": [
+    "emotions",
+    "literature"
+  ],
+  "風情": [
+    "nature",
+    "travel"
+  ],
+  "面影": [
+    "emotions",
+    "travel"
+  ],
+  "名残": [
+    "emotions",
+    "travel"
+  ],
+  "黄昏": [
+    "nature"
+  ],
+  "潮時": [
+    "business",
+    "society"
+  ],
+  "気品": [
+    "character",
+    "society"
+  ],
+  "素朴": [
+    "character",
+    "travel"
+  ],
+  "憎悪": [
+    "emotions"
+  ],
+  "未練": [
+    "emotions"
+  ],
+  "余波": [
+    "nature",
+    "society"
+  ],
+  "おぼろげ": [
+    "emotions",
+    "nature"
+  ],
+  "ひたむき": [
+    "character"
+  ],
+  "さりげない": [
+    "character",
+    "society"
+  ],
+  "おおらか": [
+    "character"
+  ],
+  "穏やか": [
+    "nature",
+    "character"
+  ],
+  "厳か": [
+    "society"
+  ],
+  "雅やか": [
+    "society",
+    "literature"
+  ],
+  "麗らか": [
+    "nature"
+  ],
+  "敢えて": [
+    "debate",
+    "persuasion"
+  ],
+  "殊に": [
+    "debate",
+    "literature"
+  ],
+  "しみじみ": [
+    "emotions"
+  ],
+  "つくづく": [
+    "emotions"
+  ],
+  "所詮": [
+    "debate"
+  ],
+  "労う": [
+    "business",
+    "society"
+  ],
+  "弁える": [
+    "society",
+    "character"
+  ],
+  "培う": [
+    "business",
+    "nature"
+  ],
+  "侘しい": [
+    "emotions"
+  ],
+  "凛々しい": [
+    "character"
+  ],
+  "奥ゆかしい": [
+    "character",
+    "society"
+  ],
+  "心許ない": [
+    "emotions",
+    "travel"
+  ],
+  "心遣い": [
+    "society",
+    "travel"
+  ],
+  "儚い": [
+    "emotions",
+    "nature"
+  ],
+  "刹那": [
+    "literature",
+    "emotions"
+  ],
+  "幽玄": [
+    "literature",
+    "nature"
+  ],
+  "矜持": [
+    "character"
+  ],
+  "憧憬": [
+    "emotions",
+    "travel"
+  ],
+  "郷愁": [
+    "emotions",
+    "travel"
+  ],
+  "邂逅": [
+    "literature",
+    "travel"
+  ],
+  "躊躇う": [
+    "emotions"
+  ],
+  "忖度": [
+    "society",
+    "business"
+  ],
+  "杞憂": [
+    "emotions",
+    "literature"
+  ],
+  "葛藤": [
+    "emotions"
+  ],
+  "焦燥": [
+    "emotions"
+  ],
+  "安堵": [
+    "emotions"
+  ],
+  "感慨": [
+    "emotions"
+  ],
+  "哀愁": [
+    "emotions",
+    "literature"
+  ],
+  "侮蔑": [
+    "emotions",
+    "society"
+  ],
+  "語弊": [
+    "debate"
+  ],
+  "成就": [
+    "business",
+    "emotions"
+  ],
+  "存外": [
+    "debate"
+  ],
+  "衰微": [
+    "society",
+    "business"
+  ],
+  "啄む": [
+    "nature"
+  ],
+  "憂い": [
+    "emotions"
+  ],
+  "謙遜": [
+    "character",
+    "society"
+  ],
+  "寛容": [
+    "character",
+    "society"
+  ],
+  "律儀": [
+    "character"
+  ],
+  "老獪": [
+    "character",
+    "business"
+  ],
+  "狡猾": [
+    "character"
+  ],
+  "傲慢": [
+    "character"
+  ],
+  "怠惰": [
+    "character"
+  ],
+  "凡庸": [
+    "character",
+    "literature"
+  ],
+  "稀有": [
+    "science",
+    "debate"
+  ],
+  "流暢": [
+    "persuasion",
+    "travel"
+  ],
+  "饒舌": [
+    "character",
+    "persuasion"
+  ],
+  "寡黙": [
+    "character"
+  ],
+  "辛辣": [
+    "debate",
+    "literature"
+  ],
+  "婉曲": [
+    "persuasion",
+    "debate"
+  ],
+  "詭弁": [
+    "debate",
+    "persuasion"
+  ],
+  "示唆": [
+    "debate",
+    "science"
+  ],
+  "推敲": [
+    "literature"
+  ],
+  "蛇足": [
+    "literature",
+    "debate"
+  ],
+  "杜撰": [
+    "business"
+  ],
+  "脆弱": [
+    "science",
+    "society"
+  ],
+  "顕著": [
+    "science",
+    "debate"
+  ],
+  "頻りに": [
+    "nature"
+  ],
+  "徐に": [
+    "literature"
+  ],
+  "甚だ": [
+    "debate"
+  ],
+  "あたかも": [
+    "literature",
+    "debate"
+  ],
+  "畏怖": [
+    "emotions",
+    "nature"
+  ],
+  "嗚咽": [
+    "emotions"
+  ],
+  "彷徨う": [
+    "travel",
+    "emotions"
+  ],
+  "抗う": [
+    "society",
+    "debate"
+  ],
+  "訝る": [
+    "emotions",
+    "debate"
+  ],
+  "蔑む": [
+    "society",
+    "emotions"
+  ],
+  "翻す": [
+    "debate",
+    "society"
+  ],
+  "滞る": [
+    "business"
+  ],
+  "唆す": [
+    "persuasion"
+  ],
+  "諭す": [
+    "persuasion",
+    "society"
+  ],
+  "凌ぐ": [
+    "nature",
+    "business"
+  ],
+  "携える": [
+    "travel",
+    "business"
+  ],
+  "委ねる": [
+    "business",
+    "society"
+  ],
+  "潤沢": [
+    "business"
+  ],
+  "黎明": [
+    "nature",
+    "society"
+  ],
+  "陽炎": [
+    "nature",
+    "science"
+  ],
+  "時雨": [
+    "nature"
+  ],
+  "五月雨": [
+    "nature",
+    "literature"
+  ],
+  "さざ波": [
+    "nature"
+  ],
+  "趣": [
+    "nature",
+    "literature"
+  ],
+  "醍醐味": [
+    "literature",
+    "emotions"
+  ],
+  "風物詩": [
+    "nature",
+    "society"
+  ],
+  "漂泊": [
+    "travel",
+    "literature"
+  ],
+  "旅情": [
+    "travel",
+    "emotions"
+  ],
+  "世間体": [
+    "society"
+  ],
+  "しがらみ": [
+    "society"
+  ],
+  "建前": [
+    "society",
+    "business"
+  ],
+  "采配": [
+    "business",
+    "society"
+  ],
+  "折衝": [
+    "business",
+    "persuasion"
+  ],
+  "懸念": [
+    "business",
+    "debate"
+  ],
+  "捗る": [
+    "business"
+  ],
+  "弄ぶ": [
+    "character",
+    "emotions"
+  ],
+  "紆余曲折": [
+    "business",
+    "society"
+  ],
+  "一期一会": [
+    "travel",
+    "society"
+  ],
+  "低徊": [
+    "literature",
+    "emotions"
+  ],
+  "逢着": [
+    "literature",
+    "science"
+  ],
+  "冷然": [
+    "character",
+    "emotions"
+  ],
+  "逡巡": [
+    "emotions"
+  ],
+  "寂寥": [
+    "emotions",
+    "literature"
+  ],
+  "慟哭": [
+    "emotions"
+  ],
+  "瀟洒": [
+    "society",
+    "travel"
+  ],
+  "憐憫": [
+    "emotions"
+  ],
+  "静謐": [
+    "nature",
+    "literature"
+  ],
+  "揺蕩う": [
+    "nature",
+    "emotions"
+  ],
+  "諦観": [
+    "emotions",
+    "literature"
+  ],
+  "韜晦": [
+    "character",
+    "literature"
+  ],
+  "恬淡": [
+    "character"
+  ],
+  "闊達": [
+    "character",
+    "debate"
+  ],
+  "磊落": [
+    "character"
+  ],
+  "狷介": [
+    "character"
+  ],
+  "吝嗇": [
+    "character",
+    "business"
+  ],
+  "慇懃": [
+    "society",
+    "character"
+  ],
+  "不遜": [
+    "character"
+  ],
+  "剣呑": [
+    "emotions",
+    "society"
+  ],
+  "胡乱": [
+    "character",
+    "society"
+  ],
+  "猥雑": [
+    "society"
+  ],
+  "晦渋": [
+    "literature",
+    "debate"
+  ],
+  "衒学": [
+    "literature",
+    "debate"
+  ],
+  "諧謔": [
+    "literature"
+  ],
+  "揶揄": [
+    "debate",
+    "society"
+  ],
+  "箴言": [
+    "literature"
+  ],
+  "謦咳": [
+    "literature",
+    "society"
+  ],
+  "膾炙": [
+    "literature",
+    "society"
+  ],
+  "嚆矢": [
+    "literature",
+    "science"
+  ],
+  "濫觴": [
+    "literature",
+    "science"
+  ],
+  "畢竟": [
+    "debate",
+    "literature"
+  ],
+  "就中": [
+    "debate",
+    "literature"
+  ],
+  "須く": [
+    "debate",
+    "persuasion"
+  ],
+  "宛ら": [
+    "literature"
+  ],
+  "忸怩": [
+    "emotions"
+  ],
+  "憔悴": [
+    "emotions"
+  ],
+  "懊悩": [
+    "emotions"
+  ],
+  "煩悶": [
+    "emotions"
+  ],
+  "恍惚": [
+    "emotions"
+  ],
+  "惻隠": [
+    "emotions",
+    "character"
+  ],
+  "寂寞": [
+    "emotions",
+    "nature"
+  ],
+  "茫漠": [
+    "nature",
+    "travel"
+  ],
+  "玲瓏": [
+    "nature",
+    "literature"
+  ],
+  "絢爛": [
+    "literature",
+    "society"
+  ],
+  "馥郁": [
+    "nature"
+  ],
+  "嫋やか": [
+    "character",
+    "nature"
+  ],
+  "蠱惑": [
+    "emotions",
+    "persuasion"
+  ],
+  "僥倖": [
+    "emotions",
+    "business"
+  ],
+  "蹉跌": [
+    "business",
+    "emotions"
+  ],
+  "瓦解": [
+    "society",
+    "business"
+  ],
+  "跋扈": [
+    "society"
+  ],
+  "蹂躙": [
+    "society",
+    "debate"
+  ],
+  "膠着": [
+    "business",
+    "debate"
+  ],
+  "乖離": [
+    "debate",
+    "science"
+  ],
+  "齟齬": [
+    "debate",
+    "business"
+  ],
+  "斟酌": [
+    "society",
+    "debate"
+  ],
+  "敷衍": [
+    "debate",
+    "science"
+  ],
+  "収斂": [
+    "science",
+    "debate"
+  ],
+  "蓋然性": [
+    "science",
+    "debate"
+  ],
+  "陥穽": [
+    "business",
+    "debate"
+  ],
+  "泡沫": [
+    "nature",
+    "literature"
+  ],
+  "東雲": [
+    "nature",
+    "literature"
+  ],
+  "逍遥": [
+    "travel",
+    "nature"
+  ],
+  "流離う": [
+    "travel",
+    "literature"
+  ],
+  "慮る": [
+    "society",
+    "character"
+  ],
+  "憚る": [
+    "society"
+  ],
+  "誹る": [
+    "debate",
+    "society"
+  ],
+  "贖う": [
+    "society",
+    "emotions"
+  ],
+  "倦む": [
+    "emotions",
+    "character"
+  ],
+  "嘯く": [
+    "character",
+    "persuasion"
+  ],
+  "窘める": [
+    "society",
+    "persuasion"
+  ]
+}
