@@ -196,3 +196,23 @@ sells the yearly plan with a 3-day trial and the monthly plan; `discount` sells
 the cheaper yearly plan. Five more products exist in App Store Connect and
 RevenueCat, attached to `premium` but in no offering. After adding or updating a package, regenerate
 `Package.resolved` with the Swift version Xcode Cloud uses.
+
+## App Store screenshots
+
+The seven screenshots, in English and French, are in `fastlane/screenshots`.
+They are drawn by `marketing/screenshots/shots.html`, which rebuilds the app's
+screens in HTML, and rendered at 1290 × 2796 with:
+
+```bash
+node marketing/screenshots/render.js
+```
+
+This needs Playwright and the Inter font. The phone screens are mock-ups, not
+simulator captures.
+
+The "Upload App Store screenshots" workflow, started by hand from the Actions
+tab, sends them to App Store Connect with fastlane. It replaces the screenshots
+of the version being prepared and submits nothing for review. It needs three
+repository secrets from an App Store Connect API key with the App Manager
+role: `ASC_KEY_ID`, `ASC_ISSUER_ID` and `ASC_KEY_P8_BASE64` (the `.p8` file,
+base64-encoded).

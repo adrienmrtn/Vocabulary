@@ -1,0 +1,25 @@
+name: Upload App Store screenshots
+
+# Started by hand from the Actions tab. It replaces the screenshots of the
+# version being prepared in App Store Connect with those in fastlane/screenshots.
+on:
+  workflow_dispatch:
+
+concurrency: upload-screenshots
+
+jobs:
+  upload:
+    runs-on: macos-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+      - name: Upload screenshots
+        run: bundle exec fastlane ios upload_screenshots
+        env:
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+          ASC_KEY_P8_BASE64: ${{ secrets.ASC_KEY_P8_BASE64 }}

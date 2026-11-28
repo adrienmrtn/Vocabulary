@@ -1,0 +1,113 @@
+<!doctype html><meta charset="utf-8">
+<style>
+@font-face{font-family:Alegreya;font-weight:700;src:url(../../Bovary/Fonts/Alegreya-Bold.ttf)}
+@font-face{font-family:Alegreya;font-weight:500;src:url(../../Bovary/Fonts/Alegreya-Medium.ttf)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#333;font-family:Inter,sans-serif;display:flex;gap:40px;padding:0}
+:root{--cream:#FFF8F4;--ink:#1B1A2E;--blue:#0A5CFF;--tint:#E3ECFF;--line:#EADFD8;--muted:#5F5868}
+.shot{width:1290px;height:2796px;position:relative;overflow:hidden;flex:none;background:var(--bg);color:var(--fg)}
+.head{position:absolute;left:134px;right:110px;top:190px;white-space:nowrap;font:700 136px/1.04 Alegreya,serif;letter-spacing:-1.5px}
+.head small{display:block;font:600 40px/1 Inter;letter-spacing:5px;text-transform:uppercase;opacity:.75;margin-bottom:44px}
+.phone{position:absolute;top:760px;width:393px;height:852px;transform:scale(2.42);transform-origin:top left;border-radius:56px;background:var(--cream);box-shadow:0 0 0 11px #14131f,0 0 0 13px rgba(255,255,255,.18),0 30px 60px rgba(10,10,30,.35);overflow:hidden;color:var(--ink)}
+.phone{left:134px;transform:scale(2.6)!important}.head em{font-style:normal;color:#0A5CFF}.cards{position:absolute;left:104px;top:1050px;width:361px;transform:scale(3);transform-origin:top left;color:var(--ink)}.cards .card{box-shadow:0 10px 24px rgba(27,26,46,.08)}
+.char{position:absolute;bottom:-10px;z-index:3;filter:drop-shadow(0 18px 30px rgba(10,10,30,.28))}
+.island{position:absolute;top:11px;left:50%;margin-left:-62px;width:124px;height:36px;border-radius:20px;background:#000;z-index:5}
+.sb{position:absolute;top:0;left:0;right:0;height:54px;display:flex;justify-content:space-between;align-items:center;padding:6px 34px 0 46px;font:600 16px Inter;z-index:4}
+.sb i{display:flex;gap:6px;align-items:center}
+.pad{padding:62px 16px 0}
+h1{font:700 34px Alegreya;margin:8px 0 14px}
+.card{background:#fff;border:1.5px solid var(--line);border-radius:16px}
+.tab{position:absolute;bottom:0;left:0;right:0;height:84px;background:rgba(255,248,244,.96);border-top:1px solid var(--line);display:flex;justify-content:space-around;padding-top:10px;font:500 10px Inter;color:#8d8794}
+.tab div{display:flex;flex-direction:column;align-items:center;gap:4px}.tab .on{color:var(--blue)}
+svg{display:block}
+.lab{font:400 13px Inter;color:var(--muted);margin-bottom:6px}
+.chip{font:500 14px Inter;color:#0A3FB3;background:var(--tint);padding:6px 12px;border-radius:99px}
+.opt{height:56px;border-radius:28px;border:1.5px solid var(--line);background:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 20px;font:500 17px Inter;margin-top:14px}
+.tile{overflow:hidden}.tile img{width:100%;height:124px;object-fit:cover;display:block}.tile b{display:block;padding:12px;font:600 16px Inter}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.app{aspect-ratio:1;border-radius:15px}
+.wf{position:absolute;left:0;top:600px;width:1290px;font:700 150px/1.16 Alegreya,serif;white-space:nowrap}.wf div{display:flex;gap:70px}.wf span{color:rgba(27,26,46,.11)}.wf b{color:#0A5CFF;font-weight:700}
+</style>
+<body>
+<script>
+const I={
+ sb:`<svg width="18" height="12" viewBox="0 0 18 12" fill="currentColor"><rect x="0" y="8" width="3" height="4" rx="1"/><rect x="5" y="5" width="3" height="7" rx="1"/><rect x="10" y="2.5" width="3" height="9.5" rx="1"/><rect x="15" y="0" width="3" height="12" rx="1"/></svg><svg width="27" height="13" viewBox="0 0 27 13"><rect x=".5" y=".5" width="23" height="12" rx="4" fill="none" stroke="currentColor" opacity=".4"/><rect x="2" y="2" width="20" height="9" rx="2.5" fill="currentColor"/><rect x="25" y="4.5" width="2" height="4" rx="1" fill="currentColor" opacity=".5"/></svg>`,
+ spk:`<svg width="20" height="18" viewBox="0 0 20 18" fill="currentColor"><path d="M1 6h3l5-4v14l-5-4H1z"/><path d="M12 5.5a4.5 4.5 0 010 7M14.5 3a8 8 0 010 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>`,
+ info:`<svg width="30" height="30" viewBox="0 0 30 30" fill="none" stroke="currentColor" stroke-width="2"><circle cx="15" cy="15" r="12"/><path d="M15 13.5v7.5" stroke-linecap="round"/><circle cx="15" cy="9.3" r="1.1" fill="currentColor"/></svg>`,
+ share:`<svg width="30" height="30" viewBox="0 0 30 30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3v15M10 7.5L15 3l5 4.5M9 12H6.5v14h17V12H21"/></svg>`,
+ heart:(f)=>`<svg width="30" height="30" viewBox="0 0 30 30" fill="${f?'currentColor':'none'}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M15 26S3.5 19 3.5 11A6 6 0 0115 8a6 6 0 0111.500 3C26.500 19 15 26 15 26z"/></svg>`,
+ pal:`<svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor"><path d="M10 1a9 9 0 100 18c1.300 0 2-.9 2-1.900 0-1.100-.9-1.600-.9-2.600 0-.9.700-1.500 1.600-1.500H15a4 4 0 004-4c0-4.400-4-8-9-8zM5 10.500a1.500 1.500 0 110-3 1.500 1.500 0 010 3zm3-4a1.500 1.500 0 110-3 1.500 1.500 0 010 3zm4.500 0a1.500 1.500 0 110-3 1.500 1.500 0 010 3zm3 3.500a1.500 1.500 0 110-3 1.500 1.500 0 010 3z"/></svg>`,
+ ok:`<svg width="24" height="24" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="#1F9D76"/><path d="M7 12.500l3.300 3.300L17 9" fill="none" stroke="#fff" stroke-width="2.400" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+ chk:`<svg width="12" height="12" viewBox="0 0 12 12"><path d="M2 6.500l2.700 2.700L10 3.500" fill="none" stroke="#fff" stroke-width="2.200" stroke-linecap="round" stroke-linejoin="round"/></svg>`,
+ search:`<svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="#5F5868" stroke-width="2" stroke-linecap="round"><circle cx="7.500" cy="7.500" r="5.500"/><path d="M12 12l4.500 4.500"/></svg>`,
+ flame:`<svg width="72" height="72" viewBox="0 0 72 72"><rect width="72" height="72" rx="12" fill="#1B2637"/><circle cx="36" cy="38" r="26" fill="#FF8A1F" opacity=".22"/><path d="M36 8c3 9 15 15 15 30a15 15 0 01-30 0c0-7 4-10 6-16 2 4 4 5 5 5 1-6 1-12 4-19z" fill="#FF5A1F"/><path d="M36 22c2 6 10 10 10 19a10 10 0 01-20 0c0-5 3-7 4-10 2 3 3 3 4 3 0-4 0-8 2-12z" fill="#FF9A1F"/><path d="M36 36c1 3 5 5 5 9a5 5 0 01-10 0c0-4 4-5 5-9z" fill="#FFD64A"/><text x="36" y="60" text-anchor="middle" font-family="Alegreya" font-weight="700" font-size="18" fill="#fff">12</text></svg>`,
+};
+const tabIcons=[`<path d="M5 4h14v16H5z M8.500 9h7M8.500 13h7"/>`,`<rect x="4" y="4" width="7" height="7" rx="1.500"/><rect x="13" y="4" width="7" height="7" rx="1.500"/><rect x="4" y="13" width="7" height="7" rx="1.500"/><rect x="13" y="13" width="7" height="7" rx="1.500"/>`,`<path d="M13 3L5 13.500h6L10.500 21 19 10h-6z"/>`,`<path d="M5 20V11M12 20V4M19 20v-6"/>`,`<circle cx="12" cy="8.500" r="4"/><path d="M4.500 20.500c1-4 4-5.500 7.500-5.500s6.500 1.500 7.500 5.500"/>`];
+const tab=(on)=>`<div class="tab">`+['Words','Topics','Practice','Stats','Profile'].map((n,i)=>`<div class="${i==on?'on':''}"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${tabIcons[i]}</svg>${n}</div>`).join('')+`</div>`;
+const sb=(c='')=>`<div class="island"></div><div class="sb" style="color:${c||'inherit'}"><span>9:41</span><i>${I.sb}</i></div>`;
+const S={};
+S.feed=sb()+`
+<div style="position:absolute;inset:0 28px 150px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;text-align:center">
+<div style="font:700 52px Alegreya">ephemeral</div>
+<div style="height:44px;padding:0 16px;border-radius:22px;background:rgba(27,26,46,.08);border:1.500px solid rgba(27,26,46,.25);display:flex;gap:10px;align-items:center;font:500 16px Inter">ɪˈfɛmərəl ${I.spk}</div>
+<div style="font:500 22px/1.25 Alegreya">Lasting for a very short time</div>
+<div style="display:flex;gap:48px;margin-top:16px">${I.info}${I.share}${I.heart(1)}</div></div>`+tab(0);
+S.detail=sb()+`<div style="padding:74px 20px 0;display:flex;flex-direction:column;gap:18px">
+<div><div style="font:700 40px/1.1 Alegreya">melancholy</div><div style="font:400 15px Inter;color:var(--muted);margin-top:6px">/ˈmɛlənkɑli/</div></div>
+<div style="font:500 22px/1.25 Alegreya">A deep, lasting and thoughtful sadness</div>
+<div><div class="lab">Example</div><div style="font:400 16px/1.35 Inter">A gentle melancholy settled over him as the summer ended.</div></div>
+<div class="card" style="padding:14px 16px;margin:0 -4px"><div class="lab">In literature</div><div style="font:500 19px/1.3 Alegreya">You are in a melancholy humour, and fancy that any one unlike yourself must be happy.</div><div style="font:400 14px Inter;color:var(--muted);margin-top:8px">— Jane Austen, Sense and Sensibility</div></div>
+<div><div class="lab">Synonyms</div><div style="display:flex;gap:6px"><span class="chip">sadness</span><span class="chip">gloom</span><span class="chip">sorrow</span></div></div>
+</div>`;
+S.game=sb()+`<div style="padding:62px 20px 0"><div style="text-align:center;font:600 17px Inter;padding:8px 0 18px">Sprint</div>
+<div style="display:flex;justify-content:space-between;font:600 15px Inter"><span>7 / 10</span><span style="color:var(--muted)">18.4 s</span></div>
+<div style="height:5px;border-radius:3px;background:var(--line);margin-top:8px"><div style="width:60%;height:100%;border-radius:3px;background:var(--blue)"></div></div>
+<div style="text-align:center;font:600 13px Inter;letter-spacing:1px;color:var(--muted);margin-top:38px">WHICH WORD MEANS THIS?</div>
+<div style="text-align:center;font:700 26px/1.2 Alegreya;margin:14px 6px 12px">Not giving up easily; very determined</div>
+<div class="opt">wistful</div><div class="opt" style="background:#DDF3EC;border-color:#1F9D76">tenacious ${I.ok}</div><div class="opt">candid</div><div class="opt">serene</div></div>`;
+const apps=Array(8).fill('rgba(27,26,46,.13)');
+S.home=`<div style="position:absolute;inset:0;background:linear-gradient(170deg,#F3EAE4,#DCE6FB)"></div>`+sb()+`<div style="position:relative;padding:76px 26px 0;display:grid;grid-template-columns:repeat(4,1fr);gap:22px 24px">
+<div style="grid-column:span 4;height:158px;border-radius:24px;background:var(--blue);color:#fff;padding:18px;box-shadow:0 8px 20px rgba(0,0,0,.18)"><div style="font:700 10px Inter;letter-spacing:1px;opacity:.8">WORD OF THE DAY</div><div style="font:700 32px Alegreya;margin:6px 0 4px">solace</div><div style="font:400 15px/1.3 Inter">Comfort found in a time of sadness</div></div>
+<div style="grid-column:span 2;aspect-ratio:1;border-radius:24px;background:var(--blue);color:#fff;padding:16px;box-shadow:0 8px 20px rgba(0,0,0,.18)"><div style="font:700 10px Inter;letter-spacing:1px;opacity:.8">WORD OF THE DAY</div><div style="font:700 25px Alegreya;margin:6px 0 4px">reverie</div><div style="font:400 13px/1.3 Inter">A state of pleasant, dreamy thought</div></div>
+<div style="grid-column:span 2;display:grid;grid-template-columns:1fr 1fr;gap:22px 24px">${apps.slice(0,4).map(c=>`<div class="app" style="background:${c}"></div>`).join('')}</div>
+${apps.map(c=>`<div class="app" style="background:${c};opacity:.92"></div>`).reverse().join('')}</div>`;
+const wk=['Mo','Tu','We','Th','Fr','Sa','Su'].map((d,i)=>`<div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:6px;font:${i<5?700:500} 11px Inter;color:${i<5?'var(--ink)':'var(--muted)'}">${d}<div style="width:28px;height:28px;border-radius:50%;background:${i<5?'var(--blue)':'var(--line)'};display:grid;place-items:center">${i<5?I.chk:''}</div></div>`).join('');
+const cnt=[['86','Read'],['23','Favorited'],['14','Saved']].map(c=>`<div class="card" style="flex:1;padding:12px"><div style="font:700 24px Alegreya">${c[0]}</div><div style="font:400 14px Inter;color:var(--muted);margin-top:6px">${c[1]}</div></div>`).join('');
+S.cards=`<div class="card" style="padding:20px 16px;display:flex;gap:16px;align-items:center">${I.flame}<div style="flex:1"><div style="font:600 16px Inter;margin-bottom:10px">Your streak</div><div style="display:flex;gap:4px">${wk}</div></div></div>
+<div style="display:flex;gap:10px;margin-top:12px">${cnt}</div>
+<div class="card" style="margin-top:12px;padding:12px;display:flex;gap:14px;align-items:center"><img src="../../Bovary/Assets.xcassets/level.imageset/level.jpg" style="width:52px;height:52px;border-radius:12px;object-fit:cover"><div style="font:400 15px Inter"><b style="font-weight:600;font-size:16px;display:block">Take a test</b>to see your current level</div></div>`;
+const tp=[['Emotions','topic_emotions'],['Character','hero'],['Persuasion','topic_persuasion'],['Debate','topic_debate'],['Business','topic_business'],['Literature','topic_literature']];
+S.topics=sb()+`<div class="pad"><h1>Explore topics</h1>
+<div style="height:46px;border-radius:23px;background:#F3EAE4;display:flex;align-items:center;gap:10px;padding:0 14px;font:400 17px Inter;color:#9a93a0">${I.search}Search</div>
+<div class="grid" style="margin-top:14px">${tp.map(t=>`<div class="card tile"><img src="../../Bovary/Assets.xcassets/${t[1]}.imageset/${t[1]}.jpg"><b>${t[0]}</b></div>`).join('')}</div></div>`;
+const LANG=new URLSearchParams(location.search).get('lang')||'en';
+const W=LANG=='fr'
+ ?[['farouche','paisible','radieux'],['frêle','*intrépide','hardi'],['songer','*flâner','aube','lueur'],['*chérir','vaillant','espiègle','émoi'],['crépuscule','audace','élan'],['mélancolie','limpide','ferveur'],['chuchoter','effleurer','répit'],['éphémère','candide','clarté'],['allégresse','frémir','éclat','vif'],['quiétude','sagace','errer'],['éblouir','aplomb','pudeur','ruse'],['fougueux','placide','soupir'],['désinvolte','labeur','guetter']]
+ :[['eloquent','candid','serene'],['wistful','*tenacious','genuine'],['solace','*reverie','vivid','humble'],['*lucid','prudent','subtle','eager'],['coherent','sincere','frugal'],['melancholy','diligent','robust'],['plausible','resilient','eager'],['meticulous','genuine','thrive'],['eloquent','scarce','novel','lucid'],['reluctant','serene','candid'],['vivid','solace','wistful','tense'],['tenacious','reverie','humble'],['prudent','ephemeral','subtle']];
+const WORDS=`<div class="wf">${W.map((r,i)=>`<div style="margin-left:${-[60,260,215,-96,40,220,120,300,80,240,160,20,280][i]}px">${r.map(w=>w[0]=='*'?`<b>${w.slice(1)}</b>`:`<span>${w}</span>`).join('')}</div>`).join('')}</div><img src="art/heroine-speech.png" style="position:absolute;width:1720px;max-width:none;left:-190px;top:763px;filter:drop-shadow(0 16px 22px rgba(27,26,46,.18))">`;
+const HEAD={
+ en:['One new word,<br>every day.','Expand your<br><em>vocabulary.</em>','Meet each word in<br><em>great literature.</em>','Quick games make<br><em>words stick.</em>','The word of the day,<br>on your<br><em>Home Screen.</em>','Build a streak<br><em>worth keeping.</em>','Ten topics,<br>in English<br>and French.'],
+ fr:['Un nouveau mot,<br>chaque jour.','Enrichissez votre<br><em>vocabulaire.</em>','Chaque mot,<br>dans la grande<br><em>littérature.</em>','Jouez pour<br><em>retenir les mots.</em>','Le mot du jour,<br>sur votre<br><em>écran d’accueil.</em>','Une série<br><em>à ne pas briser.</em>','Dix thèmes,<br>en anglais<br>et en français.'],
+}[LANG];
+// French screens: each English text as it appears in the markup, and its replacement.
+// Interface texts come from Bovary/strings_fr.json, words from Bovary/words_fr.json.
+const FR=[
+ ['>ephemeral</div>','>éphémère</div>'],['ɪˈfɛmərəl','efemɛʁ'],['Lasting for a very short time','Qui ne dure que très peu de temps'],
+ ['</svg>Words</div>','</svg>Mots</div>'],['</svg>Topics</div>','</svg>Thèmes</div>'],['</svg>Practice</div>','</svg>Entraînement</div>'],['</svg>Profile</div>','</svg>Profil</div>'],
+ ['>melancholy</div>','>épier</div>'],['/ˈmɛlənkɑli/','/epje/'],['A deep, lasting and thoughtful sadness','Observer en secret et avec attention'],
+ ['>Example</div>','>Exemple</div>'],['A gentle melancholy settled over him as the summer ended.','Caché derrière le rideau, il aimait épier les passants.'],
+ ['>In literature</div>','>Dans la littérature</div>'],['You are in a melancholy humour, and fancy that any one unlike yourself must be happy.','Emma l’épiait d’un regard plein d’angoisse, croyant apercevoir dans les rides de son visage des accusations.'],
+ ['— Jane Austen, Sense and Sensibility','— Gustave Flaubert, Madame Bovary'],['>Synonyms</div>','>Synonymes</div>'],['>sadness</span>','>espionner</span>'],['>gloom</span>','>guetter</span>'],['>sorrow</span>','>surveiller</span>'],
+ ['WHICH WORD MEANS THIS?','QUEL MOT A CE SENS ?'],['Not giving up easily; very determined','Qui ne tremble pas devant le danger'],
+ ['class="opt">wistful<','class="opt">hautain<'],['>tenacious <svg','>intrépide <svg'],['class="opt">candid<','class="opt">frivole<'],['class="opt">serene<','class="opt">austère<'],
+ ['WORD OF THE DAY','MOT DU JOUR'],['>solace</div>','>aube</div>'],['Comfort found in a time of sadness','Première lueur du jour, avant le lever du soleil'],['>reverie</div>','>lueur</div>'],['A state of pleasant, dreamy thought','Lumière faible ou passagère'],
+ ['Your streak','Votre série'],['">Mo<div','">Lu<div'],['">Tu<div','">Ma<div'],['">We<div','">Me<div'],['">Th<div','">Je<div'],['">Fr<div','">Ve<div'],['">Su<div','">Di<div'],
+ ['>Read</div>','>Lus</div>'],['>Favorited</div>','>Favoris</div>'],['>Saved</div>','>Enregistrés</div>'],['>Take a test</b>','>Passez un test</b>'],['to see your current level','pour connaître votre niveau'],
+ ['>Explore topics</h1>','>Explorez les thèmes</h1>'],['Search</div>','Rechercher</div>'],['<b>Emotions</b>','<b>Émotions</b>'],['<b>Character</b>','<b>Caractère</b>'],['<b>Debate</b>','<b>Débat</b>'],['<b>Business</b>','<b>Affaires</b>'],['<b>Literature</b>','<b>Littérature</b>'],
+];
+const loc=h=>{ if(LANG!='fr') return h; for(const [a,b] of FR){ if(!h.includes(a)) console.error('missing text: '+a); h=h.split(a).join(b);} return h; };
+const P=[
+ ['#0A5CFF','#FFF8F4','feed'],['#FFF8F4','#1B1A2E','words'],['#FFF8F4','#1B1A2E','detail'],['#FFF8F4','#1B1A2E','game'],['#FFF8F4','#1B1A2E','home'],['#FFF8F4','#1B1A2E','cards'],['#0A5CFF','#FFF8F4','topics'],
+];
+document.documentElement.lang=LANG;document.body.innerHTML+=loc(P.map((p,i)=>`<div class="shot" id="s${i+1}" style="--bg:${p[0]};--fg:${p[1]}"><div class="head">${HEAD[i]}</div>${p[2]=='words'?WORDS:p[2]=='cards'?`<div class="cards">${S.cards}</div>`:`<div class="phone">${S[p[2]]}</div>`}${i==0?'<img src="art/heroine-seated.png" style="position:absolute;z-index:3;width:609px;left:655px;top:268px;filter:drop-shadow(0 10px 14px rgba(10,10,40,.25))">':''}</div>`).join(''));
+</script>
