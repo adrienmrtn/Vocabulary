@@ -31,6 +31,10 @@
   "name": "今日の言葉",
   "summary": "毎日ひとつ、新しい言葉とその意味を。"
  },
+ "nb": {
+  "name": "Dagens ord",
+  "summary": "Et nytt ord hver dag, med betydningen."
+ },
  "nl": {
   "name": "Woord van de dag",
   "summary": "Elke dag een nieuw woord, met zijn betekenis."
@@ -38,5 +42,13 @@
  "pt-BR": {
   "name": "Palavra do dia",
   "summary": "Uma palavra nova por dia, com o significado."
+ },
+ "pt-PT": {
+  "name": "Palavra do dia",
+  "summary": "Uma palavra nova todos os dias, com o seu significado."
+ },
+ "ro": {
+  "name": "Cuvântul zilei",
+  "summary": "Un cuvânt nou în fiecare zi, cu înțelesul lui."
  }
 }

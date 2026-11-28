@@ -35,8 +35,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vær sindig, Hjørdis; usømmeligt er det at te sig så!",
+    "quote_source": "Henrik Ibsen, Hærmændene på Helgeland",
     "zipf": 2.4,
     "issues": []
   },
@@ -56,8 +56,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Men Hedvig skal I fare varsomt med, siger jeg; ellers kan I komme til at gøre en ulykke på hende.",
+    "quote_source": "Henrik Ibsen, Vildanden",
     "zipf": 3.5,
     "issues": []
   },
@@ -78,8 +78,8 @@
       "character",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ja, svigt mig også du; jeg har endda en trofast bror, som ikke falder fra.",
+    "quote_source": "Henrik Ibsen, Kærlighedens komedie",
     "zipf": 3.6,
     "issues": []
   },
@@ -122,8 +122,8 @@
       "character",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Sivert vil sin Bror vel og holder ham tilbake, men Eleseus er standhaftig, for en Gangs Skyld standhaftig.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 2.76,
     "issues": []
   },
@@ -226,8 +226,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "En rastløs uro gærer i mit blod.",
+    "quote_source": "Henrik Ibsen, Catilina",
     "zipf": 3.31,
     "issues": []
   },
@@ -313,8 +313,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Så beslutted jeg mig til at være dristig.",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 3.59,
     "issues": []
   },
@@ -483,8 +483,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jeg skulde ikke ønske mig noget bedre end en sådan koselig Celle!",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 4.49,
     "issues": []
   },
@@ -547,8 +547,8 @@
       "emotions",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hver eftermiddag, når jeg har spist, lukker jeg mig inde i dagligstuen, hvor jeg kan gruble i ro.",
+    "quote_source": "Henrik Ibsen, Vildanden",
     "zipf": 3.05,
     "issues": []
   },
@@ -568,8 +568,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ved alle nattens magter,—jeg nøler ej!",
+    "quote_source": "Henrik Ibsen, Catilina",
     "zipf": 3.09,
     "issues": []
   },
@@ -590,8 +590,8 @@
       "nature",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Mørket var bleven end tættere, det var med Nød jeg kunde skimte Konstablens Ansigtstræk foran mig.",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 2.32,
     "issues": []
   },
@@ -610,8 +610,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Å, du forstår ikke, hvorledes en mand har det, når han sørger og fortviler;—navnlig en mand med mit ildfulde gemyt.",
+    "quote_source": "Henrik Ibsen, Vildanden",
     "zipf": 2.23,
     "issues": []
   },
@@ -631,8 +631,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vinen kan fryde, stemme til glæde tanker og sind.",
+    "quote_source": "Henrik Ibsen, Catilina",
     "zipf": 2.79,
     "issues": []
   },
@@ -675,8 +675,8 @@
       "business",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jeg beder dig indstændig om at overveie dette.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 2.75,
     "issues": []
   },
@@ -697,8 +697,8 @@
       "emotions",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "At du en dag ophørte at elske mig, tror du jeg bebreider dig det?",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 2.59,
     "issues": []
   },
@@ -738,8 +738,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Før hadde hun tænkt svært litet paa selve fødselen og ikke gruet for den.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 3.61,
     "issues": []
   },
@@ -759,8 +759,8 @@
       "emotions",
       "science"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Kan det undre eder, mine ædle herrer, at jeg ikke vover mig ind i en leg, hvori alt sættes på spil?",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 3.42,
     "issues": []
   },
@@ -780,8 +780,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Og dog jeg gemmer taus min kval, mit savn; og ingen aner, hvad der gløder i mig.",
+    "quote_source": "Henrik Ibsen, Catilina",
     "zipf": 3.65,
     "issues": []
   },
@@ -823,8 +823,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Forson de stridende parter, så tænker ingen af dem på at tilegne sig eders barn som borgen for eders troskab.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 2.93,
     "issues": []
   },
@@ -844,8 +844,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hun trøstet sig med, at der blev vel en raad for hende som for saa mange andre.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 3.76,
     "issues": []
   },
@@ -927,8 +927,8 @@
       "character",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Men herregud, naar et voksent menneske forsøkte leve livet efter sin samvittighet, saa fik forældrene tie stille.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 4.31,
     "issues": []
   },
@@ -947,8 +947,8 @@
     "topics": [
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "De blev ved at gaa utover i skumringen, mot Tiberen og over broen, ind i de gamle Borgo-kvarterer.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 2.7,
     "issues": []
   },
@@ -1029,8 +1029,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det var som hele min krop verket av savn efter ham.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 3.38,
     "issues": []
   },
@@ -1071,8 +1071,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Dine bitre ord vil volde dig anger og kvide.",
+    "quote_source": "Henrik Ibsen, Gildet på Solhaug",
     "zipf": 3.63,
     "issues": []
   },
@@ -1092,8 +1092,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det er bare Feilen at Spil er ikke Overmot, det er ikke engang Mot, det er Rædsel.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 2.63,
     "issues": []
   },
@@ -1158,8 +1158,8 @@
       "emotions",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Det er hun som samler Rettens Medfølelse.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 3.71,
     "issues": []
   },
@@ -1200,8 +1200,8 @@
       "nature",
       "travel"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Nu er jeg færdig med mit friluftsliv; nu falder løvet;—lad nu verden få mig.",
+    "quote_source": "Henrik Ibsen, Kærlighedens komedie",
     "zipf": 3.51,
     "issues": []
   },
@@ -1221,8 +1221,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Vel sandt; der er usel malm i vore slægter nutildags; men havde der været samhold imellem dem,—hvem véd, hvad der da vilde sket?",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 3.72,
     "issues": []
   },
@@ -1457,8 +1457,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ved det enkleste Middel, bare ved at forlange en ublu Kvart Million for et Fjæld, gik han hen og stanset Bygdens Utvikling.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 2.29,
     "issues": []
   },
@@ -1522,8 +1522,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Der var mange smaa brunlige, sirlig tegnede landskaper fra Italien med ruiner og nationaldragter.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 1.89,
     "issues": []
   },
@@ -1564,8 +1564,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Og Gram kysset ærbødig hendes hænder.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 2.34,
     "issues": []
   },
@@ -1585,8 +1585,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Hun hadde været for hovmodig til at gjøre det første skridt.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 2.35,
     "issues": []
   },
@@ -1672,8 +1672,8 @@
       "literature",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Og frau Schlessinger gik rundt og smilte glad og underfundig, tiltrods for at Jenny hadde forklaret, at den herre var hendes fætter.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 2.13,
     "issues": []
   },
@@ -1758,8 +1758,8 @@
       "emotions",
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Modløs og forsagt over det ny spildte Forsøg, åbned jeg endelig atter Porten og gik op på mit Rum.",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 1.54,
     "issues": []
   },
@@ -1780,8 +1780,8 @@
       "society",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Men ingen hadde ret til at forarges over hende.",
+    "quote_source": "Sigrid Undset, Jenny",
     "zipf": 1.7,
     "issues": []
   },
@@ -1801,8 +1801,8 @@
     "topics": [
       "persuasion"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ved list og glatte ord havde han besnæret hende.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 1.23,
     "issues": []
   },
@@ -1867,8 +1867,8 @@
       "emotions",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Du higer mod et højt forvovent mål; vil gerne nå det; og du skrækkes dog af hver en hindring.",
+    "quote_source": "Henrik Ibsen, Catilina",
     "zipf": 1.96,
     "issues": []
   },
@@ -1889,8 +1889,8 @@
       "nature",
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Han ruger over hemmelige anslag;—et dristigt mål han havde længst i sigte.",
+    "quote_source": "Henrik Ibsen, Catilina",
     "zipf": 2.75,
     "issues": []
   },
@@ -1998,8 +1998,8 @@
       "persuasion",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Gruvearbeidet gaar sin Gang ja, men det ymtes om at Fjældet ikke holder hvad det lovet.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 0.0,
     "issues": []
   },
@@ -2019,8 +2019,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "O, ja, jeg véd nok,—det er min ukærlige færd, som har fortørnet eder.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 0.0,
     "issues": []
   },
@@ -2156,7 +2156,7 @@
     "level": 2,
     "part_of_speech": "subst. m.",
     "ipa": "ˈɑrmuːd",
-    "definition": "Dyp fattigdom",
+    "definition": "Dyp og varig fattigdom",
     "example": "Husmannsfamilien levde i armod, men barna fikk likevel gå på skole.",
     "synonyms": [
       "fattigdom",
@@ -2167,12 +2167,10 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "O, aldrig har jeg følt mig tynget af min armod før i denne stund!",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 2.16,
-    "issues": [
-      "definition length"
-    ]
+    "issues": []
   },
   {
     "lemma": "velbehag",
@@ -2190,8 +2188,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Den lyse Celle så venlig ud; jeg følte mig godt og vel i Hus og lytted med Velbehag til Regnen udenfor.",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 2.71,
     "issues": []
   },
@@ -2340,8 +2338,8 @@
       "emotions",
       "debate"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Kanhænde den tid endnu kan komme, da I vil mindes den fremmede ridder uden had og uden harme i sjælen.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 3.18,
     "issues": []
   },
@@ -2405,8 +2403,8 @@
       "emotions",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Ja det er noget veirende ved Oline, noget sjakalagtig, hun toner frem naar det er Uhygge paafærde, hun lugter saa skarpt.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 2.0,
     "issues": []
   },
@@ -2447,8 +2445,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Min moder er god; alle mennesker er gode;—jeg bærer ikke længere nag til nogen,—undtagen én.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 3.12,
     "issues": []
   },
@@ -2468,8 +2466,8 @@
     "topics": [
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Nei man skulde høre paa de Gamle som selv har hat Børn, for Guds Veie de er uransakelige, sa Oline.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 1.36,
     "issues": []
   },
@@ -2534,8 +2532,8 @@
       "society",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Men Gunnar fældte den dog, og blev navnkundig over alle lande for den dåd.",
+    "quote_source": "Henrik Ibsen, Hærmændene på Helgeland",
     "zipf": 0.0,
     "issues": []
   },
@@ -2578,8 +2576,8 @@
       "literature",
       "nature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Var hun ikke mild og from og fager som en sommernat?",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 2.53,
     "issues": []
   },
@@ -2620,8 +2618,8 @@
     "topics": [
       "character"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Endda betænkte han sig, ja han skubbet Hatten paasnei og klødde sig i Hodet og kom til at se forsoren og flot ut, kom til at se ut som en Spanier.",
+    "quote_source": "Knut Hamsun, Markens grøde",
     "zipf": 0.0,
     "issues": []
   },
@@ -2902,8 +2900,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Uf, den vederstyggelige fyren, som skulde få sin passasje her i huset!",
+    "quote_source": "Henrik Ibsen, Vildanden",
     "zipf": 1.23,
     "issues": []
   },
@@ -3030,8 +3028,8 @@
     "topics": [
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Aldeles overvunden, besudlet og nedværdiget i min egen Bevidsthed, rejste jeg mig mekanisk op og begyndte at gå hjemad.",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 1.58,
     "issues": []
   },
@@ -3182,8 +3180,8 @@
       "emotions",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Der var ikke en Sky i mit Sind, ikke en Fornemmelse af Ubehag, og jeg havde ikke en Lyst eller Attrå uopfyldt, så vide min Tanke kunde gå.",
+    "quote_source": "Knut Hamsun, Sult",
     "zipf": 2.01,
     "issues": []
   },
@@ -3204,8 +3202,8 @@
       "society",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Har jeg forsyndet mig imod eder,—nu, ved himlen, så vil jeg også prøve på at oprette min brøde.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 1.77,
     "issues": []
   },
@@ -3441,8 +3439,8 @@
     "topics": [
       "emotions"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Og intet mægter min kvide at fjerne; thi, ak, jeg har byttet min ungdom bort.",
+    "quote_source": "Henrik Ibsen, Gildet på Solhaug",
     "zipf": 0.0,
     "issues": []
   },
@@ -3527,8 +3525,8 @@
       "society",
       "literature"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Slig færd for færdens skyld tilhører adlen, og adelsfærd i vor tid kaldes tant; så var nok meningen?",
+    "quote_source": "Henrik Ibsen, Kærlighedens komedie",
     "zipf": 2.24,
     "issues": []
   },
@@ -3571,8 +3569,8 @@
       "literature",
       "society"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Far har nok næsten været som et slags forsyn for dig, han.",
+    "quote_source": "Henrik Ibsen, Vildanden",
     "zipf": 2.42,
     "issues": []
   },
@@ -3614,8 +3612,8 @@
     "topics": [
       "business"
     ],
-    "quote": "",
-    "quote_source": "",
+    "quote": "Jeg har intet at byde hende i vederlag for hvad jeg fordrer.",
+    "quote_source": "Henrik Ibsen, Fru Inger til Østråt",
     "zipf": 3.2,
     "issues": []
   },
