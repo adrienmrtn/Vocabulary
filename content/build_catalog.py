@@ -30,6 +30,13 @@ from wordfreq import zipf_frequency
 REQUIRED = ["lemma", "level", "part_of_speech", "definition", "example", "synonyms", "origin"]
 PARTS = {"adj.", "n.", "v.", "adv."}
 PARTS_FR = {"adj.", "n. m.", "n. f.", "v.", "adv."}
+PARTS_BY_LANGUAGE = {
+    "en": PARTS,
+    "fr": PARTS_FR,
+    "es": {"adj.", "s. m.", "s. f.", "v.", "adv."},
+    "it": {"agg.", "s. m.", "s. f.", "v.", "avv."},
+    "de": {"Adj.", "Subst. m.", "Subst. f.", "Subst. n.", "Verb", "Adv."},
+}
 # English is the default; "--lang fr" builds the French catalogue from content/fr.
 LANG = "en"
 
@@ -149,8 +156,8 @@ def check(entry):
     if issues:
         return issues
     lemma = entry["lemma"]
-    stem = lemma[: max(4, len(lemma) - 3)]
-    if entry["part_of_speech"] not in (PARTS_FR if LANG == "fr" else PARTS):
+    stem = lemma[: max(4, len(lemma) - 3)].lower()
+    if entry["part_of_speech"] not in PARTS_BY_LANGUAGE[LANG]:
         issues.append("unknown part of speech")
     words = entry["definition"].split()
     if not 3 <= len(words) <= 14:
@@ -208,9 +215,13 @@ def main():
 
     # A lemma is the key of a word in the database and in the member's data, for
     # every language at once: a word spelled like an English one cannot be added.
+    # Languages are served in this order: the later one gives the word up.
+    order = ["en", "fr", "es", "it", "de"]
+    here = os.path.dirname(__file__)
     taken = set()
-    if LANG != "en":
-        for path in glob.glob(os.path.join(os.path.dirname(__file__), "drafts", "*.json")):
+    for other in order[: order.index(LANG)]:
+        folder = os.path.join(here, "drafts") if other == "en" else os.path.join(here, other, "drafts")
+        for path in glob.glob(os.path.join(folder, "*.json")):
             with open(path, encoding="utf-8") as handle:
                 taken |= {entry.get("lemma") for entry in json.load(handle)}
 
@@ -234,7 +245,7 @@ def main():
         if not entry["topics"]:
             issues.append("no topic")
         if lemma in taken:
-            issues.append("same spelling as an English word")
+            issues.append("same spelling as a word of another language")
         entry["issues"] = issues
         if issues:
             flagged += 1

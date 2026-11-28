@@ -87,7 +87,7 @@ enum Catalog {
 
     /// The word used in the onboarding preview card.
     static var featured: Word {
-        let lemma = Translations.language == .french ? "éphémère" : "ephemeral"
+        let lemma = Translations.language.featuredLemma
         return all.first { $0.text == lemma } ?? all[0]
     }
 
@@ -195,6 +195,15 @@ struct VoiceOption: Identifiable {
                 VoiceOption(id: "fr-FR", name: "France"),
                 VoiceOption(id: "fr-CA", name: "Canada")
             ]
+        case .spanish:
+            return [
+                VoiceOption(id: "es-ES", name: "Spain"),
+                VoiceOption(id: "es-MX", name: "Mexico")
+            ]
+        case .italian:
+            return [VoiceOption(id: "it-IT", name: "Italy")]
+        case .german:
+            return [VoiceOption(id: "de-DE", name: "Germany")]
         }
     }
 }

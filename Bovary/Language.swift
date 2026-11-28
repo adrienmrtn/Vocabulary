@@ -5,6 +5,9 @@ import SwiftUI
 enum AppLanguage: String, CaseIterable, Identifiable {
     case english = "en"
     case french = "fr"
+    case spanish = "es"
+    case italian = "it"
+    case german = "de"
 
     var id: String { rawValue }
 
@@ -13,6 +16,9 @@ enum AppLanguage: String, CaseIterable, Identifiable {
         switch self {
         case .english: return "English"
         case .french: return "Français"
+        case .spanish: return "Español"
+        case .italian: return "Italiano"
+        case .german: return "Deutsch"
         }
     }
 
@@ -20,6 +26,9 @@ enum AppLanguage: String, CaseIterable, Identifiable {
         switch self {
         case .english: return "🇬🇧"
         case .french: return "🇫🇷"
+        case .spanish: return "🇪🇸"
+        case .italian: return "🇮🇹"
+        case .german: return "🇩🇪"
         }
     }
 
@@ -28,12 +37,27 @@ enum AppLanguage: String, CaseIterable, Identifiable {
         switch self {
         case .english: return "en-US"
         case .french: return "fr-FR"
+        case .spanish: return "es-ES"
+        case .italian: return "it-IT"
+        case .german: return "de-DE"
+        }
+    }
+
+    /// The word shown on the onboarding preview card.
+    var featuredLemma: String {
+        switch self {
+        case .english: return "ephemeral"
+        case .french: return "éphémère"
+        case .spanish: return "efímero"
+        case .italian: return "effimero"
+        case .german: return "vergänglich"
         }
     }
 
     /// What the device is set to, when the app teaches that language.
     static var device: AppLanguage {
-        (Locale.preferredLanguages.first ?? "en").hasPrefix("fr") ? .french : .english
+        let code = String((Locale.preferredLanguages.first ?? "en").prefix(2))
+        return AppLanguage(rawValue: code) ?? .english
     }
 }
 

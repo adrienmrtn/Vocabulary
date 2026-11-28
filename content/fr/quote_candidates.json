@@ -2243,50 +2243,6 @@
   "grandiloquent": [],
   "idoine": [],
   "impavide": [],
-  "ineffable": [
-    {
-      "quote": "Le vieux homme parlait peu, et, par instants, il attachait sur elle des yeux remplis d’une ineffable paternité.",
-      "source": "Victor Hugo, Les Misérables"
-    },
-    {
-      "quote": "Un mouchoir tout simple et sans broderie, mais blanc, fin, et qui lui parut exhaler des senteurs ineffables.",
-      "source": "Victor Hugo, Les Misérables"
-    },
-    {
-      "quote": "À la fureur qui le contractait succéda un sourire étrange, plein d’une douceur, d’une mansuétude, d’une tendresse ineffables.",
-      "source": "Victor Hugo, Notre-Dame de Paris"
-    },
-    {
-      "quote": "Cet achèvement de la résurrection commencée par lui emplissait sa prunelle d’une réverbération ineffable.",
-      "source": "Victor Hugo, L’Homme qui rit"
-    },
-    {
-      "quote": "Quel calme dans ce temps-là! comme elle enviait les ineffables sentiments d’amour qu’elle tâchait, d’après des livres, de se figurer!",
-      "source": "Gustave Flaubert, Madame Bovary"
-    }
-  ],
-  "irascible": [
-    {
-      "quote": "Intrépide, énergique, irascible, orageux; le plus cordial des hommes, le plus redoutable des combattants.",
-      "source": "Victor Hugo, Les Misérables"
-    },
-    {
-      "quote": "Encore un mot: j’ai le malheur d’être irascible, il est possible que vous et moi nous cessions de nous parler.",
-      "source": "Stendhal, Le Rouge et le Noir"
-    },
-    {
-      "quote": "Mais de faire entendre raison au plus irascible des professeurs, c’est ce que mon caractère un peu indécis ne me permettait pas.",
-      "source": "Jules Verne, Voyage au centre de la Terre"
-    },
-    {
-      "quote": "Il eut affaire à des houx, à des orties, à des aubépines, à des églantiers, à des chardons, à des ronces fort irascibles.",
-      "source": "Victor Hugo, Les Misérables"
-    },
-    {
-      "quote": "On dirait parfois que les évènements sont irascibles.",
-      "source": "Victor Hugo, Quatrevingt-treize"
-    }
-  ],
   "pusillanime": [
     {
       "quote": "Quelques raisonnements qu’il se fît, Julien se trouva attendri comme un être pusillanime, et par conséquent malheureux de cette visite.",
@@ -2435,6 +2391,10 @@
       "source": "Victor Hugo, L’Homme qui rit"
     },
     {
+      "quote": "«Abomination! des écoliers qui parlent de la sorte à un bourgeois! de mon temps on les eût fustigés avec un fagot dont on les eût brûlés ensuite.»",
+      "source": "Victor Hugo, Notre-Dame de Paris"
+    },
+    {
       "quote": "On lui demanda juridiquement ce qu’il aimait le mieux d’être fustigé trente-six fois par tout le régiment, ou de recevoir à-la-fois douze balles de plomb dans la cervelle.",
       "source": "Voltaire, Candide"
     }
@@ -2524,16 +2484,6 @@
     }
   ],
   "truchement": [],
-  "vicissitude": [
-    {
-      "quote": "Dans ce pays, comme en Touraine, les vicissitudes de l’atmosphère dominent la vie commerciale.",
-      "source": "Honoré de Balzac, Eugénie Grandet"
-    },
-    {
-      "quote": "Une de ces vicissitudes communes dans les républiques que des factions agitent rappela son père en Pologne, et le rétablit dans ses biens.",
-      "source": "Benjamin Constant, Adolphe"
-    }
-  ],
   "apanage": [],
   "courroux": [
     {
@@ -2565,20 +2515,6 @@
     {
       "quote": "Ah, Charmier, dit-on! le Charmier de Bernard, on le désigne ainsi le nom de l’homme qui fait son opprobre.",
       "source": "Stendhal, Le Rouge et le Noir"
-    }
-  ],
-  "turpitude": [
-    {
-      "quote": "Pas de turpitude qui ne fût de droit ce jour-là et chose sacrée.",
-      "source": "Victor Hugo, Notre-Dame de Paris"
-    },
-    {
-      "quote": "Il y a des bravoures opiniâtres et ignorées qui se défendent pied à pied dans l’ombre contre l’envahissement fatal des nécessités et des turpitudes.",
-      "source": "Victor Hugo, Les Misérables"
-    },
-    {
-      "quote": "Ce n’est qu’en 1823 que la ville de Paris a trouvé dans son gousset les deux cent soixante-six mille quatre-vingts francs six centimes nécessaires à la couverture de cette turpitude.",
-      "source": "Victor Hugo, Les Misérables"
     }
   ],
   "impéritie": [],
